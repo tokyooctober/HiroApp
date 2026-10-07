@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Build the proxy image
         run: docker build -t hiro-kids-proxy ./proxy
-      - name: Smoke test the container (fake credentials: NLB rejects them, the proxy must still behave)
+      - name: "Smoke test the container (fake credentials, so NLB rejects them but the proxy must still behave)"
         run: |
           docker run -d --name proxy -p 8080:8080 -e NLB_API_KEY=ci-fake-key -e NLB_APP_CODE=ci-fake-app hiro-kids-proxy
           for i in $(seq 1 20); do curl -s -o /dev/null http://localhost:8080/admin && break; sleep 1; done
@@ -70,4 +70,4 @@ jobs:
           brew install xcodegen
           cd iosApp
           xcodegen generate
-          xcodebuild build -project iosApp.xcodeproj -scheme iosApp -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO
+          xcodebuild build -project iosApp.xcodeproj -scheme iosApp -destination 'generic/platform=iOS Simulator' ARCHS=arm64 CODE_SIGNING_ALLOWED=NO
