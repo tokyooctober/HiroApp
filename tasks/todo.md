@@ -57,24 +57,22 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Files likely touched:** `proxy/src/cache.*`, `proxy/test/cache.test.*`
 **Estimated scope:** S
 
-### Task 3b: Deploy the proxy to Google Cloud (Cloud Run, dev)
+### Task 3b: Package the proxy as a container, then deploy it
 **Spec task:** T1 (deploy) · **Covers:** NFR-3, NFR-4 (secrets), NFR-5 (no logging of queries)
-**Description:** Package the proxy as a container and deploy it to Cloud Run in the Singapore region (`asia-southeast1`) with `max-instances=1` (the rate-limit queue and the cache live in memory, so there must be exactly one instance). The NLB key and app code live in Secret Manager and reach the service only as environment variables; they are never in the image, the repo or the logs. The Android and iOS builds then point at the deployed URL instead of `localhost`.
-**Human first (blocks this task):** a Google Cloud project with billing enabled, `gcloud` installed and signed in (`! gcloud auth login`), and the owner's go-ahead on cost and on making the service reachable from the internet.
-**Acceptance criteria:**
-- [ ] `proxy/Dockerfile` (Node 22, non-root user, no credentials, `PORT` from the environment) builds, and the container passes the same smoke test as `npm run dev`
-- [ ] The service runs with `max-instances=1` and `min-instances=0` (or 1 if cold starts matter more than cost: ask), in `asia-southeast1`
-- [ ] `NLB_API_KEY` and `NLB_APP_CODE` come from Secret Manager; `gcloud run services describe` and the image history show no secret value; `git grep` finds none
-- [ ] A call to `/library/GetBranches` through the deployed URL returns the real branch list; an unknown path returns 404; a burst of 20 requests is spaced at ≤ 1 call/s and any wait over 10 s gets 429 with `Retry-After`
-- [ ] Cloud Run request logs and the proxy's own logs contain the path and status only: no query string, no coordinates (NFR-5). Checked by searching the logs for a distinctive search term after a test search
-- [ ] The dev URL is passed to the apps through `-PproxyBaseUrl=` (Android) and `PROXY_BASE_URL` (iOS); nothing about the URL or the key is committed
-- [ ] The deploy steps and the rollback command are written in `proxy/README.md`
-**Verification:**
-- [ ] `docker build` and a local container run (or `gcloud run deploy --source` output) succeeds
-- [ ] `curl` checks above against the deployed URL; log search for the test term finds nothing
+**Description:** Part A (no decision needed): package the proxy as a container that runs the same on any host. Part B (host decision deferred by the owner on 7 Oct 2026): deploy it. Options: the owner's own machine behind a Cloudflare Tunnel (the owner has a Cloudflare account; free), Google Cloud Run (`max-instances=1`, Singapore, needs billing), a small VM such as Oracle Always Free, or Cloudflare Workers (needs a rewrite: the queue becomes a Durable Object). Whatever the host, there must be exactly **one** instance, because the rate-limit queue and the cache live in memory. The NLB key and app code reach the container only as environment variables or the host's secret store; never in the image, the repo or the logs.
+**Part A: container (done, awaiting its first CI run)**
+- [x] `proxy/Dockerfile` (Node 22, non-root user, no credentials, `PORT` from the environment, TCP health check), `proxy/.dockerignore`, `docker-compose.yml` (credentials copied from the shell, read-only filesystem, optional `tunnel` profile for Cloudflare Tunnel), `proxy/README.md` (run, container, tunnel, hosting options, rollback)
+- [ ] CI job `proxy-image` builds the image and smoke-tests it with fake credentials: unknown path and POST give 404, `GetBranches` passes NLB's 401 through, the container stays up
+- [ ] Manual: `docker compose up --build` on a machine with Docker, then the smoke test in `proxy/README.md` against real credentials (Docker is not installed on the owner's Windows machine yet)
+**Part B: deploy (blocked on the host decision)**
+- [ ] The chosen host runs one instance and serves `/library/GetBranches` with the real branch list; an unknown path returns 404; a burst of 20 requests is spaced at ≤ 1 call/s and any wait over 10 s gets 429 with `Retry-After`
+- [ ] Secrets come from the host's secret store or environment; the image history and service description show no secret value; `git grep` finds none
+- [ ] Logs on the host contain the path and status only: no query string, no coordinates (NFR-5). Checked by searching them for a distinctive search term after a test search
+- [ ] The URL reaches the apps through `-PproxyBaseUrl=` (Android) and `PROXY_BASE_URL` (iOS); nothing about the URL or key is committed
 - [ ] Manual: the Android emulator app shows "26 libraries" using the deployed URL
-**Dependencies:** Tasks 2 and 3 (done), the human items above. Later: Task 18 adds app attestation, so until then the URL is open to anyone who finds it. Keep it unadvertised and treat it as dev only.
-**Files likely touched:** `proxy/Dockerfile`, `.dockerignore`, `proxy/README.md`, deploy script or workflow
+**Human first for Part B:** pick the host. For Cloud Run: a Google Cloud project with billing, `gcloud` installed and signed in, and the owner's go-ahead on cost. For the tunnel: a Cloudflare tunnel token and a hostname.
+**Dependencies:** Tasks 2 and 3 (done). Until Task 18 adds app attestation, the URL is open to anyone who finds it: treat it as dev only and keep it private.
+**Files likely touched:** `proxy/Dockerfile`, `.dockerignore`, `docker-compose.yml`, `proxy/README.md`, `.github/workflows/ci.yml`, host config
 **Estimated scope:** M
 
 ### Checkpoint: Foundation (after Tasks 1-3)

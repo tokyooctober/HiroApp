@@ -15,6 +15,25 @@ jobs:
       - run: npm test
         working-directory: proxy
 
+  proxy-image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the proxy image
+        run: docker build -t hiro-kids-proxy ./proxy
+      - name: Smoke test the container (fake credentials: NLB rejects them, the proxy must still behave)
+        run: |
+          docker run -d --name proxy -p 8080:8080 -e NLB_API_KEY=ci-fake-key -e NLB_APP_CODE=ci-fake-app hiro-kids-proxy
+          for i in $(seq 1 20); do curl -s -o /dev/null http://localhost:8080/admin && break; sleep 1; done
+          test "$(curl -s -o /dev/null -w '%{http_code}' http://localhost:8080/admin)" = "404"
+          test "$(curl -s -o /dev/null -w '%{http_code}' -X POST http://localhost:8080/library/GetBranches)" = "404"
+          code=$(curl -s -o /dev/null -w '%{http_code}' 'http://localhost:8080/library/GetBranches?ListType=active')
+          echo "GetBranches with fake credentials returned $code"
+          # NLB answers 401 to a bad key; the proxy passes that through. A 5xx from the proxy itself would be a failure.
+          test "$code" = "401" -o "$code" = "403"
+          docker logs proxy
+          test "$(docker inspect --format '{{.State.Running}}' proxy)" = "true"
+
   android-and-shared:
     runs-on: ubuntu-latest
     steps:

@@ -54,7 +54,7 @@ Phase 0, unblock and de-risk
 1. Record fixtures and settle NLB API facts (spec T0)
 2. Proxy: key injection, rate-limit queue, 429 pass-through (spec T1)
 3. Proxy: response caching with the TTLs of NFR-3 (spec T1)
-3b. Deploy the proxy to Google Cloud Run, dev (spec T1; needs a Google Cloud project, added 7 Oct 2026)
+3b. Package the proxy as a container (done) and deploy it; host decision deferred (spec T1, added 7 Oct 2026)
 
 Phase 1, walking skeleton
 4. KMP skeleton: both apps build and call the proxy, CI green (spec T2)
@@ -106,9 +106,9 @@ Phase 4, hardening and release
 
 ## Open questions needing a human
 
-- ~~Proxy host~~ Decided 7 Oct 2026 (owner): Cloud Run with `max-instances=1` (the queue is in memory).
+- ~~Proxy host~~ Cloud Run was the 7 Oct 2026 recommendation; the owner then asked for a container first and will decide the host later (see Task 3b). Any host must run exactly one instance (the queue is in memory).
 - ~~Role of `data/nlb_libraries.json`~~ Decided 7 Oct 2026: seeds the picker, codes filled by a one-off script, 300 m, only `open` libraries shown (Orchard and Marine Parade confirmed closed).
-- Google Cloud project, billing, `gcloud` sign-in and a GitHub repository URL (needed for Task 3b and for CI).
+- Proxy host for Task 3b Part B, decided later: own machine + Cloudflare Tunnel (the owner has a Cloudflare account), Google Cloud Run (needs a project with billing and `gcloud`), a small VM, or Cloudflare Workers (needs a rewrite). The GitHub repository exists: https://github.com/tokyooctober/HiroApp.
 - App name now that Adult mode exists (blocks store listings only).
 - Bundle identifier / package name, Apple developer account and Play console access (blocks Task 18 and Task 21, not before).
 - NLB contact: higher rate limit, and an ISBN/BRN-to-MID mapping (human sends the email in Task 1). Also ask: what MID is, how to get recommendations for non-ebooks, and whether an app may use patron-based suggestions (see spec section 9, KIV).
