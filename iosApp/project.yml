@@ -31,7 +31,8 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: sg.hirokids.app # placeholder: final bundle id is an open question (tasks/plan.md)
         FRAMEWORK_SEARCH_PATHS: "$(SRCROOT)/../shared/build/xcode-frameworks/$(CONFIGURATION)/$(SDK_NAME)"
-        OTHER_LDFLAGS: "$(inherited) -framework Shared"
+        # -lsqlite3: the static Shared framework contains the SQLDelight native driver, which needs the system SQLite library
+        OTHER_LDFLAGS: "$(inherited) -framework Shared -lsqlite3"
         ENABLE_USER_SCRIPT_SANDBOXING: NO
         # The shared framework is built for arm64 simulators and devices only (no iosX64 target): skip Intel simulators
         "EXCLUDED_ARCHS[sdk=iphonesimulator*]": x86_64
