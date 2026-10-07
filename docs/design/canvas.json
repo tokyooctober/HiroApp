@@ -1,0 +1,98 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Detail.dc.html": {
+      "h": 1300,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "3 · Book detail: call number here first",
+      "w": 390,
+      "x": 940,
+      "y": 0
+    },
+    "Filters.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "5 · Filters and teen toggle",
+      "w": 390,
+      "x": 1880,
+      "y": 0
+    },
+    "Location.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "4 · Which library are you at?",
+      "w": 390,
+      "x": 1410,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "1 · Search home (Children / Adults switch)",
+      "w": 390,
+      "x": 0,
+      "y": 0
+    },
+    "Results.dc.html": {
+      "h": 1240,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "2 · Results: on the shelf here first",
+      "w": 390,
+      "x": 470,
+      "y": 0
+    },
+    "Favourites.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "6 · Favourites with shelf status here",
+      "w": 390,
+      "x": 2350,
+      "y": 0
+    },
+    "Settings.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "radius": 28,
+      "title": "7 · Settings",
+      "w": 390,
+      "x": 2820,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-10-05T12:45:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "flow": {
+      "kind": "title1",
+      "maxW": 3210,
+      "text": "Hiro-Kids · find it on the shelf where you are",
+      "w": 240,
+      "x": 0,
+      "y": -260
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "Results.dc.html",
+    "Detail.dc.html",
+    "Location.dc.html",
+    "Filters.dc.html",
+    "Favourites.dc.html",
+    "Settings.dc.html"
+  ],
+  "pages": [],
+  "title": "Hiro-Kids UI Design"
+}

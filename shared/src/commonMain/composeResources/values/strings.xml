@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hiro-Kids</string>
+    <string name="libraries_loading">Loading libraries…</string>
+    <string name="libraries_error">Could not load the libraries. Check your connection and try again.</string>
+    <string name="retry">Retry</string>
+    <plurals name="libraries_count">
+        <item quantity="one">%1$d library</item>
+        <item quantity="other">%1$d libraries</item>
+    </plurals>
+</resources>

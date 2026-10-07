@@ -1,0 +1,50 @@
+# XcodeGen spec. The Xcode project is generated from this file on a Mac:
+#   brew install xcodegen && cd iosApp && xcodegen generate
+# (hand-written .xcodeproj files are easy to break and cannot be checked from Windows).
+name: iosApp
+options:
+  bundleIdPrefix: sg.hirokids
+  deploymentTarget:
+    iOS: "16.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    # Proxy URL: override with `xcodegen` + `PROXY_BASE_URL=https://... xcodebuild`, never an NLB key.
+    PROXY_BASE_URL: "http:/$()/localhost:8080"
+targets:
+  iosApp:
+    type: application
+    platform: iOS
+    sources:
+      - path: iosApp
+    info:
+      path: iosApp/Info.plist
+      properties:
+        CFBundleDisplayName: Hiro-Kids
+        UILaunchScreen: {}
+        ProxyBaseURL: $(PROXY_BASE_URL)
+        # Debug only convenience: allow plain HTTP to a local dev proxy
+        NSAppTransportSecurity:
+          NSAllowsLocalNetworking: true
+        # NSLocationWhenInUseUsageDescription is added in Task 5 with the location feature
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: sg.hirokids.app # placeholder: final bundle id is an open question (tasks/plan.md)
+        FRAMEWORK_SEARCH_PATHS: "$(SRCROOT)/../shared/build/xcode-frameworks/$(CONFIGURATION)/$(SDK_NAME)"
+        OTHER_LDFLAGS: "$(inherited) -framework Shared"
+        ENABLE_USER_SCRIPT_SANDBOXING: NO
+    preBuildScripts:
+      - name: Build the Kotlin shared framework
+        script: |
+          cd "$SRCROOT/.."
+          ./gradlew :shared:embedAndSignAppleFrameworkForXcode
+        basedOnDependencyAnalysis: false
+schemes:
+  iosApp:
+    build:
+      targets:
+        iosApp: all
+    run:
+      config: Debug
+    test:
+      config: Debug

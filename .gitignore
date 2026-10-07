@@ -1,0 +1,37 @@
+# Secrets (NLB key and app code must never be committed, NFR-4)
+.env
+.env.*
+*.pem
+*.p8
+*.jks
+*.keystore
+secrets/
+local.properties
+.dev.vars
+
+# Gradle / Kotlin / Android
+.gradle/
+build/
+*.iml
+.idea/
+captures/
+.kotlin/
+
+# Xcode (the project is generated from iosApp/project.yml by XcodeGen)
+iosApp/*.xcodeproj/
+iosApp/iosApp/Info.plist
+xcuserdata/
+DerivedData/
+*.xcuserstate
+Pods/
+
+# Proxy (Node)
+node_modules/
+.wrangler/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Recorded NLB responses: not committed (public repo, NLB terms). Re-create: cd proxy && npm run record-fixtures
+fixtures/

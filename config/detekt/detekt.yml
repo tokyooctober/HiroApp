@@ -1,0 +1,32 @@
+# Builds on detekt's defaults. Only what the code style (spec section 10) needs is changed here.
+style:
+  MagicNumber:
+    active: true
+    ignoreCompanionObjectPropertyDeclaration: true
+    ignorePropertyDeclaration: true # design tokens such as Color(0xFF2B59C3)
+    ignoreNamedArgument: true
+    ignoreAnnotation: true
+  MaxLineLength:
+    maxLineLength: 140
+    excludeCommentStatements: true
+  ReturnCount:
+    max: 3
+
+naming:
+  FunctionNaming:
+    # Composable functions are PascalCase by convention
+    ignoreAnnotated: ['Composable']
+  TopLevelPropertyNaming:
+    constantPattern: '[A-Z][A-Za-z0-9_]*'
+
+complexity:
+  LongParameterList:
+    functionThreshold: 8
+    constructorThreshold: 8
+    ignoreDefaultParameters: true
+  TooManyFunctions:
+    thresholdInFiles: 15
+
+exceptions:
+  TooGenericExceptionCaught:
+    active: true

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hiro-Kids book detail</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&amp;family=Nunito+Sans:wght@400;600;700;800&amp;display=swap">
+<style>
+body{margin:0}
+a{color:#2B59C3}a:hover{color:#1E3F8F}
+</style>
+</helmet>
+<div style="width: 390px; height: 1300px; box-sizing: border-box; display: flex; flex-direction: column; background: #FFFFFF; font-family: 'Nunito Sans', system-ui, sans-serif; color: #14213D">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 16px 20px 22px; background: #FFF4D6">
+    <div style="align-self: stretch; display: flex; justify-content: space-between">
+      <a href="Results.dc.html" aria-label="Back" style="width: 44px; height: 44px; border-radius: 12px; background: #FFFFFF; display: flex; align-items: center; justify-content: center; color: #14213D">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"></path></svg>
+      </a>
+      <button type="button" aria-label="Save to favourites" aria-pressed="false" style="width: 44px; height: 44px; border-radius: 12px; border: 0; background: #FFFFFF; display: flex; align-items: center; justify-content: center; color: #14213D">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"></path></svg>
+      </button>
+    </div>
+    <div aria-hidden="true" style="width: 130px; height: 178px; border-radius: 14px; background: #FFC94A; display: flex; align-items: flex-end; padding: 12px; box-sizing: border-box; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 18px; line-height: 1.1">Tiny T-Rex Goes to School</div>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 4px; text-align: center">
+      <h1 style="margin: 0; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 26px; line-height: 1.15">Tiny T-Rex Goes to School</h1>
+      <span style="font-size: 15px; color: #3D4555">Mei Ling Tan · Picture book · English</span>
+    </div>
+  </div>
+
+  <main style="display: flex; flex-direction: column; gap: 26px; padding: 20px 20px 28px">
+    <section aria-labelledby="here-h" style="display: flex; flex-direction: column; gap: 14px; padding: 18px; border-radius: 20px; background: #DDF3EA">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px">
+        <h2 id="here-h" style="margin: 0; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 20px; color: #0B3D2E">On the shelf here</h2>
+        <span style="padding: 4px 10px; border-radius: 999px; background: #FFFFFF; color: #0B5D45; font-size: 13px; font-weight: 800">2 of 3 copies</span>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 2px">
+        <span style="font-size: 13px; font-weight: 700; color: #0B3D2E">Look for call number</span>
+        <span style="font-family: Fredoka, sans-serif; font-weight: 600; font-size: 34px; letter-spacing: 0.04em; color: #0B3D2E">JP TAN</span>
+        <span style="font-size: 14px; color: #0B3D2E">Junior Picture Book shelves · Tampines Regional Library</span>
+      </div>
+    </section>
+
+    <section style="display: flex; flex-direction: column; gap: 10px">
+      <div style="display: flex; align-items: baseline; justify-content: space-between">
+        <h2 style="margin: 0; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 19px">At other libraries</h2>
+        <span style="font-size: 13px; color: #4A5568">Live shelf status</span>
+      </div>
+      <sc-for list="{{branches}}" as="b" hint-placeholder-count="2">
+        <div style="display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 16px; border: 1px solid #E3E7EE">
+          <div style="flex-grow: 1; display: flex; flex-direction: column; gap: 4px; min-width: 0">
+            <span style="font-size: 15px; font-weight: 800">{{b.name}}</span>
+            <span style="font-size: 13px; color: #4A5568">{{b.km}}</span>
+            <sc-if value="{{b.onShelf}}" hint-placeholder-val="{{ true }}">
+              <span style="align-self: flex-start; padding: 3px 9px; border-radius: 999px; background: #DDF3EA; color: #0B5D45; font-size: 12px; font-weight: 800">{{b.avail}} of {{b.total}} on shelf</span>
+            </sc-if>
+            <sc-if value="{{b.onLoan}}" hint-placeholder-val="{{ false }}">
+              <span style="align-self: flex-start; padding: 3px 9px; border-radius: 999px; background: #FDEBD3; color: #8A4100; font-size: 12px; font-weight: 800">0 of {{b.total}} on shelf · all on loan</span>
+            </sc-if>
+          </div>
+          <a href="Results.dc.html" aria-label="Switch to {{b.name}}" style="display: inline-flex; align-items: center; text-decoration: none; min-height: 40px; padding: 0 12px; border-radius: 999px; border: 1.5px solid #2B59C3; background: #FFFFFF; color: #1E3F8F; font-size: 13px; font-weight: 800">View</a>
+          <a href="#directions" aria-label="Directions to {{b.name}}" style="width: 40px; height: 40px; flex-shrink: 0; border-radius: 12px; background: #F3F6FA; color: #14213D; display: flex; align-items: center; justify-content: center">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 21 3l-8 18-2-8z"></path></svg>
+          </a>
+        </div>
+      </sc-for>
+      <div style="display: flex; align-items: center; gap: 10px; padding: 12px 14px; border-radius: 16px; background: #F5F7FB; color: #3D4555; font-size: 14px; font-weight: 700">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9"></path></svg>
+        Checking 3 more libraries…
+      </div>
+    </section>
+
+    <section style="display: flex; flex-direction: column; gap: 8px">
+      <h2 style="margin: 0; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 19px">About this book</h2>
+      <p style="margin: 0; font-size: 15px; line-height: 1.55; color: #2A3347">A small T-rex worries about his first day at school, then finds out that being different can make you a great friend.</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 6px; padding-top: 4px">
+        <span style="padding: 4px 10px; border-radius: 8px; background: #F3F6FA; font-size: 13px; font-weight: 600">Dinosaurs</span>
+        <span style="padding: 4px 10px; border-radius: 8px; background: #F3F6FA; font-size: 13px; font-weight: 600">First day of school</span>
+        <span style="padding: 4px 10px; border-radius: 8px; background: #F3F6FA; font-size: 13px; font-weight: 600">Friendship</span>
+      </div>
+    </section>
+
+    <section style="display: flex; flex-direction: column; gap: 12px">
+      <h2 style="margin: 0; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 19px">More like this, on the shelf here</h2>
+      <div style="display: flex; gap: 14px">
+        <sc-for list="{{more}}" as="item" hint-placeholder-count="3">
+          <a href="Detail.dc.html" style="width: 104px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; color: #14213D">
+            <div aria-hidden="true" style="width: 104px; height: 136px; border-radius: 12px; background: {{item.coverBg}}; display: flex; align-items: flex-end; padding: 10px; box-sizing: border-box; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 14px; line-height: 1.15">{{item.title}}</div>
+            <span style="font-size: 13px; font-weight: 700; line-height: 1.25">{{item.title}}</span>
+          </a>
+        </sc-for>
+      </div>
+    </section>
+  </main>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":1300}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      branches: [
+        { name: 'Pasir Ris Public Library', km: '3.1 km', avail: 3, total: 4, onShelf: true, onLoan: false },
+        { name: 'Punggol Regional Library', km: '9.0 km', avail: 1, total: 2, onShelf: true, onLoan: false },
+        { name: 'Bedok Public Library', km: '5.6 km', avail: 0, total: 2, onShelf: false, onLoan: true }
+      ],
+      more: [
+        { title: 'Stegosaurus Sleepover', coverBg: '#CDE7FF' },
+        { title: 'The Big Book of Dinosaurs', coverBg: '#D7F0D2' },
+        { title: 'Moon Bear’s Big Night', coverBg: '#E5DBFF' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

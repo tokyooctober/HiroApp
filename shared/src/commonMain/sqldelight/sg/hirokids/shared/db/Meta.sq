@@ -1,0 +1,12 @@
+-- Placeholder schema for the skeleton (Task 4). The real book store is designed in Task 7;
+-- changing this schema later needs sign-off (spec section 10, "Ask first").
+CREATE TABLE meta (
+    key TEXT NOT NULL PRIMARY KEY,
+    value TEXT NOT NULL
+);
+
+selectValue:
+SELECT value FROM meta WHERE key = ?;
+
+upsert:
+INSERT OR REPLACE INTO meta(key, value) VALUES (?, ?);

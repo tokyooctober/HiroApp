@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  proxy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+        working-directory: proxy
+
+  android-and-shared:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Accept Android SDK licences (AGP downloads the platform it needs)
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
+      # Shared tests (JVM and Android host), Android debug build, lint. The same command as the spec, section 10.
+      - run: ./gradlew :shared:allTests :androidApp:assembleDebug ktlintCheck detekt
+      - name: No NLB key in the APK (NFR-4)
+        run: |
+          unzip -q androidApp/build/outputs/apk/debug/androidApp-debug.apk -d apk-contents
+          if grep -rlaE 'X-Api-Key|X-App-Code|openweb\.nlb\.gov\.sg' apk-contents; then
+            echo "The APK mentions NLB credentials or the NLB host directly"; exit 1
+          fi
+
+  ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Kotlin tests on the iOS simulator target
+        run: ./gradlew :shared:iosSimulatorArm64Test
+      - name: Generate the Xcode project and build the app
+        run: |
+          brew install xcodegen
+          cd iosApp
+          xcodegen generate
+          xcodebuild build -project iosApp.xcodeproj -scheme iosApp -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO

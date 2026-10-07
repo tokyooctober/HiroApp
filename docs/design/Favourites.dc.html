@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hiro-Kids favourites</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&amp;family=Nunito+Sans:wght@400;600;700;800&amp;display=swap">
+<style>
+body{margin:0}
+a{color:#2B59C3}a:hover{color:#1E3F8F}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; display: flex; flex-direction: column; background: #F5F7FB; font-family: 'Nunito Sans', system-ui, sans-serif; color: #14213D">
+  <header style="display: flex; flex-direction: column; gap: 12px; padding: 24px 20px 14px; background: #FFFFFF; border-bottom: 1px solid #E3E7EE">
+    <h1 style="margin: 0; font-family: Fredoka, sans-serif; font-weight: 600; font-size: 26px">Favourites</h1>
+    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap">
+      <span style="display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 0 12px; border-radius: 999px; background: #E6EDFB; color: #1E3F8F; font-size: 13px; font-weight: 800">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"></path><circle cx="12" cy="10" r="2.2"></circle></svg>
+        Shelf status at Tampines Regional
+      </span>
+    </div>
+    <div role="group" aria-label="Show favourites for" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; padding: 4px; border-radius: 14px; background: #EEF1F6">
+      <button type="button" aria-pressed="true" style="min-height: 44px; border-radius: 11px; border: 0; background: #B4530A; color: #FFFFFF; font: inherit; font-size: 15px; font-weight: 800">Children’s · 3</button>
+      <button type="button" aria-pressed="false" style="min-height: 44px; border-radius: 11px; border: 0; background: transparent; color: #3D4555; font: inherit; font-size: 15px; font-weight: 800">Adult · 1</button>
+    </div>
+  </header>
+
+  <main style="flex-grow: 1; display: flex; flex-direction: column; gap: 10px; padding: 16px 20px; overflow: hidden">
+    <sc-for list="{{favs}}" as="item" hint-placeholder-count="3">
+      <div style="display: flex; align-items: center; gap: 12px; padding: 12px; border-radius: 16px; background: #FFFFFF; border: 1px solid #E3E7EE">
+        <a href="Detail.dc.html" style="flex-grow: 1; min-width: 0; display: flex; gap: 12px; text-decoration: none; color: #14213D">
+          <div aria-hidden="true" style="width: 56px; height: 76px; flex-shrink: 0; border-radius: 10px; background: {{item.coverBg}}"></div>
+          <div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+            <span style="font-family: Fredoka, sans-serif; font-weight: 600; font-size: 16px; line-height: 1.2">{{item.title}}</span>
+            <sc-if value="{{item.here}}" hint-placeholder-val="{{ true }}">
+              <span style="align-self: flex-start; padding: 3px 9px; border-radius: 999px; background: #DDF3EA; color: #0B5D45; font-size: 12px; font-weight: 800">{{item.status}}</span>
+            </sc-if>
+            <sc-if value="{{item.out}}" hint-placeholder-val="{{ false }}">
+              <span style="align-self: flex-start; padding: 3px 9px; border-radius: 999px; background: #FDEBD3; color: #8A4100; font-size: 12px; font-weight: 800">{{item.status}}</span>
+            </sc-if>
+          </div>
+        </a>
+        <button type="button" aria-label="Remove {{item.title}} from favourites" aria-pressed="true" style="width: 44px; height: 44px; flex-shrink: 0; border-radius: 12px; border: 0; background: #FDE4E7; color: #A3123A; display: flex; align-items: center; justify-content: center">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"></path></svg>
+        </button>
+      </div>
+    </sc-for>
+    <p style="margin: 4px 0 0; font-size: 13px; color: #4A5568">Saved on this phone. Shelf status is checked when you open this list.</p>
+  </main>
+
+  <nav aria-label="Main" style="display: flex; justify-content: space-around; border-top: 1px solid #E3E7EE; padding: 8px 0 22px; background: #FFFFFF">
+    <a href="Main.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 72px; min-height: 48px; justify-content: center; text-decoration: none; color: #4A5568; font-size: 12px; font-weight: 700">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>Search</a>
+    <a href="Favourites.dc.html" aria-current="page" style="display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 72px; min-height: 48px; justify-content: center; text-decoration: none; color: #2B59C3; font-size: 12px; font-weight: 800">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"></path></svg>Favourites</a>
+    <a href="Settings.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 72px; min-height: 48px; justify-content: center; text-decoration: none; color: #4A5568; font-size: 12px; font-weight: 700">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v2.5M12 18.5V21M3 12h2.5M18.5 12H21M5.6 5.6l1.8 1.8M16.6 16.6l1.8 1.8M5.6 18.4l1.8-1.8M16.6 7.4l1.8-1.8"></path></svg>Settings</a>
+  </nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      favs: [
+        { title: 'Tiny T-Rex Goes to School', coverBg: '#FFE3A3', here: true, out: false, status: '2 on shelf here · JP TAN' },
+        { title: 'Moon Bear’s Big Night', coverBg: '#E5DBFF', here: true, out: false, status: '1 on shelf here · JP CHO' },
+        { title: 'Dino Dig!', coverBg: '#FAD4D8', here: false, out: true, status: 'All copies out here' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>
