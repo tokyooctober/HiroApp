@@ -1,0 +1,339 @@
+{
+  "setId": 44326737,
+  "totalRecords": 9,
+  "count": 9,
+  "hasMoreRecords": false,
+  "nextRecordsOffset": 9,
+  "items": [
+    {
+      "irn": 385547066,
+      "itemId": "B37394592I",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "BBPL",
+        "name": "Bukit Batok Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "suffix": "",
+      "price": 8.96,
+      "status": {
+        "code": "In",
+        "name": "On Shelf",
+        "setDate": "2026-09-24T09:25:04"
+      },
+      "transactionStatus": {
+        "code": "S",
+        "name": "Available",
+        "date": "2026-09-24T09:25:04"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 433028362,
+      "itemId": "B39161977J",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "BBPL",
+        "name": "Bukit Batok Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "suffix": "",
+      "price": 9.81,
+      "status": {
+        "code": "Out",
+        "name": "On Loan",
+        "setDate": "2026-09-29T19:05:22"
+      },
+      "transactionStatus": {
+        "code": "C",
+        "name": "On Loan",
+        "date": "2026-10-20T23:59:59"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 433028363,
+      "itemId": "B39161978K",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "BBPL",
+        "name": "Bukit Batok Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "suffix": "",
+      "price": 9.81,
+      "status": {
+        "code": "Out",
+        "name": "On Loan",
+        "setDate": "2026-09-16T07:03:13"
+      },
+      "transactionStatus": {
+        "code": "C",
+        "name": "On Loan",
+        "date": "2026-10-10T23:59:59"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 433028364,
+      "itemId": "B39161979A",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "BBPL",
+        "name": "Bukit Batok Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "suffix": "",
+      "price": 9.81,
+      "status": {
+        "code": "Out",
+        "name": "On Loan",
+        "setDate": "2026-09-23T20:29:17"
+      },
+      "transactionStatus": {
+        "code": "C",
+        "name": "On Loan",
+        "date": "2026-10-14T23:59:59"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 385547048,
+      "itemId": "B37394580F",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP -[BA]",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "JUNIOR PB",
+        "name": "Junior Picture Book"
+      },
+      "location": {
+        "code": "GEPL",
+        "name": "Geylang East Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "suffix": "-[BA]",
+      "price": 8.96,
+      "status": {
+        "code": "Out",
+        "name": "On Loan",
+        "setDate": "2026-09-26T08:54:13"
+      },
+      "transactionStatus": {
+        "code": "C",
+        "name": "On Loan",
+        "date": "2026-10-31T23:59:59"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 385547056,
+      "itemId": "B37394572G",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP -[BA]",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "JUNIOR PB",
+        "name": "Junior Picture Book"
+      },
+      "location": {
+        "code": "JWPL",
+        "name": "Jurong West Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "suffix": "-[BA]",
+      "price": 8.96,
+      "status": {
+        "code": "In",
+        "name": "On Shelf",
+        "setDate": "2026-10-03T13:04:31"
+      },
+      "transactionStatus": {
+        "code": "S",
+        "name": "Available",
+        "date": "2026-10-03T13:04:31"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 385548154,
+      "itemId": "B37394555H",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "PRL",
+        "name": "Punggol Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "price": 8.96,
+      "status": {
+        "code": "In",
+        "name": "On Shelf",
+        "setDate": "2026-10-02T11:31:27"
+      },
+      "transactionStatus": {
+        "code": "S",
+        "name": "Available",
+        "date": "2026-10-02T11:31:27"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 385547017,
+      "itemId": "B37394570E",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "SKPL",
+        "name": "Sengkang Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "price": 8.96,
+      "status": {
+        "code": "Shelving",
+        "name": "Shelving",
+        "setDate": "2026-10-06T20:14:16"
+      },
+      "transactionStatus": {
+        "code": "S",
+        "name": "Recently Returned",
+        "date": "2026-10-06T20:14:16"
+      },
+      "minAgeLimit": 0
+    },
+    {
+      "irn": 385548167,
+      "itemId": "B37394554G",
+      "brn": 205717763,
+      "callNumber": "567.912 HEP",
+      "formattedCallNumber": "English 567.912 HEP",
+      "media": {
+        "code": "BOOK",
+        "name": "Book"
+      },
+      "usageLevel": {
+        "code": "ELL 0-3",
+        "name": "Early Literacy 0-3"
+      },
+      "location": {
+        "code": "YIPL",
+        "name": "Yishun Library"
+      },
+      "courseCode": {
+        "code": "E005",
+        "clusterName": "Emergent Readers"
+      },
+      "language": "English",
+      "price": 8.96,
+      "status": {
+        "code": "In",
+        "name": "On Shelf",
+        "setDate": "2026-10-05T13:22:08"
+      },
+      "transactionStatus": {
+        "code": "S",
+        "name": "Available",
+        "date": "2026-10-05T13:22:08"
+      },
+      "minAgeLimit": 0
+    }
+  ]
+}

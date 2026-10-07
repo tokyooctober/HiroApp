@@ -84,7 +84,7 @@ Phase 4, hardening and release
 
 ## Checkpoints
 
-- **After 1–3, Foundation:** fixtures reproducible (not committed, public repo); proxy deployed to dev, key only in the secret manager; queue never exceeds 1 call/s in a load test.
+- **After 1–3, Foundation:** fixtures committed and reproducible; proxy deployed to dev, key only in the secret manager; queue never exceeds 1 call/s in a load test.
 - **After 4–6, Skeleton:** both apps build and run in CI; the current library persists across restart; `AudiencePolicy` (Children) passes on every Children fixture with zero leaks.
 - **After 7–9, Children's search works end to end:** the golden scenario of section 8 passes (A in group 1, B in group 2, C only in group 3 with Pasir Ris before Punggol, View makes C appear in group 1) on both platforms. **Stop and review with the human.**
 - **After 10–16, Feature complete:** every FR except FR-9 meets its acceptance criteria; screens reviewed against `docs/design/`.
@@ -98,7 +98,7 @@ Phase 4, hardening and release
 | Children's content leaks (sparse MARC 521 audience data) | High: core safety promise | `AudiencePolicy` before any UI (Task 6); hide-when-ambiguous; regression set grows with each task; measure the hide rate |
 | 15 calls/min shared by all users | High for release, low for pilot | Queue with bounded wait and visible busy state (Tasks 2, 8); cache (Task 3); ask NLB for a higher limit in Task 1 and again in Task 21 |
 | Facet ids differ from `GetBranches` codes (`trl` vs `TRL`) | Medium: one-library search silently returns nothing | Check in Task 1; normalise in one mapper |
-| Approximate location is often off by more than 300 m | Low: detection falls through to the picker | Decided 7 Oct 2026: keep approximate-only; picker lists the closest libraries first; Change is always available; measure in a field test (Task 5) |
+| Detection picks the wrong library, or none | Low: the user can always change library | Decided 7 Oct 2026 (owner): precise location while in use; approximate-only opens the picker; picker lists the closest libraries first; Change is always available; measure in a field test (Task 5) |
 | No MID source, so FR-9 cannot ship | Low: FR-9 is hidden by design | Ask NLB in Task 1; Task 17 parked |
 | KMP + two toolchains (Gradle, Xcode) slow the first slices | Medium | Skeleton and CI first (Task 4); iOS built and tested on every slice, not at the end |
 | API key expires 6 Apr 2027 | Medium | Renewal task in Task 21; calendar reminder |

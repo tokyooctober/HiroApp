@@ -33,5 +33,3 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Recorded NLB responses: not committed (public repo, NLB terms). Re-create: cd proxy && npm run record-fixtures
-fixtures/

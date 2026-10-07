@@ -1,6 +1,6 @@
 // One-time update of data/nlb_libraries.json: fill in each library's NLB branchCode.
 // Matches by coordinates (names differ between the file and NLB, e.g. "Ang Mo Kio Public Library" vs "Ang Mo Kio Library")
-// against the recorded GetBranches fixture (fixtures/ is not in git: run `npm run record-fixtures` first), so it needs no network once recorded.
+// against the recorded GetBranches fixture so it needs no credentials and no network.
 //
 //   node scripts/match-library-codes.mjs            dry run: prints the table, changes nothing
 //   node scripts/match-library-codes.mjs --write    writes branchCode into the file (a reviewer checks the table first)

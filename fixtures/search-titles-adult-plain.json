@@ -1,0 +1,2269 @@
+{
+  "totalRecords": 21,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Dinosaur friendship",
+      "author": "Stewart, James (Webcomics author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/000857894X?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/000857894X?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/000857894X?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300058810,
+          "otherAuthors": [
+            "Roméy, K., illustrator."
+          ],
+          "isbns": [
+            "000857894X",
+            "9780008578947"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Publishers"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Dinosaurs Comic books, strips, etc.",
+            "Friendship Comic books, strips, etc.",
+            "Mental health Comic books, strips, etc.",
+            "Dinosaurs",
+            "Friendship",
+            "Mental health"
+          ],
+          "physicalDescription": [
+            "144 pages : chiefly colour illustrations ; 15 cm"
+          ],
+          "summary": [
+            "A comic about dinosaurs supporting one another through life -- Back cover."
+          ],
+          "notes": [
+            "\"From the international bestseller @dinosandcomics\" -- Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaurs & prehistoric life.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241287309?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241287309?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241287309?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203983684,
+          "variantTitles": [
+            "Dinosaurs and prehistoric life",
+            "Dinosaurs & prehistoric life : the definitive visual guide to prehistoric animals",
+            "DK dinosaurs & prehistoric life"
+          ],
+          "isbns": [
+            "9780241287309",
+            "0241287308"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "London : Dorling Kindersley",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs.",
+            "Animals, Fossil.",
+            "Plants, Fossil."
+          ],
+          "physicalDescription": [
+            "440 pages : color illustrations, color maps ; 31 cm"
+          ],
+          "summary": [
+            "From the origin of life, through the age of dinosaurs stalked by the terrifying Tyrannosaurus rex, to the earliest humans, this book tells the story of life on Earth. Dinosaurs may be the stars of the show, but the book is truly comprehensive, with fossil plants, invertebrates, amphibians, fish, birds, reptiles, mammals, and even early bacteria conjuring up an entire past world. To put all of these extinct species in context, the book explores geological time and the way life-forms are classified. It also looks at how fossils preserve the story of evolution, and how it can be deciphered. The chapter on \"Young Earth\" explains how forces shaped Earth and steered the course of life. The main part of the book - \"Life on Earth\" - lays out and catalogues the rich story of life, from its beginnings 4 billion years ago, through each geological period, such as the Jurassic and Cretaceous, to the present. The stunning visuals and authoritative text make Dinosaurs and Prehistoric Life a fascinating and revealing encyclopedia that will appeal to the whole family."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Too big to walk : The New Science of Dinosaurs.",
+      "author": "Ford, Brian J",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008239558?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008239558?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008239558?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203153048,
+          "variantTitles": [
+            "New science of dinosaurs"
+          ],
+          "isbns": [
+            "9780008239558",
+            "000823955X",
+            "9780008218904",
+            "0008218900"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : William Collins",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Dinosaurs.",
+            "Paleontology."
+          ],
+          "physicalDescription": [
+            "xii, 516 pages, 16 unnumbered pages of plates : illustrations (some color), maps (some color) ; 24 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203711265,
+          "digitalId": "C7FAE67A-DAF5-456C-BA4D-754CA4BA2F09",
+          "isbns": [
+            "9780008218911"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Nonfiction.",
+            "Dinosaurs.",
+            "Paleontology.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Ever since Jurassic Park we thought we knew how dinosaurs lived their lives. In this remarkable new book, Brian J. Ford reveals that dinosaurs were, in fact, profoundly different from what we believe, and their environment was unlike anything we have previously thought. In this meticulous and absorbing account, Ford reviews the latest scientific evidence to show that the popular accounts of dinosaurs' lives contain ideas that are no more than convenient inventions: how dinosaurs mated, how they hunted and communicated, how they nursed their young, even how they moved. He uncovers many surprising details which challenge our most deeply-held beliefs - such as the revelation that an asteroid impact did not end the dinosaurs' existence. Professor Ford's illuminating examination changes everything. As he unravels the history of the world, we discover that evolution was not Charles Darwin's idea; there were many philosophers who published the theory before him. The concept of continental drift and plate tectonics did not begin with Alfred Wegener a century ago, but dates back to learned pioneers hundreds of years before his time. Ever since scientists first began to study dinosaurs, they have travelled with each other down the wrong path, and Ford now shows how this entire branch of science has to be rewritten. A new dinosaur species is announced every ten days, and more and more information is currently being discovered about how they may have lived: locomotion, hunting, nesting behaviour, distribution, extinction. Ford brings together these amazing discoveries in this controversial new book which undoubtedly will ruffle a few feathers, or scales if you are an old-school dinosaur lover."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203711395,
+          "digitalId": "D4C152BB-8E8C-4569-A348-866316FB932C",
+          "isbns": [
+            "9780008218928"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Glasgow : William Collins"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Nonfiction.",
+            "Dinosaurs",
+            "Paleontology",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource (20 audio files) : digital"
+          ],
+          "summary": [
+            "Ever since Jurassic Park we thought we knew how dinosaurs lived their lives. In this remarkable new book, Brian J. Ford reveals that dinosaurs were, in fact, profoundly different from what we believe, and their environment was unlike anything we have previously thought. In this meticulous and absorbing account, Ford reviews the latest scientific evidence to show that the popular accounts of dinosaurs' lives contain ideas that are no more than convenient inventions: how dinosaurs mated, how they hunted and communicated, how they nursed their young, even how they moved. He uncovers many surprising details which challenge our most deeply-held beliefs - such as the revelation that an asteroid impact did not end the dinosaurs' existence. Professor Ford's illuminating examination changes everything. As he unravels the history of the world, we discover that evolution was not Charles Darwin's idea; there were many philosophers who published the theory before him. The concept of continental drift and plate tectonics did not begin with Alfred Wegener a century ago, but dates back to learned pioneers hundreds of years before his time. Ever since scientists first began to study dinosaurs, they have travelled with each other down the wrong path, and Ford now shows how this entire branch of science has to be rewritten. A new dinosaur species is announced every ten days, and more and more information is currently being discovered about how they may have lived: locomotion, hunting, nesting behaviour, distribution, extinction. Ford brings together these amazing discoveries in this controversial new book which undoubtedly will ruffle a few feathers, or scales if you are an old-school dinosaur lover."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The dinosaur hunters : the extraordinary story of the discovery of prehistoric life",
+      "author": "Dingus, Lowell",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780233005430?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780233005430?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780233005430?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205456967,
+          "otherAuthors": [
+            "Norell, Mark, editor.",
+            "American Museum of Natural History, associated with work."
+          ],
+          "isbns": [
+            "9780233005430",
+            "0233005439"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Welbeck"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Collection and preservation History.",
+            "Paleontologists History.",
+            "Paleontology History."
+          ],
+          "physicalDescription": [
+            "144 pages : illustrations (some color) ; 29 cm"
+          ],
+          "summary": [
+            "\"Dinosaur bones had been found centuries before scientists understood what they were and what creatures they came from; ancient Chinese writings spoke of \"dragon\" bones, and large fossils discovered in the UK were thought to belong to human giants. It was only with the exploration and meticulous research of generations of intrepid palaeontologists that the truth about dinosaurs was discovered. The Dinosaur Hunters tells the story of these discoverers of prehistoric life, and the revelations found through their research. Illustrated with 30 rare documents, photographs and hand-drawn maps, it explores the unearthing of Iguanodon teeth, the discovery of the first flying dinosaur, the infamous Bone Wars and consultant editor Dr Mark Norell's radical study of feathered dinosaurs. This is a tale of daring exploits, luck, science and wanderlust, and of the thrilling lives and work of heroic scientists and adventurers\"--Amazon."
+          ],
+          "notes": [
+            "\"First published in 2008 by André Deutsch\"--Title page verso.",
+            "At head of title: American Museum of Natural History."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Thunder lizards : how to draw fantastic dinosaurs",
+      "author": "Miller, Steve, 1971-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0823016633?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0823016633?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0823016633?s=LG"
+      },
+      "records": [
+        {
+          "brn": 12599498,
+          "isbns": [
+            "0823016633"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Watson-Guptill "
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Dinosaurs in art.",
+            "Drawing Technique."
+          ],
+          "physicalDescription": [
+            "144 pages: illustrations (some color); 28 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dragon teeth : a novel",
+      "author": "Crichton, Michael, 1942-2008",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062473356?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062473356?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062473356?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202943778,
+          "isbns": [
+            "9780062473356",
+            "0062473352",
+            "9780008173067",
+            "9780062677594"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Harper, an imprint of HarperCollinsPublishers",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Marsh, Othniel Charles, 1831-1899 Fiction.",
+            "Cope, E. D. (Edward Drinker), 1840-1897 Fiction.",
+            "Paleontologists Fiction.",
+            "Archaeological expeditions Fiction.",
+            "Fossils Collection and preservation Fiction.",
+            "Dinosaurs Fiction.",
+            "Fossils Fiction.",
+            "West (U.S.) History 1860-1890 Fiction."
+          ],
+          "physicalDescription": [
+            "295 pages : color map ; 24 cm"
+          ],
+          "summary": [
+            "\"The year is 1876. Warring Indian tribes still populate America's western territories even as lawless gold-rush towns begin to mark the landscape. In much of the country, it is still illegal to espouse evolution. Against this backdrop, two monomaniacal paleontologists pillage the Wild West, hunting for dinosaur fossils while surveilling, deceiving, and sabotaging each other in a rivalry that will come to be known as the Bone Wars. Into this treacherous territory plunges the arrogant and entitled William Johnson, a Yale student with more privilege than sense. Determined to survive a summer in the West to win a bet against his arch-rival, William has joined world-renowned paleontologist Othniel Charles Marsh on his latest expedition. But when the paranoid and secretive Marsh becomes convinced that William is spying for his nemesis, Edwin Drinker Cope, he abandons him in Cheyenne, Wyoming, a locus of crime and vice. William is forced to join forces with Cope and soon stumbles upon a discovery of historic proportions. With this extraordinary treasure, however, comes exceptional danger, and William's newfound resilience will be tested in his struggle to protect his cache, which pits him against some of the West's most notorious characters.\" -- Publisher's website."
+          ],
+          "notes": [
+            "Map on endpapers."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203738736,
+          "digitalId": "179DA26E-7474-47D9-913F-269E4046C3E4",
+          "isbns": [
+            "9780062473370"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Marsh, Othniel Charles, 1831-1899 Fiction.",
+            "Cope, E. D. (Edward Drinker), 1840-1897 Fiction.",
+            "Fiction.",
+            "Paleontologists Fiction.",
+            "Archaeological expeditions Fiction.",
+            "Fossils Collection and preservation Fiction.",
+            "Dinosaurs Fiction.",
+            "Fossils Fiction.",
+            "Historical Fiction.",
+            "Thriller.",
+            "West (U.S.) History 1860-1890 Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Michael Crichton, the #1 New York Times bestselling author of Jurassic Park, returns to the world of paleontology in this recently discovered novel-a thrilling adventure set in the Wild West during the golden age of fossil hunting.The year is 1876. Warring Indian tribes still populate America's western territories even as lawless gold-rush towns begin to mark the landscape. In much of the country it is still illegal to espouse evolution. Against this backdrop two monomaniacal paleontologists pillage the Wild West, hunting for dinosaur fossils, while surveilling, deceiving and sabotaging each other in a rivalry that will come to be known as the Bone Wars.Into this treacherous territory plunges the arrogant and entitled William Johnson, a Yale student with more privilege than sense. Determined to survive a summer in the west to win a bet against his arch-rival, William has joined world-renowned paleontologist Othniel Charles Marsh on his latest expedition. But when the paranoid and secretive Marsh becomes convinced that William is spying for his nemesis, Edwin Drinker Cope, he abandons him in Cheyenne, Wyoming, a locus of crime and vice. William is forced to join forces with Cope and soon stumbles upon a discovery of historic proportions. With this extraordinary treasure, however, comes exceptional danger, and William's newfound resilience will be tested in his struggle to protect his cache, which pits him against some of the West's most notorious characters.A page-turner that draws on both meticulously researched history and an exuberant imagination, Dragon Teeth is based on the rivalry between real-life paleontologists Cope and Marsh; in William Johnson readers will find an inspiring hero only Michael Crichton could have imagined. Perfectly paced and brilliantly plotted, this enormously winning adventure is destined to become another Crichton classic."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 202926292,
+          "isbns": [
+            "9780062674210",
+            "0062674218"
+          ],
+          "format": {
+            "code": "27",
+            "name": "Large Print"
+          },
+          "edition": [
+            "First HarperLuxe edition."
+          ],
+          "publisher": [
+            "New York, NY : HarperLuxe, an imprint of HarperCollinsPublishers",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Marsh, Othniel Charles, 1831-1899 Fiction.",
+            "Cope, E. D. (Edward Drinker), 1840-1897 Fiction.",
+            "Paleontologists Fiction.",
+            "Archaeological expeditions Fiction.",
+            "Fossils Collection and preservation Fiction.",
+            "Dinosaurs Fiction.",
+            "Fossils Fiction.",
+            "West (U.S.) History 1860-1890 Fiction.",
+            "Large type books."
+          ],
+          "physicalDescription": [
+            "378 pages (large print) ; 23 cm"
+          ],
+          "summary": [
+            "The year is 1876. Among the warring Indian tribes and lawless gold-rush towns of America's western territories, two paleontologists pillage the Wild West. They are hunting for dinosaur fossils, while surveilling, deceiving and sabotaging each other in a rivalry that will come to be known as the Bone Wars. Into this treacherous territory plunges the arrogant and entitled Yale student William Johnson. Determined to survive a summer in the west to win a bet, William has joined world-renowned paleontologist Othniel Charles Marsh on his latest expedition. But Marsh becomes convinced that William is spying for his nemesis, Edwin Drinker Cope, so he abandons him in Cheyenne, Wyoming, a locus of crime and vice. Soon William joins forces with Cope and stumbles upon a discovery of historic proportions. The struggle to protect this extraordinary treasure tests William's newfound resilience, and pits him against some of the West's most dangerous and notorious characters."
+          ],
+          "notes": [
+            "\"Larger print\"--Page 4 of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203690952,
+          "digitalId": "10887F71-E6D0-4622-882D-9DC91C41E7F7",
+          "otherAuthors": [
+            "Brick, Scott."
+          ],
+          "isbns": [
+            "9780062473394"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : HarperAudio"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Fiction.",
+            "Fossils",
+            "Dinosaurs",
+            "Fossils Collection and preservation",
+            "Archaeological expeditions",
+            "Paleontologists",
+            "Historical Fiction.",
+            "Thriller.",
+            "West United States"
+          ],
+          "physicalDescription": [
+            "1 online resource (7 audio files) : digital"
+          ],
+          "summary": [
+            "Michael Crichton, the #1 New York Times bestselling author of Jurassic Park, returns to the world of paleontology in this recently discovered novel-a thrilling adventure set in the Wild West during the golden age of fossil hunting.The year is 1876. Warring Indian tribes still populate America's western territories even as lawless gold-rush towns begin to mark the landscape. In much of the country it is still illegal to espouse evolution. Against this backdrop two monomaniacal paleontologists pillage the Wild West, hunting for dinosaur fossils, while surveilling, deceiving and sabotaging each other in a rivalry that will come to be known as the Bone Wars.Into this treacherous territory plunges the arrogant and entitled William Johnson, a Yale student with more privilege than sense. Determined to survive a summer in the west to win a bet against his arch-rival, William has joined world-renowned paleontologist Othniel Charles Marsh on his latest expedition. But when the paranoid and secretive Marsh becomes convinced that William is spying for his nemesis, Edwin Drinker Cope, he abandons him in Cheyenne, Wyoming, a locus of crime and vice. William is forced to join forces with Cope and soon stumbles upon a discovery of historic proportions. With this extraordinary treasure, however, comes exceptional danger, and William's newfound resilience will be tested in his struggle to protect his cache, which pits him against some of the West's most notorious characters.Drawing on both meticulously researched history and an exuberant imagination, Dragon Teeth is based on the rivalry between real-life paleontologists Cope and Marsh; in William Johnson readers will find an inspiring hero only Michael Crichton could have imagined. Perfectly paced and brilliantly plotted, this enormously winning adventure is destined to become another Crichton classic."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Scott Brick."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A (very) short history of life on Earth : 4.6 billion years in 12 chapters",
+      "author": "Gee, Henry, 1962-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529060577?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529060577?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529060577?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205598390,
+          "variantTitles": [
+            "History of life on Earth",
+            "4.6 billion years in 12 chapters",
+            "Four point six billion years in twelve chapters"
+          ],
+          "isbns": [
+            "9781529060577",
+            "1529060575"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Picador"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Evolution (Biology) History.",
+            "Life Origin.",
+            "Animals, Fossil.",
+            "Animals History.",
+            "Animals.",
+            "Animals, Fossil.",
+            "Evolution (Biology)",
+            "Life Origin.",
+            "Evolution (Biology)",
+            "Life Origin",
+            "Planets Origin",
+            "Earth (Planet)",
+            "Planets Age",
+            "Life sciences",
+            "Animals",
+            "Animals, Fossil"
+          ],
+          "physicalDescription": [
+            "318 pages ; 23 cm."
+          ],
+          "summary": [
+            "In the tradition of E.H. Gombrich, Stephen Hawking, and Alan Weisman-an entertaining and uniquely informed narration of Life's life story. In the beginning, Earth was an inhospitably alien place-in constant chemical flux, covered with churning seas, crafting its landscape through incessant volcanic eruptions. Amid all this tumult and disaster, life began. The earliest living things were no more than membranes stretched across microscopic gaps in rocks, where boiling hot jets of mineral-rich water gushed out from cracks in the ocean floor. Although these membranes were leaky, the environment within them became different from the raging maelstrom beyond. These havens of order slowly refined the generation of energy, using it to form membrane-bound bubbles that were mostly-faithful copies of their parents-a foamy lather of soap-bubble cells standing as tiny clenched fists, defiant against the lifeless world. Life on this planet has continued in much the same way for millennia, adapting to literally every conceivable setback that living organisms could encounter and thriving, from these humblest beginnings to the thrilling and unlikely story of ourselves. In A (Very) Short History of Life on Earth, Henry Gee zips through the last 4.6 billion years with infectious enthusiasm and intellectual rigor. Drawing on the very latest scientific understanding and writing in a clear, accessible style, he tells an enlightening tale of survival and persistence that illuminates the delicate balance within which life has always existed."
+          ],
+          "contents": [
+            "A song of fire and ice -- Animals assemble -- The backbone begins -- Running aground -- Arise, amniotes -- Triassic Park -- Dinosaurs in flight -- Those magnificent mammals -- Planet of the apes -- Across the world -- The end of prehistory -- The past of the future."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The story of evolution in 25 discoveries : The evidence and the people who found it.",
+      "author": "Prothero, Donald R",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780231190367?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780231190367?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780231190367?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205389246,
+          "isbns": [
+            "9780231190367",
+            "0231190360",
+            "9780231190374",
+            "0231190379",
+            "9780231548854"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Columbia University Press",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Evolution Research.",
+            "Evolution History.",
+            "Evolution."
+          ],
+          "physicalDescription": [
+            "xii, 360 pages : illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"The theory of evolution unites the past, present, and future of living things. It puts humanity's place in the universe into necessary perspective. Despite a history of controversy, the evidence for evolution continues to accumulate as a result of many separate strands of incredible scientific sleuthing. In The Story of Evolution in 25 Discoveries, Donald R. Prothero explores the most fascinating breakthroughs in piecing together the evidence for evolution. In twenty-five vignettes, he recounts the dramatic stories of the people who made crucial discoveries, placing each moment in the context of what it represented for the progress of science. He tackles topics like what it means to see evolution in action and the distance between species in space and time, following figures from Darwin to lesser-known researchers as they unlock the mysteries of the fossil record, the earth, and the universe. The book also features the stories of animal species strange and familiar, including humans-and our ties to some of our closest relatives and more distant cousins. Prothero's wide-ranging tales showcase awe-inspiring and bizarre aspects of nature and the powerful insights they give us into the way that life works\"-- Provided by publisher."
+          ],
+          "contents": [
+            "Part I. In the beginning : everything evolves, and earth is very old ; Everything evolves and changes : discovery of the evolving universe ; The abyss of time : The immense age of the Earth -- Part II. Darwin's evidence for evolution ; Evolution in action : transformation in real time ; Our common body plan : homology ; Ontology recapitulates phylogeny : evidence in embryos ; The sinking of Noah's ark: biogeography ; The branching tree of life : phylogeny ; The case of the cruel wasps : nature is not moral ; Jury-rigged contrivances : nature is not optimally designed -- Part III. Great transitions in the history of life ; A whale of a tale : vestigial organs and walking whales ; Invasion of the land: amphibians crawl out of the water ; Missing links found: macroevolution and transitional fossils ; Birds with teeth : the dinosaurs among us ; A horse! A horse! My kingdom for a horse! : the evolution of equines ; How the giraffe got its neck : Lamarck, Darwin, and the left recurrent laryngeal nerve ; How the elephant got its trunk : the evolution of proboscideans -- Part IV. Eyes and genes ; A warm little pond : how did life originate? ; Genetics junkyard : most of our DNA is useless ; Legs on their heads : homeotic mutants and evo-devo ; The eyes have it : the evolution of photoreception -- Part V. Humans and evolution ; A tinkerer, not an engineer : are humans well designed? ; The third chimpanzee : are we really 99 percent the same? ; The ape's reflection : are humans really that different from other animals? ; Bones of our ancestors : the human fossil record ; The once and future human : are humans still evolving?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205410122,
+          "digitalId": "99FF18E2-7672-4576-9C2C-053619EB0C6A",
+          "isbns": [
+            "9780231548854"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "LaVergne : Columbia University Press"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Nonfiction.",
+            "Evolution.",
+            "Evolution History.",
+            "Evolution Research.",
+            "History.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The theory of evolution unites the past, present, and future of living things. It puts humanity's place in the universe into necessary perspective. Despite a history of controversy, the evidence for evolution continues to accumulate as a result of many separate strands of incredible scientific sleuthing. In  The Story of Evolution in 25 Discoveries , Donald R. Prothero explores the most fascinating breakthroughs in piecing together the evidence for evolution. In twenty-five vignettes, he recounts the dramatic stories of the people who made crucial discoveries, placing each moment in the context of what it represented for the progress of science. He tackles topics like what it means to see evolution in action and the distance between species in space and time, following figures from Darwin to lesser-known researchers as they unlock the mysteries of the fossil record, the earth, and the universe. The book also features the stories of animal species strange and familiar, including humans-and our ties to some of our closest relatives and more distant cousins. Prothero's wide-ranging tales showcase awe-inspiring and bizarre aspects of nature and the powerful insights they give us into the way that life works. Brisk and entertaining while firmly grounded in fundamental science,  The Story of Evolution in 25 Discoveries  is a captivating read for anyone curious about the evidence for evolution and what it means for humanity."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The sixth extinction (young readers adaptation) An unnatural history.",
+      "author": "Kolbert, Elizabeth",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1250887313?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1250887313?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1250887313?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300040669,
+          "isbns": [
+            "1250887313",
+            "9781250887313"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "10th anniversary edition; first Holt paperbacks edition."
+          ],
+          "publisher": [
+            "New York : Henry Holt and Company"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Mass extinctions.",
+            "Extinction (Biology)",
+            "Environmental disasters.",
+            "Disasters."
+          ],
+          "physicalDescription": [
+            "334 pages : illustrations ; 21 cm"
+          ],
+          "summary": [
+            "\"Over the last half a billion years, there have been five mass extinctions, when the diversity of life on earth suddenly and dramatically contracted. Scientists around the world are currently monitoring the Sixth Extinction, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. This time around, the cataclysm is us.  In The Sixth Extinction, two-time winner of the National Magazine Award and New Yorker writer Elizabeth Kolbert draws on the work of scores of researchers in half a dozen disciplines, accompanying many of them into the field: geologists who study deep ocean cores, botanists who follow the tree line as it climbs up the Andes, marine biologists who dive off the Great Barrier Reef. She introduces us to a dozen species, some already gone, others facing extinction, including the Panamian golden frog, staghorn coral, the great auk, and the Sumatran rhino. Through these stories, Kolbert provides a moving account of the disappearances occurring all around us and traces the evolution of extinction as concept, from its first articulation by Georges Cuvier in revolutionary Paris up through the present day. In the ten years since the book was originally published, evidence of the Sixth Extinction has continued to mount, making its message more urgent than ever\"-- Amazon."
+          ],
+          "contents": [
+            "Prologue -- The sixth extinction -- The mastodon's molars -- The original penguin -- The luck of the ammonites -- Welcome to the Anthropocene -- The sea around us -- Dropping acid -- The forest and the trees -- Islands on dry land -- The new Pangaea -- The rhino gets an ultrasound -- The madness gene -- The thing with feathers -- Epilogue."
+          ],
+          "notes": [
+            "\"With a new epilogue\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300029133,
+          "variantTitles": [
+            "6th extinction"
+          ],
+          "otherAuthors": [
+            "Kleiner, John, 1961- adaptor.",
+            "Roux, Jessica, illustrator.",
+            "Adaptation of (work): Kolbert, Elizabeth. Sixth extinction."
+          ],
+          "isbns": [
+            "9781250793423",
+            "1250793424"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Godwin Books/Henry Holt and Company"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Mass extinctions Juvenile literature.",
+            "Extinction (Biology) Juvenile literature.",
+            "Environmental disasters Juvenile literature."
+          ],
+          "physicalDescription": [
+            "206 pages : illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"Over the last half-billion years, there have been five mass extinctions, when the diversity of life on earth suddenly and dramatically contracted. Scientists around the world are monitoring the sixth extinction, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. Adapting from her New York Times-bestselling, Pulitzer Prize-winning adult nonfiction, Elizabeth Kolbert explores the Anthropocene era: the era defined by human impact. This young readers adaptation is made accessible with its additional explanations of scientific concepts. Along with photographs from the original book, the adaptation includes illustrations to help make the past, present, and future of extinction compelling for younger readers\"--Provided by publisher."
+          ],
+          "contents": [
+            "The sixth extinction (Atelopus zeteki) -- The mastodon's molars (Mammut americanum) -- The original penguin (Pinguinus impennis) -- The luck of the ammonites (Discoscaphites jerseyensis) -- Welcome to the Anthropocene (Dicranograptus ziczac) -- The sea around us (Patella caerulea) -- A reef in time (Acropora millepora) -- The forest and the trees (Alzatea verticillata) -- Islands on dry land (Eciton burchellii) -- The new Pangaea (Myotis lucifugus) -- The rhino gets an ultrasound (Dicerorhinus sumatrensis) -- The madness gene (Homo neanderthalensis) -- The thing with feathers (Homo sapiens)."
+          ],
+          "notes": [
+            "Young readers' adaptation of The sixth extinction : an unnatural history first published in New York by Henry Holt and Company, 2014.",
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 201174738,
+          "isbns": [
+            "9781250062185",
+            "1250062187"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Picador edition."
+          ],
+          "publisher": [
+            "New York : Picador, Henry Holt and Company"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Mass extinctions.",
+            "Extinction (Biology)",
+            "Environmental disasters."
+          ],
+          "physicalDescription": [
+            "319 pages : illustrations ; 21 cm"
+          ],
+          "summary": [
+            "Over the last half billion years, there have been five major mass extinctions, when the diversity of life on Earth suddenly and dramatically contracted. Scientists are currently monitoring the sixth extinction, predicted to be the most devastating since the asteroid impact that wiped out the dinosaurs. This time around the cataclysm is us. In this book the author tells us why and how human beings have altered life on the planet in a way no species has before. She provides a moving account of the disappearances of various species occurring all around us and traces the evolution of extinction as concept, from its first articulation by Georges Cuvier in revolutionary Paris up to Lyell and Darwin, and through the present day. The sixth extinction is likely to be mankind's most lasting legacy, compelling us to rethink the fundamental question of what it means to be human."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203263863,
+          "digitalId": "314BA091-03EA-4DC3-BF48-DB93E011A45A",
+          "isbns": [
+            "9781408851234 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Nonfiction.",
+            "Nature."
+          ],
+          "summary": [
+            "Over the last half a billion years, there have been five mass extinctions of life on earth. Scientists around the world are currently monitoring the sixth, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. Elizabeth Kolbert combines brilliant field reporting, the history of ideas and the work of geologists, botanists and marine biologists to tell the gripping stories of a dozen species &#8211; including the Panamanian golden frog and the Sumatran rhino &#8211; some already gone, others at the point of vanishing. The sixth extinction is likely to be mankind's most lasting legacy and Elizabeth Kolbert's book urgently compels us to rethink the fundamental question of what it means to be human."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300044673,
+          "digitalId": "F6EFD1A8-B2D8-42C9-9B41-A1B4EC45D2EB",
+          "otherAuthors": [
+            "Wong, Eunice."
+          ],
+          "isbns": [
+            "9781797168135 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Simon & Schuster Audio"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Science.",
+            "Sociology."
+          ],
+          "physicalDescription": [
+            "1 online resource (5 audio files) : digital"
+          ],
+          "summary": [
+            "In this young readers edition of the  New York Times  bestselling, Pulitzer Prize–winning  The Sixth Extinction,  Elizabeth Kolbert tells us why and how human beings have altered life on the planet in a way no species has before.  Over the last half a billion years, there have been five mass extinctions, when the diversity of life on earth suddenly and dramatically contracted. Scientists around the world are monitoring the sixth extinction, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. Adapting from her  New York Times  bestselling, Pulitzer Prize–winning adult nonfiction, Elizabeth Kolbert explores how humans are altering life on Earth."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Eunice Wong."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The little book of orchids : Gems of nature.",
+      "seriesTitle": [
+        "The Little Book of."
+      ],
+      "author": "Chase, Mark W., 1951-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711253933?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711253933?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711253933?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204486983,
+          "variantTitles": [
+            "Orchids"
+          ],
+          "otherAuthors": [
+            "Christenhusz, Maarten J. M., 1976- author.",
+            "Mirenda, Tom, author."
+          ],
+          "isbns": [
+            "9780711253933",
+            "0711253935"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Ivy Press",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Orchids.",
+            "Orchids Identification."
+          ],
+          "physicalDescription": [
+            "176 pages : color illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Orchids are elegant, exotic and mysterious. Discover 75 amazing examples in this beautiful little book. One in every seven flowering plants on earth is an orchid, and they have been around since the dinosaurs. These popular and fascinating plants have evolved to thrive in a wide variety of habitats, and come in a huge array of colours and designs, developed to ensure they are pollinated, and thus survive. Using beautifully coloured engravings, this book showcases a select few from this remarkable plant family. Featuring showy species, such as the Queen of Sheba and the spectacular big lip, as well as those with delicate petals, such as the royal butterfly and the felt orchid, this book illustrates the startling hues and striking forms that make orchids such popular plants. Ingenious flowers abound, with the vampire dragon, monkey-face and black fiddle orchids providing dramatic blooms, while several species, such as the bee orchid, are masters of mimicry, designed to fool insects into thinking they have found a mate. Get to know these fabulous flowers in this handy little book."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205347044,
+          "digitalId": "B5799E30-688D-4503-9722-60A84245F5C9",
+          "otherAuthors": [
+            "Mirenda, Tom, author."
+          ],
+          "isbns": [
+            "9780711253940"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Nonfiction.",
+            "Orchids Identification.",
+            "Orchids.",
+            "Gardening.",
+            "Nature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Orchids are elegant, exotic and mysterious. Discover 75 amazing examples in this beautiful little book.   One in every seven flowering plants on earth is an orchid, and they have been around since the dinosaurs. These popular and fascinating plants have evolved to thrive in a wide variety of habitats, and come in a huge array of colours and designs - developed to ensure they are pollinated, and thus survive.  Using beautifully coloured engravings, this book showcases a select few from this remarkable plant family. Featuring showy species, such as the Queen of Sheba and the spectacular big lip, as well as those with delicate petals, such as the royal butterfly and the felt orchid, this book illustrates the startling hues and striking forms that make orchids such popular plants. Ingenious flowers abound, with the vampire dragon, monkey-face and black fiddle orchids providing dramatic blooms, while several species, such as the bee orchid, are masters of mimicry, designed to fool insects into thinking they have found a mate.  Get to know these fabulous flowers in this handy little book."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Turtles of the world : a guide to every family",
+      "author": "Lovich, Jeffrey E",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780691223223?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780691223223?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780691223223?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205608044,
+          "otherAuthors": [
+            "Gibbons, Whit, 1939- author."
+          ],
+          "isbns": [
+            "9780691223223",
+            "069122322X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Princeton, New Jersey : Princeton University Press",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Turtles.",
+            "Turtles Identification.",
+            "Turtles"
+          ],
+          "physicalDescription": [
+            "240 pages : color illustrations, color maps ; 25 cm."
+          ],
+          "contents": [
+            "The turtle families -- Suborder Cryptodira -- Suborder Pleurodira."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205628116,
+          "digitalId": "B813CCEC-6BA0-4DCE-9D7C-02FDF4DFC6AD",
+          "otherAuthors": [
+            "Gibbons, Whit, 1939- author."
+          ],
+          "isbns": [
+            "9780691229034"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Nonfiction.",
+            "Turtles Identification.",
+            "Turtles.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A lavishly illustrated guide to the world's turtles that looks at every family and genus   Turtles of the World  reveals the extraordinary diversity of these amazing reptiles. Characterized by the cartilaginous shell that acts as a shield to protect the softer body within, turtles are survivors from the time of the dinosaurs and are even more ancient in evolutionary terms than snakes and crocodilians. Of the 356 species known today, some are highly endangered. In this beautiful guide, turtle families, subfamilies, and genera are illustrated with hundreds of color photographs. Each species profile includes a population distribution map, a table of information, and commentary that includes notable characteristics and discussion of related species.  More than 250 beautiful color photos  Each profile features a distribution map, table of information, and commentary  Broad coverage includes every family and genus"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The book of fun : An illustrated history of having a good time.",
+      "author": "Frushtick, Russ",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0762480483?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0762480483?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0762480483?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205855391,
+          "otherAuthors": [
+            "Ross, Sonny, illustrator.",
+            "McElroy, Justin, 1980- writer of introductory text."
+          ],
+          "isbns": [
+            "0762480483",
+            "9780762480487"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Philadelphia : Running Press"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Amusements History.",
+            "Board games History.",
+            "Toys History.",
+            "Video games History.",
+            "Amusement parks History.",
+            "Sports History.",
+            "Stunt performers History.",
+            "Festivals History.",
+            "Costume History.",
+            "Amusements."
+          ],
+          "physicalDescription": [
+            "vii, 119 pages : illustrations (color) ; 22 cm"
+          ],
+          "summary": [
+            "\"Delve into the hidden backstories and fascinating facts about your favorite pastimes with this vibrantly illustrated history from Russ Frushtick and Sonny Ross.  Inside you'll find 80+ entertaining entries spread across chapters on board games, toys, video games, theme parks, sports, stunts, festivals, dressing up, and roadside attractions.  Behold the weird and wonderful things people have invented to have a blast, from chess and Nintendo to Drag Queen Story Hour and Burning Man.\"-- Page 4 of cover."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205842230,
+          "digitalId": "505D0438-FBCE-455C-AA4B-E1276304EFC3",
+          "isbns": [
+            "9780762480494"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Nonfiction.",
+            "History.",
+            "Reference.",
+            "Sociology."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Dive into this vibrantly illustrated history of everything humans have invented to entertain ourselves, from Chess and Nintendo to Drag Queen Story Hour and Burning Man.  In  The Book of Fun , Polygon co-founder Russ Frushtick divulges the hidden backstories and fascinating facts about your favorite video games, theme parks, festivals, sports, and more. With 80+ digestible, entertaining entries, it's not just fodder for your next dinner party - you might also discover your next great pastime, be it jousting, stunt acting, cheese rolling, or Swedish Bunny Hopping. For fans of pop-history, pop-science, and the many things mankind has invented to waste time,  The Book of Fun  explores:  Board Games:  The world's oldest tabletop games (Senet, Go, Chess) and its most enduringly popular (Monopoly, Dungeons & Dragons, Settlers of Catan)   Toys:  The history of your favorite playthings, like Barbie, Beanie Babies, Slinky, Furby, and LEGO   Video Games:  The console wars of the '90s, the birth of game streaming, and unexpected Pokémon Go consequences   Theme Parks:  Stories behind Coney Island's Cyclone, Disneyland's opening-day woes, and the bizarre parks built in a nuclear power plant and a Soviet bunker   Sports:  The most fascinating athletic endeavors across the globe, from gladiatorial battles to Lucha Libre, pumpkin boat racing, and sumo wrestling   Stunts:  Harry Houdini, Evel Knievel, Jackie Chan, and the incredible stunt artists you may not know   Festivals:  From Carnival celebrations around the world to the stories of Woodstock, Burning Man, and a Spanish baby-jumping festival   Dressing Up:  The origins of jesters, Halloween, cosplay, drag queen style, and more   Roadside Attractions : Wacky spectacles like the 65-foot-tall Lucy the Elephant in New Jersey, the Mystery Hole in West Virginia, and the Cabazon Dinosaurs in California"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tales from the loop",
+      "author": "Stålenhag, Simon",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781471194412?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781471194412?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781471194412?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205643442,
+          "otherTitles": [
+            "Ur varselklotet. English"
+          ],
+          "otherAuthors": [
+            "Dunelind, Martin, translator."
+          ],
+          "isbns": [
+            "9781471194412 (hardback)",
+            "1471194418 (hardback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "English edition."
+          ],
+          "publisher": [
+            "London : Simon & Schuster",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Stålenhag, Simon.",
+            "Imaginary histories.",
+            "Particle accelerators Sweden.",
+            "Particle accelerators Sweden Pictorial works.",
+            "Technological innovations Social aspects Pictorial works.",
+            "Technology Social aspects Pictorial works.",
+            "Technology and civilization Pictorial works.",
+            "Group identity Sweden Mälar, Lake Pictorial works.",
+            "Artists' books Sweden.",
+            "Mälar, Lake, Region (Sweden) Effect of technological innovations on.",
+            "Mälar, Lake, Region (Sweden) Pictorial works.",
+            "Sweden Pictorial works.",
+            "Sweden Effect of technological innovations on Pictorial works.",
+            "Artists' books.",
+            "Group identity.",
+            "Imaginary histories.",
+            "Particle accelerators.",
+            "Technological innovations Social aspects.",
+            "Technology and civilization.",
+            "Technology Social aspects.",
+            "Sweden.",
+            "Sweden Lake Mälar.",
+            "Sweden Mälar Lake Region."
+          ],
+          "physicalDescription": [
+            "125 pages : chiefly colour illustrations, color maps ; 26 x 29 cm"
+          ],
+          "summary": [
+            "ART & DESIGN STYLES: CONCEPTUAL ART. Simon Stalenhag's Tales from the Loop is a wildly successful crowd-funded project that takes viewers on a surprising sci-fi journey through various country and city landscapes from small towns in Sweden and the deserts of Nevada to the bitter chill of Siberia where children explore and engage with abandoned robots, vehicles, and machinery large and small, while dinosaurs and other creatures wander our roads and fields. Stalenhag's paintings and stories take place in an alternate version of Sweden in the 80s and 90s, primarily in the countryside of Malaroarna, a string of islands just west of Stockholm, and how this reality came about: the development of the Loop, a large particle accelerator and the side effects of the massive project."
+          ],
+          "notes": [
+            "Colour maps on lining pages.",
+            "\"Now an Amazon original series prime video\"-- Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205638442,
+          "digitalId": "6EE77C4C-A04C-4095-9D47-AAEE1B2E5585",
+          "otherAuthors": [
+            "Dunelind, Martin, translator."
+          ],
+          "isbns": [
+            "9781471194429"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Stålenhag, Simon.",
+            "Fiction.",
+            "Technology Social aspects.",
+            "Technology and civilization.",
+            "Technological innovations Social aspects.",
+            "Particle accelerators.",
+            "Imaginary histories.",
+            "Group identity.",
+            "Artists' books.",
+            "Artists' books Sweden.",
+            "Group identity Sweden Mälar, Lake Pictorial works.",
+            "Technology and civilization Pictorial works.",
+            "Technology Social aspects Pictorial works.",
+            "Technological innovations Social aspects Pictorial works.",
+            "Particle accelerators Sweden Pictorial works.",
+            "Particle accelerators Sweden.",
+            "Imaginary histories.",
+            "Comic and Graphic Books.",
+            "Mälar, Lake, Region (Sweden) Effect of technological innovations on.",
+            "Sweden Mälar Lake Region.",
+            "Sweden Lake Mälar.",
+            "Sweden.",
+            "Sweden Effect of technological innovations on Pictorial works.",
+            "Sweden Pictorial works.",
+            "Mälar, Lake, Region (Sweden) Pictorial works."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "'Remarkable... beautiful'   - National Public Radio    These are the tales of an extraordinary journey: from the small towns of Sweden to the deserts of Nevada to the bitter chill of Siberia. A journey where children make friends with abandoned robots... in a world where dinosaurs roam freely.  These are the Tales from the Loop.  Stories told in both words and haunting illustrations, TALES FROM THE LOOP captures a not-too-distant reality that is both haunting and imminent: addressing the many ways developing technology and nature can create havoc and wonder in our world... and the hope we might still find in that future.   Perfect for fans of everything from STRANGER THINGS to JURASSIC PARK to JUMANJI,  Tales from the Loop  is an incredible, unmissable work of genius.  PRAISE for SIMON STALENHAG   'Tales  has the magic. It's got the robots, the weirdness, the dinosaurs. But most of all, it has the wonder. No one who picks this book up will be the same person when they put it down again'  NPR  on  Tales from the Loop   ' No words to describe this novel in pictures. Stahlenhag defined a whole new aesthetic for scifi in the 21st century' Damien Walter on  The Electric State   'A chilling, unforgettable visual and narrative experience'  Locus  on  The Electric State   Stalenhag's 'stories crawl into my brain and mess with my memory of history, time and place'  NPR  on  The Electric State"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Hits & misses : stories",
+      "author": "Rich, Simon",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781781259054?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781781259054?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781781259054?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203203925,
+          "variantTitles": [
+            "Hits and misses"
+          ],
+          "isbns": [
+            "9781781259054",
+            "1781259054"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Serpent's Tail",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Satire.",
+            "Wit and humor.",
+            "Short stories, American 21st century."
+          ],
+          "physicalDescription": [
+            "230 pages ; 21 cm"
+          ],
+          "summary": [
+            "A hilarious collection inspired by a former Saturday Night Live writer's real experiences in Hollywood, chronicling the absurdity of fame and the humanity of failure in a world dominated by social media influencers and reality TV stars."
+          ],
+          "contents": [
+            "The baby -- The foosball championship of the whole entire universe -- Birthday party -- The book of Simon -- Relapse -- Hands -- New client -- The great jester -- Physicians' lounge, April 1st -- Riding solo : the Oatsy story -- Menlo Park, 1891 -- Tom Hanks stories -- Adolf Hitler: the GQ profile -- Any person, living or dead -- Upward mobility -- Dinosaur -- Artist's revenge -- Stage 13."
+          ],
+          "notes": [
+            "Harback edition with ISBN 9780316468893 published by New York, NY :  Little, Brown and Company,  [2018]."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204009633,
+          "digitalId": "8CAEBB09-8315-4D13-BCCD-8824E83B3073",
+          "isbns": [
+            "9781782833864"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Fiction.",
+            "Short stories, American 21st century.",
+            "Wit and humor.",
+            "Satire.",
+            "Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "'Simon Rich is outrageously, lavishly gifted'- Caitlin Moran'Simon Rich is the funniest writer alive'- Matt Haig'How fabulously funny'- Lauren Laverne'One of my favourite authors'- B J NovakFrom a bitter tell-all by a horse who made a man famous and then got left behind to a gushing magazine profile of one of your favorite World War II dictators, these stories trawl through history to skewer our obsession with fame and fortune - all the way from ancient Babylon to Hollywood. What father-to-be wouldn't feel a little jealous when his baby outstrips his success from the womb? And what happens when a film critic is forced to live in the movies he so cruelly damned?Loved in the UK by celebs and writers alike, from Lauren Laverne to Matt Haig and Caitlin Moran, Simon Rich is back with his funniest and most personal collection of stories to date."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Weird earth : Debunking strange ideas about our planet.",
+      "author": "Prothero, Donald R",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781684350612?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781684350612?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781684350612?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205254980,
+          "isbns": [
+            "9781684350612",
+            "1684350611"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Bloomington, Indiana : Red Lightning Books"
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Geology.",
+            "Conspiracy theories.",
+            "Curiosities and wonders."
+          ],
+          "physicalDescription": [
+            "xv, 293 pages : illustrations, maps ; 24 cm"
+          ],
+          "summary": [
+            "\"Applying his extensive scientific knowledge, Prothero corrects misinformation that con artists and quacks use to hoodwink others about geology--hollow earth, expanding earth, and bizarre earthquakes--and mystical and paranormal happenings--healing crystals, alien landings, and the gates of hell. By deconstructing wild claims such as prophesies of imminent natural disasters, Prothero provides a way for everyone to recognize dubious assertions. Prothero answers these claims with facts, offering historical and scientific context in a light-hearted manner that is accessible to everyone, no matter their background. With a careful layering of evidence in geology, archaeology, and biblical and historical records, Prothero's Weird Earth examines each conspiracy and myth and leaves no question unanswered.\"--Dust jacket flap."
+          ],
+          "contents": [
+            "Foreword -- Preface -- Acknowledgments -- Science and critical thinking -- The flat earth -- Ptolemy revisited -- The hollow earth -- Is the earth expanding? -- Did we really land on the Moon? -- Magnetic myths -- Earth-shaking myths -- Quacks and quakes -- Was there a great flood? -- Are dinosaurs faked? -- Is the earth only six thousand years old? -- Mysteries of Mount Shasta -- The myth of Atlantis -- The mysterious ley lines -- Crystal con artists -- Water witching -- Mysterious earth: why people want to believe weird things."
+          ],
+          "notes": [
+            "Includes bibliographic resources and index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205394282,
+          "digitalId": "B3B448B4-0C55-45D2-872A-095777D4BF4A",
+          "isbns": [
+            "9781684351367",
+            "9781684351237"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Nonfiction.",
+            "Geology.",
+            "Curiosities and wonders.",
+            "Conspiracy theories.",
+            "Curiosities and wonders.",
+            "Conspiracy theories.",
+            "Geology.",
+            "Science.",
+            "Earth (Planet)",
+            "Earth (Planet)"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Aliens. Ley lines. Water dowsing. Conspiracies and myths captivate imaginations and promise mystery and magic. Whether it's arguing about the moon landing hoax or a Frisbee-like Earth drifting through space, when held up to science and critical thinking, these ideas fall flat.  In  Weird Earth: Debunking Strange Ideas About Our Planet , Donald R. Prothero demystifies these conspiracies and offers answers to some of humanity's most outlandish questions. Applying his extensive scientific knowledge, Prothero corrects misinformation that con artists and quacks use to hoodwink others about geology-hollow earth, expanding earth, and bizarre earthquakes-and mystical and paranormal happenings-healing crystals, alien landings, and the gates of hell. By deconstructing wild claims such as prophesies of imminent natural disasters, Prothero provides a way for everyone to recognize dubious assertions. Prothero answers these claims with facts, offering historical and scientific context in a light-hearted manner that is accessible to everyone, no matter their background.  With a careful layering of evidence in geology, archaeology, and biblical and historical records, Prothero's  Weird Earth  examines each conspiracy and myth and leaves no question unanswered."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Dimension of miracles",
+      "seriesTitle": [
+        "Penguin classics science fiction."
+      ],
+      "author": "Sheckley, Robert, 1928-2005",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241472491?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241472491?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241472491?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205405989,
+          "isbns": [
+            "9780241472491",
+            "0241472490"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Penguin Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Awards Fiction.",
+            "Interplanetary voyages Fiction."
+          ],
+          "physicalDescription": [
+            "199 pages ; 18 cm."
+          ],
+          "summary": [
+            "Announced in a thunderclap out of another day's tedium, hapless New Yorker Tom Carmody learns that he is the winner of the Intergalactic Sweepstake. Accepting with a shrug, he is whipped across the universe to collect his prize. The catch? There's no way home. Enlisting the help of galactic bureaucrats, planetary engineers and a couple of gods, Carmody embarks on a desperate search for Earth, all the while being pursued by a perplexing predatory creature. Often cited as an influence on Douglas Adams, Dimension of Miracles is a masterwork of electric humour that offers an oblique examination of human nature amid the vastness of the cosmos."
+          ],
+          "notes": [
+            "First published in 1968 by Dell Books."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205434171,
+          "digitalId": "E7F61BBF-82AE-45CE-BDA7-086A56466F45",
+          "isbns": [
+            "9781480496903"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Open Road Media Sci-Fi & Fantasy"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Fiction.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A hapless Earthling must find his way home through a universe of absurdities in this science fiction romp from a Hugo and Nebula Award-nominated master.   New York civil servant Thomas Carmody has never been particularly lucky. Imagine his surprise when he discovers he's won the grand prize in an Intergalactic Lottery he had no idea he'd entered.    Whisked far away to Galactic Central to claim his award, he has two immediate, equally troubling revelations. Not only does his Prize-a talkative device that changes shape-serve no practical purpose whatsoever, but now he's expected to find his own way back to Earth.    Of course, Carmody has no idea where, when, or even which universe he's been stranded in. Ignoring the worthless advice and opinions of his increasingly annoying Prize, he embarks on a bizarre odyssey that takes him from alternate Earth to alternate Earth, bringing him into close contact with all manner of strangeness-and even with a bored God Almighty Himself.    But Carmody's sweepstakes \"windfall\" comes with yet another unexpected drawback. Suddenly, an unrelenting predator is on his tail, determined to eliminate the \"glitch\" wandering lost through numerous dimensions where he does not belong.    A full decade before Douglas Adams devised  The  Hitchhiker's Guide to the Galaxy , Robert Sheckley created his  Dimension of Miracles , launching one luckless protagonist on a hilarious journey across an alien universe of intelligent dinosaurs and mothering sentient towns. Fans of Kurt Vonnegut, Roger Zelazny, Terry Pratchett's Discworld, and Harry Harrison's  Bill the Galactic Hero  will delight in Sheckley's biting and brilliant  Alice in Wonderland -like outer space adventure."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The desert sky before us : A Novel.",
+      "author": "Valente, Anne",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062749871?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062749871?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062749871?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205222064,
+          "isbns": [
+            "9780062749871",
+            "0062749870"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : William Morrow, an imprint of HarperCollins Publishers"
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Families Fiction.",
+            "Women Fiction.",
+            "Mothers Death Fiction.",
+            "Treasure hunting Fiction.",
+            "Women ex-convicts Fiction."
+          ],
+          "physicalDescription": [
+            "428 pages ; 21 cm"
+          ],
+          "summary": [
+            "When Billie is released from a correctional facility in Decatur, her sister Rhiannon is there to meet her, even though the two haven't seen each other in months. Painful secrets and numerous unspoken betrayals linger between them--but most agonizing is the sudden passing of their mother, a renowned paleontologist. Rhiannon and Billie must overcome their differences as they set off on a road trip west, following the breadcrumb-trail of their late mother's scavenger hunt, a sort of second funeral she planned in her final days. The sisters know the trail will end in Utah at the famous Cleveland-Lloyd Quarry, where their mother spent her career researching dinosaur fossils. But the seemingly endless days on the road soon take their toll, forcing Rhiannon and Billie to confront their hostilities and revisit old memories--both good and bad. As they travel across the heart of America, and as a series of plane crashes in the news make their journey all the more urgent, the two sisters begin to rediscover each other and to uncover their late mother's veiled second life, taking them on an unexpected emotional journey inward--and forcing them to come to terms with their own choices in life."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204015609,
+          "digitalId": "B1FEB543-2F5B-44D5-BE19-D80658423CEB",
+          "isbns": [
+            "9780062749888"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Fiction.",
+            "Families.",
+            "Women.",
+            "Fiction Literary.",
+            "Women Fiction.",
+            "Families Fiction.",
+            "Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "\"The Desert Sky Before Us is a marvel. A vital, profound story of the aftermath of loss, and of the terrors and illuminations of love.\" -R.O. Kwon, author of The IncendiariesFrom award-winning author Anne Valente comes this poignant and unforgettable literary novel of two estranged sisters-one, a former racecar driver and the other a recently-released prisoner-who embark on a road trip together to complete the scavenger hunt their mother designed for them before her death.When Billie is released from a correctional facility in Decatur, her sister Rhiannon is there to meet her, even though the two haven't seen each other in months. Painful secrets and numerous unspoken betrayals linger between them-but most agonizing is the sudden passing of their mother, a renowned paleontologist. Rhiannon and Billie must overcome their differences as they set off on a road trip west, following the breadcrumb-trail of their late mother's scavenger hunt, a sort of second funeral she planned in her final days. The sisters know the trail will end in Utah at the famous Cleveland-Lloyd Quarry, where their mother spent her career researching dinosaur fossils. But the seemingly endless days on the road soon take their toll, forcing Rhiannon and Billie to confront their hostilities and revisit old memories-both good and bad.As they travel across the heart of America, and as a series of plane crashes in the news make their journey all the more urgent, the two sisters begin to rediscover each other and to uncover their late mother's veiled second life, taking them on an unexpected emotional journey inward-and forcing them to come to terms with their own choices in life."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 204016493,
+          "digitalId": "E361AB90-13A0-4895-9974-8801BA3A1D52",
+          "otherAuthors": [
+            "Campbell, Cassandra."
+          ],
+          "isbns": [
+            "9780062934277"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "subjects": [
+            "Fiction.",
+            "Women ex-convicts Fiction.",
+            "Treasure hunting Fiction.",
+            "Mothers Death Fiction.",
+            "Women Fiction.",
+            "Families Fiction.",
+            "Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (14 audio files) : digital"
+          ],
+          "summary": [
+            "\"The Desert Sky Before Us is a marvel. A vital, profound story of the aftermath of loss, and of the terrors and illuminations of love.\" -R.O. Kwon, author of The IncendiariesFrom award-winning author Anne Valente comes this poignant and unforgettable literary novel of two estranged sisters-one, a former racecar driver and the other a recently-released prisoner-who embark on a road trip together to complete the scavenger hunt their mother designed for them before her death.When Billie is released from a correctional facility in Decatur, her sister Rhiannon is there to meet her, even though the two haven't seen each other in months. Painful secrets and numerous unspoken betrayals linger between them-but most agonizing is the sudden passing of their mother, a renowned paleontologist. Rhiannon and Billie must overcome their differences as they set off on a road trip west, following the breadcrumb-trail of their late mother's scavenger hunt, a sort of second funeral she planned in her final days. The sisters know the trail will end in Utah at the famous Cleveland-Lloyd Quarry, where their mother spent her career researching dinosaur fossils. But the seemingly endless days on the road soon take their toll, forcing Rhiannon and Billie to confront their hostilities and revisit old memories-both good and bad.As they travel across the heart of America, and as a series of plane crashes in the news make their journey all the more urgent, the two sisters begin to rediscover each other and to uncover their late mother's veiled second life, taking them on an unexpected emotional journey inward-and forcing them to come to terms with their own choices in life."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Cassandra Campbell."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Life on a young planet : The first three billion years of evolution on earth.",
+      "seriesTitle": [
+        "Princeton Science Library."
+      ],
+      "author": "Knoll, Andrew H",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780691165530?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780691165530?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780691165530?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202845871,
+          "isbns": [
+            "9780691165530",
+            "069116553X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Princeton, New Jersey Princeton University Press",
+            ""
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Life Origin."
+          ],
+          "physicalDescription": [
+            "xv, 277 pages, 8 unnumbered pages of plates : illustrations (some colour) ; 22 cm."
+          ],
+          "summary": [
+            "Australopithecines, dinosaurs, trilobites--such fossils conjure up images of lost worlds filled with vanished organisms. But in the full history of life, ancient animals, even the trilobites, form only the half-billion-year tip of a nearly four-billion-year iceberg. Andrew Knoll explores the deep history of life from its origins on a young planet to the incredible Cambrian explosion, presenting a compelling new explanation for the emergence of biological novelty. The very latest discoveries in paleontology are integrated with emerging insights from molecular biology and earth system science to forge a broad understanding of how the biological diversity that surrounds us came to be. In a new preface, Knoll describes how the field has broadened and deepened in the decade since the book's original publication."
+          ],
+          "contents": [
+            "ch. 1 In the Beginning? -- ch. 2 The Tree of Life -- ch. 3 Life's Signature in Ancient Rocks -- ch. 4 The Earliest Glimmers of Life -- ch. 5 The Emergence of Life -- ch. 6 The Oxygen Revolution -- ch. 7 The Cyanobacteria, Life's Microbial Heroes -- ch. 8 The Origins of Eukaryotic Cells -- ch. 9 Fossils of Early Eukaryotes -- ch. 10 Animals Take the Stage -- ch. 11 Cambrian Redux -- ch. 12 Dynamic Earth, Permissive Ecology -- ch. 13 Paleontology ad Astra."
+          ],
+          "notes": [
+            "\"With a new preface by the author.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 11875440,
+          "isbns": [
+            "0691120293",
+            "0691009783"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Princeton, N.J. ; Woodstock : Princeton University Press"
+          ],
+          "publishDate": "2003.",
+          "subjects": [
+            "Life Origin."
+          ],
+          "physicalDescription": [
+            "x, 277 pages, [8] pages of plates: illustrations (some color); 25 cm."
+          ],
+          "notes": [
+            "Paperback ed. published: 2005."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203681353,
+          "digitalId": "F4394861-8D1C-4FD8-8E72-E7E7D61CF37B",
+          "isbns": [
+            "9781400866045"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "edition": [
+            "Revised."
+          ],
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Nonfiction.",
+            "Life Origin.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Australopithecines, dinosaurs, trilobites-such fossils conjure up images of lost worlds filled with vanished organisms. But in the full history of life, ancient animals, even the trilobites, form only the half-billion-year tip of a nearly four-billion-year iceberg. Andrew Knoll explores the deep history of life from its origins on a young planet to the incredible Cambrian explosion, presenting a compelling new explanation for the emergence of biological novelty. The very latest discoveries in paleontology-many of them made by the author and his students-are integrated with emerging insights from molecular biology and earth system science to forge a broad understanding of how the biological diversity that surrounds us came to be. Moving from Siberia to Namibia to the Bahamas, Knoll shows how life and environment have evolved together through Earth's history. Innovations in biology have helped shape our air and oceans, and, just as surely, environmental change has influenced the course of evolution, repeatedly closing off opportunities for some species while opening avenues for others. Readers go into the field to confront fossils, enter the lab to discern the inner workings of cells, and alight on Mars to ask how our terrestrial experience can guide exploration for life beyond our planet. Along the way, Knoll brings us up-to-date on some of science's hottest questions, from the oldest fossils and claims of life beyond the Earth to the hypothesis of global glaciation and Knoll's own unifying concept of ''permissive ecology.'' In laying bare Earth's deepest biological roots, Life on a Young Planet helps us understand our own place in the universe-and our responsibility as stewards of a world four billion years in the making. In a new preface, Knoll describes how the field has broadened and deepened in the decade since the book's original publication."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 204043438,
+          "digitalId": "C2DAB01A-3967-45FB-A075-92A61339F1B2",
+          "otherAuthors": [
+            "Martin, Eric Jason."
+          ],
+          "isbns": [
+            "9781618035639"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Old Saybrook : Tantor Audio"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Nonfiction.",
+            "Life Origin.",
+            "Life Origin.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource (12 audio files) : digital"
+          ],
+          "summary": [
+            "Australopithecines, dinosaurs, trilobites-such fossils conjure up images of lost worlds filled with vanished organisms. But in the full history of life, ancient animals, even the trilobites, form only the half-billion-year tip of a nearly four-billion-year iceberg. Andrew Knoll explores the deep history of life from its origins on a young planet to the incredible Cambrian explosion, presenting a compelling new explanation for the emergence of biological novelty. The very latest discoveries in paleontology-many of them made by the author and his students-are integrated with emerging insights from molecular biology and earth system science to forge a broad understanding of how the biological diversity that surrounds us came to be. Moving from Siberia to Namibia to the Bahamas, Knoll shows how life and environment have evolved together through Earth's history. Listeners go into the field to confront fossils, enter the lab to discern the inner workings of cells, and alight on Mars to ask how our terrestrial experience can guide exploration for life beyond our planet. Along the way, Knoll brings us up-to-date on some of science's hottest questions, from the oldest fossils and claims of life beyond the Earth to the hypothesis of global glaciation and Knoll's own unifying concept of \"permissive ecology.\""
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Eric Jason Martin."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Evolution : a visual record",
+      "author": "Clark, Robert, 1961-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780714871189?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780714871189?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780714871189?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202689710,
+          "otherAuthors": [
+            "Wallace, Joseph E., author.",
+            "Quammen, David, 1948- writer of foreword."
+          ],
+          "isbns": [
+            "9780714871189 (hardback)",
+            "0714871184 (hardback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London ; New York : Phaidon Press",
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Darwin, Charles, 1809-1882.",
+            "Evolution (Biology) History.",
+            "Evolution (Biology) Pictorial works.",
+            "Life Origin.",
+            "Natural history Pictorial works."
+          ],
+          "physicalDescription": [
+            "239 pages : colour illustrations ; 26 cm"
+          ],
+          "summary": [
+            "Through 200 revelatory images, award-winning photographer Robert Clark makes one of the most important foundations of science clear and exciting to everyone. Evolution: A Visual Record transports readers from the near-mystical (human ancestors) to the historic (the famous 'finches' Darwin collected on the Galápagos Islands that spurred his theory); the recently understood (the link between dinosaurs and modern birds) to the simply astonishing."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Restless creatures : The story of life in ten movements.",
+      "author": "Wilkinson, Matt",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780465065721?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780465065721?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780465065721?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202544771,
+          "isbns": [
+            "9780465065721 (hardcover)",
+            "0465065724 (hardcover)",
+            "046509869X",
+            "9780465098699"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Basic Books"
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Animal locomotion.",
+            "Extremities (Anatomy) Evolution."
+          ],
+          "physicalDescription": [
+            "vii, 308 pages : illustrations ; 25 cm"
+          ],
+          "summary": [
+            "Most of us never think about how we get from one place to another. For most people, putting one foot in front of the other requires no thought at all. Yet the fact that we and other species are able to do so is one of the great triumphs of evolution. To truly understand how life evolved on Earth, it is crucial to understand movement. This is a bold new argument that the true story of evolution is the story of locomotion, from the first stirrings of bacteria to the amazing feats of Olympic athletes."
+          ],
+          "contents": [
+            "Just put one foot in front of the other -- Two legs good -- Leaps of faith -- Go-faster stripe -- The improbable invasion -- A winning formula -- Brain and brawn -- Give it a rest -- Exodus -- Locomotive souls."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205338226,
+          "digitalId": "E9A454BF-5D13-44E6-BBD5-4C3750A76DC9",
+          "isbns": [
+            "9781785780462"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Nonfiction.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A billion-year history of movement, from bacteria to Olympic athletes.      'Packed with revelations, scholarly but clear,  Restless Creatures  carries you from the kinetics of the amoeba to that of the blue whale, from the swim-cycle of spermatozoa, to why skipping works best on the moon. A pop-science treat.' Gavin Francis, author of Adventures in Human Being      Despite the overwhelming diversity of life on earth, one theme has dominated its evolution: the apparently simple act of moving from one place to another.  Restless Creatures  is the first book for a general audience telling the incredible story of locomotion in human and animal evolution.     Evolutionary biologist Matt Wilkinson traces this 4-billion-year history, showing why our ancestors became two-legged, how movement explains why we have opposable thumbs and a backbone, how fish fins became limbs, how even trees are locomotion-obsessed, and how movement has shaped our minds as well as our bodies. He explains why there are no flying monkeys or biological wheels, how dinosaurs took to the air, how Mexican waves were the making of the animal kingdom, and why moving can make us feel good.      Restless Creatures  opens up an astonishing new perspective - that little in evolution makes sense unless in the light of movement."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 21
+        },
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 2596
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 199
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 191
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 41
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 37
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 16
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 12
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 11
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 11
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 10
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 9
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 8
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 8
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 7
+        },
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 7
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 7
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 6
+        },
+        {
+          "id": "07lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 7",
+          "count": 6
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 6
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 5
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 5
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 5
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 5
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 4
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 4
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 4
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 1
+        },
+        {
+          "id": "08lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 8",
+          "count": 1
+        },
+        {
+          "id": "ru",
+          "data": "Repository Used Book Collection",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 21
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 16
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 7
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 2
+        },
+        {
+          "id": "lpt",
+          "data": "Large Print",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

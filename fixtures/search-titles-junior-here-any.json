@@ -1,0 +1,1427 @@
+{
+  "totalRecords": 1383,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Dinosaur",
+      "seriesTitle": [
+        "Eyewitness (Dorling Kindersley Limited)"
+      ],
+      "author": "Lambert, David",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241507193?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241507193?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241507193?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205493006,
+          "isbns": [
+            "9780241507193",
+            "0241507197"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Revised edition."
+          ],
+          "publisher": [
+            "London : DK",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Fossils Juvenile literature.",
+            "Paleontology Juvenile literature."
+          ],
+          "physicalDescription": [
+            "72 pages : colour illustrations ; 29 cm + 1 wall chart."
+          ],
+          "summary": [
+            "Meet the incredible creatures of the prehistoric world Dig into the past and discover dinosaurs by examining the fossils they left behind. This essential guide to dinosaurs, from tiny, chicken-sized Compsognathus to the mighty, long-necked Brachiosaurus, this book unearths fascinating facts about these prehistoric creatures. DK Eyewitness Dinosaur looks closely at different types of dinosaurs and their body parts, diets, senses, evolution, and more. With colourful and factual illustrations commissioned with expert guidance, and informative labels, statistics and fun-filled facts, this is the perfect all round guide for dinosaur lovers and budding palaeontologists. Take a trip through the Triassic, Jurassic, and Cretaceous periods and enjoy learning all there is to know about your favourite prehistoric creatures."
+          ],
+          "notes": [
+            "\"New edition with wall chart\" -- Cover.",
+            "\"First edition\" -- Colophon.",
+            "\"First published in Great Britain in 1990 by Dorling Kindersley Limited\" -- Colophon."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "9-12."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 14550222,
+          "isbns": [
+            "1409380394",
+            "9781409380399",
+            "9781409343714"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Dorling Kindersley"
+          ],
+          "publishDate": "2012.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "72 pages: color illustrations; 28 cm."
+          ],
+          "notes": [
+            "Includes giant pull-out wall chart.",
+            "Includes index.",
+            "Paperback ed. with ISBN 9781409343714 published in 2014.",
+            "Relaunch edition 2014."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Key Stage 2."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200749408,
+          "variantTitles": [
+            "Subtitle on cover: Discover the fascinating world of dinosaurs--their evolution, behavior, and extinction",
+            "Eyewitness dinosaur"
+          ],
+          "isbns": [
+            "9780756658106 (hbk.)",
+            "0756658101 (hbk.)",
+            "9780756658113 (lib. bdg.)",
+            "075665811X (lib. bdg.)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : DK Pub."
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "72 pages : color illustrations ; 29 cm. + 1 CD-ROM (4 3/4 in.) and 1 foldable wall chart."
+          ],
+          "summary": [
+            "Text and photographs explore the world of the dinosaurs, focusing on such aspects as their teeth, feet, eggs, and fossils."
+          ],
+          "contents": [
+            "What were the dinosaurs? -- Different designs -- Triassic times -- Jurassic times -- Cretaceous times -- The end of an era -- How do we know? -- The first fossil finds -- Little and large -- Dinosaur evolution -- Heads and brains -- Horns and head crests -- Senses and communication -- Meat-eaters -- Plant-eaters -- Long and short necks -- The backbone story -- All about tails -- Terrifying tails -- Plates and sails -- Arms and hands -- Claws and their uses -- Legs and feet -- Ancient footprints -- Tough skins -- Feathered dinosaurs -- Eggs and young -- Finding dinosaur fossils -- Rebuilding a dinosaur -- Classification of dinosaurs."
+          ],
+          "notes": [
+            "At head of title: Eyewitness.",
+            "\"Clip-art CD\"--Cover.",
+            "Includes index."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur : push, pull, slide!",
+      "author": "Brooks, Bobbie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836160342?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836160342?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836160342?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300127845,
+          "otherAuthors": [
+            "Wade, Sarah (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781836160342",
+            "1836160348"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Woodbridge, Suffolk : Gemini Children's Books Ltd"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "8 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Have fun with the dinosaurs with this push, pull, slide book that's full of roar-some dinosaurs to move, turn and learn about!\"--Back cover."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penemuan dinosaur",
+      "author": "Bogaert, Claude",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672147664?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672147664?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672147664?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300051225,
+          "variantTitles": [
+            "Ensiklopedia dinosaur"
+          ],
+          "otherAuthors": [
+            "Lami Dozo-van der Kar, Galia, editor.",
+            "Regalado, Gus, illustrator.",
+            "Advantage Quest, translator."
+          ],
+          "isbns": [
+            "9789672147664",
+            "967214766X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Petaling Jaya, Selangor] : Advantage Quest and Caramel Publishing"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Dinosaurs Pictorial works Juvenile literature.",
+            "Dinosaurs Encyclopedias, Juvenile.",
+            "Encyclopedias and dictionaries, Malay.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "61 pages : colour illustrations ; 31 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Musaa si dinosaur = Musaa the dinosaur",
+      "author": "Maria Rahim (author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789811777417?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789811777417?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789811777417?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300169747,
+          "variantTitles": [
+            "Musaa the dinosaur"
+          ],
+          "otherAuthors": [
+            "Siti Nurazilah Zainol (editor), translator, editor.",
+            "Sukma, Emilia Prahara (illustrator), illustrator."
+          ],
+          "isbns": [
+            "9789811777417",
+            "9811777411"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : The Safaa Safiyyah Publication",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Dinosaurs Juvenile fiction.",
+            "Bilingual books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 15 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙公园 = Dinosaur | Kong long gong yuan = Dinosaur",
+      "seriesTitle": [
+        "聪明孩子的百科全书. | Cong ming hai zi de bai ke quan shu."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557860516?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557860516?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557860516?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205401709,
+          "variantTitles": [
+            "Dinosaur"
+          ],
+          "otherAuthors": [
+            "Liu, Shaochen, editor."
+          ],
+          "nativeOtherAuthors": [
+            "刘少宸, editor."
+          ],
+          "isbns": [
+            "9787557860516",
+            "7557860519"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Changchun Shi : Jilin ke xue ji shu chu ban she"
+          ],
+          "nativePublisher": [
+            "长春市 : 吉林科学技术出版社"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Children's encyclopedias and dictionaries."
+          ],
+          "physicalDescription": [
+            "100 pages : color illustrations ; 23 cm."
+          ],
+          "notes": [
+            "Includes index: page 100."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur babies",
+      "seriesTitle": [
+        "Dinosaur infosaurus."
+      ],
+      "author": "Woolley, Katie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526311122?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526311122?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526311122?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205597812,
+          "isbns": [
+            "9781526311122",
+            "1526311127"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Wayland"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Dinosaurs Infancy Juvenile literature.",
+            "Dinosaurs.",
+            "Dinosaurs Infancy."
+          ],
+          "physicalDescription": [
+            "32 pages : illustrations ; 29 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "7+."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Aku ingin tahu sains : kehidupan dinosaur",
+      "seriesTitle": [
+        "Siri ensiklopedia sekolah."
+      ],
+      "author": "Nur Ayati",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789674281113?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789674281113?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789674281113?s=LG"
+      },
+      "records": [
+        {
+          "brn": 200128475,
+          "variantTitles": [
+            "Kehidupan dinosaur"
+          ],
+          "otherAuthors": [
+            "Hassan Noor, editor.",
+            "Siti Nur Akma Ahmad, editor."
+          ],
+          "isbns": [
+            "9789674281113 (pbk.)",
+            "9674281118 (pbk.)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Edisi bahasa Malaysia"
+          ],
+          "publisher": [
+            "Kuala Lumpur : Synergy Media"
+          ],
+          "publishDate": "[2010-2013].",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Paleontology Juvenile literature."
+          ],
+          "physicalDescription": [
+            "52 pages : colour illustrations ; 24 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur peliharaan Nobita",
+      "author": "Fujiko, Fujio F., 1933-1996",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786297563657?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786297563657?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786297563657?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300142440,
+          "variantTitles": [
+            "At title head : Filem Doraemon"
+          ],
+          "otherAuthors": [
+            "Sayuriafrina (translator) translator"
+          ],
+          "isbns": [
+            "9786297563657",
+            "6297563659"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Versi baharu."
+          ],
+          "publisher": [
+            "Kuala Lumpur : Kadokawa Gempak Starz"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Doraemon (Fictitious character) Comic books, strips, etc.",
+            "Dinosaurs Comic books, strips, etc.",
+            "Comic books, strips, etc. Japan."
+          ],
+          "physicalDescription": [
+            "142 pages : chiefly illustrations ; 21 cm"
+          ],
+          "notes": [
+            "At title head: Filem Doraemon.",
+            "Reads from back to front, right to left.",
+            "Original Japanese edition published by Shogakukan.",
+            "\"Komik animasi berwarna penuh\"-- Cover.",
+            "\"Product code: P-BM-SF5028-01\"-- page [4] of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Putera dinosaur : hilangkan kebosanan.",
+      "seriesTitle": [
+        "Siri Dani Dino dan rakan-rakan."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786294705524?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786294705524?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786294705524?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300145851,
+          "isbns": [
+            "9786294705524",
+            "6294705525"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Bangi, Selangor : Penerbitan Pelangi Sdn. Bhd."
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Children's stories, Malay.",
+            "Dinosaurs Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Boredom Juvenile fiction.",
+            "Conduct of life Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "23 pages : colour illustrations ; 21 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dunia haiwan vs dunia dinosaur : edisi super",
+      "seriesTitle": [
+        "Siri X-Venture."
+      ],
+      "author": "Redcode (Comic writer)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789670028361?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789670028361?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789670028361?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205776492,
+          "variantTitles": [
+            "Dunia haiwan versus dunia dinosaur"
+          ],
+          "otherAuthors": [
+            "Xeno, author.",
+            "Raja Danial, translator.",
+            "Black Ink Team (Art collective), illustrator."
+          ],
+          "isbns": [
+            "9789670028361",
+            "9670028361"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Kuala Lumpur : Kadokawa Gempak Starz Sdn. Bhd."
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Comic books, strips, etc. Malaysia.",
+            "Animals Comic books, strips, etc.",
+            "Dinosaurs Comic books, strips, etc."
+          ],
+          "physicalDescription": [
+            "149 pages : chiefly color illustrations ; 21 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Bahaya zaman dinosaur",
+      "seriesTitle": [
+        "Siri X-Venture era jelajah ulung ; H30."
+      ],
+      "author": "Tadatada",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672381389?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672381389?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672381389?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204465392,
+          "otherAuthors": [
+            "Raja Danial, translator.",
+            "Zharifa, translator.",
+            "Solar Team, illustrator."
+          ],
+          "isbns": [
+            "9789672381389",
+            "9672381387"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Cetakan pertama."
+          ],
+          "publisher": [
+            "Kuala Lumpur : Kadokawa Gempak Starz",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Comic books, strips, etc.",
+            "Adventure and adventurers Comic books, strips, etc."
+          ],
+          "physicalDescription": [
+            "154 pages : colour illustrations ; 21 cm."
+          ],
+          "notes": [
+            "\"Pemerhatian, kritis dan kreatif!\"--Cover.",
+            "\"Disertakan teka-teki menarik, dinosaur berbeza, tornado dahsyat\"--Cover.",
+            "\"Edisi asal bahasa Cina diterbitkan pada Oktober 2019 oleh Kadokawa Gempak Starz Sdn. Bhd.\"."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Pupus tetap berevolusi : dinosaur",
+      "seriesTitle": [
+        "Unik, keajaiban dan mengagumkan."
+      ],
+      "author": "Nada Haifaa",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789673562152?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789673562152?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789673562152?s=LG"
+      },
+      "records": [
+        {
+          "brn": 201150655,
+          "variantTitles": [
+            "Dinosaur"
+          ],
+          "isbns": [
+            "9789673562152 (paperback)",
+            "9673562156 (paperback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Cetakan pertama."
+          ],
+          "publisher": [
+            "Selangor : Content Plus"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "iv, 44 pages : colour illustrations, 30 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Jumpa tak... telur dinosaur? : cari 12 set telur dinosaur yang tersembunyi dalam buku ini.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672858539?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672858539?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789672858539?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300106678,
+          "isbns": [
+            "9789672858539",
+            "9672858531"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Shah Alam, Selangor : Kids Karangkraf"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Picture puzzles Juvenile literature.",
+            "Bilingual books."
+          ],
+          "physicalDescription": [
+            "25 pages : chiefly illustrations ; 21 cm"
+          ],
+          "notes": [
+            "\"Untuk kanak-kanak ; Lebih 200+ objek tersembunyi\"-- Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Cerita 1 : saya hendak ke angkasa ; cerita 2 : dikejar dinosaur",
+      "seriesTitle": [
+        "Siri Adam di Kota Singa (2 cerita dalam 1 buku) ; Buku 2"
+      ],
+      "author": "Hana Mohd",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789811832437?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789811832437?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789811832437?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205802884,
+          "variantTitles": [
+            "Saya hendak ke angkasa",
+            "Dikejar dinosaur"
+          ],
+          "isbns": [
+            "9789811832437",
+            "9811832439"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Alam Cahaya"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Children's stories, Singaporean (Malay)",
+            "Science Centre Singapore Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "54 pages : colour illustrations ; 25 cm."
+          ],
+          "notes": [
+            "Includes a visual dictionary (pages 48-49) and a vocabulary list (pages 50-51).",
+            "\"Disokong oleh: bilingualism.sg - dana kedwibahasaan Lee Kuan Yew\"--back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙世界小百科. 恐龙的朋友们 = Dinosaur | Kong long shi jie xiao bai ke. Kong long de peng you men = Dinosaur",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555271918?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555271918?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555271918?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205686263,
+          "variantTitles": [
+            "Kong long de peng you men",
+            "Dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "恐龙的朋友们"
+          ],
+          "otherAuthors": [
+            "Arredondo, Francisco, illustrator.",
+            "Yang guang san cai, editor, author."
+          ],
+          "nativeOtherAuthors": [
+            "阿雷东多, 弗朗西斯科, illustrator.",
+            "阳光三采, editor, author."
+          ],
+          "isbns": [
+            "9787555271918",
+            "7555271915"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Qingdao Shi : Qingdao chu ban she"
+          ],
+          "nativePublisher": [
+            "青岛市 : 青岛出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 22 cm"
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur graveyards in Asia",
+      "seriesTitle": [
+        "Dinosaur graveyards"
+      ],
+      "author": "Hansen, Grace",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209451?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209451?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209451?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205703145,
+          "isbns": [
+            "1098209451",
+            "9781098209452"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Abdo Kids Jumbo, an imprint of Abdo Kids",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Dinosaurs Asia Juvenile literature.",
+            "Fossils Asia Juvenile literature.",
+            "Paleontology Juvenile literature.",
+            "Paleontological excavations Juvenile literature.",
+            "Dinosaurs.",
+            "Fossils.",
+            "Paleontological excavations.",
+            "Paleontology.",
+            "Asia."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations, color maps ; 24 x 29 cm."
+          ],
+          "summary": [
+            "This unique dinosaur title will take readers to the continent of Asia to discover some rock formations that held important dinosaur discoveries. Readers will learn about each dinosaur, from when it lived to what it ate, and other cool facts! Complete with great photographs and page explaining the different dino groups!"
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur graveyards in Africa",
+      "seriesTitle": [
+        "Dinosaur graveyards"
+      ],
+      "author": "Hansen, Grace",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209443?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209443?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209443?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205703139,
+          "isbns": [
+            "1098209443",
+            "9781098209445"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Abdo Kids Jumbo, an imprint of Abdo Kids",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Dinosaurs Africa Juvenile literature.",
+            "Fossils Africa Juvenile literature.",
+            "Paleontology Juvenile literature.",
+            "Paleontological excavations Juvenile literature.",
+            "Dinosaurs.",
+            "Fossils.",
+            "Paleontological excavations.",
+            "Paleontology.",
+            "Africa."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations, color maps ; 24 x 29 cm."
+          ],
+          "summary": [
+            "This unique dinosaur title will take readers to the continent of Africa to discover some rock formations that held important dinosaur discoveries. Readers will learn about each dinosaur, from when it lived to what it ate, and other cool facts! Complete with great photographs and page explaining the different dino groups!"
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur snores!",
+      "seriesTitle": [
+        "World of dinosaur roar!"
+      ],
+      "author": "Curtis, Peter",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665984621?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665984621?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665984621?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300169104,
+          "otherAuthors": [
+            "Michaels, Patty, author."
+          ],
+          "isbns": [
+            "9781665984621",
+            "1665984627",
+            "9781665984614",
+            "1665984619"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition"
+          ],
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Dinosaurs Juvenile fiction.",
+            "Snoring Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "In collaboration with the Smithsonian Institution, this Level 1 Ready-to-Read shows how the dinosaurs get ready for bed! After a busy day exploring the rainforest and having fun adventures, the dinosaurs are very tired. Good night, dinosaurs! The Smithsonian is the world's largest museum and research complex, dedicated to public education, national service, and scholarship in the arts, Smithsonian sciences, and history."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "04-06.",
+            "P-01."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Kembali beraksi dinosaur",
+      "seriesTitle": [
+        "Siri cerita klasik."
+      ],
+      "author": "Mansor Man",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789670461830?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789670461830?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789670461830?s=LG"
+      },
+      "records": [
+        {
+          "brn": 201527731,
+          "isbns": [
+            "9789670461830",
+            "9670461839",
+            "9789670461823",
+            "9670461820"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Cetakan pertama."
+          ],
+          "publisher": [
+            "Selangor : Pustaka Dasar Jaya"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Children's stories, Malay.",
+            "Comic books, strips, etc."
+          ],
+          "physicalDescription": [
+            "46 pages : illustrations ; 26 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "罗力小恐龙 : 亲爱的妈妈们 = Rory the dinosaur | Luoli xiao kong long : qin ai de ma ma men = Rory the dinosaur",
+      "seriesTitle": [
+        "果麦. | Guo mai."
+      ],
+      "author": "克里莫, 莉兹 | Climo, Liz",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532963829?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532963829?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532963829?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205570606,
+          "otherTitles": [
+            "Rory the dinosaur's mother's day. Chinese."
+          ],
+          "variantTitles": [
+            "Qin ai de ma ma men",
+            "Rory the dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "亲爱的妈妈们"
+          ],
+          "otherAuthors": [
+            "Zhou, Gaoyi, translator."
+          ],
+          "nativeOtherAuthors": [
+            "周高逸, translator."
+          ],
+          "isbns": [
+            "9787532963829",
+            "7532963829"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Jinan Shi : Shandong wen yi chu ban she"
+          ],
+          "nativePublisher": [
+            "济南市 : 山东文艺出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 25 cm."
+          ],
+          "notes": [
+            "Translation of: Rory the dinosaur's mother's day."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 1383
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 85
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 72
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 18
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 17
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 11
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 1131
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 204
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 35
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 12
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 1383
+        },
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 1791
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 1572
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 1564
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 1527
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 1483
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 1459
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 1455
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 1428
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 1401
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 1329
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 1319
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 1291
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 1266
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 1254
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 1253
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 1207
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 1190
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 1133
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 1118
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 269
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 159
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 22
+        },
+        {
+          "id": "09lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 9",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 1383
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 956
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 103
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 11
+        },
+        {
+          "id": "rec",
+          "data": "Sound Recording",
+          "count": 1
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

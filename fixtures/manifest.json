@@ -1,0 +1,179 @@
+[
+  {
+    "name": "library-get-branches",
+    "file": "library-get-branches.json",
+    "status": 200,
+    "endpoint": "/GetBranches",
+    "params": {
+      "ListType": "active"
+    }
+  },
+  {
+    "name": "search-titles-junior-plain",
+    "file": "search-titles-junior-plain.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "search-titles-adult-plain",
+    "file": "search-titles-adult-plain.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "adult"
+    }
+  },
+  {
+    "name": "search-titles-junior-here-available",
+    "file": "search-titles-junior-here-available.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Locations": "trl",
+      "Availability": "true"
+    }
+  },
+  {
+    "name": "search-titles-adult-here-available",
+    "file": "search-titles-adult-here-available.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "adult",
+      "Locations": "trl",
+      "Availability": "true"
+    }
+  },
+  {
+    "name": "search-titles-junior-here-any",
+    "file": "search-titles-junior-here-any.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Locations": "trl"
+    }
+  },
+  {
+    "name": "search-titles-junior-everywhere-available",
+    "file": "search-titles-junior-everywhere-available.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Availability": "true"
+    }
+  },
+  {
+    "name": "search-titles-no-filters",
+    "file": "search-titles-no-filters.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks"
+    }
+  },
+  {
+    "name": "get-titles-isbn",
+    "file": "get-titles-isbn.json",
+    "status": 200,
+    "endpoint": "/GetTitles",
+    "params": {
+      "ISBN": "9781801041850"
+    }
+  },
+  {
+    "name": "get-titles-title",
+    "file": "get-titles-title.json",
+    "status": 200,
+    "endpoint": "/GetTitles",
+    "params": {
+      "Title": "Dinosaur"
+    }
+  },
+  {
+    "name": "get-title-details",
+    "file": "get-title-details.json",
+    "status": 200,
+    "endpoint": "/GetTitleDetails",
+    "params": {
+      "BRN": "205717763"
+    }
+  },
+  {
+    "name": "get-availability-info",
+    "file": "get-availability-info.json",
+    "status": 200,
+    "endpoint": "/GetAvailabilityInfo",
+    "params": {
+      "BRN": "205717763"
+    }
+  },
+  {
+    "name": "eresource-search-ebooks",
+    "file": "eresource-search-ebooks.json",
+    "status": 200,
+    "endpoint": "/SearchResources",
+    "params": {
+      "ContentType": "eBooks",
+      "Keywords": "dinosaur",
+      "Limit": "10"
+    }
+  },
+  {
+    "name": "eresource-search-audio-books",
+    "file": "eresource-search-audio-books.json",
+    "status": 200,
+    "endpoint": "/SearchResources",
+    "params": {
+      "ContentType": "Audio Books",
+      "Keywords": "dinosaur",
+      "Limit": "10"
+    }
+  },
+  {
+    "name": "eresource-get-availability-info-isbn",
+    "file": "eresource-get-availability-info-isbn.json",
+    "status": 200,
+    "endpoint": "/GetAvailabilityInfo",
+    "params": {
+      "IdType": "ISBN",
+      "Id": "9781496244444"
+    }
+  },
+  {
+    "name": "recommendation-for-titles",
+    "file": "recommendation-for-titles.json",
+    "status": 200,
+    "endpoint": "/GetRecommendationsForTitles",
+    "params": {
+      "RecommendationType": "book",
+      "IdType": "title",
+      "Id": "20978b3f-981f-428a-9781-f4210e311e5b"
+    }
+  }
+]

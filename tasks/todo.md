@@ -78,7 +78,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Estimated scope:** M
 
 ### Checkpoint: Foundation (after Tasks 1-3)
-- [ ] Fixtures reproducible with `npm run record-fixtures` (not committed: public repository, see spec section 9); spec section 2 matches the live API
+- [ ] Fixtures committed and reproducible with `npm run record-fixtures`; spec section 2 matches the live API
 - [ ] Dev proxy deployed; load test shows ≤ 1 call/s; no key in the repo
 - [ ] Human reviews the answers to the open API questions before app work builds on them
 
@@ -104,7 +104,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 
 ### Task 5: Current library: directory, detection, picker, "You're at" card
 **Spec task:** T5 · **Covers:** FR-3 · **Design:** `Location.dc.html`, top of `Main.dc.html`
-**Description:** `LibraryDirectory` loads `GetBranches` through the proxy and stores branch code, name, coordinates and hours. `LocationProvider` (Android coarse, iOS reduced accuracy) feeds nearest-branch detection by haversine over the libraries in `data/nlb_libraries.json` whose status is `open`, accepted within 300 m. Otherwise the searchable picker opens with the closest libraries first. Accuracy is not critical: the user can tap Change at any time. The picker shows only `open` libraries (22 today). The choice persists.
+**Description:** `LibraryDirectory` loads `GetBranches` through the proxy and stores branch code, name, coordinates and hours. `LocationProvider` (one precise fix while the app is in use; spec section 7) feeds nearest-branch detection by haversine over the libraries in `data/nlb_libraries.json` whose status is `open`, accepted within 300 m. Otherwise the searchable picker opens with the closest libraries first, which also happens when the user grants only approximate location. Accuracy is not critical: the user can tap Change at any time. The picker shows only `open` libraries (22 today). The choice persists.
 **Acceptance criteria:**
 - [ ] Inside 300 m: nearest branch is set and shown as "You're at {library}" with Change
 - [ ] Outside 300 m, or permission denied: the picker opens and a library can be chosen
@@ -113,6 +113,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 - [ ] Permissions requested are exactly those in spec section 7
 - [ ] Libraries with status `upcoming` or `closed` never appear in the picker, in detection, or in the other-libraries list; a library marked `open` that is missing from the live `GetBranches` list is hidden too
 - [ ] With a location available the picker lists the closest libraries first; Change is always available
+- [ ] Approximate-only location permission opens the picker instead of auto-detecting
 **Verification:**
 - [ ] `./gradlew :shared:allTests` (haversine, 299 m / 301 m, denied, persisted, tie-breaking)
 - [ ] Android Compose test and XCUITest for the picker flow

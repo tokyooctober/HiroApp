@@ -1,0 +1,49 @@
+{
+  "totalRecords": 1,
+  "count": 1,
+  "hasMoreRecords": false,
+  "nextRecordsOffset": 1,
+  "setId": 44326727,
+  "titles": [
+    {
+      "title": "Dinosaur / written by Amelia Hepworth ; illustrated by David Semple.",
+      "author": "Hepworth, Amelia",
+      "brn": 205717763,
+      "otherAuthors": [
+        "Semple, David (Illustrator), illustrator."
+      ],
+      "isbns": [
+        "9781801041850",
+        "1801041857"
+      ],
+      "format": {
+        "code": "1",
+        "name": "Book"
+      },
+      "publisher": [
+        "London : Little Tiger Press"
+      ],
+      "publishDate": "2022.",
+      "subjects": [
+        "Tyrannosaurus rex Pictorial works Juvenile literature."
+      ],
+      "physicalDescription": [
+        "12 unnumbered pages : colour illustrations ; 20 cm."
+      ],
+      "summary": [
+        "Dinosaurs were incredible creatures! Now even the smallest of readers can look inside the mighty T. rex, with peep-through pages and fun facts."
+      ],
+      "notes": [
+        "With die-cut holes in cover and pages."
+      ],
+      "allowReservation": true,
+      "isRestricted": false,
+      "activeReservationsCount": 0,
+      "language": [
+        "English"
+      ],
+      "serial": false,
+      "availability": true
+    }
+  ]
+}
