@@ -62,7 +62,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Description:** Part A (no decision needed): package the proxy as a container that runs the same on any host. Part B (host decision deferred by the owner on 7 Oct 2026): deploy it. Options: the owner's own machine behind a Cloudflare Tunnel (the owner has a Cloudflare account; free), Google Cloud Run (`max-instances=1`, Singapore, needs billing), a small VM such as Oracle Always Free, or Cloudflare Workers (needs a rewrite: the queue becomes a Durable Object). Whatever the host, there must be exactly **one** instance, because the rate-limit queue and the cache live in memory. The NLB key and app code reach the container only as environment variables or the host's secret store; never in the image, the repo or the logs.
 **Part A: container (done, awaiting its first CI run)**
 - [x] `proxy/Dockerfile` (Node 22, non-root user, no credentials, `PORT` from the environment, TCP health check), `proxy/.dockerignore`, `docker-compose.yml` (credentials copied from the shell, read-only filesystem, optional `tunnel` profile for Cloudflare Tunnel), `proxy/README.md` (run, container, tunnel, hosting options, rollback)
-- [ ] CI job `proxy-image` builds the image and smoke-tests it with fake credentials: unknown path and POST give 404, `GetBranches` passes NLB's 401 through, the container stays up
+- [x] CI job `proxy-image` builds the image and smoke-tests it with fake credentials: unknown path and POST give 404, `GetBranches` passes NLB's 401 through, the container stays up _(green, 7 Oct 2026)_
 - [ ] Manual: `docker compose up --build` on a machine with Docker, then the smoke test in `proxy/README.md` against real credentials (Docker is not installed on the owner's Windows machine yet)
 **Part B: deploy (blocked on the host decision)**
 - [ ] The chosen host runs one instance and serves `/library/GetBranches` with the real branch list; an unknown path returns 404; a burst of 20 requests is spaced at ≤ 1 call/s and any wait over 10 s gets 429 with `Retry-After`
@@ -88,9 +88,9 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Spec task:** T2 · **Covers:** NFR-9 (build side), NFR-10 (strings in resources)
 **Description:** Create the Gradle project (`shared`, `androidApp`, `iosApp`) with Compose Multiplatform, Koin, Ktor (OkHttp / Darwin engines), SQLDelight, multiplatform-settings, Coil, ktlint and detekt. One screen shows the branch count fetched through the dev proxy. CI builds and tests both platforms.
 **Acceptance criteria:**
-- [ ] Android debug app and iOS simulator app launch and show "N libraries" from the dev proxy _(Android done 7 Oct 2026: API 36 emulator, local proxy on :8080, screen shows "26 libraries"; iOS not run, needs a Mac)_
+- [ ] Android debug app and iOS simulator app launch and show "N libraries" from the dev proxy _(Android done 7 Oct 2026: API 36 emulator, local proxy on :8080, screen shows "26 libraries"; iOS builds in CI for the simulator but has not been run, that needs a Mac)_
 - [x] Base URL comes from build config; the apps contain no NLB key _(Android: APK scanned, no key, app code, header name or NLB host; iOS: reads `ProxyBaseURL` from Info.plist, not yet built)_
-- [ ] CI runs shared tests, Android build, iOS build and lint on every push _(`.github/workflows/ci.yml` written; there is no git remote yet, so it has not run)_
+- [x] CI runs shared tests, Android build, iOS build and lint on every push _(green on GitHub Actions 7 Oct 2026, run 37602342375: proxy tests, container build, Android build + shared tests + lint + APK key scan, iOS simulator build)_
 - [ ] Design tokens (colours, Fredoka/Nunito Sans, 16 px cards) exist in one theme file _(colours, shapes and Material theme done in `HiroTheme.kt`; the Fredoka and Nunito Sans font files are not added yet)_
 **Verification:**
 - [x] `./gradlew :shared:allTests :androidApp:assembleDebug ktlintCheck detekt` _(passes: 10 JVM tests, 9 Android-host tests, lint clean)_
@@ -305,10 +305,13 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 
 ### Task 17: More like this (KIV)
 **Covers:** FR-9
-**Description:** Up to 10 recommended titles in the same mode that are on the shelf here, on the detail screen. Blocked until NLB supplies a way to get a title MID from a BRN or ISBN (Task 1 email). FR-9 stays hidden until then. **KIV:** restart when NLB answers what MID is, how to get recommendations for non-ebooks, and whether patron-based suggestions are allowed (spec section 9).
+**Description:** Up to 10 recommended titles in the same mode that are on the shelf here, on the detail screen. Blocked until NLB supplies a way to get a title MID from a BRN or ISBN (Task 1 email). FR-9 stays hidden until then. **KIV:** restart when NLB confirms whether a third-party app may ask users for the MID, MyLibraryId and date of birth, and how a user finds their MID (spec section 9). What we know: a MID is an NLB-internal patron identifier, not a national ID (owner, 8 Oct 2026), and with `IdType=patron` it returns physical-book recommendations (owner's test, 8 Oct 2026). Without NLB's answer no screen asks for it.
 **Acceptance criteria:**
 - [ ] Recommendations outside the current mode or not on the shelf here are dropped
 - [ ] Section is hidden when no MID is available
+- [ ] _(owner intent, 8 Oct 2026)_ The feature is off until MyLibraryId, MID and year of birth are all filled in; with any missing, no recommendation call is made
+- [ ] _(owner intent)_ The three values live only in the phone's secure storage (this-device-only: no backup, no sync) and are removable in one action that turns the feature off
+- [ ] _(owner intent)_ The values never appear in a URL: they travel in headers or a body, and the proxy neither logs nor caches patron requests (proxy test)
 **Verification:**
 - [ ] `./gradlew :shared:allTests` (filtering, hidden state)
 **Dependencies:** Task 10 and an answer from NLB
