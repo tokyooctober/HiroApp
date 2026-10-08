@@ -2,12 +2,16 @@ package sg.hirokids.shared
 
 import androidx.compose.runtime.Composable
 import org.koin.compose.viewmodel.koinViewModel
-import sg.hirokids.shared.ui.library.LibraryCountScreen
+import org.koin.core.parameter.parametersOf
+import sg.hirokids.shared.domain.LocationProvider
+import sg.hirokids.shared.ui.library.LibraryFlow
+import sg.hirokids.shared.ui.library.LibraryViewModel
 import sg.hirokids.shared.ui.theme.HiroTheme
 
+/** [locationProvider] is the platform's way to read the phone's location (FusedLocationProviderClient, CLLocationManager). */
 @Composable
-fun App() {
+fun App(locationProvider: LocationProvider) {
     HiroTheme {
-        LibraryCountScreen(koinViewModel())
+        LibraryFlow(koinViewModel<LibraryViewModel>(parameters = { parametersOf(locationProvider) }))
     }
 }

@@ -37,6 +37,11 @@ object HiroColors {
     val Card = Color(0xFFFFFFFF)
     val Border = Color(0xFFE3E7EE)
     val InputBorder = Color(0xFFC9D3E3)
+
+    // Used by the screens in docs/design but not listed in the spec token table
+    val CardTint = Color(0xFFEEF3FB)
+    val Divider = Color(0xFFEEF1F5)
+    val Segmented = Color(0xFFEEF1F6)
 }
 
 /** Cards use a 16 px radius; chips are fully rounded. */

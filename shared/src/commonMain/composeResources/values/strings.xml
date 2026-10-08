@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Hiro-Kids</string>
-    <string name="libraries_loading">Loading libraries…</string>
-    <string name="libraries_error">Could not load the libraries. Check your connection and try again.</string>
-    <string name="retry">Retry</string>
-    <plurals name="libraries_count">
-        <item quantity="one">%1$d library</item>
-        <item quantity="other">%1$d libraries</item>
-    </plurals>
+
+    <!-- Home (until search arrives) -->
+    <string name="youre_at">You’re at</string>
+    <string name="change">Change</string>
+    <string name="home_placeholder">Searching for books is coming soon.</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Library picker -->
+    <string name="picker_title">Which library are you at?</string>
+    <string name="picker_close">Close</string>
+    <string name="detect_title">Detect the library I’m in</string>
+    <string name="detect_subtitle">Uses your location once. It stays on this phone.</string>
+    <string name="detecting">Looking for you…</string>
+    <string name="picker_or_choose">or choose it</string>
+    <string name="picker_search_hint">Find a library</string>
+    <string name="picker_confirm">I’m at %1$s</string>
+    <string name="picker_choose">Choose your library</string>
+    <string name="picker_empty">No libraries match.</string>
+    <string name="picker_selected">Selected</string>
+    <string name="distance_m">%1$s m away</string>
+    <string name="distance_km">%1$s km away</string>
+
+    <!-- Why detection did not pick a library -->
+    <string name="notice_not_at_library">You don’t seem to be at a library. The closest ones are listed first.</string>
+    <string name="notice_approximate">Your phone shared only an approximate location, so we can’t be sure. The closest libraries are listed first.</string>
+    <string name="notice_denied">Location is off for Hiro-Kids. Choose your library from the list.</string>
+    <string name="notice_unavailable">We couldn’t get your location. Choose your library from the list.</string>
 </resources>

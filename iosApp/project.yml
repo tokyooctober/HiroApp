@@ -26,7 +26,7 @@ targets:
         # Debug only convenience: allow plain HTTP to a local dev proxy
         NSAppTransportSecurity:
           NSAllowsLocalNetworking: true
-        # NSLocationWhenInUseUsageDescription is added in Task 5 with the location feature
+        NSLocationWhenInUseUsageDescription: Hiro-Kids uses your location once to suggest the library you are in. It stays on this phone.
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: sg.hirokids.app # placeholder: final bundle id is an open question (tasks/plan.md)

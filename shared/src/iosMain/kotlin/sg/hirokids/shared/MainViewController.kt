@@ -8,5 +8,6 @@ import sg.hirokids.shared.di.initKoin
 @Suppress("FunctionName") // Swift entry point; the name follows the Compose Multiplatform convention
 fun MainViewController(proxyBaseUrl: String): UIViewController {
     initKoin(proxyBaseUrl)
-    return ComposeUIViewController { App() }
+    val location = IosLocationProvider()
+    return ComposeUIViewController { App(location) }
 }

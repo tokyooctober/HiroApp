@@ -66,9 +66,22 @@ kotlin {
     }
 }
 
+// One source of truth: data/nlb_libraries.json is copied into the app's resources at build time (read as files/nlb_libraries.json).
+// A custom resource directory replaces the default one, so the staged copy holds both the strings and the library file.
+val stageResources =
+    tasks.register<Sync>("stageCommonResources") {
+        from(layout.projectDirectory.dir("src/commonMain/composeResources"))
+        from(rootProject.layout.projectDirectory.file("data/nlb_libraries.json")) { into("files") }
+        into(layout.buildDirectory.dir("generated/commonResources"))
+    }
+
 compose.resources {
     packageOfResClass = "sg.hirokids.shared.resources"
     publicResClass = false
+    customDirectory(
+        sourceSetName = "commonMain",
+        directoryProvider = layout.dir(stageResources.map { it.destinationDir }),
+    )
 }
 
 sqldelight {

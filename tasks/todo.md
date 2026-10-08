@@ -104,18 +104,18 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Spec task:** T5 · **Covers:** FR-3 · **Design:** `Location.dc.html`, top of `Main.dc.html`
 **Description:** `LibraryDirectory` loads `GetBranches` through the proxy and stores branch code, name, coordinates and hours. `LocationProvider` (one precise fix while the app is in use; spec section 7) feeds nearest-branch detection by haversine over the libraries in `data/nlb_libraries.json` whose status is `open`, accepted within 300 m. Otherwise the searchable picker opens with the closest libraries first, which also happens when the user grants only approximate location. Accuracy is not critical: the user can tap Change at any time. The picker shows only `open` libraries (22 today). The choice persists.
 **Acceptance criteria:**
-- [ ] Inside 300 m: nearest branch is set and shown as "You're at {library}" with Change
-- [ ] Outside 300 m, or permission denied: the picker opens and a library can be chosen
-- [ ] Choice survives a restart; Change reopens the picker with the current one ticked
-- [ ] Coordinates never leave the device (only branch codes do) (NFR-5)
-- [ ] Permissions requested are exactly those in spec section 7
-- [ ] Libraries with status `upcoming` or `closed` never appear in the picker, in detection, or in the other-libraries list; a library marked `open` that is missing from the live `GetBranches` list is hidden too
-- [ ] With a location available the picker lists the closest libraries first; Change is always available
-- [ ] Approximate-only location permission opens the picker instead of auto-detecting
+- [x] Inside 300 m: nearest branch is set and shown as "You're at {library}" with Change _(emulator, 8 Oct 2026: mock location at Tampines, precise permission)_
+- [x] Outside 300 m, or permission denied: the picker opens and a library can be chosen _(emulator: far location gives the notice and a closest-first list with distances; "Don't allow" gives the notice and an alphabetical list)_
+- [x] Choice survives a restart; Change reopens the picker with the current one ticked _(unit tests and emulator)_
+- [x] Coordinates never leave the device (only branch codes do) (NFR-5) _(test on the request URLs and headers; the proxy log shows only `GetBranches`)_
+- [x] Permissions requested are exactly those in spec section 7 _(Android manifest: INTERNET, fine and coarse location; iOS: when-in-use usage description)_
+- [x] Libraries with status `upcoming` or `closed` never appear in the picker, in detection, or in the other-libraries list; a library marked `open` that is missing from the live `GetBranches` list is hidden too _(the other-libraries list arrives in Task 9 and must use the same directory)_
+- [x] With a location available the picker lists the closest libraries first; Change is always available _(with an approximate fix: ordered, but no distances shown)_
+- [x] Approximate-only location permission opens the picker instead of auto-detecting _(emulator: phone on top of Pasir Ris with approximate-only: library unchanged, notice shown)_
 **Verification:**
-- [ ] `./gradlew :shared:allTests` (haversine, 299 m / 301 m, denied, persisted, tie-breaking)
-- [ ] Android Compose test and XCUITest for the picker flow
-- [ ] Manual: mock location near and far from a library on both platforms
+- [x] `./gradlew :shared:allTests` (haversine, 299 m / 301 m, denied, persisted, tie-breaking) _(56 JVM + 51 Android-host tests)_
+- [ ] Android Compose test and XCUITest for the picker flow _(not written yet)_
+- [ ] Manual: mock location near and far from a library on both platforms _(Android done on an API 36 emulator; iOS needs a Mac)_
 **Dependencies:** Tasks 3, 4
 **Files likely touched:** `shared/.../domain/LibraryDirectory.kt`, `shared/.../data/BranchRepository.kt`, `LocationProvider` expect/actual, `LocationScreen.kt`, tests
 **Estimated scope:** L

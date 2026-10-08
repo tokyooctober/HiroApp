@@ -4,12 +4,18 @@ import com.russhwolf.settings.Settings
 import org.koin.core.KoinApplication
 import org.koin.core.context.startKoin
 import org.koin.core.module.Module
-import org.koin.core.module.dsl.viewModelOf
+import org.koin.core.module.dsl.viewModel
 import org.koin.dsl.module
+import sg.hirokids.shared.data.CurrentLibraryStore
+import sg.hirokids.shared.data.DirectorySource
+import sg.hirokids.shared.data.LibraryRepository
+import sg.hirokids.shared.data.LibrarySeedSource
 import sg.hirokids.shared.data.ProxyApi
+import sg.hirokids.shared.data.ResourceSeedSource
 import sg.hirokids.shared.data.createHttpClient
 import sg.hirokids.shared.db.AppDatabase
-import sg.hirokids.shared.ui.library.LibraryCountViewModel
+import sg.hirokids.shared.domain.LocationProvider
+import sg.hirokids.shared.ui.library.LibraryViewModel
 
 /** Platform pieces (SQLite driver). Android needs a `Context` binding from the app. */
 expect fun platformModule(): Module
@@ -20,7 +26,11 @@ fun sharedModule(proxyBaseUrl: String): Module =
         single { ProxyApi(get(), proxyBaseUrl) }
         single { AppDatabase(get()) }
         single<Settings> { Settings() }
-        viewModelOf(::LibraryCountViewModel)
+        single { CurrentLibraryStore(get()) }
+        single<LibrarySeedSource> { ResourceSeedSource() }
+        single<DirectorySource> { LibraryRepository(get(), get()) }
+        // the platform supplies the location provider when the screen is created
+        viewModel { (location: LocationProvider) -> LibraryViewModel(get(), get(), location) }
     }
 
 /** Starts Koin for the shared code. Android adds its `Context`; iOS calls this from Swift. */

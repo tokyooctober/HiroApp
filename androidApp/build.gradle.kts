@@ -29,4 +29,5 @@ dependencies {
     implementation(project(":shared"))
     implementation(libs.androidx.activity.compose)
     implementation(libs.koin.core)
+    implementation(libs.play.services.location) // FusedLocationProviderClient (spec section 6)
 }
