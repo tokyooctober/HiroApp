@@ -33,6 +33,21 @@ jobs:
           test "$code" = "401" -o "$code" = "403"
           docker logs proxy
           test "$(docker inspect --format '{{.State.Running}}' proxy)" = "true"
+      - name: "Smoke test through docker compose (the path used on a developer machine: read-only, no capabilities, loopback only)"
+        run: |
+          docker rm -f proxy || true
+          export NLB_API_KEY=ci-fake-key NLB_APP_CODE=ci-fake-app
+          docker compose up -d --build proxy
+          for i in $(seq 1 20); do curl -s -o /dev/null http://localhost:8080/admin && break; sleep 1; done
+          test "$(curl -s -o /dev/null -w '%{http_code}' http://localhost:8080/admin)" = "404"
+          code=$(curl -s -o /dev/null -w '%{http_code}' 'http://localhost:8080/library/GetBranches?ListType=active')
+          test "$code" = "401" -o "$code" = "403"
+          id=$(docker compose ps -q proxy)
+          test "$(docker inspect --format '{{.HostConfig.ReadonlyRootfs}}' "$id")" = "true"
+          test "$(docker inspect --format '{{.Config.User}}' "$id")" = "node"
+          test "$(docker compose ps --format '{{.Ports}}' proxy)" = "127.0.0.1:8080->8080/tcp"
+          docker compose logs proxy
+          docker compose down
 
   android-and-shared:
     runs-on: ubuntu-latest

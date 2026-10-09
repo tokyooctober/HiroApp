@@ -1,6 +1,6 @@
 # Run the proxy on your own machine:
 #   export NLB_API_KEY=...  NLB_APP_CODE=...        (never put them in a file in this repo)
-#   docker compose up --build                       the proxy on http://localhost:8080
+#   docker compose up --build -d                    the proxy on http://localhost:8080 (this machine only)
 #   docker compose --profile tunnel up --build      also publish it through a Cloudflare Tunnel (see proxy/README.md)
 #
 # Exactly one proxy instance must run: the rate-limit queue and the cache live in its memory.
@@ -8,7 +8,10 @@ services:
   proxy:
     build: ./proxy
     ports:
-      - "8080:8080"
+      # This machine only by default. The emulator reaches it as 10.0.2.2 and a USB phone through `adb reverse`.
+      # Until app attestation exists (Task 18) anyone who can reach the port can spend the NLB quota, so only set
+      # PROXY_BIND=0.0.0.0 on a network you trust.
+      - "${PROXY_BIND:-127.0.0.1}:8080:8080"
     environment:
       # No values here: Docker copies them from your shell, so nothing secret is written to disk.
       - NLB_API_KEY
