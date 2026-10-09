@@ -19,6 +19,7 @@ import sg.hirokids.shared.data.createHttpClient
 import sg.hirokids.shared.db.AppDatabase
 import sg.hirokids.shared.domain.LocationProvider
 import sg.hirokids.shared.ui.library.LibraryViewModel
+import sg.hirokids.shared.ui.search.SearchViewModel
 
 /** Platform pieces (SQLite driver). Android needs a `Context` binding from the app. */
 expect fun platformModule(): Module
@@ -36,6 +37,7 @@ fun sharedModule(proxyBaseUrl: String): Module =
         single<DirectorySource> { LibraryRepository(get(), get()) }
         // the platform supplies the location provider when the screen is created
         viewModel { (location: LocationProvider) -> LibraryViewModel(get(), get(), location) }
+        viewModel { SearchViewModel(get()) }
     }
 
 /** Starts Koin for the shared code. Android adds its `Context`; iOS calls this from Swift. */

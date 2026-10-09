@@ -2,11 +2,27 @@
 <resources>
     <string name="app_name">Hiro-Kids</string>
 
-    <!-- Home (until search arrives) -->
     <string name="youre_at">You’re at</string>
     <string name="change">Change</string>
-    <string name="home_placeholder">Searching for books is coming soon.</string>
     <string name="loading">Loading…</string>
+
+    <!-- Search home and results -->
+    <string name="search_heading">Find a book</string>
+    <string name="search_hint">Title, author, topic, ISBN</string>
+    <string name="search_label">Search books</string>
+    <string name="search_button">Search</string>
+    <string name="search_too_short">Type at least 2 letters or numbers.</string>
+    <string name="mode_children">Children’s books</string>
+    <string name="results_back">Back</string>
+    <string name="results_on_shelf_title">On the shelf here</string>
+    <string name="results_at_library">At %1$s</string>
+    <string name="results_found_title">Books found</string>
+    <string name="results_searching">Searching…</string>
+    <string name="results_empty">No books found. Try different words.</string>
+    <string name="results_error">We couldn’t load books. Check your connection and try again.</string>
+    <string name="results_retry">Try again</string>
+    <string name="card_on_shelf">On the shelf here</string>
+    <string name="card_by">%1$s, by %2$s</string>
 
     <!-- Library picker -->
     <string name="picker_title">Which library are you at?</string>

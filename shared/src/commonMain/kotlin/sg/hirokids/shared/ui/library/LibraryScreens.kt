@@ -45,7 +45,6 @@ import sg.hirokids.shared.resources.detect_title
 import sg.hirokids.shared.resources.detecting
 import sg.hirokids.shared.resources.distance_km
 import sg.hirokids.shared.resources.distance_m
-import sg.hirokids.shared.resources.home_placeholder
 import sg.hirokids.shared.resources.loading
 import sg.hirokids.shared.resources.notice_approximate
 import sg.hirokids.shared.resources.notice_denied
@@ -60,14 +59,19 @@ import sg.hirokids.shared.resources.picker_search_hint
 import sg.hirokids.shared.resources.picker_selected
 import sg.hirokids.shared.resources.picker_title
 import sg.hirokids.shared.resources.youre_at
+import sg.hirokids.shared.ui.search.SearchFlow
+import sg.hirokids.shared.ui.search.SearchViewModel
 import sg.hirokids.shared.ui.theme.HiroColors
 import sg.hirokids.shared.ui.theme.HiroShapes
 
 private val MinTouchTarget = 48.dp // NFR-8: 48 dp (Android) / 44 pt (iOS)
 
-/** Shows either the home screen or the picker, depending on the state. */
+/** Shows either search (home and results) or the library picker, depending on the state. */
 @Composable
-fun LibraryFlow(viewModel: LibraryViewModel) {
+fun LibraryFlow(
+    viewModel: LibraryViewModel,
+    search: SearchViewModel,
+) {
     val state by viewModel.state.collectAsState()
     when {
         state.loading -> LoadingScreen()
@@ -80,7 +84,7 @@ fun LibraryFlow(viewModel: LibraryViewModel) {
                 onConfirm = viewModel::confirm,
                 onClose = viewModel::closePicker,
             )
-        else -> LibraryHomeScreen(state, onChange = viewModel::change)
+        else -> state.current?.let { SearchFlow(it, search, onChangeLibrary = viewModel::change) }
     }
 }
 
@@ -89,29 +93,6 @@ private fun LoadingScreen() {
     Box(Modifier.fillMaxSize().safeDrawingPadding(), contentAlignment = Alignment.Center) {
         CircularProgressIndicator()
         Text(stringResource(Res.string.loading), Modifier.padding(top = 96.dp))
-    }
-}
-
-/** The "You're at {library}" card on top of the search home (design: `Main.dc.html`). Search itself arrives in Task 7. */
-@Composable
-fun LibraryHomeScreen(
-    state: LibraryUiState,
-    onChange: () -> Unit,
-) {
-    Column(
-        Modifier
-            .fillMaxSize()
-            .background(HiroColors.Page)
-            .safeDrawingPadding()
-            .padding(horizontal = 20.dp, vertical = 24.dp),
-        verticalArrangement = Arrangement.spacedBy(18.dp),
-    ) {
-        state.current?.let { YoureAtCard(it.name, onChange) }
-        Text(
-            stringResource(Res.string.home_placeholder),
-            style = MaterialTheme.typography.bodyLarge,
-            color = HiroColors.TextSecondary,
-        )
     }
 }
 

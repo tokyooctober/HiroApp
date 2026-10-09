@@ -1,18 +1,12 @@
 package sg.hirokids.shared.data
 
-import io.ktor.client.engine.mock.MockEngine
-import io.ktor.client.engine.mock.respond
-import io.ktor.client.engine.mock.respondError
 import io.ktor.client.plugins.ResponseException
 import io.ktor.client.request.HttpRequestData
-import io.ktor.http.HttpHeaders
 import io.ktor.http.HttpStatusCode
-import io.ktor.http.headersOf
 import kotlinx.coroutines.test.runTest
 import sg.hirokids.shared.domain.LatLon
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
-import sg.hirokids.shared.domain.Title
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertFailsWith
@@ -24,55 +18,10 @@ import kotlin.test.assertTrue
 class NlbRepositoryTest {
     private val tampines = Library("TRL", "Tampines Regional Library", LatLon(1.352391, 103.940821))
 
-    private fun record(
-        brn: Long,
-        subjects: String = """["Dinosaurs Juvenile literature."]""",
-        extra: String = "",
-    ) = """{"brn":$brn,"isbns":["97800000$brn","00000$brn"],"format":{"code":"1","name":"Book"},"subjects":$subjects,""" +
-        """"isRestricted":false,"activeReservationsCount":2,"availability":true$extra}"""
-
-    private fun group(
-        title: String,
-        vararg records: String,
-        author: String = "Hepworth, Amelia",
-    ) = """{"title":"$title","author":"$author","coverUrl":{"small":"https://c/s","medium":"https://c/m","large":"https://c/l"},""" +
-        """"records":[${records.joinToString(",")}]}"""
-
-    private fun response(
-        vararg groups: String,
-        hasMore: Boolean = false,
-        next: Int = 20,
-    ) = """{"totalRecords":99,"count":${groups.size},"hasMoreRecords":$hasMore,"nextRecordsOffset":$next,"titles":[${groups.joinToString(
-        ",",
-    )}],"facets":[]}"""
-
-    private class MemoryStore : BookStore {
-        val saved = mutableMapOf<Long, Title>()
-
-        override fun put(titles: List<Title>) {
-            titles.forEach { saved[it.brn] = it }
-        }
-
-        override fun get(brn: Long): Title? = saved[brn]
-    }
-
     private fun repository(
         store: BookStore = MemoryStore(),
         respond: (HttpRequestData) -> Pair<HttpStatusCode, String>,
-    ): Triple<NlbRepository, MutableList<HttpRequestData>, BookStore> {
-        val seen = mutableListOf<HttpRequestData>()
-        val engine =
-            MockEngine { request ->
-                seen += request
-                val (status, body) = respond(request)
-                if (status == HttpStatusCode.OK) {
-                    respond(body, status, headersOf(HttpHeaders.ContentType, "application/json"))
-                } else {
-                    respondError(status)
-                }
-            }
-        return Triple(NlbRepository(ProxyApi(createHttpClient(engine), "http://proxy.test"), store), seen, store)
-    }
+    ) = mockRepository(store, respond)
 
     private fun keywords(text: String) = SearchQuery.Keywords(text)
 
