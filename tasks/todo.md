@@ -122,7 +122,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 
 ### Task 6: `AudiencePolicy` for Children mode with fixture regression set
 **Spec task:** T4 (Children half), seed of T9 · **Covers:** FR-2, FR-13 (off), section 4
-**Status:** code and tests done 9 Oct 2026; waiting on CI and the human read of the hidden titles.
+**Status:** code, tests and CI done 9 Oct 2026; waiting on the human read of the hidden titles.
 **Description:** The pure-Kotlin gate that decides whether a record may be shown in Children mode, built rule by rule from section 4 and the Task 1 fixtures, plus a regression set that runs every Children fixture through it. No UI. Built before any result screen so nothing can be rendered ungated.
 **Acceptance criteria:**
 - [x] Each rule of the Children column has its own test (restricted, `minAgeLimit` > 0, rated media, usage levels, juvenile marker, mixed junior and adult copies counts only junior) _(`AudiencePolicyTest`, 31 tests; three rules (the older-audience veto, the shelf list, the marker) were also broken on purpose and tests failed each time)_
@@ -130,7 +130,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 - [x] Regression set: zero adult-only or teen-only titles allowed from the Children fixtures _(`AudienceRegressionTest`: the 43 adult-search records that are not in any juvenile result are all hidden unless they carry a Juvenile subject; and every marked children's record is allowed, so "hide everything" cannot pass. Teen records are synthetic in `AudiencePolicyTest`: no `adolescent` fixture is recorded)_
 - [x] The hide rate on the fixtures is printed so MARC 521 sparsity can be judged _(7 of 42 distinct records, 16.7%; printed and written to `shared/build/reports/audience/hide-rate.txt`; spec section 9)_
 **Verification:**
-- [ ] `./gradlew :shared:allTests --tests "*AudiencePolicy*"` _(not run through the repo build: the cloud sandbox cannot reach dl.google.com, so the Android plugin does not resolve. The same files passed 37 tests, ktlint and detekt with the repo's configs in a JVM-only scratch project; CI is the confirmation)_
+- [x] `./gradlew :shared:allTests --tests "*AudiencePolicy*"` _(green on GitHub Actions 9 Oct 2026, run 37908876027: `:shared:allTests`, ktlint and detekt on Linux, and the Kotlin tests on the iOS simulator target. Earlier checked in a JVM-only scratch build because the cloud sandbox cannot reach dl.google.com)_
 - [ ] Manual: human reads the printed list of hidden titles for a sample
 **Dependencies:** Task 1
 **Files touched:** `shared/.../domain/AudiencePolicy.kt`, `AudienceText.kt`, `Models.kt`, `shared/src/commonTest/.../AudiencePolicyTest.kt`, `AudienceRegressionTest.kt`
