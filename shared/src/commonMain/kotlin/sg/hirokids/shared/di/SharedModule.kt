@@ -6,12 +6,15 @@ import org.koin.core.context.startKoin
 import org.koin.core.module.Module
 import org.koin.core.module.dsl.viewModel
 import org.koin.dsl.module
+import sg.hirokids.shared.data.BookStore
 import sg.hirokids.shared.data.CurrentLibraryStore
 import sg.hirokids.shared.data.DirectorySource
 import sg.hirokids.shared.data.LibraryRepository
 import sg.hirokids.shared.data.LibrarySeedSource
+import sg.hirokids.shared.data.NlbRepository
 import sg.hirokids.shared.data.ProxyApi
 import sg.hirokids.shared.data.ResourceSeedSource
+import sg.hirokids.shared.data.SqlBookStore
 import sg.hirokids.shared.data.createHttpClient
 import sg.hirokids.shared.db.AppDatabase
 import sg.hirokids.shared.domain.LocationProvider
@@ -26,6 +29,8 @@ fun sharedModule(proxyBaseUrl: String): Module =
         single { ProxyApi(get(), proxyBaseUrl) }
         single { AppDatabase(get()) }
         single<Settings> { Settings() }
+        single<BookStore> { SqlBookStore(get()) }
+        single { NlbRepository(get(), get()) }
         single { CurrentLibraryStore(get()) }
         single<LibrarySeedSource> { ResourceSeedSource() }
         single<DirectorySource> { LibraryRepository(get(), get()) }

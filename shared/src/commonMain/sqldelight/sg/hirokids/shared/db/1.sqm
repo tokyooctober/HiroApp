@@ -1,0 +1,14 @@
+-- Database version 1 -> 2 (Task 7): adds the book store. Keep in step with Book.sq.
+CREATE TABLE book (
+    brn INTEGER NOT NULL PRIMARY KEY,
+    isbn TEXT,
+    title TEXT NOT NULL,
+    author TEXT,
+    cover_url TEXT,
+    format TEXT,
+    subjects TEXT NOT NULL,
+    audience TEXT NOT NULL,
+    audience_imda TEXT NOT NULL,
+    is_restricted INTEGER NOT NULL,
+    reservations INTEGER NOT NULL
+);

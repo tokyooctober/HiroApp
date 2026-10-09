@@ -151,15 +151,16 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 
 ### Task 7: Search in Children mode shows "On the shelf here" cards
 **Spec task:** T3, T6 (group 1), T7 (part) · **Covers:** FR-1, FR-2 (Children), FR-4 (group 1), FR-5, FR-14 · **Design:** `Main.dc.html`, `Results.dc.html`
+**Status (9 Oct 2026): slice 7a done, 7b (view model and screens) not started.** 7a is the data layer: DTOs and mappers for `SearchTitles` and `GetTitles`, query parsing, the audience gate on every result, the SQLDelight book store with its migration, and `NlbRepository.search`. **Open decision before 7b (spec section 9):** the recorded fixtures show `availability` is `true` on every record even in a `Locations=trl` search without `Availability=true`, so a record's flag is not per branch, and the T0 sample found 4 of 9 single-record titles returned by `Locations=trl&Availability=true` had no Tampines copy at all. "On the shelf here" from the search alone would therefore be wrong for some cards. Options: (a) show it as the search reports it; (b) confirm the first cards with `GetAvailabilityInfo` (the spec's fallback: more calls, count and call number for free); (c) word it "may be on the shelf" until confirmed. `SearchHit.reportedOnShelfHere` keeps the repository neutral.
 **Description:** The first full path. Search home with the Children heading and search box; submit a 2+ character query; `NlbRepository.search` calls `SearchTitles` (`juvenile`, `Locations=<current>`, `Availability=true`), maps to domain models, gates through `AudiencePolicy`, stores titles in SQLDelight, and renders group 1 cards (cover, title, author, type, "On the shelf here", count and call number when the local store has them). ISBN-shaped queries route to `GetTitles?ISBN=`.
 **Acceptance criteria:**
 - [ ] "dinosaur" in Children mode returns ≥ 1 card within 3 s on 4G against the dev proxy
-- [ ] Only titles passing `AudiencePolicy` are shown; a seeded adult title in a fixture is never rendered
-- [ ] A 10- or 13-digit ISBN calls `GetTitles?ISBN=`
-- [ ] Titles are saved by BRN with no expiry; a repeated title renders from the store without a `GetTitleDetails` call
+- [ ] Only titles passing `AudiencePolicy` are shown; a seeded adult title in a fixture is never rendered _(data layer done: the repository returns and stores only allowed records, tested with a seeded adult title and with the recorded adult fixture; the screen is slice 7b)_
+- [x] A 10- or 13-digit ISBN calls `GetTitles?ISBN=` _(`SearchQueryTest`, `NlbRepositoryTest`; hyphens and spaces ignored, a trailing X allowed)_
+- [x] Titles are saved by BRN with no expiry; a repeated title renders from the store without a `GetTitleDetails` call _(`SqlBookStore`, `NlbRepository.stored`; the database moves to version 2 with a migration, tested from a version 1 database)_
 - [ ] Missing cover shows a placeholder; text scales to 200% without clipping
 **Verification:**
-- [ ] `./gradlew :shared:allTests` (mappers on fixtures, store-hit-no-network, ISBN routing, 2-character minimum)
+- [ ] `./gradlew :shared:allTests` (mappers on fixtures, store-hit-no-network, ISBN routing, 2-character minimum) _(the tests are written and pass in a JVM-only scratch build, 38 new ones, 69 with Task 6; CI is the confirmation)_
 - [ ] Compose UI test + screenshot test (Children), XCUITest for the search flow
 - [ ] Manual: search on both platforms in a real or mocked library
 **Dependencies:** Tasks 3, 5, 6

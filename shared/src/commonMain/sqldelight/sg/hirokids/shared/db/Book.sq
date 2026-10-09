@@ -1,0 +1,23 @@
+-- The local book store (FR-14, Task 7): titles are kept by BRN with no expiry, so a repeated title renders without a call.
+-- Only titles that passed AudiencePolicy are written. List columns hold JSON text.
+-- A new table, so the earlier schema (meta) is unchanged; phones with version 1 gain it through 1.sqm.
+CREATE TABLE book (
+    brn INTEGER NOT NULL PRIMARY KEY,
+    isbn TEXT,
+    title TEXT NOT NULL,
+    author TEXT,
+    cover_url TEXT,
+    format TEXT,
+    subjects TEXT NOT NULL,
+    audience TEXT NOT NULL,
+    audience_imda TEXT NOT NULL,
+    is_restricted INTEGER NOT NULL,
+    reservations INTEGER NOT NULL
+);
+
+selectByBrn:
+SELECT * FROM book WHERE brn = ?;
+
+upsert:
+INSERT OR REPLACE INTO book(brn, isbn, title, author, cover_url, format, subjects, audience, audience_imda, is_restricted, reservations)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);

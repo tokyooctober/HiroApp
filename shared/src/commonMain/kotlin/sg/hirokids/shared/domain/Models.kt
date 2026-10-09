@@ -8,7 +8,7 @@ enum class Mode {
 
 /**
  * One catalogue record, identified by its BRN. A `SearchTitles` result groups several records under one title; the audience
- * check runs on each record. Fields the audience check does not need (format, cover sizes, summary) arrive with the mappers in Task 7.
+ * check runs on each record. Fields the screens do not need yet (summary, publisher, copies) arrive with the detail screen in Task 10.
  */
 data class Title(
     val brn: Long,
@@ -23,6 +23,8 @@ data class Title(
     val audienceImda: List<String>,
     val isRestricted: Boolean,
     val reservations: Int,
+    /** NLB's format name, e.g. `Book` or `Ebook`. */
+    val format: String? = null,
 )
 
 enum class CopyStatus {
