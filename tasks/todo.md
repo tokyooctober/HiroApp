@@ -46,15 +46,15 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Spec task:** T1 · **Covers:** NFR-3
 **Description:** Add the caches of NFR-3 in front of the queue: `SearchTitles` 10 min, availability 5 min, branches 7 days. Cache hits do not use queue budget.
 **Acceptance criteria:**
-- [ ] Repeat request within its TTL makes 0 NLB calls and returns the same body
-- [ ] After the TTL, the next request calls NLB once
-- [ ] Cache key includes every query parameter, never the device or the key
-- [ ] Error responses are not cached
+- [x] Repeat request within its TTL makes 0 NLB calls and returns the same body _(`handler-cache.test.mjs`; identical requests arriving together also share one NLB call)_
+- [x] After the TTL, the next request calls NLB once _(each endpoint on its own TTL: search 10 min, availability 5 min, branches 7 days)_
+- [x] Cache key includes every query parameter, never the device or the key _(`cache.test.mjs`: path plus sorted parameters, no host or headers)_
+- [x] Error responses are not cached _(429, 500, 404, a network failure, and a response echoing a credential)_
 **Verification:**
-- [ ] `cd proxy && npm test` (TTL per endpoint, key construction, no caching of 429/5xx)
+- [x] `cd proxy && npm test` (TTL per endpoint, key construction, no caching of 429/5xx) _(50 tests pass, 9 Oct 2026; cache hits are also tested to use no queue slot, and logs say hit or miss with no query string)_
 - [ ] Manual: two identical dev-proxy searches, second visible as a hit in proxy logs
 **Dependencies:** Task 2
-**Files likely touched:** `proxy/src/cache.*`, `proxy/test/cache.test.*`
+**Files touched:** `proxy/src/cache.mjs`, `proxy/src/handler.mjs`, `proxy/test/cache.test.mjs`, `proxy/test/handler-cache.test.mjs` (built with the proxy in the first commit; this entry was never ticked)
 **Estimated scope:** S
 
 ### Task 3b: Package the proxy as a container, then deploy it
