@@ -21,3 +21,12 @@ SELECT * FROM book WHERE brn = ?;
 upsert:
 INSERT OR REPLACE INTO book(brn, isbn, title, author, cover_url, format, subjects, audience, audience_imda, is_restricted, reservations)
 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+
+-- Saved titles for the offline fallback (FR-12). instr, not LIKE, so % and _ in what the user typed are plain characters.
+selectMatching:
+SELECT * FROM book
+WHERE instr(lower(title), :word) > 0
+   OR instr(lower(coalesce(author, '')), :word) > 0
+   OR instr(lower(coalesce(isbn, '')), :word) > 0
+ORDER BY title
+LIMIT :cap;

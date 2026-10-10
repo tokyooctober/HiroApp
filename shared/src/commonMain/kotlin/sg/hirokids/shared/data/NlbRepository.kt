@@ -3,6 +3,7 @@ package sg.hirokids.shared.data
 import sg.hirokids.shared.domain.AudiencePolicy
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
+import sg.hirokids.shared.domain.ResultGroup
 import sg.hirokids.shared.domain.SearchHit
 import sg.hirokids.shared.domain.SearchPage
 import sg.hirokids.shared.domain.Title
@@ -14,39 +15,68 @@ import sg.hirokids.shared.domain.Title
 class NlbRepository(
     private val api: ProxyApi,
     private val store: BookStore,
+    private val retry: RetryPolicy = RetryPolicy(),
 ) {
-    /** [offset] is `nextOffset` of the previous page. Only the branch code of [library] is sent (NFR-5). */
+    /**
+     * One page of [group] for [query]. [offset] is `nextOffset` of the previous page of the same group. Only the branch code
+     * of [library] is sent (NFR-5). A busy proxy (HTTP 429) is retried with back-off before the error is thrown.
+     */
     suspend fun search(
         query: SearchQuery,
         library: Library,
         mode: Mode,
         offset: Int = 0,
+        group: ResultGroup = ResultGroup.ON_SHELF,
     ): SearchPage {
         val policy = AudiencePolicy(mode)
         return when (query) {
             is SearchQuery.Keywords -> {
+                val onShelf = group == ResultGroup.ON_SHELF
                 val response =
-                    api.searchTitles(
-                        SearchTitlesRequest(
-                            keywords = query.text,
-                            audience = mode.intendedAudience(),
-                            location = library.code.lowercase(), // NLB filters on the lower-case branch code
-                            availableOnly = true,
-                            offset = offset,
-                        ),
-                    )
-                page(response.titles.map { it to it.records }, response.hasMoreRecords, response.nextRecordsOffset, policy, true)
+                    retry.run {
+                        api.searchTitles(
+                            SearchTitlesRequest(
+                                keywords = query.text,
+                                audience = mode.intendedAudience(),
+                                location = library.code.lowercase(), // NLB filters on the lower-case branch code
+                                availableOnly = onShelf,
+                                offset = offset,
+                            ),
+                        )
+                    }
+                page(response.titles.map { it to it.records }, response.hasMoreRecords, response.nextRecordsOffset, policy, onShelf)
             }
-            is SearchQuery.Isbn -> {
-                // GetTitles has no audience filter, so the policy alone decides; nothing says where it is on the shelf
-                val response = api.titlesByIsbn(query.value, offset)
-                page(response.titles.map { null to listOf(it) }, response.hasMoreRecords, response.nextRecordsOffset, policy, false)
-            }
+            is SearchQuery.Isbn ->
+                if (group == ResultGroup.ALL_HERE) {
+                    SearchPage(emptyList(), hasMore = false, nextOffset = null, hidden = 0) // a lookup by ISBN has one list only
+                } else {
+                    // GetTitles has no audience filter, so the policy alone decides; nothing says where it is on the shelf
+                    val response = retry.run { api.titlesByIsbn(query.value, offset) }
+                    page(response.titles.map { null to listOf(it) }, response.hasMoreRecords, response.nextRecordsOffset, policy, false)
+                }
         }
     }
 
     /** A title kept from an earlier search, read without any network call. */
     fun stored(brn: Long): Title? = store.get(brn)
+
+    /**
+     * Saved titles that match what was typed, for when the network is down (FR-12). They are checked by [AudiencePolicy] again
+     * on the way out, and carry no claim about the shelf.
+     */
+    fun saved(
+        query: SearchQuery,
+        mode: Mode,
+        limit: Int = SEARCH_PAGE_SIZE,
+    ): List<Title> {
+        val words =
+            when (query) {
+                is SearchQuery.Keywords -> query.text
+                is SearchQuery.Isbn -> query.value
+            }
+        val policy = AudiencePolicy(mode)
+        return store.search(words, limit).filter { policy.allows(it) }
+    }
 
     private fun page(
         groups: List<Pair<TitleGroupDto?, List<RecordDto>>>,

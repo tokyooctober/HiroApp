@@ -7,6 +7,7 @@ import kotlinx.coroutines.test.runTest
 import sg.hirokids.shared.domain.LatLon
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
+import sg.hirokids.shared.domain.ResultGroup
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertFailsWith
@@ -20,8 +21,9 @@ class NlbRepositoryTest {
 
     private fun repository(
         store: BookStore = MemoryStore(),
+        retry: RetryPolicy = RetryPolicy(sleep = {}),
         respond: (HttpRequestData) -> Pair<HttpStatusCode, String>,
-    ) = mockRepository(store, respond)
+    ) = mockRepository(store, retry, respond)
 
     private fun keywords(text: String) = SearchQuery.Keywords(text)
 
@@ -227,5 +229,95 @@ class NlbRepositoryTest {
             val (repo, _, _) = repository { HttpStatusCode.TooManyRequests to "" }
             val error = assertFailsWith<ResponseException> { repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN) }
             assertEquals(429, error.response.status.value)
+        }
+
+    // --- group 2: in this library, but all copies out (FR-4) -----------------------------------------------------------
+
+    @Test
+    fun theAllCopiesOutGroupAsksForTheLibraryWithoutTheAvailabilityFilter() =
+        runTest {
+            val (repo, seen, _) = repository { HttpStatusCode.OK to response(group("A", record(1))) }
+            val page = repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN, group = ResultGroup.ALL_HERE)
+            val url = seen.single().url
+            assertEquals("trl", url.parameters["Locations"])
+            assertNull(url.parameters["Availability"])
+            assertEquals("juvenile", url.parameters["IntendedAudiences"])
+            assertFalse(page.hits.single().reportedOnShelfHere)
+        }
+
+    @Test
+    fun anIsbnLookupHasNoAllCopiesOutGroupAndMakesNoCall() =
+        runTest {
+            val (repo, seen, _) = repository { HttpStatusCode.OK to response() }
+            val page = repo.search(SearchQuery.Isbn("9781801041850"), tampines, Mode.CHILDREN, group = ResultGroup.ALL_HERE)
+            assertEquals(emptyList(), page.hits)
+            assertFalse(page.hasMore)
+            assertEquals(0, seen.size)
+        }
+
+    // --- busy proxy (FR-12) ---------------------------------------------------------------------------------------------
+
+    @Test
+    fun aBusyProxyIsRetriedWithBackOffBeforeTheErrorReachesTheScreen() =
+        runTest {
+            val waits = mutableListOf<Long>()
+            var calls = 0
+            val (repo, seen, _) =
+                repository(retry = RetryPolicy(sleep = { waits += it })) {
+                    if (++calls <= 2) HttpStatusCode.TooManyRequests to "" else HttpStatusCode.OK to response(group("A", record(1)))
+                }
+            val page = repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN)
+            assertEquals(1, page.hits.size)
+            assertEquals(3, seen.size)
+            assertEquals(listOf(1_000L, 2_000L), waits)
+        }
+
+    // --- saved books while offline (FR-12, FR-14) --------------------------------------------------------------------------
+
+    @Test
+    fun savedBooksMatchingTheWordsAreAvailableWithoutTheNetwork() =
+        runTest {
+            val (repo, seen, _) =
+                repository {
+                    HttpStatusCode.OK to response(group("Dinosaur eggs", record(1)), group("Cats and kittens", record(2)))
+                }
+            repo.search(keywords("animals"), tampines, Mode.CHILDREN)
+            seen.clear()
+            assertEquals(listOf("Dinosaur eggs"), repo.saved(keywords("eggs dino"), Mode.CHILDREN).map { it.title })
+            assertEquals(emptyList(), repo.saved(keywords("dragon"), Mode.CHILDREN).map { it.title })
+            assertEquals(0, seen.size)
+        }
+
+    @Test
+    fun savedBooksAreMatchedByIsbnToo() =
+        runTest {
+            val (repo, _, _) = repository { HttpStatusCode.OK to response(group("Dinosaur", record(7))) }
+            repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN)
+            assertEquals(listOf(7L), repo.saved(SearchQuery.Isbn("978000007"), Mode.CHILDREN).map { it.brn })
+        }
+
+    @Test
+    fun savedBooksAreRunThroughTheAudienceGateAgain() =
+        runTest {
+            val store = MemoryStore()
+            // a title that should never have been stored (for example by an older version of the app)
+            store.put(
+                listOf(
+                    sg.hirokids.shared.domain.Title(
+                        9,
+                        null,
+                        "Dinosaur adult",
+                        null,
+                        null,
+                        listOf("Dinosaurs"),
+                        emptyList(),
+                        emptyList(),
+                        false,
+                        0,
+                    ),
+                ),
+            )
+            val (repo, _, _) = repository(store) { HttpStatusCode.OK to response() }
+            assertEquals(emptyList(), repo.saved(keywords("dinosaur"), Mode.CHILDREN))
         }
 }

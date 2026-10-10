@@ -4,6 +4,7 @@ import kotlinx.serialization.builtins.ListSerializer
 import kotlinx.serialization.builtins.serializer
 import kotlinx.serialization.json.Json
 import sg.hirokids.shared.db.AppDatabase
+import sg.hirokids.shared.db.Book
 import sg.hirokids.shared.domain.Title
 
 /** Titles kept on the phone by BRN, with no expiry (FR-14). */
@@ -11,6 +12,12 @@ interface BookStore {
     fun put(titles: List<Title>)
 
     fun get(brn: Long): Title?
+
+    /** Saved titles whose title, author or ISBN contain every word of [words] (any case), at most [limit]. */
+    fun search(
+        words: String,
+        limit: Int,
+    ): List<Title>
 }
 
 class SqlBookStore(
@@ -43,19 +50,43 @@ class SqlBookStore(
     }
 
     override fun get(brn: Long): Title? =
-        database.bookQueries.selectByBrn(brn).executeAsOneOrNull()?.let {
-            Title(
-                brn = it.brn,
-                isbn = it.isbn,
-                title = it.title,
-                author = it.author,
-                coverUrl = it.cover_url,
-                subjects = decode(it.subjects),
-                audience = decode(it.audience),
-                audienceImda = decode(it.audience_imda),
-                isRestricted = it.is_restricted != 0L,
-                reservations = it.reservations.toInt(),
-                format = it.format,
-            )
-        }
+        database.bookQueries
+            .selectByBrn(brn)
+            .executeAsOneOrNull()
+            ?.toTitle()
+
+    override fun search(
+        words: String,
+        limit: Int,
+    ): List<Title> {
+        val terms = words.lowercase().split(' ').filter { it.isNotBlank() }
+        val anchor = terms.maxByOrNull { it.length } ?: return emptyList()
+        return database.bookQueries
+            .selectMatching(anchor, MAX_CANDIDATES)
+            .executeAsList()
+            .map { it.toTitle() }
+            .filter { title ->
+                val text = "${title.title} ${title.author.orEmpty()} ${title.isbn.orEmpty()}".lowercase()
+                terms.all { it in text }
+            }.take(limit)
+    }
+
+    private fun Book.toTitle() =
+        Title(
+            brn = brn,
+            isbn = isbn,
+            title = title,
+            author = author,
+            coverUrl = cover_url,
+            subjects = decode(subjects),
+            audience = decode(audience),
+            audienceImda = decode(audience_imda),
+            isRestricted = is_restricted != 0L,
+            reservations = reservations.toInt(),
+            format = format,
+        )
+
+    private companion object {
+        const val MAX_CANDIDATES = 200L
+    }
 }

@@ -169,13 +169,14 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 
 ### Task 8: Paging, "all copies out here" group, errors and retry
 **Spec task:** T6 (group 2), T7 (part) · **Covers:** FR-4 (group 2), FR-5 (loan cards), FR-11, FR-12
+**Status (10 Oct 2026): written; waiting on CI and a run on a device.** A search now costs 2 NLB calls (shelf, then all copies out) plus one per further page, and Task 9 adds the third. The Android system Back button is still not wired.
 **Description:** Add the second `SearchTitles` call (no `Availability`) to fill "In this library, all copies out" (fewest waiting first), page 20 at a time with `nextRecordsOffset`, and show retry plus stored results on network failure, with 1/2/4 s back-off on 429 (max 3 tries). Handle the proxy's "busy" 429 with the same retry action.
 **Acceptance criteria:**
-- [ ] Group 2 shows titles with copies here but none on the shelf, labelled "On loan here" with the number waiting; none repeat group 1
-- [ ] Scrolling to the end of a group loads the next 20; no duplicate BRNs; "End of results" when `hasMoreRecords = false`
-- [ ] 429 retries after 1, 2, 4 s, then shows the error with Retry; offline shows Retry and stored results
+- [x] Group 2 shows titles with copies here but none on the shelf, labelled "On loan here" with the number waiting; none repeat group 1 _(a second `SearchTitles` call with the branch and no availability filter; a book is in one group only, the shelf wins, also when it turns up on a later page; ordered by fewest waiting within each page so cards on screen never move; view model tests)_
+- [x] Scrolling to the end of a group loads the next 20; no duplicate BRNs; "End of results" when `hasMoreRecords = false` _(the row under each group loads the next page when it scrolls into view, from the offset NLB gave; "End of results" ends the last group; a failed page shows Try again and waits)_
+- [x] 429 retries after 1, 2, 4 s, then shows the error with Retry; offline shows Retry and stored results _(`RetryPolicy`: the first try and three retries; other errors are not retried. "Stored results" are the books saved on the phone from earlier searches that match the words, run through the audience gate again, labelled "Saved on this phone")_
 **Verification:**
-- [ ] `./gradlew :shared:allTests` (paging with MockEngine, de-duplication, back-off timing with a test clock)
+- [ ] `./gradlew :shared:allTests` (paging with MockEngine, de-duplication, back-off timing with a test clock) _(written: 29 new tests, 107 in all, passing in a JVM-only scratch build with ktlint and detekt clean; five deliberate breakages each fail a test. CI is the confirmation, and the first compile of the new list screen)_
 - [ ] UI tests for the error and end-of-results states
 - [ ] Manual: airplane mode mid-search
 **Dependencies:** Task 7

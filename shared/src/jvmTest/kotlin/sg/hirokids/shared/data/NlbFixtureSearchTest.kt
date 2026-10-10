@@ -43,6 +43,11 @@ class NlbFixtureSearchTest {
         }
 
         override fun get(brn: Long) = saved[brn]
+
+        override fun search(
+            words: String,
+            limit: Int,
+        ) = emptyList<sg.hirokids.shared.domain.Title>()
     }
 
     @Test

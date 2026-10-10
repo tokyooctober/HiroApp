@@ -21,7 +21,15 @@
     <string name="results_empty">No books found. Try different words.</string>
     <string name="results_error">We couldn’t load books. Check your connection and try again.</string>
     <string name="results_retry">Try again</string>
+    <string name="results_on_loan_title">In this library, but all copies out</string>
+    <string name="results_none_on_shelf">Nothing is on the shelf here right now.</string>
+    <string name="results_end">End of results</string>
+    <string name="results_more_error">We couldn’t load more books.</string>
+    <string name="results_saved_title">Saved on this phone</string>
+    <string name="results_saved_note">Books you looked at before. They may be out of date.</string>
     <string name="card_on_shelf">On the shelf here</string>
+    <string name="card_on_loan">On loan here</string>
+    <string name="card_on_loan_waiting">On loan here · %1$d waiting</string>
     <string name="card_by">%1$s, by %2$s</string>
 
     <!-- Library picker -->

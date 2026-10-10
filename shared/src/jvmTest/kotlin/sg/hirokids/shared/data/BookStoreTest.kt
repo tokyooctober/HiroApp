@@ -75,4 +75,49 @@ class BookStoreTest {
         store.put(listOf(dinosaur))
         assertEquals(dinosaur, store.get(dinosaur.brn))
     }
+
+    @Test
+    fun searchFindsSavedTitlesByWordsInTitleAuthorOrIsbnWithoutRegardToCase() {
+        val store = store()
+        store.put(
+            listOf(
+                dinosaur,
+                dinosaur.copy(
+                    brn = 2,
+                    isbn = "111",
+                    title = "Cats and kittens",
+                    author = "Smith, Jo",
+                    subjects = listOf("Cats Juvenile fiction."),
+                ),
+            ),
+        )
+        assertEquals(listOf(205717763L), store.search("DINOSAUR", 20).map { it.brn })
+        assertEquals(listOf(2L), store.search("smith kittens", 20).map { it.brn })
+        assertEquals(listOf(205717763L), store.search("9781801041850", 20).map { it.brn })
+        assertEquals(emptyList(), store.search("dragon", 20).map { it.brn })
+        assertEquals(emptyList(), store.search("   ", 20).map { it.brn })
+    }
+
+    @Test
+    fun searchTreatsPercentAndUnderscoreAsPlainCharacters() {
+        val store = store()
+        store.put(listOf(dinosaur))
+        assertEquals(emptyList(), store.search("%", 20).map { it.brn })
+        assertEquals(emptyList(), store.search("_", 20).map { it.brn })
+    }
+
+    @Test
+    fun searchReturnsAtMostTheLimit() {
+        val store = store()
+        store.put((1L..5L).map { dinosaur.copy(brn = it) })
+        assertEquals(3, store.search("dinosaur", 3).size)
+    }
+
+    @Test
+    fun searchNeedsEveryWordNotJustOne() {
+        val store = store()
+        store.put(listOf(dinosaur.copy(brn = 1, title = "Dinosaur bones"), dinosaur.copy(brn = 2, title = "Dinosaur eggs")))
+        assertEquals(emptyList(), store.search("bones eggs", 20).map { it.brn })
+        assertEquals(listOf(1L), store.search("dinosaur bones", 20).map { it.brn })
+    }
 }

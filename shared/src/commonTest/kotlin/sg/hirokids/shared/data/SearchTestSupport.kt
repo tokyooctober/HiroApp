@@ -14,8 +14,9 @@ internal fun record(
     brn: Long,
     subjects: String = """["Dinosaurs Juvenile literature."]""",
     extra: String = "",
+    waiting: Int = 2,
 ) = """{"brn":$brn,"isbns":["97800000$brn","00000$brn"],"format":{"code":"1","name":"Book"},"subjects":$subjects,""" +
-    """"isRestricted":false,"activeReservationsCount":2,"availability":true$extra}"""
+    """"isRestricted":false,"activeReservationsCount":$waiting,"availability":true$extra}"""
 
 internal fun group(
     title: String,
@@ -39,11 +40,22 @@ internal class MemoryStore : BookStore {
     }
 
     override fun get(brn: Long): Title? = saved[brn]
+
+    override fun search(
+        words: String,
+        limit: Int,
+    ): List<Title> {
+        val terms = words.lowercase().split(' ').filter { it.isNotBlank() }
+        return saved.values
+            .filter { t -> "${t.title} ${t.author.orEmpty()} ${t.isbn.orEmpty()}".lowercase().let { hay -> terms.all { it in hay } } }
+            .take(limit)
+    }
 }
 
 /** A repository whose proxy answers with [respond]; every request it receives is appended to the returned list. */
 internal fun mockRepository(
     store: BookStore = MemoryStore(),
+    retry: RetryPolicy = RetryPolicy(sleep = {}),
     respond: (HttpRequestData) -> Pair<HttpStatusCode, String>,
 ): Triple<NlbRepository, MutableList<HttpRequestData>, BookStore> {
     val seen = mutableListOf<HttpRequestData>()
@@ -57,5 +69,5 @@ internal fun mockRepository(
                 respondError(status)
             }
         }
-    return Triple(NlbRepository(ProxyApi(createHttpClient(engine), "http://proxy.test"), store), seen, store)
+    return Triple(NlbRepository(ProxyApi(createHttpClient(engine), "http://proxy.test"), store, retry), seen, store)
 }
