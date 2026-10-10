@@ -37,7 +37,7 @@ fun sharedModule(proxyBaseUrl: String): Module =
         single<DirectorySource> { LibraryRepository(get(), get()) }
         // the platform supplies the location provider when the screen is created
         viewModel { (location: LocationProvider) -> LibraryViewModel(get(), get(), location) }
-        viewModel { SearchViewModel(get()) }
+        viewModel { SearchViewModel(get(), get()) }
     }
 
 /** Starts Koin for the shared code. Android adds its `Context`; iOS calls this from Swift. */

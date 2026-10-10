@@ -320,4 +320,45 @@ class NlbRepositoryTest {
             val (repo, _, _) = repository(store) { HttpStatusCode.OK to response() }
             assertEquals(emptyList(), repo.saved(keywords("dinosaur"), Mode.CHILDREN))
         }
+
+    // --- group 3: other libraries (FR-15) -------------------------------------------------------------------------------------
+
+    @Test
+    fun theOtherLibrariesCallAsksForBooksOnTheShelfAnywhereAndSendsNoBranch() =
+        runTest {
+            val facets = locationFacets("prpl" to 3, "prl" to 1)
+            val (repo, seen, _) = repository { HttpStatusCode.OK to response(group("A", record(1)), facets = facets) }
+            val counts = repo.shelfCounts(SearchQuery.Keywords("dinosaur"), Mode.CHILDREN)
+            val url = seen.single().url
+            assertNull(url.parameters["Locations"])
+            assertEquals("true", url.parameters["Availability"])
+            assertEquals("juvenile", url.parameters["IntendedAudiences"])
+            assertEquals("dinosaur", url.parameters["Keywords"])
+            assertEquals(mapOf("prpl" to 3, "prl" to 1), counts)
+        }
+
+    @Test
+    fun aResponseWithoutALocationFacetGivesNoCounts() =
+        runTest {
+            val (repo, _, _) = repository { HttpStatusCode.OK to response(group("A", record(1))) }
+            assertEquals(emptyMap(), repo.shelfCounts(SearchQuery.Keywords("dinosaur"), Mode.CHILDREN))
+        }
+
+    @Test
+    fun theOtherLibrariesCallIsRetriedWhenBusyLikeTheOthers() =
+        runTest {
+            var calls = 0
+            val (repo, seen, _) =
+                repository {
+                    if (++calls ==
+                        1
+                    ) {
+                        HttpStatusCode.TooManyRequests to ""
+                    } else {
+                        HttpStatusCode.OK to response(facets = locationFacets("prpl" to 2))
+                    }
+                }
+            assertEquals(mapOf("prpl" to 2), repo.shelfCounts(SearchQuery.Keywords("dinosaur"), Mode.CHILDREN))
+            assertEquals(2, seen.size)
+        }
 }

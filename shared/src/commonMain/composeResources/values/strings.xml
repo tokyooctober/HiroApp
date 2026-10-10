@@ -27,6 +27,12 @@
     <string name="results_more_error">We couldn’t load more books.</string>
     <string name="results_saved_title">Saved on this phone</string>
     <string name="results_saved_note">Books you looked at before. They may be out of date.</string>
+    <string name="others_title">More on the shelf at other libraries</string>
+    <string name="others_subtitle">Tap View to switch to that library’s results</string>
+    <string name="others_on_shelf">%1$d on the shelf</string>
+    <string name="others_view">View</string>
+    <string name="others_view_description">View books at %1$s</string>
+    <string name="others_error">We couldn’t load the other libraries.</string>
     <string name="card_on_shelf">On the shelf here</string>
     <string name="card_on_loan">On loan here</string>
     <string name="card_on_loan_waiting">On loan here · %1$d waiting</string>

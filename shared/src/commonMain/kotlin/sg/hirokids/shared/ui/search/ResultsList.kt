@@ -90,7 +90,7 @@ internal fun FailedList(
 }
 
 @Composable
-private fun SectionTitle(text: String) {
+internal fun SectionTitle(text: String) {
     Text(text, style = MaterialTheme.typography.titleLarge, color = HiroColors.Ink, fontWeight = FontWeight.SemiBold)
 }
 
@@ -112,13 +112,17 @@ internal fun ResultList(
     ) {
         onShelfSection(libraryName, results, actions)
         onLoanSection(results.onLoan, actions)
+        othersSection(results.others, actions.others)
     }
 }
 
 private fun ResultsState.Loaded.hasNothingToListYet(): Boolean {
-    val waiting = onShelf.loading || onLoan?.loading == true
-    return waiting && onShelf.hits.isEmpty() && onLoan?.hits.isNullOrEmpty()
+    val waiting = onShelf.loading || onLoan?.loading == true || others?.loading == true
+    return waiting && onShelf.hits.isEmpty() && onLoan?.hits.isNullOrEmpty() && others?.items.isNullOrEmpty()
 }
+
+/** Not on the shelf here, but the user can still be shown something: books that are out, or another library that has it. */
+private fun ResultsState.Loaded.hasBooksElsewhere(): Boolean = !onLoan?.hits.isNullOrEmpty() || !others?.items.isNullOrEmpty()
 
 /** "On the shelf here" (or, for an ISBN lookup, a plain "Books found" whose cards carry no shelf claim). */
 private fun LazyListScope.onShelfSection(
@@ -145,7 +149,7 @@ private fun LazyListScope.onShelfSection(
             val status = if (claimsShelf) CardStatus.ON_SHELF else CardStatus.NONE
             items(onShelf.hits, key = { "shelf-${it.title.brn}" }) { ResultCard(it, status) }
         }
-        onShelf.nextOffset == null && !results.onLoan?.hits.isNullOrEmpty() ->
+        onShelf.nextOffset == null && results.hasBooksElsewhere() ->
             item(key = "none-on-shelf") {
                 Text(stringResource(Res.string.results_none_on_shelf), color = HiroColors.TextSecondary)
             }

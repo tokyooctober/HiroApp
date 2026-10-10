@@ -61,6 +61,13 @@ class ResultsActions(
     val onBack: () -> Unit,
     val onLoadMore: (ResultGroup) -> Unit,
     val onRetryGroup: (ResultGroup) -> Unit,
+    val others: OtherLibraryActions,
+)
+
+/** The other-libraries box: View a library's results (FR-16), and Try again if the list could not be loaded. */
+class OtherLibraryActions(
+    val onView: (Library) -> Unit,
+    val onRetry: () -> Unit,
 )
 
 /** Search home and results for the current library (design: `Main.dc.html`, `Results.dc.html`). */
@@ -71,6 +78,8 @@ fun SearchFlow(
     onChangeLibrary: () -> Unit,
 ) {
     val state by viewModel.state.collectAsState()
+    // after View, the library on screen is the one being viewed; the user's own current library is untouched
+    val shown = state.viewing ?: library
     when (state.screen) {
         SearchScreen.HOME ->
             SearchHomeScreen(
@@ -82,16 +91,21 @@ fun SearchFlow(
             )
         SearchScreen.RESULTS ->
             ResultsScreen(
-                libraryName = library.name,
+                libraryName = shown.name,
                 state = state,
                 actions =
                     ResultsActions(
                         onQueryChange = viewModel::onQueryChange,
-                        onSearch = { viewModel.submit(library) },
-                        onRetry = { viewModel.retry(library) },
+                        onSearch = { viewModel.submit(shown) },
+                        onRetry = { viewModel.retry(shown) },
                         onBack = viewModel::back,
-                        onLoadMore = { viewModel.loadMore(library, it) },
-                        onRetryGroup = { viewModel.retryGroup(library, it) },
+                        onLoadMore = { viewModel.loadMore(shown, it) },
+                        onRetryGroup = { viewModel.retryGroup(shown, it) },
+                        others =
+                            OtherLibraryActions(
+                                onView = { viewModel.view(it, from = shown) },
+                                onRetry = { viewModel.retryOthers(shown) },
+                            ),
                     ),
             )
     }

@@ -57,6 +57,27 @@ class NlbRepository(
         }
     }
 
+    /**
+     * Group 3 (FR-15): one search for books on the shelf anywhere, read for its `location` facet only. The result is branch code
+     * (lower case, as NLB sends it) to number of books. Nothing about the user is sent: no branch, no position.
+     */
+    suspend fun shelfCounts(
+        query: SearchQuery.Keywords,
+        mode: Mode,
+    ): Map<String, Int> {
+        val response =
+            retry.run {
+                api.searchTitles(
+                    SearchTitlesRequest(keywords = query.text, audience = mode.intendedAudience(), location = null, availableOnly = true),
+                )
+            }
+        return response.facets
+            .firstOrNull { it.id == "location" }
+            ?.values
+            .orEmpty()
+            .associate { it.id.lowercase() to it.count }
+    }
+
     /** A title kept from an earlier search, read without any network call. */
     fun stored(brn: Long): Title? = store.get(brn)
 

@@ -29,8 +29,16 @@ internal fun response(
     vararg groups: String,
     hasMore: Boolean = false,
     next: Int = 20,
+    facets: String = "[]",
 ) = """{"totalRecords":99,"count":${groups.size},"hasMoreRecords":$hasMore,"nextRecordsOffset":$next,""" +
-    """"titles":[${groups.joinToString(",")}],"facets":[]}"""
+    """"titles":[${groups.joinToString(",")}],"facets":$facets}"""
+
+/** The `location` facet of a SearchTitles response: how many matching books are on the shelf at each branch (lower-case codes). */
+internal fun locationFacets(vararg counts: Pair<String, Int>) =
+    """[{"id":"intendedAudience","name":"Intended Audience","values":[{"id":"juvenile","data":"juvenile","count":99}]},""" +
+        """{"id":"location","name":"Location","values":[${counts.joinToString(
+            ",",
+        ) { (code, n) -> """{"id":"$code","data":"$code library","count":$n}""" }}]}]"""
 
 internal class MemoryStore : BookStore {
     val saved = mutableMapOf<Long, Title>()

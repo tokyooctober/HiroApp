@@ -4,7 +4,6 @@ import io.ktor.client.request.HttpRequestData
 import io.ktor.http.HttpStatusCode
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
-import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.test.UnconfinedTestDispatcher
 import kotlinx.coroutines.test.resetMain
 import kotlinx.coroutines.test.runTest
@@ -13,8 +12,6 @@ import sg.hirokids.shared.data.group
 import sg.hirokids.shared.data.mockRepository
 import sg.hirokids.shared.data.record
 import sg.hirokids.shared.data.response
-import sg.hirokids.shared.domain.LatLon
-import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.ResultGroup
 import kotlin.test.AfterTest
 import kotlin.test.BeforeTest
@@ -27,7 +24,7 @@ import kotlin.test.assertTrue
 /** Search home and results (FR-1, FR-4, FR-5, FR-11, FR-12). */
 @OptIn(ExperimentalCoroutinesApi::class)
 class SearchViewModelTest {
-    private val tampines = Library("TRL", "Tampines Regional Library", LatLon(1.352391, 103.940821))
+    private val tampines = searchTestDirectory.byCode("TRL")!!
 
     @BeforeTest
     fun setUp() = Dispatchers.setMain(UnconfinedTestDispatcher())
@@ -38,32 +35,18 @@ class SearchViewModelTest {
     private val onShelfHere = response(group("Dinosaur", record(1)), group("Dinosaur eggs", record(2)))
     private val allOut = response(group("Dinosaur tracks", record(3, waiting = 4)), group("Dinosaur names", record(4, waiting = 1)))
 
-    /** Answers the on-the-shelf request (it carries Availability=true) and the all-copies-out request differently. */
     private fun router(
         onShelf: String = onShelfHere,
         allHere: String = allOut,
-    ): (HttpRequestData) -> Pair<HttpStatusCode, String> =
-        { request -> HttpStatusCode.OK to if (request.url.parameters["Availability"] == "true") onShelf else allHere }
-
-    private fun List<HttpRequestData>.groups() = map { if (it.url.parameters["Availability"] == "true") "shelf" else "out" }
-
-    /** The first state in which nothing is on its way: no search running and no page loading. */
-    private suspend fun SearchViewModel.settled(): SearchUiState =
-        state.first { s ->
-            val loaded = s.results as? ResultsState.Loaded
-            s.results !is ResultsState.Loading && loaded?.onShelf?.loading != true && loaded?.onLoan?.loading != true
-        }
-
-    private fun SearchViewModel.loaded() = assertIs<ResultsState.Loaded>(state.value.results)
-
-    private fun Shelf.titles() = hits.map { it.title.title }
+        others: String = response(),
+    ) = searchRouter(onShelf, allHere, others)
 
     // --- the home screen ---------------------------------------------------------------------------------------------------
 
     @Test
     fun theHomeScreenStartsEmpty() {
         val (repo, seen, _) = mockRepository(respond = router())
-        val vm = SearchViewModel(repo)
+        val vm = searchViewModel(repo)
         assertEquals(SearchScreen.HOME, vm.state.value.screen)
         assertEquals("", vm.state.value.query)
         assertEquals(ResultsState.Idle, vm.state.value.results)
@@ -73,7 +56,7 @@ class SearchViewModelTest {
     @Test
     fun typingKeepsTheTextAndClearsTheTooShortHint() {
         val (repo, _, _) = mockRepository(respond = router())
-        val vm = SearchViewModel(repo)
+        val vm = searchViewModel(repo)
         vm.onQueryChange("d")
         vm.submit(tampines)
         assertTrue(vm.state.value.tooShort)
@@ -85,7 +68,7 @@ class SearchViewModelTest {
     @Test
     fun oneCharacterIsNotSentAndStaysOnHome() {
         val (repo, seen, _) = mockRepository(respond = router())
-        val vm = SearchViewModel(repo)
+        val vm = searchViewModel(repo)
         vm.onQueryChange(" d ")
         vm.submit(tampines)
         assertTrue(vm.state.value.tooShort)
@@ -99,13 +82,14 @@ class SearchViewModelTest {
     fun aSearchAsksTheShelfFirstThenAllCopiesOutAtTheCurrentLibrary() =
         runTest {
             val (repo, seen, _) = mockRepository(respond = router())
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             val done = vm.settled()
             assertEquals(SearchScreen.RESULTS, done.screen)
-            assertEquals(listOf("shelf", "out"), seen.groups())
-            assertTrue(seen.all { it.url.parameters["Locations"] == "trl" && it.url.parameters["IntendedAudiences"] == "juvenile" })
+            assertEquals(listOf("shelf", "out", "others"), seen.groups())
+            assertTrue(seen.all { it.url.parameters["IntendedAudiences"] == "juvenile" })
+            assertTrue(seen.take(2).all { it.url.parameters["Locations"] == "trl" })
             assertEquals("dinosaur", done.searchedQuery)
             val loaded = vm.loaded()
             assertEquals(listOf("Dinosaur", "Dinosaur eggs"), loaded.onShelf.titles())
@@ -117,7 +101,7 @@ class SearchViewModelTest {
     fun allCopiesOutAreOrderedByFewestWaitingFirst() =
         runTest {
             val (repo, _, _) = mockRepository(respond = router())
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -138,7 +122,7 @@ class SearchViewModelTest {
         runTest {
             val overlapping = response(group("Dinosaur", record(1)), group("Dinosaur tracks", record(3)))
             val (repo, _, _) = mockRepository(respond = router(allHere = overlapping))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -149,7 +133,7 @@ class SearchViewModelTest {
     fun nothingOnTheShelfStillShowsTheBooksThatAreOut() =
         runTest {
             val (repo, _, _) = mockRepository(respond = router(onShelf = response()))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -163,7 +147,7 @@ class SearchViewModelTest {
     fun nothingInEitherGroupIsEmpty() =
         runTest {
             val (repo, _, _) = mockRepository(respond = router(onShelf = response(), allHere = response()))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("zzzz")
             vm.submit(tampines)
             assertEquals(ResultsState.Empty, vm.settled().results)
@@ -174,7 +158,7 @@ class SearchViewModelTest {
         runTest {
             val adultOnly = response(group("Adult book", record(9, subjects = """["Dinosaurs"]""")))
             val (repo, _, _) = mockRepository(respond = router(onShelf = adultOnly, allHere = adultOnly))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             assertEquals(ResultsState.Empty, vm.settled().results)
@@ -185,7 +169,7 @@ class SearchViewModelTest {
         runTest {
             val flat = """{"totalRecords":1,"count":1,"hasMoreRecords":false,"nextRecordsOffset":1,"titles":[${record(5)}]}"""
             val (repo, seen, _) = mockRepository { HttpStatusCode.OK to flat }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("978-1-80104-185-0")
             vm.submit(tampines)
             vm.settled()
@@ -214,6 +198,7 @@ class SearchViewModelTest {
             val offset = request.url.parameters["Offset"]
             HttpStatusCode.OK to
                 when {
+                    request.url.parameters["Locations"] == null -> response()
                     !shelf -> allHere
                     offset == "0" -> firstPage
                     else -> second
@@ -224,7 +209,7 @@ class SearchViewModelTest {
     fun reachingTheEndOfAGroupLoadsTheNextTwentyFromTheOffsetNlbGave() =
         runTest {
             val (repo, seen, _) = mockRepository(respond = pager(response(group("Dinosaur bones", record(10)))))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -239,7 +224,7 @@ class SearchViewModelTest {
     fun theLastPageEndsTheGroupAndFurtherRequestsAreIgnored() =
         runTest {
             val (repo, seen, _) = mockRepository(respond = pager(response(group("Dinosaur bones", record(10)), hasMore = false, next = 40)))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -257,7 +242,7 @@ class SearchViewModelTest {
     fun aBookThatComesBackOnALaterPageIsNotShownTwice() =
         runTest {
             val (repo, _, _) = mockRepository(respond = pager(response(group("Dinosaur", record(1)), group("Dinosaur bones", record(10)))))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -271,7 +256,7 @@ class SearchViewModelTest {
         runTest {
             val outHasBones = response(group("Dinosaur bones", record(10)), group("Dinosaur tracks", record(3)))
             val (repo, _, _) = mockRepository(respond = pager(response(group("Dinosaur bones", record(10))), allHere = outHasBones))
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -291,12 +276,12 @@ class SearchViewModelTest {
                 mockRepository { request ->
                     HttpStatusCode.OK to
                         when {
-                            request.url.parameters["Availability"] == "true" -> response()
+                            request.url.parameters["Locations"] == null || request.url.parameters["Availability"] == "true" -> response()
                             request.url.parameters["Offset"] == "0" -> outFirst
                             else -> outSecond
                         }
                 }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -314,7 +299,7 @@ class SearchViewModelTest {
         runTest {
             var failing = true
             val (repo, seen, _) = mockRepository { request -> if (failing) HttpStatusCode.ServiceUnavailable to "" else router()(request) }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             assertIs<ResultsState.Failed>(vm.settled().results)
@@ -330,7 +315,7 @@ class SearchViewModelTest {
     fun aProxyThatStaysBusyEndsInTheSameRetryAction() =
         runTest {
             val (repo, seen, _) = mockRepository { HttpStatusCode.TooManyRequests to "" }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             assertIs<ResultsState.Failed>(vm.settled().results)
@@ -342,7 +327,7 @@ class SearchViewModelTest {
         runTest {
             var offline = false
             val (repo, _, _) = mockRepository { request -> if (offline) HttpStatusCode.ServiceUnavailable to "" else router()(request) }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -368,7 +353,7 @@ class SearchViewModelTest {
                         router()(request)
                     }
                 }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -393,7 +378,7 @@ class SearchViewModelTest {
                     .loaded()
                     .onShelf.hits.size,
             )
-            assertEquals(listOf("shelf", "out", "out"), seen.groups())
+            assertEquals(listOf("shelf", "out", "others", "out"), seen.groups())
         }
 
     @Test
@@ -412,7 +397,7 @@ class SearchViewModelTest {
                         pages(request)
                     }
                 }
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -447,7 +432,7 @@ class SearchViewModelTest {
     fun backReturnsToHomeAndKeepsTheWordsTyped() =
         runTest {
             val (repo, _, _) = mockRepository(respond = router())
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
@@ -461,13 +446,13 @@ class SearchViewModelTest {
     fun aSecondSearchReplacesTheFirst() =
         runTest {
             val (repo, seen, _) = mockRepository(respond = router())
-            val vm = SearchViewModel(repo)
+            val vm = searchViewModel(repo)
             vm.onQueryChange("dinosaur")
             vm.submit(tampines)
             vm.settled()
             vm.onQueryChange("eggs")
             vm.submit(tampines)
             assertEquals("eggs", vm.settled().searchedQuery)
-            assertEquals(listOf("dinosaur", "dinosaur", "eggs", "eggs"), seen.map { it.url.parameters["Keywords"] })
+            assertEquals(listOf("dinosaur", "dinosaur", "dinosaur", "eggs", "eggs", "eggs"), seen.map { it.url.parameters["Keywords"] })
         }
 }

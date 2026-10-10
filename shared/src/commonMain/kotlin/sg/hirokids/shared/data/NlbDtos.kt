@@ -10,6 +10,20 @@ data class SearchTitlesResponse(
     val hasMoreRecords: Boolean = false,
     val nextRecordsOffset: Int = 0,
     val titles: List<TitleGroupDto> = emptyList(),
+    val facets: List<FacetDto> = emptyList(),
+)
+
+/** One facet of a `SearchTitles` response, for example `location`: how many of the matching books each value has. */
+@Serializable
+data class FacetDto(
+    val id: String = "",
+    val values: List<FacetValueDto> = emptyList(),
+)
+
+@Serializable
+data class FacetValueDto(
+    val id: String = "",
+    val count: Int = 0,
 )
 
 /** `GetTitles` returns the records themselves, not groups of them. */
