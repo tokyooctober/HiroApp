@@ -4,6 +4,7 @@ import { TtlCache, cacheKey, ttlFor, TTL_MS } from '../src/cache.mjs';
 
 const MIN = 60_000;
 
+// spec: NFR-3; cat: logic
 test('TTLs follow NFR-3: search 10 min, availability 5 min, branches 7 days', () => {
   assert.equal(ttlFor('/catalogue/SearchTitles'), 10 * MIN);
   assert.equal(ttlFor('/catalogue/GetAvailabilityInfo'), 5 * MIN);
@@ -11,6 +12,7 @@ test('TTLs follow NFR-3: search 10 min, availability 5 min, branches 7 days', ()
   assert.equal(ttlFor('/library/GetBranches'), 7 * 24 * 60 * MIN);
 });
 
+// spec: NFR-3; cat: logic
 test('endpoints without a TTL in NFR-3 are not cached', () => {
   for (const p of ['/catalogue/GetTitles', '/catalogue/GetTitleDetails', '/eresource/SearchResources', '/recommendation/GetRecommendationsForTitles']) {
     assert.equal(ttlFor(p), undefined, p);
@@ -18,6 +20,7 @@ test('endpoints without a TTL in NFR-3 are not cached', () => {
   assert.equal(Object.keys(TTL_MS).length, 4);
 });
 
+// spec: NFR-3; cat: logic
 test('cache key holds the path and every query parameter, in a stable order', () => {
   const a = cacheKey(new URL('http://p/catalogue/SearchTitles?Keywords=dino&Limit=20&Offset=20'));
   const b = cacheKey(new URL('http://p/catalogue/SearchTitles?Offset=20&Limit=20&Keywords=dino'));
@@ -25,6 +28,7 @@ test('cache key holds the path and every query parameter, in a stable order', ()
   for (const q of ['Keywords=dino', 'Limit=20', 'Offset=20']) assert.ok(a.includes(q), q);
 });
 
+// spec: NFR-3; cat: logic
 test('a different value for any parameter is a different key', () => {
   const base = 'http://p/catalogue/SearchTitles?Keywords=dino&Limit=20&Locations=trl';
   const keys = new Set([
@@ -37,11 +41,13 @@ test('a different value for any parameter is a different key', () => {
   assert.equal(keys.size, 5);
 });
 
+// spec: NFR-3; cat: sec
 test('the key never contains a host, header or device value', () => {
   const key = cacheKey(new URL('http://some-device.example:8080/library/GetBranches?ListType=active'));
   assert.equal(key, '/library/GetBranches?ListType=active');
 });
 
+// spec: NFR-3; cat: logic
 test('get returns the value inside its TTL and nothing after it', () => {
   let t = 0;
   const c = new TtlCache({ now: () => t });
@@ -52,6 +58,7 @@ test('get returns the value inside its TTL and nothing after it', () => {
   assert.equal(c.get('k'), undefined);
 });
 
+// spec: NFR-3; cat: perf
 test('the oldest entries are dropped when the cache is full', () => {
   const c = new TtlCache({ now: () => 0, maxEntries: 2 });
   c.set('a', 1, MIN); c.set('b', 2, MIN); c.set('c', 3, MIN);

@@ -2,23 +2,28 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { assertNoSecrets, buildUrl, makePacer, slug } from '../scripts/lib.mjs';
 
+// spec: NFR-4; cat: sec; tier: tooling
 test('assertNoSecrets throws when a secret appears in the body', () => {
   assert.throws(() => assertNoSecrets('{"echo":"abc123"}', ['abc123']), /credential/);
 });
 
+// spec: NFR-4; cat: logic; tier: tooling
 test('assertNoSecrets ignores empty secrets and clean bodies', () => {
   assert.doesNotThrow(() => assertNoSecrets('{"ok":true}', ['abc123', '', undefined]));
 });
 
+// spec: T0; cat: logic; tier: tooling
 test('buildUrl skips empty params and encodes values', () => {
   const url = buildUrl('https://x.test/api', '/Search', { Keywords: 'a b', Limit: 20, Empty: '', Nope: undefined });
   assert.equal(url.search, '?Keywords=a+b&Limit=20');
 });
 
+// spec: T0; cat: logic; tier: tooling
 test('slug makes a file-safe name', () => {
   assert.equal(slug('Search: junior / dinosaur'), 'search-junior-dinosaur');
 });
 
+// spec: T0; cat: perf; tier: tooling
 test('pacer spaces calls at least gapMs apart', async () => {
   let t = 1000;
   const slept = [];

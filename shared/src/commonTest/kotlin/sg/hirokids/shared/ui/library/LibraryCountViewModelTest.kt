@@ -54,6 +54,7 @@ class LibraryCountViewModelTest {
     // The mock engine answers on a background thread, so wait for the state to settle instead of advancing virtual time.
     private suspend fun LibraryCountViewModel.settled() = state.first { it !is LibraryCountState.Loading }
 
+    // spec: T2; cat: logic
     @Test
     fun startsLoadingThenShowsTheLibraryCount() =
         runTest(dispatcher) {
@@ -62,6 +63,7 @@ class LibraryCountViewModelTest {
             assertEquals(LibraryCountState.Loaded(3), vm.settled())
         }
 
+    // spec: FR-12; cat: err
     @Test
     fun aFailureShowsTheErrorAndRetryRecovers() =
         runTest(dispatcher) {

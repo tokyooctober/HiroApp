@@ -24,6 +24,7 @@ function setup({ upstream } = {}) {
 
 const SEARCH = '/catalogue/SearchTitles?Keywords=dino&Limit=20';
 
+// spec: NFR-3; cat: logic
 test('a repeat within the TTL makes 0 NLB calls and returns the same body', async () => {
   const { get, calls, clock } = setup();
   const first = await get(SEARCH);
@@ -34,6 +35,7 @@ test('a repeat within the TTL makes 0 NLB calls and returns the same body', asyn
   assert.equal(second.body, first.body);
 });
 
+// spec: NFR-3; cat: logic
 test('after the TTL the next request calls NLB once, then is cached again', async () => {
   const { get, calls, clock } = setup();
   await get(SEARCH);
@@ -44,6 +46,7 @@ test('after the TTL the next request calls NLB once, then is cached again', asyn
   assert.equal(JSON.parse(refreshed.body).n, 2);
 });
 
+// spec: NFR-3; cat: logic
 test('each endpoint expires on its own TTL', async () => {
   const { get, calls, clock } = setup();
   await get('/catalogue/GetAvailabilityInfo?BRN=1');
@@ -55,6 +58,7 @@ test('each endpoint expires on its own TTL', async () => {
   assert.equal(calls.filter((u) => u.includes('GetBranches')).length, 1);
 });
 
+// spec: NFR-3; cat: logic
 test('any different query parameter is a separate cache entry', async () => {
   const { get, calls } = setup();
   await get('/catalogue/SearchTitles?Keywords=dino&Limit=20');
@@ -63,6 +67,7 @@ test('any different query parameter is a separate cache entry', async () => {
   assert.equal(calls.length, 3);
 });
 
+// spec: NFR-3; cat: err
 test('error responses are not cached: 429, 500 and 404 each call NLB again', async () => {
   for (const status of [429, 500, 404]) {
     const { get, calls } = setup({ upstream: async () => new Response('{"e":1}', { status }) });
@@ -72,6 +77,7 @@ test('error responses are not cached: 429, 500 and 404 each call NLB again', asy
   }
 });
 
+// spec: NFR-3; cat: err
 test('a network failure is not cached', async () => {
   let fail = true;
   const { get, calls } = setup({ upstream: async (u, n) => { if (fail) { fail = false; throw new Error('boom'); } return new Response('{"ok":1}', { status: 200 }); } });
@@ -80,6 +86,7 @@ test('a network failure is not cached', async () => {
   assert.equal(calls.length, 2);
 });
 
+// spec: NFR-4; cat: sec
 test('a response that echoes a credential is never cached', async () => {
   const { get, calls } = setup({ upstream: async () => new Response('{"echo":"k-123"}', { status: 200 }) });
   assert.equal((await get(SEARCH)).status, 502);
@@ -87,6 +94,7 @@ test('a response that echoes a credential is never cached', async () => {
   assert.equal(calls.length, 2);
 });
 
+// spec: NFR-3; cat: logic
 test('endpoints with no TTL in NFR-3 are never cached', async () => {
   const { get, calls } = setup();
   await get('/catalogue/GetTitleDetails?BRN=1');
@@ -94,6 +102,7 @@ test('endpoints with no TTL in NFR-3 are never cached', async () => {
   assert.equal(calls.length, 2);
 });
 
+// spec: NFR-3; cat: perf
 test('cache hits do not use queue budget', async () => {
   const { get, queue } = setup();
   await get(SEARCH);
@@ -102,6 +111,7 @@ test('cache hits do not use queue budget', async () => {
   assert.equal(queue.slots.length, slotsAfterFirst);
 });
 
+// spec: NFR-3; cat: perf
 test('identical requests that arrive together share one NLB call', async () => {
   let release;
   const gate = new Promise((r) => { release = r; });
@@ -113,6 +123,7 @@ test('identical requests that arrive together share one NLB call', async () => {
   assert.ok(results.every((r) => r.body === '{"shared":true}'));
 });
 
+// spec: NFR-5; cat: sec
 test('logs say hit or miss and still hold no query string', async () => {
   const { get, logs } = setup();
   await get(SEARCH);

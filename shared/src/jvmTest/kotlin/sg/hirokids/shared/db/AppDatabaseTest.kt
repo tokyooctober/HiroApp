@@ -13,6 +13,7 @@ class AppDatabaseTest {
         return AppDatabase(driver)
     }
 
+    // spec: FR-14; cat: data
     @Test
     fun aValueIsStoredReadAndReplaced() {
         val queries = database().metaQueries

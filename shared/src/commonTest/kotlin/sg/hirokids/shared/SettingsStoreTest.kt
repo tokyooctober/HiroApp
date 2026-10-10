@@ -7,6 +7,7 @@ import kotlin.test.assertNull
 
 /** multiplatform-settings is wired for later tasks (current library, mode); this checks the in-memory test double. */
 class SettingsStoreTest {
+    // spec: FR-3; cat: data; tier: data
     @Test
     fun aStoredValueIsReadBackAndAMissingOneIsNull() {
         val settings = MapSettings()

@@ -21,6 +21,7 @@ function setup({ upstream, queueOpts = {} } = {}) {
 
 const get = (handle, path) => handle({ method: 'GET', url: `http://proxy.test${path}` });
 
+// spec: NFR-4; cat: integ
 test('forwards an allowed call and injects both headers server-side', async () => {
   const { handle, calls } = setup();
   const res = await get(handle, '/library/GetBranches?ListType=active');
@@ -30,6 +31,7 @@ test('forwards an allowed call and injects both headers server-side', async () =
   assert.equal(calls[0].headers['X-App-Code'], APP);
 });
 
+// spec: NFR-4; cat: sec
 test('the response never contains the credentials, even if upstream echoes them', async () => {
   const { handle } = setup({
     upstream: async () => new Response(`{"echo":"${KEY}"}`, { status: 200, headers: { 'x-api-key': KEY, 'content-type': 'application/json' } }),
@@ -40,6 +42,7 @@ test('the response never contains the credentials, even if upstream echoes them'
   assert.ok(!Object.keys(res.headers).some((h) => h.toLowerCase().startsWith('x-api')));
 });
 
+// spec: NFR-4; cat: sec
 test('does not forward x-api-key or x-app-code from the app, and sends no cookies', async () => {
   const { handle, calls } = setup();
   await handle({ method: 'GET', url: 'http://p/library/GetBranches', headers: { 'x-api-key': 'attacker', cookie: 'a=b' } });
@@ -47,6 +50,7 @@ test('does not forward x-api-key or x-app-code from the app, and sends no cookie
   assert.equal(calls[0].headers.cookie, undefined);
 });
 
+// spec: NFR-4; cat: sec
 test('unknown paths and non-GET methods are 404 and never reach NLB', async () => {
   const { handle, calls } = setup();
   assert.equal((await get(handle, '/admin')).status, 404);
@@ -54,6 +58,7 @@ test('unknown paths and non-GET methods are 404 and never reach NLB', async () =
   assert.equal(calls.length, 0);
 });
 
+// spec: FR-12; cat: err
 test('an NLB 429 and 5xx are passed through with their status and body', async () => {
   for (const status of [429, 500, 503]) {
     const { handle } = setup({ upstream: async () => new Response(`{"statusCode":${status}}`, { status, headers: { 'retry-after': '7', 'content-type': 'application/json' } }) });
@@ -64,6 +69,7 @@ test('an NLB 429 and 5xx are passed through with their status and body', async (
   }
 });
 
+// spec: NFR-3, FR-12; cat: perf
 test('a call that cannot run within 10 s gets 429 with Retry-After, and NLB is not called', async () => {
   const { handle, calls } = setup();
   const results = [];
@@ -75,11 +81,13 @@ test('a call that cannot run within 10 s gets 429 with Retry-After, and NLB is n
   assert.equal(calls.length, results.length - busy.length);
 });
 
+// spec: FR-12; cat: err
 test('a network failure to NLB is a 502', async () => {
   const { handle } = setup({ upstream: async () => { throw new Error('boom'); } });
   assert.equal((await get(handle, '/library/GetBranches')).status, 502);
 });
 
+// spec: NFR-5; cat: sec
 test('logs hold path and status only: no query string, no coordinates', async () => {
   const { handle, logs } = setup();
   await get(handle, '/catalogue/SearchTitles?Keywords=dinosaur&lat=1.35&lon=103.94');

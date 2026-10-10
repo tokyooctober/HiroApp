@@ -8,16 +8,19 @@ const fresh = (opts = {}) => {
   return { q, clock };
 };
 
+// spec: NFR-3; cat: perf
 test('first call starts immediately', () => {
   const { q } = fresh();
   assert.equal(q.reserve(), 0);
 });
 
+// spec: NFR-3; cat: perf
 test('calls are spaced at least 1 s apart', () => {
   const { q } = fresh();
   assert.deepEqual([q.reserve(), q.reserve(), q.reserve()], [0, 1000, 2000]);
 });
 
+// spec: NFR-3; cat: perf
 test('a call after a quiet period starts immediately again', () => {
   const { q, clock } = fresh();
   q.reserve();
@@ -25,6 +28,7 @@ test('a call after a quiet period starts immediately again', () => {
   assert.equal(q.reserve(), 0);
 });
 
+// spec: NFR-3; cat: perf
 test('a burst of 20 reaches NLB at <= 1 call/s and <= 15 in any 60 s (calls that would wait > 10 s are refused)', () => {
   const { q } = fresh();
   const starts = [];
@@ -37,6 +41,7 @@ test('a burst of 20 reaches NLB at <= 1 call/s and <= 15 in any 60 s (calls that
   for (let i = 1; i < starts.length; i++) assert.ok(starts[i] - starts[i - 1] >= 1000);
 });
 
+// spec: NFR-3; cat: perf
 test('never more than 15 starts in a rolling 60 s window, even over a long run', () => {
   const { q, clock } = fresh({ maxWaitMs: 10 * 60_000 });
   const starts = [];
@@ -48,6 +53,7 @@ test('never more than 15 starts in a rolling 60 s window, even over a long run',
   for (let i = 1; i < starts.length; i++) assert.ok(starts[i] - starts[i - 1] >= 1000);
 });
 
+// spec: FR-12; cat: err
 test('a refused call carries Retry-After seconds and does not use a slot', () => {
   const { q } = fresh({ maxWaitMs: 2000 });
   q.reserve(); q.reserve(); q.reserve(); // 0, 1 s, 2 s
@@ -55,6 +61,7 @@ test('a refused call carries Retry-After seconds and does not use a slot', () =>
   assert.throws(() => q.reserve(), (e) => e instanceof QueueBusyError); // still refused, nothing was reserved
 });
 
+// spec: NFR-3; cat: perf
 test('run() waits for the reserved delay, then calls the function', async () => {
   const slept = [];
   const { q } = fresh({ sleep: async (ms) => { slept.push(ms); } });

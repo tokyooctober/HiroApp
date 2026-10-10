@@ -7,6 +7,7 @@ import kotlin.test.assertEquals
 
 /** Guards the design tokens of spec section 3 against drift. */
 class DesignTokensTest {
+    // spec: FR-2; cat: ui; tier: ui
     @Test
     fun adultAndChildrenModeColoursMatchTheSpec() {
         assertEquals(0xFF2B59C3.toInt(), HiroColors.Primary.toArgb()) // Primary / Adult mode
@@ -14,6 +15,7 @@ class DesignTokensTest {
         assertEquals(0xFF14213D.toInt(), HiroColors.Ink.toArgb())
     }
 
+    // spec: FR-5; cat: ui; tier: ui
     @Test
     fun shelfStatusColoursMatchTheSpec() {
         assertEquals(0xFFDDF3EA.toInt(), HiroColors.OnShelfBackground.toArgb())

@@ -37,6 +37,7 @@ class ProxyApiTest {
         return ProxyApi(createHttpClient(engine), baseUrl) to seen
     }
 
+    // spec: FR-3; cat: integ
     @Test
     fun readsTheBranchesAndIgnoresUnknownFields() =
         runTest {
@@ -45,6 +46,7 @@ class ProxyApiTest {
             assertEquals(listOf("TRL", "PRL"), branches.map { it.branchCode })
         }
 
+    // spec: FR-3; cat: integ
     @Test
     fun callsOnlyTheProxyGetBranchesPathWithTheDocumentedParameters() =
         runTest {
@@ -57,6 +59,7 @@ class ProxyApiTest {
             assertEquals("PL", url.parameters["LibraryTypes"])
         }
 
+    // spec: NFR-4; cat: sec
     @Test
     fun theAppNeverSendsNlbCredentials() =
         runTest {
@@ -68,6 +71,7 @@ class ProxyApiTest {
             assertNull(headers["X-App-Code"])
         }
 
+    // spec: FR-12; cat: err
     @Test
     fun tooManyRequestsAndServerErrorsSurfaceAsExceptions() =
         runTest {

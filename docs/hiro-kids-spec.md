@@ -355,7 +355,7 @@ object AudiencePolicy {
 }
 ```
 
-**Testing strategy.** Section 8 sets the order (tests first, per task). Levels: unit tests in `commonTest` for the domain and mappers on T0 fixtures (run on the JVM in CI); Ktor MockEngine for repository and paging behaviour; SQLDelight tests on an in-memory driver; Compose UI and screenshot tests per mode on Android; XCUITest for the main flows on iOS; contract tests that fail when a fixture no longer matches a DTO. Every acceptance criterion in section 3 gets at least one test that cites its FR id.
+**Testing strategy.** Section 8 sets the order (tests first, per task). Levels: unit tests in `commonTest` for the domain and mappers on T0 fixtures (run on the JVM in CI); Ktor MockEngine for repository and paging behaviour; SQLDelight tests on an in-memory driver; Compose UI and screenshot tests per mode on Android; XCUITest for the main flows on iOS; contract tests that fail when a fixture no longer matches a DTO. Every acceptance criterion in section 3 gets at least one test that cites its FR id. The citation is a tag comment directly above each test (above `@Test` in Kotlin), for example `// spec: FR-3; cat: logic`, where `cat` is one of `ui`, `input`, `logic`, `perf`, `data`, `integ`, `sec`, `err`, and an optional `tier:` (`ui`, `domain`, `data`, `proxy`, `tooling`) is needed only when the file path does not decide it. `node tools/test-map/build.mjs --check` fails on an untagged test or an unknown id, and `node tools/test-map/build.mjs` rebuilds `docs/test-map.html`, the coverage display.
 
 **Boundaries**
 
