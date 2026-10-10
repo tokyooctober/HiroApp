@@ -10,7 +10,7 @@ import kotlinx.coroutines.delay
  * [sleep] is a parameter so tests can run without waiting.
  */
 class RetryPolicy(
-    private val backoffMillis: List<Long> = listOf(1_000L, 2_000L, 4_000L),
+    private val backoffMillis: List<Long> = DEFAULT_BACKOFF_MILLIS,
     private val sleep: suspend (Long) -> Unit = { delay(it) },
 ) {
     suspend fun <T> run(block: suspend () -> T): T {
@@ -23,5 +23,9 @@ class RetryPolicy(
                 sleep(backoffMillis[retries++])
             }
         }
+    }
+
+    private companion object {
+        val DEFAULT_BACKOFF_MILLIS = listOf(1_000L, 2_000L, 4_000L)
     }
 }
