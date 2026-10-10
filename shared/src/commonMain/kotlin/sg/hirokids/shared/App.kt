@@ -6,12 +6,16 @@ import org.koin.core.parameter.parametersOf
 import sg.hirokids.shared.domain.LocationProvider
 import sg.hirokids.shared.ui.library.LibraryFlow
 import sg.hirokids.shared.ui.library.LibraryViewModel
+import sg.hirokids.shared.ui.search.SearchViewModel
 import sg.hirokids.shared.ui.theme.HiroTheme
 
 /** [locationProvider] is the platform's way to read the phone's location (FusedLocationProviderClient, CLLocationManager). */
 @Composable
 fun App(locationProvider: LocationProvider) {
     HiroTheme {
-        LibraryFlow(koinViewModel<LibraryViewModel>(parameters = { parametersOf(locationProvider) }))
+        LibraryFlow(
+            viewModel = koinViewModel<LibraryViewModel>(parameters = { parametersOf(locationProvider) }),
+            search = koinViewModel<SearchViewModel>(),
+        )
     }
 }
