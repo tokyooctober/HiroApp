@@ -30,10 +30,12 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import org.jetbrains.compose.resources.stringResource
+import sg.hirokids.shared.domain.BookLanguage
 import sg.hirokids.shared.domain.ResultGroup
 import sg.hirokids.shared.domain.SearchHit
 import sg.hirokids.shared.resources.Res
 import sg.hirokids.shared.resources.card_by
+import sg.hirokids.shared.resources.card_language
 import sg.hirokids.shared.resources.card_on_loan
 import sg.hirokids.shared.resources.card_on_loan_waiting
 import sg.hirokids.shared.resources.card_on_shelf
@@ -187,7 +189,7 @@ private fun LazyListScope.groupFooter(
             item(key = "$key-error") {
                 Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     Text(stringResource(Res.string.results_more_error), color = HiroColors.TextSecondary)
-                    RetryButton { actions.onRetryGroup(group) }
+                    RetryButton { actions.paging.onRetry(group) }
                 }
             }
         shelf.loading ->
@@ -197,7 +199,7 @@ private fun LazyListScope.groupFooter(
         shelf.nextOffset != null ->
             item(key = "$key-more") {
                 // composing this row means the user has scrolled to the end of the group
-                LaunchedEffect(shelf.nextOffset, shelf.hits.size) { actions.onLoadMore(group) }
+                LaunchedEffect(shelf.nextOffset, shelf.hits.size) { actions.paging.onLoadMore(group) }
                 Row(Modifier.fillMaxWidth().padding(8.dp), horizontalArrangement = Arrangement.Center) { CircularProgressIndicator() }
             }
         endOfResults && hasCards ->
@@ -230,7 +232,9 @@ private fun ResultCard(
             CardStatus.NONE -> null
         }
     val by = title.author?.let { stringResource(Res.string.card_by, title.title, it) } ?: title.title
-    val description = listOfNotNull(by, title.format, statusText).joinToString(". ")
+    val language = title.languages.takeUnless { it.isEmpty() || it == listOf(BookLanguage.ENGLISH.nlbName) }?.joinToString(" · ")
+    val languageText = language?.let { stringResource(Res.string.card_language, it) }
+    val description = listOfNotNull(by, title.format, languageText, statusText).joinToString(". ")
     Row(
         Modifier
             .fillMaxWidth()
@@ -246,9 +250,22 @@ private fun ResultCard(
             if (byline.isNotEmpty()) {
                 Text(byline, style = MaterialTheme.typography.bodyMedium, color = HiroColors.TextTertiary)
             }
+            if (language != null) LanguageTag(language)
             if (statusText != null) StatusPill(status, statusText)
         }
     }
+}
+
+/** Names a book that is not in English, so a Chinese or Malay book is not mistaken for one a child can read. */
+@Composable
+private fun LanguageTag(text: String) {
+    Text(
+        text,
+        modifier = Modifier.background(HiroColors.PrimaryTint, HiroShapes.Chip).padding(horizontal = 10.dp, vertical = 4.dp),
+        color = HiroColors.PrimaryPressed,
+        style = MaterialTheme.typography.labelLarge,
+        fontWeight = FontWeight.ExtraBold,
+    )
 }
 
 /** Status is never colour-only: a tick or words as well. */

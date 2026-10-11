@@ -1,5 +1,6 @@
 package sg.hirokids.shared.data
 
+import sg.hirokids.shared.domain.BookLanguage
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertNull
@@ -42,5 +43,12 @@ class SearchQueryTest {
         assertEquals(SearchQuery.Keywords("12345678901"), parseSearchQuery("12345678901")) // eleven digits
         assertEquals(SearchQuery.Keywords("1801041857 dinosaur"), parseSearchQuery("1801041857 dinosaur"))
         assertEquals(SearchQuery.Keywords("X801041857"), parseSearchQuery("X801041857")) // X only at the end
+    }
+
+    @Test
+    fun keywordsCarryTheLanguageAndAnIsbnDoesNot() {
+        assertEquals(SearchQuery.Keywords("dinosaur", BookLanguage.CHINESE), parseSearchQuery("dinosaur", BookLanguage.CHINESE))
+        assertEquals(SearchQuery.Isbn("9781801041850"), parseSearchQuery("9781801041850", BookLanguage.CHINESE))
+        assertEquals(SearchQuery.Keywords("dinosaur"), parseSearchQuery("dinosaur"))
     }
 }

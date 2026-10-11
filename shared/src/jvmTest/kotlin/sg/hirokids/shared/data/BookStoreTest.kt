@@ -22,6 +22,7 @@ class BookStoreTest {
             audienceImda = emptyList(),
             isRestricted = false,
             reservations = 3,
+            languages = listOf("Chinese", "English"),
         )
 
     private fun store(): SqlBookStore {
@@ -119,5 +120,29 @@ class BookStoreTest {
         store.put(listOf(dinosaur.copy(brn = 1, title = "Dinosaur bones"), dinosaur.copy(brn = 2, title = "Dinosaur eggs")))
         assertEquals(emptyList(), store.search("bones eggs", 20).map { it.brn })
         assertEquals(listOf(1L), store.search("dinosaur bones", 20).map { it.brn })
+    }
+
+    @Test
+    fun aPhoneWithSavedBooksFromBeforeLanguagesKeepsThemWithNoLanguage() {
+        // Version 2 had the book table without languages. An installed app must upgrade and keep what it saved.
+        val driver = JdbcSqliteDriver(JdbcSqliteDriver.IN_MEMORY)
+        driver.execute(null, "CREATE TABLE meta (key TEXT NOT NULL PRIMARY KEY, value TEXT NOT NULL)", 0)
+        driver.execute(
+            null,
+            """CREATE TABLE book (brn INTEGER NOT NULL PRIMARY KEY, isbn TEXT, title TEXT NOT NULL, author TEXT, cover_url TEXT,
+            |format TEXT, subjects TEXT NOT NULL, audience TEXT NOT NULL, audience_imda TEXT NOT NULL,
+            |is_restricted INTEGER NOT NULL, reservations INTEGER NOT NULL)
+            """.trimMargin(),
+            0,
+        )
+        driver.execute(null, "INSERT INTO book VALUES (5, NULL, 'Old', NULL, NULL, NULL, '[]', '[]', '[]', 0, 1)", 0)
+        driver.execute(null, "PRAGMA user_version = 2", 0)
+
+        AppDatabase.Schema.migrate(driver, 2, AppDatabase.Schema.version)
+
+        val store = SqlBookStore(AppDatabase(driver))
+        assertEquals(emptyList(), store.get(5)?.languages)
+        store.put(listOf(dinosaur))
+        assertEquals(listOf("Chinese", "English"), store.get(dinosaur.brn)?.languages)
     }
 }

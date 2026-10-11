@@ -44,6 +44,7 @@ class SqlBookStore(
                     audience_imda = encode(it.audienceImda),
                     is_restricted = if (it.isRestricted) 1L else 0L,
                     reservations = it.reservations.toLong(),
+                    languages = encode(it.languages),
                 )
             }
         }
@@ -84,6 +85,7 @@ class SqlBookStore(
             isRestricted = is_restricted != 0L,
             reservations = reservations.toInt(),
             format = format,
+            languages = decode(languages),
         )
 
     private companion object {

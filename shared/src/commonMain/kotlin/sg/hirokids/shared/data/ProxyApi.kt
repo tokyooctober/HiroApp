@@ -34,6 +34,7 @@ class ProxyApi(
                 parameter("IntendedAudiences", request.audience)
                 parameter("MaterialTypes", "bks")
                 request.location?.let { parameter("Locations", it) }
+                request.language?.let { parameter("Languages", it) }
                 if (request.availableOnly) parameter("Availability", "true")
                 parameter("Limit", request.limit)
                 parameter("Offset", request.offset)
@@ -59,6 +60,8 @@ data class SearchTitlesRequest(
     val audience: String,
     val location: String?,
     val availableOnly: Boolean,
+    /** NLB's language code (`eng`, `chi`, ...), or null for every language. */
+    val language: String? = null,
     val limit: Int = SEARCH_PAGE_SIZE,
     val offset: Int = 0,
 )

@@ -1,6 +1,7 @@
 package sg.hirokids.shared.data
 
 import sg.hirokids.shared.domain.AudiencePolicy
+import sg.hirokids.shared.domain.BookLanguage
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
 import sg.hirokids.shared.domain.ResultGroup
@@ -40,6 +41,7 @@ class NlbRepository(
                                 audience = mode.intendedAudience(),
                                 location = library.code.lowercase(), // NLB filters on the lower-case branch code
                                 availableOnly = onShelf,
+                                language = query.language.facetId,
                                 offset = offset,
                             ),
                         )
@@ -68,7 +70,13 @@ class NlbRepository(
         val response =
             retry.run {
                 api.searchTitles(
-                    SearchTitlesRequest(keywords = query.text, audience = mode.intendedAudience(), location = null, availableOnly = true),
+                    SearchTitlesRequest(
+                        keywords = query.text,
+                        audience = mode.intendedAudience(),
+                        location = null,
+                        availableOnly = true,
+                        language = query.language.facetId,
+                    ),
                 )
             }
         return response.facets
@@ -95,8 +103,9 @@ class NlbRepository(
                 is SearchQuery.Keywords -> query.text
                 is SearchQuery.Isbn -> query.value
             }
+        val language = (query as? SearchQuery.Keywords)?.language ?: BookLanguage.ALL
         val policy = AudiencePolicy(mode)
-        return store.search(words, limit).filter { policy.allows(it) }
+        return store.search(words, MAX_SAVED_CANDIDATES).filter { policy.allows(it) && language.allows(it) }.take(limit)
     }
 
     private fun page(
@@ -115,6 +124,11 @@ class NlbRepository(
         }
         store.put(hits.flatMap { it.records })
         return SearchPage(hits, hasMore, nextOffset.takeIf { hasMore }, hidden)
+    }
+
+    private companion object {
+        /** Saved titles are read in a larger batch than a page, so the language filter still leaves a page's worth. */
+        const val MAX_SAVED_CANDIDATES = 100
     }
 
     private fun Mode.intendedAudience() =

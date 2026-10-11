@@ -25,6 +25,8 @@ data class Title(
     val reservations: Int,
     /** NLB's format name, e.g. `Book` or `Ebook`. */
     val format: String? = null,
+    /** NLB's language names for the record, e.g. `English` or `Chinese`. Empty when the record did not say. */
+    val languages: List<String> = emptyList(),
 )
 
 enum class CopyStatus {

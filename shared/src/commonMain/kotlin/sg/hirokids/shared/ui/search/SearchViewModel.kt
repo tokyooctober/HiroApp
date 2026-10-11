@@ -10,9 +10,11 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import sg.hirokids.shared.data.DirectorySource
+import sg.hirokids.shared.data.LanguageStore
 import sg.hirokids.shared.data.NlbRepository
 import sg.hirokids.shared.data.SearchQuery
 import sg.hirokids.shared.data.parseSearchQuery
+import sg.hirokids.shared.domain.BookLanguage
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
 import sg.hirokids.shared.domain.OtherLibrary
@@ -72,13 +74,19 @@ data class SearchUiState(
     val searchedQuery: String = "",
     /** The library whose books are shown after View (FR-16), or null for the user's own current library. Never saved. */
     val viewing: Library? = null,
-)
+    /** The language filter on the results, and on the search that made them. Remembered on the phone between visits. */
+    val language: BookLanguage = BookLanguage.DEFAULT,
+) {
+    /** A keyword search can be narrowed to a language; one ISBN is one book. */
+    val canFilterLanguage: Boolean get() = parseSearchQuery(searchedQuery) is SearchQuery.Keywords
+}
 
 /** The results the user left when they tapped View, so Back can bring them back without asking NLB again. */
 private class Snapshot(
     val viewing: Library?,
     val results: ResultsState,
     val searchedQuery: String,
+    val language: BookLanguage,
 )
 
 /** Everything in flight for the current search, so a newer search or Back can cancel it all. */
@@ -98,13 +106,16 @@ private class SearchJobs {
 /**
  * Search home and results in Children mode (FR-1, FR-4, FR-5, FR-11, FR-12, FR-15, FR-16). The library is passed in with each
  * call; after View it is the library being viewed ([SearchUiState.viewing]), which the screen passes instead of the current one.
+ * One function for each thing the user can do on the screen, which is why there are many.
  */
+@Suppress("TooManyFunctions")
 class SearchViewModel(
     private val repository: NlbRepository,
     private val directory: DirectorySource,
+    private val languageStore: LanguageStore,
     private val mode: Mode = Mode.CHILDREN,
 ) : ViewModel() {
-    private val _state = MutableStateFlow(SearchUiState())
+    private val _state = MutableStateFlow(SearchUiState(language = languageStore.language))
     val state: StateFlow<SearchUiState> = _state.asStateFlow()
 
     private val jobs = SearchJobs()
@@ -119,7 +130,7 @@ class SearchViewModel(
     }
 
     fun submit(library: Library) {
-        val query = parseSearchQuery(_state.value.query)
+        val query = _state.value.parse(_state.value.query)
         if (query == null) {
             _state.update { it.copy(tooShort = true) }
             return
@@ -129,8 +140,24 @@ class SearchViewModel(
 
     /** Starts the last search again, even if the field has been edited since. */
     fun retry(library: Library) {
-        val query = parseSearchQuery(_state.value.searchedQuery) ?: return
+        val query = _state.value.parse(_state.value.searchedQuery) ?: return
         search(query, library)
+    }
+
+    /**
+     * FR-7: narrow the search to one language, or back to all of them. The choice is kept for next time, and the same words are
+     * searched again at [library] (three calls, as for a new search). An ISBN lookup has no language, so only the choice changes.
+     */
+    fun chooseLanguage(
+        language: BookLanguage,
+        library: Library,
+    ) {
+        if (language == _state.value.language) return
+        languageStore.language = language
+        _state.update { it.copy(language = language) }
+        if (_state.value.screen == SearchScreen.RESULTS) {
+            (_state.value.parse(_state.value.searchedQuery) as? SearchQuery.Keywords)?.let { search(it, library) }
+        }
     }
 
     /**
@@ -141,10 +168,10 @@ class SearchViewModel(
         target: Library,
         from: Library,
     ) {
-        val query = parseSearchQuery(_state.value.searchedQuery) ?: return
+        val query = _state.value.parse(_state.value.searchedQuery) ?: return
         if (target.code.equals(from.code, ignoreCase = true)) return
         val now = _state.value
-        history.addLast(Snapshot(now.viewing, now.results.forSnapshot(), now.searchedQuery))
+        history.addLast(Snapshot(now.viewing, now.results.forSnapshot(), now.searchedQuery, now.language))
         _state.update { it.copy(viewing = target) }
         search(query, target)
     }
@@ -161,6 +188,7 @@ class SearchViewModel(
                     screen = SearchScreen.RESULTS,
                     results = previous.results,
                     searchedQuery = previous.searchedQuery,
+                    language = previous.language,
                     viewing = previous.viewing,
                     tooShort = false,
                 )
@@ -189,7 +217,7 @@ class SearchViewModel(
 
     /** The Try again button of the other-libraries box. */
     fun retryOthers(library: Library) {
-        val query = parseSearchQuery(_state.value.searchedQuery) as? SearchQuery.Keywords ?: return
+        val query = _state.value.parse(_state.value.searchedQuery) as? SearchQuery.Keywords ?: return
         val others = (_state.value.results as? ResultsState.Loaded)?.others ?: return
         if (others.loading) return
         jobs.others = viewModelScope.launch { _state.fillOthers(otherLibraries, query, library) }
@@ -238,7 +266,7 @@ class SearchViewModel(
         group: ResultGroup,
         offset: Int,
     ): Job? {
-        val query = parseSearchQuery(_state.value.searchedQuery) ?: return null
+        val query = _state.value.parse(_state.value.searchedQuery) ?: return null
         _state.changeShelf(group) { it.copy(loading = true, failed = false) }
         val job =
             viewModelScope.launch {
@@ -258,6 +286,9 @@ class SearchViewModel(
         return job
     }
 }
+
+/** The words as a query in the language now chosen. */
+private fun SearchUiState.parse(text: String) = parseSearchQuery(text, language)
 
 private fun SearchUiState.shelf(group: ResultGroup): Shelf? =
     (results as? ResultsState.Loaded)?.let { if (group == ResultGroup.ON_SHELF) it.onShelf else it.onLoan }

@@ -1,8 +1,10 @@
 package sg.hirokids.shared.ui.search
 
+import com.russhwolf.settings.MapSettings
 import io.ktor.client.request.HttpRequestData
 import io.ktor.http.HttpStatusCode
 import kotlinx.coroutines.flow.first
+import sg.hirokids.shared.data.LanguageStore
 import sg.hirokids.shared.data.NlbRepository
 import sg.hirokids.shared.data.response
 import sg.hirokids.shared.ui.library.FakeDirectorySource
@@ -12,7 +14,10 @@ import kotlin.test.assertIs
 /** Helpers shared by the view model tests: a pretend proxy that answers the three calls of a search, and ways to wait and look. */
 internal val searchTestDirectory = Spots.directory()
 
-internal fun searchViewModel(repo: NlbRepository) = SearchViewModel(repo, FakeDirectorySource(searchTestDirectory))
+internal fun searchViewModel(
+    repo: NlbRepository,
+    languages: LanguageStore = LanguageStore(MapSettings()),
+) = SearchViewModel(repo, FakeDirectorySource(searchTestDirectory), languages)
 
 /** Answers the on-the-shelf request (branch and Availability=true), the all-copies-out request (branch only) and the other-libraries one (no branch). */
 internal fun searchRouter(

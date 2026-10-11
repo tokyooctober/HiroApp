@@ -65,6 +65,7 @@ await search('search-titles-junior-here-available', { IntendedAudiences: 'juveni
 await search('search-titles-adult-here-available', { IntendedAudiences: 'adult', Locations: branchCode, Availability: true });
 await search('search-titles-junior-here-any', { IntendedAudiences: 'juvenile', Locations: branchCode });
 await search('search-titles-junior-everywhere-available', { IntendedAudiences: 'juvenile', Availability: true });
+await search('search-titles-junior-chinese', { IntendedAudiences: 'juvenile', Languages: 'chi' }); // settles the Languages value
 await search('search-titles-no-filters', {}); // no audience / material type: facet reference
 
 // --- Catalogue: per-title endpoints, using a real title from the junior search ---

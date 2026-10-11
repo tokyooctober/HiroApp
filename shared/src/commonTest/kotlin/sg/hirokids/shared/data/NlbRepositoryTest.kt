@@ -4,6 +4,7 @@ import io.ktor.client.plugins.ResponseException
 import io.ktor.client.request.HttpRequestData
 import io.ktor.http.HttpStatusCode
 import kotlinx.coroutines.test.runTest
+import sg.hirokids.shared.domain.BookLanguage
 import sg.hirokids.shared.domain.LatLon
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
@@ -360,5 +361,64 @@ class NlbRepositoryTest {
                 }
             assertEquals(mapOf("prpl" to 2), repo.shelfCounts(SearchQuery.Keywords("dinosaur"), Mode.CHILDREN))
             assertEquals(2, seen.size)
+        }
+
+    // --- language (FR-7) ---------------------------------------------------------------------------------------------
+
+    @Test
+    fun aLanguageFilterIsSentOnEveryKindOfSearchCallAndNoFilterSendsNothing() =
+        runTest {
+            val (repo, seen, _) = repository { HttpStatusCode.OK to response() }
+            val chinese = SearchQuery.Keywords("dinosaur", BookLanguage.CHINESE)
+            repo.search(chinese, tampines, Mode.CHILDREN)
+            repo.search(chinese, tampines, Mode.CHILDREN, group = ResultGroup.ALL_HERE)
+            repo.shelfCounts(chinese, Mode.CHILDREN)
+            assertEquals(listOf("chi", "chi", "chi"), seen.map { it.url.parameters["Languages"] })
+
+            seen.clear()
+            repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN)
+            assertNull(seen.single().url.parameters["Languages"])
+        }
+
+    @Test
+    fun theLanguagesOfARecordAreReadAndKept() =
+        runTest {
+            val (repo, _, store) =
+                repository {
+                    HttpStatusCode.OK to
+                        response(
+                            group("Dinosaur", record(1, extra = ""","language":["Chinese","English"]""")),
+                            group("Cats", record(2)),
+                        )
+                }
+            val page = repo.search(keywords("animals"), tampines, Mode.CHILDREN)
+            assertEquals(listOf("Chinese", "English"), page.hits[0].title.languages)
+            assertEquals(emptyList(), page.hits[1].title.languages)
+            assertEquals(listOf("Chinese", "English"), store.get(1)?.languages)
+        }
+
+    @Test
+    fun savedBooksAreNarrowedToTheLanguageButOnesWithNoRecordedLanguageStay() =
+        runTest {
+            val (repo, _, _) =
+                repository {
+                    HttpStatusCode.OK to
+                        response(
+                            group("Dinosaur english", record(1, extra = ""","language":["English"]""")),
+                            group("Dinosaur chinese", record(2, extra = ""","language":["Chinese"]""")),
+                            group("Dinosaur unknown", record(3)),
+                        )
+                }
+            repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN)
+
+            fun saved(language: BookLanguage) =
+                repo
+                    .saved(SearchQuery.Keywords("dinosaur", language), Mode.CHILDREN)
+                    .map { it.brn }
+                    .sorted()
+
+            assertEquals(listOf(1L, 3L), saved(BookLanguage.ENGLISH))
+            assertEquals(listOf(2L, 3L), saved(BookLanguage.CHINESE))
+            assertEquals(listOf(1L, 2L, 3L), saved(BookLanguage.ALL))
         }
 }

@@ -9,6 +9,7 @@ import org.koin.dsl.module
 import sg.hirokids.shared.data.BookStore
 import sg.hirokids.shared.data.CurrentLibraryStore
 import sg.hirokids.shared.data.DirectorySource
+import sg.hirokids.shared.data.LanguageStore
 import sg.hirokids.shared.data.LibraryRepository
 import sg.hirokids.shared.data.LibrarySeedSource
 import sg.hirokids.shared.data.NlbRepository
@@ -33,11 +34,12 @@ fun sharedModule(proxyBaseUrl: String): Module =
         single<BookStore> { SqlBookStore(get()) }
         single { NlbRepository(get(), get()) }
         single { CurrentLibraryStore(get()) }
+        single { LanguageStore(get()) }
         single<LibrarySeedSource> { ResourceSeedSource() }
         single<DirectorySource> { LibraryRepository(get(), get()) }
         // the platform supplies the location provider when the screen is created
         viewModel { (location: LocationProvider) -> LibraryViewModel(get(), get(), location) }
-        viewModel { SearchViewModel(get(), get()) }
+        viewModel { SearchViewModel(get(), get(), get()) }
     }
 
 /** Starts Koin for the shared code. Android adds its `Context`; iOS calls this from Swift. */

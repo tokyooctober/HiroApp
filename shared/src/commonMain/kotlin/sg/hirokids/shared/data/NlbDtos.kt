@@ -69,6 +69,7 @@ data class RecordDto(
     val audienceImda: List<String> = emptyList(),
     val isRestricted: Boolean? = null,
     val activeReservationsCount: Int = 0,
+    val language: List<String> = emptyList(),
 )
 
 private const val COVER_BASE = "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/"
@@ -90,5 +91,6 @@ internal fun RecordDto.toTitle(group: TitleGroupDto? = null): Title {
         isRestricted = isRestricted ?: true,
         reservations = activeReservationsCount,
         format = format?.name?.takeIf { it.isNotBlank() },
+        languages = language.filter { it.isNotBlank() },
     )
 }

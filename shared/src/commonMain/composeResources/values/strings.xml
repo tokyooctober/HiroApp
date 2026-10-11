@@ -37,6 +37,15 @@
     <string name="card_on_loan">On loan here</string>
     <string name="card_on_loan_waiting">On loan here · %1$d waiting</string>
     <string name="card_by">%1$s, by %2$s</string>
+    <string name="card_language">Language: %1$s</string>
+
+    <!-- Language filter (FR-7) -->
+    <string name="language_filter">Language</string>
+    <string name="language_all">All</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">Chinese</string>
+    <string name="language_malay">Malay</string>
+    <string name="language_tamil">Tamil</string>
 
     <!-- Library picker -->
     <string name="picker_title">Which library are you at?</string>

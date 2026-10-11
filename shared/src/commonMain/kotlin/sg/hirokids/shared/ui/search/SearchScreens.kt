@@ -33,6 +33,7 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.jetbrains.compose.resources.stringResource
+import sg.hirokids.shared.domain.BookLanguage
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.ResultGroup
 import sg.hirokids.shared.resources.Res
@@ -59,9 +60,15 @@ class ResultsActions(
     val onSearch: () -> Unit,
     val onRetry: () -> Unit,
     val onBack: () -> Unit,
-    val onLoadMore: (ResultGroup) -> Unit,
-    val onRetryGroup: (ResultGroup) -> Unit,
+    val onLanguage: (BookLanguage) -> Unit,
+    val paging: PagingActions,
     val others: OtherLibraryActions,
+)
+
+/** The footer of a group of cards: load its next page when it scrolls into view, or try again after a failure. */
+class PagingActions(
+    val onLoadMore: (ResultGroup) -> Unit,
+    val onRetry: (ResultGroup) -> Unit,
 )
 
 /** The other-libraries box: View a library's results (FR-16), and Try again if the list could not be loaded. */
@@ -99,8 +106,12 @@ fun SearchFlow(
                         onSearch = { viewModel.submit(shown) },
                         onRetry = { viewModel.retry(shown) },
                         onBack = viewModel::back,
-                        onLoadMore = { viewModel.loadMore(shown, it) },
-                        onRetryGroup = { viewModel.retryGroup(shown, it) },
+                        onLanguage = { viewModel.chooseLanguage(it, shown) },
+                        paging =
+                            PagingActions(
+                                onLoadMore = { viewModel.loadMore(shown, it) },
+                                onRetry = { viewModel.retryGroup(shown, it) },
+                            ),
                         others =
                             OtherLibraryActions(
                                 onView = { viewModel.view(it, from = shown) },
@@ -190,6 +201,9 @@ private fun ResultsHeader(
         Row(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.padding(start = 8.dp)) {
             Chip(stringResource(Res.string.mode_children), HiroColors.Ink, Color.White)
             Chip(libraryName, HiroColors.PrimaryTint, HiroColors.PrimaryPressed)
+        }
+        if (state.canFilterLanguage) {
+            Box(Modifier.padding(start = 8.dp)) { LanguageChips(state.language, actions.onLanguage) }
         }
     }
 }

@@ -1,0 +1,3 @@
+-- Database version 2 -> 3 (language filter): each saved title keeps its languages, as JSON text. Keep in step with Book.sq.
+-- Titles saved before this have none recorded, and the offline list leaves them visible under any language.
+ALTER TABLE book ADD COLUMN languages TEXT NOT NULL DEFAULT '[]';
