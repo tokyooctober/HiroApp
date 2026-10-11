@@ -26,6 +26,7 @@ private data class SeedFileDto(
 private data class SeedLibraryDto(
     val branchCode: String? = null,
     val name: String,
+    val address: String = "",
     val lat: Double,
     val lng: Double,
     val status: String = "",
@@ -35,5 +36,5 @@ private val seedJson = Json { ignoreUnknownKeys = true }
 
 fun parseSeed(json: String): List<SeedLibrary> =
     seedJson.decodeFromString<SeedFileDto>(json).libraries.map {
-        SeedLibrary(it.branchCode, it.name, LatLon(it.lat, it.lng), LibraryStatus.parse(it.status))
+        SeedLibrary(it.branchCode, it.name, LatLon(it.lat, it.lng), LibraryStatus.parse(it.status), it.address)
     }

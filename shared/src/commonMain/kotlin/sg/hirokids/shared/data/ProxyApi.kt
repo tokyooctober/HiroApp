@@ -76,7 +76,7 @@ data class BranchDto(
     val branchType: BranchTypeDto? = null,
     val coordinates: CoordinatesDto? = null,
 ) {
-    fun toLiveBranch(): LiveBranch = LiveBranch(branchCode, coordinates?.toLatLon())
+    fun toLiveBranch(): LiveBranch = LiveBranch(branchCode, coordinates?.toLatLon(), branchName)
 }
 
 @Serializable

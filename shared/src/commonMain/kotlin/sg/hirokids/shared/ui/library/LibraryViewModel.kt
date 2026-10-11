@@ -148,7 +148,7 @@ class LibraryViewModel(
                 directory.libraries.map { PickerItem(it, null) }
             }
         val wanted = _state.value.query.trim()
-        val shown = if (wanted.isEmpty()) all else all.filter { it.library.name.contains(wanted, ignoreCase = true) }
+        val shown = if (wanted.isEmpty()) all else all.filter { it.library.matches(wanted) }
         _state.update { it.copy(items = shown) }
     }
 }

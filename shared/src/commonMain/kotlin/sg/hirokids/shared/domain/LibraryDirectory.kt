@@ -42,10 +42,12 @@ class LibraryDirectory(
                     .filter { it.status == LibraryStatus.OPEN && !it.code.isNullOrBlank() }
                     .mapNotNull { entry ->
                         val code = entry.code!!.uppercase()
+                        val live = liveByCode?.get(code)
+                        val aliases = listOfNotNull(live?.name, entry.address).filter { it.isNotBlank() }
                         if (liveByCode == null) {
-                            Library(code, entry.name, entry.position)
+                            Library(code, entry.name, entry.position, aliases)
                         } else {
-                            liveByCode[code]?.let { Library(code, entry.name, it.position ?: entry.position) }
+                            live?.let { Library(code, entry.name, it.position ?: entry.position, aliases) }
                         }
                     }
             return LibraryDirectory(chosen)

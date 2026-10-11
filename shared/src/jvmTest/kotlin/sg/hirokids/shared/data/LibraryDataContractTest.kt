@@ -66,4 +66,27 @@ class LibraryDataContractTest {
         val withoutPosition = live.filter { it.code.uppercase() in shown && it.position == null }
         assertEquals(emptyList(), withoutPosition.map { it.code }, "a library we show has no usable coordinates")
     }
+
+    @Test
+    fun peopleFindTheLibrariesTheyTypeTheNameOf() {
+        val directory = LibraryDirectory.from(seed, live)
+
+        fun find(query: String) = directory.libraries.filter { it.matches(query) }.map { it.code }
+        // NLB's names, which the app's own names differ from for almost every library
+        assertEquals(listOf("TRL"), find("Tampines Library"))
+        assertEquals(listOf("JRL", "JWPL"), find("Jurong Library")) // Jurong West is a Jurong library too
+        assertEquals(listOf("HBPL"), find("Harbourfront Library"))
+        // VivoCity has no library of its own; Harbourfront Library is the one inside it
+        assertEquals(listOf("HBPL"), find("Vivo City"))
+        assertEquals(listOf("HBPL"), find("vivocity library"))
+    }
+
+    @Test
+    fun everySelectableLibraryIsFoundByNlbsNameForIt() {
+        val directory = LibraryDirectory.from(seed, live)
+        for (library in directory.libraries) {
+            val nlbName = live.first { it.code.equals(library.code, ignoreCase = true) }.name
+            assertTrue(library.matches(nlbName), "${library.code}: '$nlbName' does not find it")
+        }
+    }
 }

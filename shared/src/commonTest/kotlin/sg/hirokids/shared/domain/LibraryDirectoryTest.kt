@@ -14,12 +14,35 @@ class LibraryDirectoryTest {
         name: String,
         position: LatLon = tampines,
         status: LibraryStatus = LibraryStatus.OPEN,
-    ) = SeedLibrary(code, name, position, status)
+        address: String = "",
+    ) = SeedLibrary(code, name, position, status, address)
 
     private fun live(
         code: String,
         position: LatLon? = null,
-    ) = LiveBranch(code, position)
+        name: String = "",
+    ) = LiveBranch(code, position, name)
+
+    // ---- finding a library by what people type
+
+    @Test
+    fun theLiveNameAndTheAddressAreSearchable() {
+        val directory =
+            LibraryDirectory.from(
+                seed = listOf(seed("TRL", "Tampines Regional Library", address = "1 Tampines Walk, Our Tampines Hub")),
+                live = listOf(live("TRL", name = "Tampines Library")),
+            )
+        val library = directory.byCode("TRL")!!
+        assertEquals("Tampines Regional Library", library.name) // the name shown does not change
+        assertTrue(library.matches("Tampines Library"))
+        assertTrue(library.matches("our tampines hub"))
+    }
+
+    @Test
+    fun theAddressStaysSearchableWhenNlbsListIsUnavailable() {
+        val directory = LibraryDirectory.from(seed = listOf(seed("HBPL", "library@harbourfront", address = "VivoCity")), live = null)
+        assertTrue(directory.byCode("HBPL")!!.matches("vivo"))
+    }
 
     // ---- which libraries can be chosen (spec FR-3, owner decision 7 Oct 2026)
 
