@@ -40,6 +40,24 @@ class ProxyApi(
                 parameter("Offset", request.offset)
             }.body()
 
+    /** `GetAvailabilityInfo`: every copy of one record at every branch, [offset] pages on. */
+    suspend fun availabilityInfo(
+        brn: Long,
+        offset: Int = 0,
+    ): AvailabilityResponse =
+        client
+            .get("${baseUrl.trimEnd('/')}/catalogue/GetAvailabilityInfo") {
+                parameter("BRN", brn)
+                parameter("Offset", offset)
+            }.body()
+
+    /** `GetTitleDetails`: the full record of one title, whose summary the search results do not carry. */
+    suspend fun titleDetails(brn: Long): RecordDto =
+        client
+            .get("${baseUrl.trimEnd('/')}/catalogue/GetTitleDetails") {
+                parameter("BRN", brn)
+            }.body()
+
     /** `GetTitles` by ISBN: no audience parameter exists, so callers must run the audience policy on the result. */
     suspend fun titlesByIsbn(
         isbn: String,

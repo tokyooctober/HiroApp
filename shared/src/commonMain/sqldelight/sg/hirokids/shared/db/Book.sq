@@ -13,15 +13,16 @@ CREATE TABLE book (
     audience_imda TEXT NOT NULL,
     is_restricted INTEGER NOT NULL,
     reservations INTEGER NOT NULL,
-    languages TEXT NOT NULL DEFAULT '[]'
+    languages TEXT NOT NULL DEFAULT '[]',
+    summary TEXT
 );
 
 selectByBrn:
 SELECT * FROM book WHERE brn = ?;
 
 upsert:
-INSERT OR REPLACE INTO book(brn, isbn, title, author, cover_url, format, subjects, audience, audience_imda, is_restricted, reservations, languages)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+INSERT OR REPLACE INTO book(brn, isbn, title, author, cover_url, format, subjects, audience, audience_imda, is_restricted, reservations, languages, summary)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
 
 -- Saved titles for the offline fallback (FR-12). instr, not LIKE, so % and _ in what the user typed are plain characters.
 selectMatching:

@@ -24,7 +24,7 @@ import sg.hirokids.shared.domain.SearchHit
 import sg.hirokids.shared.domain.SearchPage
 import sg.hirokids.shared.domain.Title
 
-enum class SearchScreen { HOME, RESULTS }
+enum class SearchScreen { HOME, RESULTS, DETAIL }
 
 /** One paged list of cards: "on the shelf here", or "in this library, but all copies out". */
 data class Shelf(
@@ -72,6 +72,8 @@ data class SearchUiState(
     val results: ResultsState = ResultsState.Idle,
     /** The words the current [results] are for, which may differ from [query] if the user has typed since. */
     val searchedQuery: String = "",
+    /** The book on the detail screen, while [screen] is [SearchScreen.DETAIL]. */
+    val openBook: SearchHit? = null,
     /** The library whose books are shown after View (FR-16), or null for the user's own current library. Never saved. */
     val viewing: Library? = null,
     /** The language filter on the results, and on the search that made them. Remembered on the phone between visits. */
@@ -136,6 +138,16 @@ class SearchViewModel(
             return
         }
         search(query, library)
+    }
+
+    /** Opens the detail of a card. The results stay as they are, so coming back is instant (FR-6). */
+    fun openBook(hit: SearchHit) {
+        _state.update { it.copy(screen = SearchScreen.DETAIL, openBook = hit) }
+    }
+
+    /** From the detail back to the results it was opened from. */
+    fun closeBook() {
+        _state.update { if (it.screen == SearchScreen.DETAIL) it.copy(screen = SearchScreen.RESULTS, openBook = null) else it }
     }
 
     /** Starts the last search again, even if the field has been edited since. */

@@ -40,11 +40,42 @@ internal fun locationFacets(vararg counts: Pair<String, Int>) =
             ",",
         ) { (code, n) -> """{"id":"$code","data":"$code library","count":$n}""" }}]}]"""
 
+/** One copy as `GetAvailabilityInfo` sends it. [state] is `In` (on the shelf), `Out` (on loan) or `Shelving`. */
+internal fun item(
+    brn: Long,
+    branch: String,
+    state: String = "In",
+    usage: String = "JUNIOR PB",
+    usageName: String = "Junior Picture Book",
+    call: String = "English JP TAN",
+) = """{"brn":$brn,"callNumber":"${call.removePrefix("English ")}","formattedCallNumber":"$call","media":{"code":"BOOK","name":"Book"},""" +
+    """"usageLevel":{"code":"$usage","name":"$usageName"},"location":{"code":"$branch","name":"$branch Library"},""" +
+    """"status":{"code":"$state","name":"$state"},"transactionStatus":{"code":"${if (state == "Out") "C" else "S"}","name":"x"},""" +
+    """"minAgeLimit":0}"""
+
+internal fun availability(
+    vararg items: String,
+    hasMore: Boolean = false,
+    next: Int = items.size,
+) = """{"totalRecords":${items.size},"count":${items.size},"hasMoreRecords":$hasMore,"nextRecordsOffset":$next,""" +
+    """"items":[${items.joinToString(",")}]}"""
+
+/** `GetTitleDetails` for one title. */
+internal fun details(
+    brn: Long,
+    summary: String = "A book about dinosaurs.",
+) = """{"brn":$brn,"title":"Dinosaur / by A","isbns":["97800000$brn"],"subjects":["Dinosaurs Juvenile literature."],""" +
+    """"summary":["$summary"],"isRestricted":false,"activeReservationsCount":0,"language":["English"]}"""
+
+internal val HttpRequestData.isAvailability get() = url.encodedPath.endsWith("GetAvailabilityInfo")
+internal val HttpRequestData.isDetails get() = url.encodedPath.endsWith("GetTitleDetails")
+
 internal class MemoryStore : BookStore {
     val saved = mutableMapOf<Long, Title>()
 
     override fun put(titles: List<Title>) {
-        titles.forEach { saved[it.brn] = it }
+        // like the real store: a search result has no summary and must not wipe one kept earlier
+        titles.forEach { saved[it.brn] = if (it.summary == null) it.copy(summary = saved[it.brn]?.summary) else it }
     }
 
     override fun get(brn: Long): Title? = saved[brn]

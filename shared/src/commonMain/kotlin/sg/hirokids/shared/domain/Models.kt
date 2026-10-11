@@ -27,6 +27,8 @@ data class Title(
     val format: String? = null,
     /** NLB's language names for the record, e.g. `English` or `Chinese`. Empty when the record did not say. */
     val languages: List<String> = emptyList(),
+    /** From `GetTitleDetails`, fetched the first time the book is opened. Null: not fetched yet. Empty: NLB has none. */
+    val summary: String? = null,
 )
 
 enum class CopyStatus {
@@ -49,4 +51,8 @@ data class Copy(
     val minAgeLimit: Int?,
     /** Media code or name, e.g. `BOOK`. Scanned for ratings such as `M18`. */
     val media: String?,
+    /** NLB's name for the usage level, e.g. `Early Literacy 0-3`; this is the shelf type the child looks for. */
+    val usageLevelName: String? = null,
+    /** The call number as it is on the spine, e.g. `English 567.912 HEP`. */
+    val formattedCallNumber: String? = null,
 )

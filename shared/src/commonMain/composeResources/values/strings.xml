@@ -47,6 +47,26 @@
     <string name="language_malay">Malay</string>
     <string name="language_tamil">Tamil</string>
 
+    <!-- Book detail (FR-6, FR-15) -->
+    <string name="detail_back">Back to results</string>
+    <string name="detail_here_title">On the shelf here</string>
+    <string name="detail_copies">%1$d of %2$d copies</string>
+    <string name="detail_look_for">Look for call number</string>
+    <string name="detail_shelf_at">%1$s shelves · %2$s</string>
+    <string name="detail_checking">Checking the shelf…</string>
+    <string name="detail_error">We couldn’t check the shelf.</string>
+    <string name="detail_all_out_title">Not on the shelf here</string>
+    <string name="detail_all_out">All %1$d copies are out right now. Other libraries are listed below.</string>
+    <string name="detail_not_held">%1$s doesn’t have this book. Other libraries are listed below.</string>
+    <string name="detail_others_title">At other libraries</string>
+    <string name="detail_others_note">Live shelf status</string>
+    <string name="detail_others_none">No other library has this book.</string>
+    <string name="detail_other_on_shelf">%1$d of %2$d on shelf</string>
+    <string name="detail_other_all_out">0 of %1$d on shelf · all on loan</string>
+    <string name="detail_other_row">%1$s, %2$s</string>
+    <string name="detail_about">About this book</string>
+    <string name="detail_subjects">Subjects</string>
+
     <!-- Library picker -->
     <string name="picker_title">Which library are you at?</string>
     <string name="picker_close">Close</string>

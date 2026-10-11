@@ -218,14 +218,15 @@ Found by the owner on the Android emulator after Task 9.
 
 ### Task 10: Book detail with call number, copies and other libraries
 **Spec task:** T8 (part) · **Covers:** FR-6, FR-14 (detail), FR-15 (detail) · **Design:** `Detail.dc.html`
+**Status (11 Oct 2026): written; local tests, ktlint and detekt are clean; CI and a device run are what is left.** Tapping any card (also a saved one, offline) opens the detail: header with cover, title, author · format · languages; the green "On the shelf here" panel with "{available} of {total} copies", the call number in large type (as on the spine, e.g. "English 567.912 HEP") and the shelf type (NLB's usage-level name, e.g. "Early Literacy 0-3") with the library; "At other libraries" with "{available} of {total} on shelf", View and the distance; "About this book" with the summary and subjects. **Decisions to confirm:** (1) *Shelving*: a copy NLB marks available but still `Shelving` is not counted as on the shelf, so the detail can say "Not on the shelf here" for a card the search called "On the shelf here" (the known over-report). (2) *Summary*: the search results carry no summary, so the first open of a book makes one extra `GetTitleDetails` call and keeps the summary (database 3 to 4); later opens make none. FR-14 says "no `GetTitleDetails` call" for a title seen before, which holds from the second open. (3) *Calls*: one `GetAvailabilityInfo` per record of the title (usually one) and per page of copies (20 or so each, to the last, because the copies at this library can be on any page); a title with copies at many branches can need a few calls. (4) *Not built, by design*: the Save heart (Task 15), directions arrow (Task 11), "More like this" (KIV). The Android system Back button is still not wired; the arrow on screen is.
 **Description:** Tapping a result opens detail from the local store (≤ 200 ms) and fetches `GetAvailabilityInfo` once for "{available} of {total} copies", the large call number and shelf type, then summary, subjects, and each other library as "{available} of {total} on shelf" (shelf copies first, then nearest) with View.
 **Acceptance criteria:**
-- [ ] A previously seen title opens in ≤ 200 ms, also offline, with a loading state for availability only
-- [ ] Only copies passing `AudiencePolicy` are counted and listed
-- [ ] No copy on the shelf here: the panel says so and other libraries move up
-- [ ] View switches library as in Task 9
+- [x] A previously seen title opens in ≤ 200 ms, also offline, with a loading state for availability only _(the title shows from the card with no wait and the shelf panel shows "Checking the shelf…"; `DetailViewModelTest`. The 200 ms is not timed on a device yet)_
+- [x] Only copies passing `AudiencePolicy` are counted and listed _(`NlbRepositoryTest`)_
+- [x] No copy on the shelf here: the panel says so and other libraries move up _(`BookAvailabilityTest`, `DetailViewModelTest`)_
+- [x] View switches library as in Task 9 _(View closes the detail and shows that library's results, Back returns, as in Task 9)_
 **Verification:**
-- [ ] `./gradlew :shared:allTests` (availability mapper, copy counting per mode, sort order)
+- [x] `./gradlew :shared:allTests` (availability mapper, copy counting per mode, sort order) _(`BookAvailabilityTest`, `NlbFixtureDetailTest` against the recorded `GetAvailabilityInfo`, repository and view model tests; 210 tests locally)_
 - [ ] UI + screenshot tests; Macrobenchmark or timer test for the 200 ms target
 - [ ] Manual: open titles with and without local copies
 **Dependencies:** Task 9

@@ -113,7 +113,7 @@ private fun OtherLibraryRow(
 }
 
 @Composable
-private fun distanceText(meters: Double): String {
+internal fun distanceText(meters: Double): String {
     val label = distanceLabel(meters)
     return if (label.kilometres) stringResource(Res.string.distance_km, label.text) else stringResource(Res.string.distance_m, label.text)
 }

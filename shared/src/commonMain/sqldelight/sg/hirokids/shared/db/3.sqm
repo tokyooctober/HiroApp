@@ -1,0 +1,3 @@
+-- Database version 3 -> 4 (book detail): the summary from GetTitleDetails, kept after the first time a book is opened.
+-- Null means not fetched yet. Keep in step with Book.sq.
+ALTER TABLE book ADD COLUMN summary TEXT;

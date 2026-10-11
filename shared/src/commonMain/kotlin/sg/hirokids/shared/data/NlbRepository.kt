@@ -2,6 +2,7 @@ package sg.hirokids.shared.data
 
 import sg.hirokids.shared.domain.AudiencePolicy
 import sg.hirokids.shared.domain.BookLanguage
+import sg.hirokids.shared.domain.Copy
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
 import sg.hirokids.shared.domain.ResultGroup
@@ -86,6 +87,46 @@ class NlbRepository(
             .associate { it.id.lowercase() to it.count }
     }
 
+    /**
+     * Every copy of [records] (one title can be several records) at every branch, for the book detail (FR-6). Only copies that pass
+     * [AudiencePolicy] are returned. NLB sends copies in pages; they are read one after the other, to the last, because the copies
+     * at the current library can be on any page. A busy proxy is retried like the other calls.
+     */
+    suspend fun copies(
+        records: List<Title>,
+        mode: Mode,
+    ): List<Copy> {
+        val all = mutableListOf<Copy>()
+        for (record in records.take(MAX_RECORDS_PER_DETAIL)) {
+            var offset = 0
+            for (page in 0 until MAX_AVAILABILITY_PAGES) {
+                val response = retry.run { api.availabilityInfo(record.brn, offset) }
+                all += response.items.mapNotNull { it.toCopy() }
+                if (!response.hasMoreRecords) break
+                offset = response.nextRecordsOffset
+            }
+        }
+        return AudiencePolicy(mode).countableCopies(all)
+    }
+
+    /**
+     * The title with its summary. A summary kept from an earlier visit is returned without a call (FR-14); otherwise one
+     * `GetTitleDetails` call is made and the result is kept. If the full record no longer passes [AudiencePolicy], null: do not show it.
+     */
+    suspend fun withSummary(
+        title: Title,
+        mode: Mode,
+    ): Title? {
+        if (title.summary != null) return title
+        val details = retry.run { api.titleDetails(title.brn) }
+        val full = details.toTitle().copy(summary = details.summary.joinToString(" ").trim())
+        // the search record is what the card showed; the details add the summary and may know more about the audience
+        val merged = title.copy(summary = full.summary, audience = full.audience.ifEmpty { title.audience })
+        if (!AudiencePolicy(mode).allows(merged)) return null
+        store.put(listOf(merged))
+        return merged
+    }
+
     /** A title kept from an earlier search, read without any network call. */
     fun stored(brn: Long): Title? = store.get(brn)
 
@@ -129,6 +170,12 @@ class NlbRepository(
     private companion object {
         /** Saved titles are read in a larger batch than a page, so the language filter still leaves a page's worth. */
         const val MAX_SAVED_CANDIDATES = 100
+
+        /** A title group is nearly always one record (18 of 20 in the recorded data); this bounds the calls for the rare big one. */
+        const val MAX_RECORDS_PER_DETAIL = 4
+
+        /** NLB pages hold 20 copies or more; 10 pages is far beyond any title seen, and stops a runaway loop. */
+        const val MAX_AVAILABILITY_PAGES = 10
     }
 
     private fun Mode.intendedAudience() =

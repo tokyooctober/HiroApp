@@ -32,6 +32,13 @@ class SqlBookStore(
     override fun put(titles: List<Title>) {
         database.transaction {
             titles.forEach {
+                // a search result has no summary: saving it must not wipe one fetched earlier
+                val summary =
+                    it.summary
+                        ?: database.bookQueries
+                            .selectByBrn(it.brn)
+                            .executeAsOneOrNull()
+                            ?.summary
                 database.bookQueries.upsert(
                     brn = it.brn,
                     isbn = it.isbn,
@@ -45,6 +52,7 @@ class SqlBookStore(
                     is_restricted = if (it.isRestricted) 1L else 0L,
                     reservations = it.reservations.toLong(),
                     languages = encode(it.languages),
+                    summary = summary,
                 )
             }
         }
@@ -86,6 +94,7 @@ class SqlBookStore(
             reservations = reservations.toInt(),
             format = format,
             languages = decode(languages),
+            summary = summary,
         )
 
     private companion object {

@@ -1,6 +1,8 @@
 package sg.hirokids.shared.data
 
 import kotlinx.serialization.Serializable
+import sg.hirokids.shared.domain.Copy
+import sg.hirokids.shared.domain.CopyStatus
 import sg.hirokids.shared.domain.Title
 
 /** Shapes of `SearchTitles` and `GetTitles` as recorded in `fixtures/`. Unknown fields are ignored. */
@@ -70,6 +72,8 @@ data class RecordDto(
     val isRestricted: Boolean? = null,
     val activeReservationsCount: Int = 0,
     val language: List<String> = emptyList(),
+    /** Only `GetTitleDetails` sends it. */
+    val summary: List<String> = emptyList(),
 )
 
 private const val COVER_BASE = "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/"
@@ -92,5 +96,61 @@ internal fun RecordDto.toTitle(group: TitleGroupDto? = null): Title {
         reservations = activeReservationsCount,
         format = format?.name?.takeIf { it.isNotBlank() },
         languages = language.filter { it.isNotBlank() },
+        summary = summary.joinToString(" ").trim().takeIf { it.isNotEmpty() },
     )
+}
+
+/** `GetAvailabilityInfo`: one row per physical copy, at every branch. */
+@Serializable
+data class AvailabilityResponse(
+    val totalRecords: Int = 0,
+    val hasMoreRecords: Boolean = false,
+    val nextRecordsOffset: Int = 0,
+    val items: List<ItemDto> = emptyList(),
+)
+
+@Serializable
+data class CodeNameDto(
+    val code: String = "",
+    val name: String = "",
+)
+
+@Serializable
+data class ItemDto(
+    val brn: Long,
+    val callNumber: String? = null,
+    val formattedCallNumber: String? = null,
+    val media: CodeNameDto? = null,
+    val usageLevel: CodeNameDto? = null,
+    val location: CodeNameDto? = null,
+    val status: CodeNameDto? = null,
+    val transactionStatus: CodeNameDto? = null,
+    val minAgeLimit: Int? = null,
+) {
+    /**
+     * A copy with no branch or usage level cannot be placed, so it is dropped (null). Only a copy NLB says is in (`In`) and available
+     * (`S`) is on the shelf: one still being shelved (`Shelving`) is not there to pick up yet.
+     */
+    fun toCopy(): Copy? {
+        val branch = location?.code?.takeIf { it.isNotBlank() } ?: return null
+        val usage = usageLevel?.code?.takeIf { it.isNotBlank() } ?: return null
+        return Copy(
+            brn = brn,
+            branchCode = branch.uppercase(),
+            usageLevel = usage,
+            status = copyStatus(),
+            callNumber = callNumber?.takeIf { it.isNotBlank() },
+            minAgeLimit = minAgeLimit,
+            media = media?.code?.takeIf { it.isNotBlank() },
+            usageLevelName = usageLevel.name.takeIf { it.isNotBlank() },
+            formattedCallNumber = formattedCallNumber?.takeIf { it.isNotBlank() },
+        )
+    }
+
+    private fun copyStatus(): CopyStatus =
+        when {
+            transactionStatus?.code == "C" -> CopyStatus.ON_LOAN
+            transactionStatus?.code == "S" && status?.code.equals("In", ignoreCase = true) -> CopyStatus.AVAILABLE
+            else -> CopyStatus.IN_PROCESS // shelving, in transit, on hold, or a code we do not know: not there to pick up
+        }
 }

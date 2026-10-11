@@ -33,9 +33,11 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.jetbrains.compose.resources.stringResource
+import org.koin.compose.viewmodel.koinViewModel
 import sg.hirokids.shared.domain.BookLanguage
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.ResultGroup
+import sg.hirokids.shared.domain.SearchHit
 import sg.hirokids.shared.resources.Res
 import sg.hirokids.shared.resources.mode_children
 import sg.hirokids.shared.resources.results_back
@@ -47,6 +49,8 @@ import sg.hirokids.shared.resources.search_heading
 import sg.hirokids.shared.resources.search_hint
 import sg.hirokids.shared.resources.search_label
 import sg.hirokids.shared.resources.search_too_short
+import sg.hirokids.shared.ui.detail.DetailScreen
+import sg.hirokids.shared.ui.detail.DetailViewModel
 import sg.hirokids.shared.ui.library.YoureAtCard
 import sg.hirokids.shared.ui.theme.HiroColors
 import sg.hirokids.shared.ui.theme.HiroShapes
@@ -61,12 +65,13 @@ class ResultsActions(
     val onRetry: () -> Unit,
     val onBack: () -> Unit,
     val onLanguage: (BookLanguage) -> Unit,
-    val paging: PagingActions,
+    val list: ListActions,
     val others: OtherLibraryActions,
 )
 
-/** The footer of a group of cards: load its next page when it scrolls into view, or try again after a failure. */
-class PagingActions(
+/** The lists of cards: open a book (FR-6), load a group's next page when its footer scrolls into view, or try again after a failure. */
+class ListActions(
+    val onOpen: (SearchHit) -> Unit,
     val onLoadMore: (ResultGroup) -> Unit,
     val onRetry: (ResultGroup) -> Unit,
 )
@@ -96,6 +101,24 @@ fun SearchFlow(
                 onSearch = { viewModel.submit(library) },
                 onChangeLibrary = onChangeLibrary,
             )
+        SearchScreen.DETAIL ->
+            state.openBook?.let { hit ->
+                val detail = koinViewModel<DetailViewModel>()
+                DetailScreen(
+                    hit = hit,
+                    library = shown,
+                    viewModel = detail,
+                    onBack = {
+                        detail.close()
+                        viewModel.closeBook()
+                    },
+                    onView = { target ->
+                        detail.close()
+                        viewModel.closeBook()
+                        viewModel.view(target, from = shown)
+                    },
+                )
+            }
         SearchScreen.RESULTS ->
             ResultsScreen(
                 libraryName = shown.name,
@@ -107,8 +130,9 @@ fun SearchFlow(
                         onRetry = { viewModel.retry(shown) },
                         onBack = viewModel::back,
                         onLanguage = { viewModel.chooseLanguage(it, shown) },
-                        paging =
-                            PagingActions(
+                        list =
+                            ListActions(
+                                onOpen = viewModel::openBook,
                                 onLoadMore = { viewModel.loadMore(shown, it) },
                                 onRetry = { viewModel.retryGroup(shown, it) },
                             ),
@@ -164,7 +188,7 @@ fun ResultsScreen(
             ResultsState.Idle -> Unit
             ResultsState.Loading -> CenteredMessage { Loading() }
             ResultsState.Empty -> CenteredMessage { Text(stringResource(Res.string.results_empty), color = HiroColors.TextSecondary) }
-            is ResultsState.Failed -> FailedList(results, actions.onRetry)
+            is ResultsState.Failed -> FailedList(results, actions.onRetry, actions.list.onOpen)
             is ResultsState.Loaded -> ResultList(libraryName, results, actions)
         }
     }

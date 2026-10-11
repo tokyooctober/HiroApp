@@ -5,10 +5,12 @@ import io.ktor.client.request.HttpRequestData
 import io.ktor.http.HttpStatusCode
 import kotlinx.coroutines.test.runTest
 import sg.hirokids.shared.domain.BookLanguage
+import sg.hirokids.shared.domain.CopyStatus
 import sg.hirokids.shared.domain.LatLon
 import sg.hirokids.shared.domain.Library
 import sg.hirokids.shared.domain.Mode
 import sg.hirokids.shared.domain.ResultGroup
+import sg.hirokids.shared.domain.Title
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertFailsWith
@@ -420,5 +422,125 @@ class NlbRepositoryTest {
             assertEquals(listOf(1L, 3L), saved(BookLanguage.ENGLISH))
             assertEquals(listOf(2L, 3L), saved(BookLanguage.CHINESE))
             assertEquals(listOf(1L, 2L, 3L), saved(BookLanguage.ALL))
+        }
+
+    // --- book detail: copies and summary (FR-6, FR-14, FR-15) --------------------------------------------------------
+
+    private fun title(
+        brn: Long,
+        summary: String? = null,
+    ) = Title(
+        brn = brn,
+        isbn = null,
+        title = "Dinosaur",
+        author = null,
+        coverUrl = null,
+        subjects = listOf("Dinosaurs Juvenile literature."),
+        audience = emptyList(),
+        audienceImda = emptyList(),
+        isRestricted = false,
+        reservations = 0,
+        summary = summary,
+    )
+
+    @Test
+    fun copiesAreReadPageByPageUntilNlbSaysThereAreNoMore() =
+        runTest {
+            val (repo, seen, _) =
+                repository { request ->
+                    val offset = request.url.parameters["Offset"]
+                    HttpStatusCode.OK to
+                        if (offset == "0") {
+                            availability(item(1, "TRL"), item(1, "PRPL"), hasMore = true, next = 2)
+                        } else {
+                            availability(item(1, "BEPL", state = "Out"))
+                        }
+                }
+            val copies = repo.copies(listOf(title(1)), Mode.CHILDREN)
+            assertEquals(listOf("TRL", "PRPL", "BEPL"), copies.map { it.branchCode })
+            assertEquals(listOf("0", "2"), seen.map { it.url.parameters["Offset"] })
+            assertEquals(listOf("1", "1"), seen.map { it.url.parameters["BRN"] })
+        }
+
+    @Test
+    fun copiesNotForChildrenAreNotReturned() =
+        runTest {
+            val (repo, _, _) =
+                repository {
+                    HttpStatusCode.OK to
+                        availability(item(1, "TRL"), item(1, "TRL", usage = "ADULT", usageName = "Adult"), item(1, "PRPL", usage = "TEEN"))
+                }
+            assertEquals(listOf("TRL"), repo.copies(listOf(title(1)), Mode.CHILDREN).map { it.branchCode })
+        }
+
+    @Test
+    fun onlyACopyThatIsInAndAvailableIsOnTheShelf() =
+        runTest {
+            val (repo, _, _) =
+                repository {
+                    HttpStatusCode.OK to availability(item(1, "TRL", "In"), item(1, "TRL", "Shelving"), item(1, "TRL", "Out"))
+                }
+            assertEquals(
+                listOf(CopyStatus.AVAILABLE, CopyStatus.IN_PROCESS, CopyStatus.ON_LOAN),
+                repo.copies(listOf(title(1)), Mode.CHILDREN).map { it.status },
+            )
+        }
+
+    @Test
+    fun everyRecordOfATitleIsAskedFor() =
+        runTest {
+            val (repo, seen, _) =
+                repository { request ->
+                    HttpStatusCode.OK to availability(item(request.url.parameters["BRN"]!!.toLong(), "TRL"))
+                }
+            val copies = repo.copies(listOf(title(1), title(2)), Mode.CHILDREN)
+            assertEquals(listOf(1L, 2L), copies.map { it.brn })
+            assertEquals(2, seen.size)
+        }
+
+    @Test
+    fun theSummaryIsFetchedOnceAndKept() =
+        runTest {
+            val (repo, seen, store) = repository { HttpStatusCode.OK to details(1, "Dinosaurs were incredible creatures!") }
+            val first = repo.withSummary(title(1), Mode.CHILDREN)
+            assertEquals("Dinosaurs were incredible creatures!", first?.summary)
+            assertEquals("Dinosaurs were incredible creatures!", store.get(1)?.summary)
+            assertEquals(1, seen.size)
+            assertTrue(seen.single().isDetails)
+
+            seen.clear()
+            repo.withSummary(first!!, Mode.CHILDREN)
+            assertEquals(0, seen.size) // already known: no call (FR-14)
+        }
+
+    @Test
+    fun aBookWithNoSummaryIsRecordedAsHavingNone() =
+        runTest {
+            val noSummary = details(1).replace(""""summary":["A book about dinosaurs."],""", "")
+            val (repo, seen, store) = repository { HttpStatusCode.OK to noSummary }
+            assertEquals("", repo.withSummary(title(1), Mode.CHILDREN)?.summary)
+            assertEquals("", store.get(1)?.summary)
+            repo.withSummary(store.get(1)!!, Mode.CHILDREN)
+            assertEquals(1, seen.size)
+        }
+
+    @Test
+    fun aSearchDoesNotWipeASummaryKeptEarlier() =
+        runTest {
+            val (repo, _, store) = repository { HttpStatusCode.OK to response(group("Dinosaur", record(1))) }
+            store.put(listOf(title(1, summary = "Kept.")))
+            repo.search(keywords("dinosaur"), tampines, Mode.CHILDREN)
+            assertEquals("Kept.", store.get(1)?.summary)
+        }
+
+    @Test
+    fun aTitleThatNoLongerPassesTheAudienceGateWithItsFullRecordIsNotShown() =
+        runTest {
+            val (repo, _, store) =
+                repository {
+                    HttpStatusCode.OK to details(1).replace(""""isRestricted":false""", """"isRestricted":false,"audience":["Adult"]""")
+                }
+            assertNull(repo.withSummary(title(1), Mode.CHILDREN))
+            assertNull(store.get(1)?.summary)
         }
 }

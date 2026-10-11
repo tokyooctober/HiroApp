@@ -1,6 +1,7 @@
 package sg.hirokids.shared.ui.search
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -23,10 +24,12 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import org.jetbrains.compose.resources.stringResource
@@ -63,6 +66,7 @@ private enum class CardStatus { ON_SHELF, ON_LOAN, NONE }
 internal fun FailedList(
     failed: ResultsState.Failed,
     onRetry: () -> Unit,
+    onOpen: (SearchHit) -> Unit,
 ) {
     LazyColumn(
         Modifier.fillMaxSize(),
@@ -86,7 +90,7 @@ internal fun FailedList(
                     )
                 }
             }
-            items(failed.saved, key = { it.brn }) { title -> ResultCard(SearchHit(title, listOf(title), false), CardStatus.NONE) }
+            items(failed.saved, key = { it.brn }) { title -> ResultCard(SearchHit(title, listOf(title), false), CardStatus.NONE, onOpen) }
         }
     }
 }
@@ -149,7 +153,7 @@ private fun LazyListScope.onShelfSection(
                 }
             }
             val status = if (claimsShelf) CardStatus.ON_SHELF else CardStatus.NONE
-            items(onShelf.hits, key = { "shelf-${it.title.brn}" }) { ResultCard(it, status) }
+            items(onShelf.hits, key = { "shelf-${it.title.brn}" }) { ResultCard(it, status, actions.list.onOpen) }
         }
         onShelf.nextOffset == null && results.hasBooksElsewhere() ->
             item(key = "none-on-shelf") {
@@ -167,7 +171,7 @@ private fun LazyListScope.onLoanSection(
     if (onLoan == null) return
     if (onLoan.hits.isNotEmpty() || onLoan.failed) {
         item(key = "loan-title") { SectionTitle(stringResource(Res.string.results_on_loan_title)) }
-        items(onLoan.hits, key = { "loan-${it.title.brn}" }) { ResultCard(it, CardStatus.ON_LOAN) }
+        items(onLoan.hits, key = { "loan-${it.title.brn}" }) { ResultCard(it, CardStatus.ON_LOAN, actions.list.onOpen) }
     }
     groupFooter("loan", onLoan, endOfResults = true, group = ResultGroup.ALL_HERE, actions = actions)
 }
@@ -189,7 +193,7 @@ private fun LazyListScope.groupFooter(
             item(key = "$key-error") {
                 Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     Text(stringResource(Res.string.results_more_error), color = HiroColors.TextSecondary)
-                    RetryButton { actions.paging.onRetry(group) }
+                    RetryButton { actions.list.onRetry(group) }
                 }
             }
         shelf.loading ->
@@ -199,7 +203,7 @@ private fun LazyListScope.groupFooter(
         shelf.nextOffset != null ->
             item(key = "$key-more") {
                 // composing this row means the user has scrolled to the end of the group
-                LaunchedEffect(shelf.nextOffset, shelf.hits.size) { actions.paging.onLoadMore(group) }
+                LaunchedEffect(shelf.nextOffset, shelf.hits.size) { actions.list.onLoadMore(group) }
                 Row(Modifier.fillMaxWidth().padding(8.dp), horizontalArrangement = Arrangement.Center) { CircularProgressIndicator() }
             }
         endOfResults && hasCards ->
@@ -218,6 +222,7 @@ private fun LazyListScope.groupFooter(
 private fun ResultCard(
     hit: SearchHit,
     status: CardStatus,
+    onOpen: (SearchHit) -> Unit,
 ) {
     val title = hit.title
     val statusText =
@@ -239,6 +244,7 @@ private fun ResultCard(
         Modifier
             .fillMaxWidth()
             .background(HiroColors.Card, HiroShapes.Card)
+            .clickable(role = Role.Button) { onOpen(hit) }
             .padding(12.dp)
             .semantics(mergeDescendants = true) { contentDescription = description },
         horizontalArrangement = Arrangement.spacedBy(14.dp),
@@ -289,12 +295,14 @@ private fun StatusPill(
 
 /** The cover from NLB; while it loads, or if there is none, the title on a plain cover (never a blank space). */
 @Composable
-private fun Cover(
+internal fun Cover(
     title: String,
     url: String?,
+    width: Dp = CoverWidth,
+    height: Dp = CoverHeight,
 ) {
     Box(
-        Modifier.size(CoverWidth, CoverHeight).clip(RoundedCornerShape(10.dp)).background(HiroColors.BookHeader),
+        Modifier.size(width, height).clip(RoundedCornerShape(10.dp)).background(HiroColors.BookHeader),
         contentAlignment = Alignment.BottomStart,
     ) {
         Text(
@@ -309,7 +317,7 @@ private fun Cover(
             AsyncImage(
                 model = url,
                 contentDescription = null,
-                modifier = Modifier.size(CoverWidth, CoverHeight),
+                modifier = Modifier.size(width, height),
                 contentScale = ContentScale.Crop,
             )
         }

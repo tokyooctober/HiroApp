@@ -145,4 +145,36 @@ class BookStoreTest {
         store.put(listOf(dinosaur))
         assertEquals(listOf("Chinese", "English"), store.get(dinosaur.brn)?.languages)
     }
+
+    @Test
+    fun aSummaryIsKeptAndASearchResultWithoutOneDoesNotWipeIt() {
+        val store = store()
+        store.put(listOf(dinosaur.copy(summary = "Big lizards.")))
+        store.put(listOf(dinosaur)) // a later search result: no summary
+        assertEquals("Big lizards.", store.get(dinosaur.brn)?.summary)
+        store.put(listOf(dinosaur.copy(summary = "")))
+        assertEquals("", store.get(dinosaur.brn)?.summary) // "none" is a real answer and replaces
+    }
+
+    @Test
+    fun aPhoneWithTheLanguageDatabaseGainsTheSummaryColumn() {
+        val driver = JdbcSqliteDriver(JdbcSqliteDriver.IN_MEMORY)
+        driver.execute(null, "CREATE TABLE meta (key TEXT NOT NULL PRIMARY KEY, value TEXT NOT NULL)", 0)
+        driver.execute(
+            null,
+            """CREATE TABLE book (brn INTEGER NOT NULL PRIMARY KEY, isbn TEXT, title TEXT NOT NULL, author TEXT, cover_url TEXT,
+            |format TEXT, subjects TEXT NOT NULL, audience TEXT NOT NULL, audience_imda TEXT NOT NULL,
+            |is_restricted INTEGER NOT NULL, reservations INTEGER NOT NULL, languages TEXT NOT NULL DEFAULT '[]')
+            """.trimMargin(),
+            0,
+        )
+        driver.execute(null, "INSERT INTO book VALUES (5, NULL, 'Old', NULL, NULL, NULL, '[]', '[]', '[]', 0, 1, '[\"Malay\"]')", 0)
+        driver.execute(null, "PRAGMA user_version = 3", 0)
+
+        AppDatabase.Schema.migrate(driver, 3, AppDatabase.Schema.version)
+
+        val store = SqlBookStore(AppDatabase(driver))
+        assertEquals(listOf("Malay"), store.get(5)?.languages)
+        assertNull(store.get(5)?.summary)
+    }
 }
