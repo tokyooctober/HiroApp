@@ -1,8 +1,11 @@
 #!/usr/bin/env node
 // Builds docs/test-map.html: how many tests cover each spec, by test category and by tier.
 //
-//   node tools/test-map/build.mjs           write docs/test-map.html and print a summary
+//   node tools/test-map/build.mjs           write docs/test-map.html and print a summary; a bad or missing tag
+//                                           prints a WARNING and that test is left out (exit 0)
 //   node tools/test-map/build.mjs --check   validate the tags only (exit 1 on any problem)
+//
+// CI does not run this tool yet, so nothing stops an untagged test from being merged.
 //
 // Every test carries one comment line directly above it (above @Test in Kotlin):
 //
@@ -96,6 +99,7 @@ export function scanTests() {
         name = m[2];
       }
       const where = `${rel}:${i + 1}`;
+      const before = problems.length;
       const prev = lines[i - 1] ?? '';
       const tag = prev.match(/^\s*\/\/\s*spec:\s*(.*)$/);
       if (!tag) { problems.push(`${where}  no "// spec: ...; cat: ..." line above "${name}"`); return; }
@@ -109,7 +113,7 @@ export function scanTests() {
       if (!CATEGORIES.some((c) => c.k === cat)) problems.push(`${where}  unknown cat "${cat}" (use ${CATEGORIES.map((c) => c.k).join(', ')})`);
       if (!tier) problems.push(`${where}  the path does not decide the tier; add "tier: ..." (${TIERS.map((t) => t.k).join(', ')})`);
       else if (!TIERS.some((t) => t.k === tier)) problems.push(`${where}  unknown tier "${tier}"`);
-      tests.push({ name, file: rel, line: i + 1, specs, cat, tier });
+      if (problems.length === before) tests.push({ name, file: rel, line: i + 1, specs, cat, tier });
     });
   }
   return { tests, problems };
@@ -142,7 +146,7 @@ function buildModel() {
 function summary(model) {
   const lines = [];
   const withTests = model.rows.filter((r) => r.tests.length);
-  lines.push(`${model.uniqueTests} tests, every one tagged`);
+  lines.push(`${model.uniqueTests} tagged tests`);
   const reqs = model.rows.filter((r) => /^N?FR-/.test(r.id));
   const covered = reqs.filter((r) => r.tests.length);
   lines.push(`${covered.length} of ${reqs.length} requirements have at least one test; ${reqs.length - covered.length} have none`);
@@ -164,12 +168,21 @@ function render(model) {
 }
 
 const { model, problems } = buildModel();
+const strict = process.argv.includes('--check');
 if (problems.length) {
-  console.error(`${problems.length} problem(s):\n` + problems.map((p) => '  ' + p).join('\n'));
-  process.exit(1);
+  if (strict) {
+    console.error(`${problems.length} problem(s):\n` + problems.map((p) => '  ' + p).join('\n'));
+    process.exit(1);
+  }
+  // Not enforced anywhere: CI does not run this tool, so a missing tag only shows up here.
+  console.warn(
+    `WARNING: ${problems.length} test tag problem(s). Those tests are left out of the page and its counts.\n` +
+      problems.map((p) => '  ' + p).join('\n') +
+      '\n  Fix them, or run with --check to make this an error.\n',
+  );
 }
 console.log(summary(model));
-if (!process.argv.includes('--check')) {
+if (!strict) {
   writeFileSync(OUT, render(model));
   console.log(`\nwrote ${relative(ROOT, OUT)}`);
 }
