@@ -236,12 +236,13 @@ Found by the owner on the Android emulator after Task 9.
 
 ### Task 11: Directions to another library
 **Covers:** NFR-7 (allow-list), design reference (Detail "directions")
+**Status (12 Oct 2026): written; local tests, ktlint and detekt are clean; CI and a tap on a device are what is left.** Each other-library row on the book detail has a ↗ button ("Directions to {library}"). Android opens Google Maps' directions link (the Maps app if installed, otherwise the browser); iOS opens Apple Maps. The link holds only the library's coordinates: no start point and nothing about the user, so Maps uses the phone's own position. Every link passes `LinkAllowList` first (https only; `www.google.com/maps/dir/` or `maps.apple.com`; no port, no user name, no look-alike host). **Not done:** the other-libraries box on the results screen has View only, as in its design (`Results.dc.html`); say if you want ↗ there too.
 **Description:** A `MapsLauncher` (Google Maps intent on Android, Apple Maps URL on iOS) opens directions to a branch from the other-libraries rows. No in-app routing.
 **Acceptance criteria:**
-- [ ] Directions opens the platform maps app at the branch coordinates
-- [ ] Only the allowed URL schemes and hosts can be launched (unit-tested allow-list)
+- [x] Directions opens the platform maps app at the branch coordinates _(links tested in `DirectionsTest`; the tap itself is the manual check below)_
+- [x] Only the allowed URL schemes and hosts can be launched (unit-tested allow-list) _(`DirectionsTest`; the test class is named `DirectionsTest`, not `LinkAllowList*` as the task said)_
 **Verification:**
-- [ ] `./gradlew :shared:allTests --tests "*LinkAllowList*"`
+- [x] `./gradlew :shared:allTests --tests "*Directions*"` _(8 tests)_
 - [ ] Manual: tap Directions on both platforms
 **Dependencies:** Task 10
 **Files likely touched:** `MapsLauncher` expect/actual (3), `LinkAllowList.kt`, tests

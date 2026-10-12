@@ -9,5 +9,5 @@ import sg.hirokids.shared.di.initKoin
 fun MainViewController(proxyBaseUrl: String): UIViewController {
     initKoin(proxyBaseUrl)
     val location = IosLocationProvider()
-    return ComposeUIViewController { App(location) }
+    return ComposeUIViewController { App(location, IosMapsLauncher()) }
 }

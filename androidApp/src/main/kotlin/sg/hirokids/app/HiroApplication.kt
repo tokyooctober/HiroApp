@@ -8,6 +8,7 @@ import sg.hirokids.shared.di.initKoin
 class HiroApplication : Application() {
     /** One for the whole app: the view model that uses it outlives any single Activity. */
     val location: AndroidLocationProvider by lazy { AndroidLocationProvider(this) }
+    val maps: AndroidMapsLauncher by lazy { AndroidMapsLauncher(this) }
 
     override fun onCreate() {
         super.onCreate()

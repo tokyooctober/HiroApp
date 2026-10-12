@@ -8,8 +8,9 @@ import sg.hirokids.shared.App
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val location = (application as HiroApplication).location
+        val app = application as HiroApplication
+        val location = app.location
         location.attach(this) // the location permission dialog shows on this Activity
-        setContent { App(location) }
+        setContent { App(location, app.maps) }
     }
 }

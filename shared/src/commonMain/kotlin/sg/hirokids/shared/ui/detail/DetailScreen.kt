@@ -42,6 +42,7 @@ import sg.hirokids.shared.resources.detail_all_out_title
 import sg.hirokids.shared.resources.detail_back
 import sg.hirokids.shared.resources.detail_checking
 import sg.hirokids.shared.resources.detail_copies
+import sg.hirokids.shared.resources.detail_directions
 import sg.hirokids.shared.resources.detail_error
 import sg.hirokids.shared.resources.detail_here_title
 import sg.hirokids.shared.resources.detail_look_for
@@ -56,6 +57,7 @@ import sg.hirokids.shared.resources.detail_shelf_at
 import sg.hirokids.shared.resources.detail_subjects
 import sg.hirokids.shared.resources.others_view
 import sg.hirokids.shared.resources.others_view_description
+import sg.hirokids.shared.ui.LocalMapsLauncher
 import sg.hirokids.shared.ui.search.Cover
 import sg.hirokids.shared.ui.search.MinTouchTarget
 import sg.hirokids.shared.ui.search.RetryButton
@@ -79,6 +81,8 @@ fun DetailScreen(
     onBack: () -> Unit,
     onView: (Library) -> Unit,
 ) {
+    val maps = LocalMapsLauncher.current
+    val onDirections: (Library) -> Unit = maps::openDirections
     val state by viewModel.state.collectAsState()
     LaunchedEffect(hit.title.brn, library.code) { viewModel.open(hit, library) }
     val title = state.title ?: hit.title
@@ -90,7 +94,7 @@ fun DetailScreen(
                 CopiesState.Failed -> ErrorPanel(viewModel::retry)
                 is CopiesState.Loaded -> {
                     HerePanel(copies.availability.here, library)
-                    OthersSection(copies.availability, onView)
+                    OthersSection(copies.availability, onView, onDirections)
                 }
             }
             About(title)
@@ -225,6 +229,7 @@ private fun MessagePanel(
 private fun OthersSection(
     availability: BookAvailability,
     onView: (Library) -> Unit,
+    onDirections: (Library) -> Unit,
 ) {
     Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
         Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.Bottom, horizontalArrangement = Arrangement.SpaceBetween) {
@@ -238,7 +243,7 @@ private fun OthersSection(
         if (availability.others.isEmpty()) {
             Text(stringResource(Res.string.detail_others_none), color = HiroColors.TextSecondary)
         }
-        availability.others.forEach { OtherBranchRow(it, onView) }
+        availability.others.forEach { OtherBranchRow(it, onView, onDirections) }
     }
 }
 
@@ -246,6 +251,7 @@ private fun OthersSection(
 private fun OtherBranchRow(
     item: OtherBranchCopies,
     onView: (Library) -> Unit,
+    onDirections: (Library) -> Unit,
 ) {
     val copies = item.copies
     val status =
@@ -256,6 +262,7 @@ private fun OtherBranchRow(
         }
     val distance = distanceText(item.meters)
     val viewDescription = stringResource(Res.string.others_view_description, copies.library.name)
+    val directionsDescription = stringResource(Res.string.detail_directions, copies.library.name)
     val rowDescription = stringResource(Res.string.detail_other_row, copies.library.name, status)
     Row(
         Modifier
@@ -287,6 +294,12 @@ private fun OtherBranchRow(
             modifier = Modifier.heightIn(min = MinTouchTarget).semantics { contentDescription = viewDescription },
         ) {
             Text(stringResource(Res.string.others_view), color = HiroColors.Primary, fontWeight = FontWeight.ExtraBold)
+        }
+        TextButton(
+            onClick = { onDirections(copies.library) },
+            modifier = Modifier.heightIn(min = MinTouchTarget).semantics { contentDescription = directionsDescription },
+        ) {
+            Text("↗", color = HiroColors.Ink, fontWeight = FontWeight.ExtraBold)
         }
     }
 }
