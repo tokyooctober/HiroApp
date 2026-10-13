@@ -63,6 +63,11 @@ kotlin {
             implementation(libs.ktor.client.mock)
             implementation(libs.multiplatform.settings.test)
         }
+        // Screen tests that tap the real buttons run on the JVM only (Compose UI test plus Skia for this machine).
+        jvmTest.dependencies {
+            implementation(libs.compose.ui.test)
+            implementation(compose.desktop.currentOs)
+        }
     }
 }
 

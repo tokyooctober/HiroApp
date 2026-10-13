@@ -10,7 +10,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.safeDrawingPadding
+import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
@@ -59,6 +59,7 @@ import sg.hirokids.shared.resources.picker_search_hint
 import sg.hirokids.shared.resources.picker_selected
 import sg.hirokids.shared.resources.picker_title
 import sg.hirokids.shared.resources.youre_at
+import sg.hirokids.shared.ui.screenInsets
 import sg.hirokids.shared.ui.search.SearchFlow
 import sg.hirokids.shared.ui.search.SearchViewModel
 import sg.hirokids.shared.ui.theme.HiroColors
@@ -90,7 +91,7 @@ fun LibraryFlow(
 
 @Composable
 private fun LoadingScreen() {
-    Box(Modifier.fillMaxSize().safeDrawingPadding(), contentAlignment = Alignment.Center) {
+    Box(Modifier.fillMaxSize().windowInsetsPadding(screenInsets()), contentAlignment = Alignment.Center) {
         CircularProgressIndicator()
         Text(stringResource(Res.string.loading), Modifier.padding(top = 96.dp))
     }
@@ -132,7 +133,7 @@ fun LibraryPickerScreen(
     onConfirm: () -> Unit,
     onClose: () -> Unit,
 ) {
-    Column(Modifier.fillMaxSize().background(HiroColors.Card).safeDrawingPadding()) {
+    Column(Modifier.fillMaxSize().background(HiroColors.Card).windowInsetsPadding(screenInsets())) {
         Row(Modifier.padding(start = 12.dp, end = 20.dp, top = 20.dp, bottom = 8.dp), verticalAlignment = Alignment.CenterVertically) {
             Text(
                 stringResource(Res.string.picker_title),

@@ -9,7 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.safeDrawingPadding
+import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
@@ -53,6 +53,7 @@ import sg.hirokids.shared.resources.search_too_short
 import sg.hirokids.shared.ui.detail.DetailScreen
 import sg.hirokids.shared.ui.detail.DetailViewModel
 import sg.hirokids.shared.ui.library.YoureAtCard
+import sg.hirokids.shared.ui.screenInsets
 import sg.hirokids.shared.ui.theme.HiroColors
 import sg.hirokids.shared.ui.theme.HiroShapes
 
@@ -160,7 +161,7 @@ fun SearchHomeScreen(
         Modifier
             .fillMaxSize()
             .background(HiroColors.Page)
-            .safeDrawingPadding()
+            .windowInsetsPadding(screenInsets())
             .padding(horizontal = 20.dp, vertical = 24.dp),
         verticalArrangement = Arrangement.spacedBy(18.dp),
     ) {
@@ -184,7 +185,7 @@ fun ResultsScreen(
     state: SearchUiState,
     actions: ResultsActions,
 ) {
-    Column(Modifier.fillMaxSize().background(HiroColors.Page).safeDrawingPadding()) {
+    Column(Modifier.fillMaxSize().background(HiroColors.Page).windowInsetsPadding(screenInsets())) {
         ResultsHeader(libraryName, state, actions)
         when (val results = state.results) {
             ResultsState.Idle -> Unit

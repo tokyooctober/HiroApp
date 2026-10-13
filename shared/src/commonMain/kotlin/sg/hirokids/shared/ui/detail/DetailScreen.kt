@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.CircularProgressIndicator
@@ -58,6 +59,7 @@ import sg.hirokids.shared.resources.detail_subjects
 import sg.hirokids.shared.resources.others_view
 import sg.hirokids.shared.resources.others_view_description
 import sg.hirokids.shared.ui.LocalMapsLauncher
+import sg.hirokids.shared.ui.screenInsets
 import sg.hirokids.shared.ui.search.Cover
 import sg.hirokids.shared.ui.search.MinTouchTarget
 import sg.hirokids.shared.ui.search.RetryButton
@@ -86,7 +88,14 @@ fun DetailScreen(
     val state by viewModel.state.collectAsState()
     LaunchedEffect(hit.title.brn, library.code) { viewModel.open(hit, library) }
     val title = state.title ?: hit.title
-    Column(Modifier.fillMaxSize().background(HiroColors.Page).verticalScroll(rememberScrollState())) {
+    // Padded clear of the status bar like the other screens: without it the Back button sat under the bar and taps never reached it.
+    Column(
+        Modifier
+            .fillMaxSize()
+            .background(HiroColors.Page)
+            .windowInsetsPadding(screenInsets())
+            .verticalScroll(rememberScrollState()),
+    ) {
         Header(title, onBack)
         Column(Modifier.padding(20.dp), verticalArrangement = Arrangement.spacedBy(26.dp)) {
             when (val copies = state.copies) {
