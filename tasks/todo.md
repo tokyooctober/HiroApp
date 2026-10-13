@@ -207,6 +207,9 @@ Found by the owner on the Android emulator after Task 9.
 - [x] CI green for both fixes (run 38147794018 on 2d58962: shared tests, ktlint, detekt, the Android build with the new chips and tag, the iOS tests and build).
 - [x] **Call number and shelf location** are Task 10 (book detail): they need one extra NLB call per book, which a whole page of cards cannot afford at 15 calls a minute. NLB gives the call number and the shelf section (usage level); it gives no floor or bay.
 
+- [x] **Try again kept the error after the words were corrected (owner, 13 Oct 2026).** After a failed search the user fixed the words and tapped Try again; it repeated the old, invalid words, so the error and the button stayed. Try again now searches the words in the box (the last search is repeated only if the box holds nothing searchable). This reverses the earlier rule "Try again repeats the last search even if the field was edited", and its test was changed to match _(tests: `CorrectedSearchTest`, `SearchViewModelTest`)_
+- [x] **Back from the book page when the shelf check has failed.** The error and its Try again do not stop the way back to the same results, with no new NLB call, whether or not Try again was pressed _(test: `BackFromDetailTest`)_
+
 ### Checkpoint: Children's search works end to end (after Tasks 7-9)
 - [ ] Golden scenario passes in `commonTest`, and the same flow works by hand on Android and iOS
 - [ ] Proxy log shows ≤ 3 NLB calls per search and cache hits on repeat

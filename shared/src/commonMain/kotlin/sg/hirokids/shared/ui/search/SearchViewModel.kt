@@ -150,9 +150,13 @@ class SearchViewModel(
         _state.update { if (it.screen == SearchScreen.DETAIL) it.copy(screen = SearchScreen.RESULTS, openBook = null) else it }
     }
 
-    /** Starts the last search again, even if the field has been edited since. */
+    /**
+     * Try again. It searches the words in the box now, so a user who corrects the words after a failure and taps Try again gets the
+     * corrected search and the failure goes. If the box holds nothing searchable (empty, or one character), the last search is repeated.
+     */
     fun retry(library: Library) {
-        val query = _state.value.parse(_state.value.searchedQuery) ?: return
+        val now = _state.value
+        val query = now.parse(now.query) ?: now.parse(now.searchedQuery) ?: return
         search(query, library)
     }
 

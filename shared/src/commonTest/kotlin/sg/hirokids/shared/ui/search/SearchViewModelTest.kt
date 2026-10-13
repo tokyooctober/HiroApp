@@ -295,7 +295,7 @@ class SearchViewModelTest {
     // --- failures and retry (FR-12) -------------------------------------------------------------------------------------------
 
     @Test
-    fun aFailureOffersRetryAndRetryAsksAgainForTheSameWords() =
+    fun aFailureOffersRetryAndRetryAsksAgainForTheWordsInTheBoxNow() =
         runTest {
             var failing = true
             val (repo, seen, _) = mockRepository { request -> if (failing) HttpStatusCode.ServiceUnavailable to "" else router()(request) }
@@ -305,7 +305,24 @@ class SearchViewModelTest {
             assertIs<ResultsState.Failed>(vm.settled().results)
 
             failing = false
-            vm.onQueryChange("something else typed meanwhile")
+            vm.onQueryChange("corrected words")
+            vm.retry(tampines)
+            assertIs<ResultsState.Loaded>(vm.settled().results)
+            assertEquals("corrected words", seen.last().url.parameters["Keywords"])
+        }
+
+    @Test
+    fun retryWithNothingSearchableInTheBoxRepeatsTheLastSearch() =
+        runTest {
+            var failing = true
+            val (repo, seen, _) = mockRepository { request -> if (failing) HttpStatusCode.ServiceUnavailable to "" else router()(request) }
+            val vm = searchViewModel(repo)
+            vm.onQueryChange("dinosaur")
+            vm.submit(tampines)
+            assertIs<ResultsState.Failed>(vm.settled().results)
+
+            failing = false
+            vm.onQueryChange("d") // too short to search
             vm.retry(tampines)
             assertIs<ResultsState.Loaded>(vm.settled().results)
             assertEquals("dinosaur", seen.last().url.parameters["Keywords"])
