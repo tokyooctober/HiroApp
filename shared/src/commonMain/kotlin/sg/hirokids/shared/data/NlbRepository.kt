@@ -47,7 +47,9 @@ class NlbRepository(
                             ),
                         )
                     }
-                page(response.titles.map { it to it.records }, response.hasMoreRecords, response.nextRecordsOffset, policy, onShelf)
+                // NLB is asked for one language, but the app checks too: a Chinese book never shows under English, whatever NLB sent
+                val accept = { title: Title -> policy.allows(title) && query.language.allows(title) }
+                page(response.titles.map { it to it.records }, response.hasMoreRecords, response.nextRecordsOffset, accept, onShelf)
             }
             is SearchQuery.Isbn ->
                 if (group == ResultGroup.ALL_HERE) {
@@ -55,7 +57,8 @@ class NlbRepository(
                 } else {
                     // GetTitles has no audience filter, so the policy alone decides; nothing says where it is on the shelf
                     val response = retry.run { api.titlesByIsbn(query.value, offset) }
-                    page(response.titles.map { null to listOf(it) }, response.hasMoreRecords, response.nextRecordsOffset, policy, false)
+                    val groups = response.titles.map { null to listOf(it) }
+                    page(groups, response.hasMoreRecords, response.nextRecordsOffset, policy::allows, false)
                 }
         }
     }
@@ -153,14 +156,14 @@ class NlbRepository(
         groups: List<Pair<TitleGroupDto?, List<RecordDto>>>,
         hasMore: Boolean,
         nextOffset: Int,
-        policy: AudiencePolicy,
+        accept: (Title) -> Boolean,
         reportedOnShelf: Boolean,
     ): SearchPage {
         val seen = mutableSetOf<Long>()
         val hits = mutableListOf<SearchHit>()
         var hidden = 0
         for ((group, records) in groups) {
-            val allowed = records.map { it.toTitle(group) }.filter { policy.allows(it) && seen.add(it.brn) }
+            val allowed = records.map { it.toTitle(group) }.filter { accept(it) && seen.add(it.brn) }
             if (allowed.isEmpty()) hidden++ else hits += SearchHit(allowed.first(), allowed, reportedOnShelf)
         }
         store.put(hits.flatMap { it.records })

@@ -10,7 +10,8 @@ fun interface DirectorySource {
 
 /**
  * Bundled seed list plus NLB's live branch list (through the proxy). If the live list cannot be fetched the seed list
- * is used as is, so choosing a library still works offline. The result is kept for the life of the app.
+ * is used as is, so choosing a library still works offline. A live list is kept for the life of the app; a seed-only list is not,
+ * so a proxy that was not running when the app started is picked up the next time the directory is asked for.
  */
 class LibraryRepository(
     private val seed: LibrarySeedSource,
@@ -18,7 +19,7 @@ class LibraryRepository(
 ) : DirectorySource {
     private var cached: LibraryDirectory? = null
 
-    override suspend fun directory(): LibraryDirectory = cached ?: build().also { cached = it }
+    override suspend fun directory(): LibraryDirectory = cached ?: build()
 
     @Suppress("TooGenericExceptionCaught", "SwallowedException")
     private suspend fun build(): LibraryDirectory {
@@ -31,6 +32,6 @@ class LibraryRepository(
             } catch (_: Exception) {
                 null // offline or a proxy error: fall back to the seed list
             }
-        return LibraryDirectory.from(seeds, live)
+        return LibraryDirectory.from(seeds, live).also { if (!live.isNullOrEmpty()) cached = it }
     }
 }
