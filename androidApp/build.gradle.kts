@@ -17,8 +17,15 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "0.1.0"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         buildConfigField("String", "PROXY_BASE_URL", "\"${proxyBaseUrl.get()}\"")
     }
+
+    // The UI tests answer from the recorded NLB responses in fixtures/, so they need no proxy and no network.
+    sourceSets
+        .getByName("androidTest")
+        .assets.directories
+        .add("../fixtures")
 
     buildFeatures {
         buildConfig = true
@@ -30,4 +37,9 @@ dependencies {
     implementation(libs.androidx.activity.compose)
     implementation(libs.koin.core)
     implementation(libs.play.services.location) // FusedLocationProviderClient (spec section 6)
+    androidTestImplementation(libs.androidx.test.runner)
+    androidTestImplementation(libs.androidx.test.ext.junit)
+    androidTestImplementation(libs.compose.ui.test.junit4)
+    androidTestImplementation(libs.ktor.client.mock)
+    debugImplementation(libs.compose.ui.test.manifest)
 }
