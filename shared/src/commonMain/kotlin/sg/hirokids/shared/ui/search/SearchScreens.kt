@@ -21,6 +21,7 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
@@ -90,6 +91,7 @@ fun SearchFlow(
     onChangeLibrary: () -> Unit,
 ) {
     val state by viewModel.state.collectAsState()
+    LaunchedEffect(library.code) { viewModel.useLibrary(library) }
     // after View, the library on screen is the one being viewed; the user's own current library is untouched
     val shown = state.viewing ?: library
     when (state.screen) {

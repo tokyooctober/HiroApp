@@ -122,9 +122,26 @@ class SearchViewModel(
 
     private val jobs = SearchJobs()
     private val history = ArrayDeque<Snapshot>()
+    private var currentCode: String? = null
 
     private val otherLibraries: suspend (SearchQuery.Keywords, Library) -> List<OtherLibrary> = { query, library ->
         ResultGrouper.otherLibraries(repository.shelfCounts(query, mode), library, directory.directory())
+    }
+
+    /**
+     * Tells the view model which library the user is at (the one on the front page). When it is a different one from before,
+     * everything about the old library goes: the results, the library being viewed and the way back. Otherwise a search made at
+     * Tampines could still be on screen, headed "Tampines", after the front page changed to VivoCity.
+     */
+    fun useLibrary(library: Library) {
+        val before = currentCode
+        currentCode = library.code
+        if (before == null || before.equals(library.code, ignoreCase = true)) return
+        jobs.cancelAll()
+        history.clear()
+        _state.update {
+            it.copy(screen = SearchScreen.HOME, results = ResultsState.Idle, viewing = null, openBook = null, tooShort = false)
+        }
     }
 
     fun onQueryChange(text: String) {
