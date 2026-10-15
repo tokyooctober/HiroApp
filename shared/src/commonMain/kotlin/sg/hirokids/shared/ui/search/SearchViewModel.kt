@@ -78,6 +78,8 @@ data class SearchUiState(
     val viewing: Library? = null,
     /** The language filter on the results, and on the search that made them. Remembered on the phone between visits. */
     val language: BookLanguage = BookLanguage.DEFAULT,
+    /** The results are empty in [language], but the same words match books in other languages (FR-7): the screen offers All. */
+    val otherLanguagesMatch: Boolean = false,
 ) {
     /** A keyword search can be narrowed to a language; one ISBN is one book. */
     val canFilterLanguage: Boolean get() = parseSearchQuery(searchedQuery) is SearchQuery.Keywords
@@ -89,6 +91,7 @@ private class Snapshot(
     val results: ResultsState,
     val searchedQuery: String,
     val language: BookLanguage,
+    val otherLanguagesMatch: Boolean,
 )
 
 /** Everything in flight for the current search, so a newer search or Back can cancel it all. */
@@ -140,7 +143,14 @@ class SearchViewModel(
         jobs.cancelAll()
         history.clear()
         _state.update {
-            it.copy(screen = SearchScreen.HOME, results = ResultsState.Idle, viewing = null, openBook = null, tooShort = false)
+            it.copy(
+                screen = SearchScreen.HOME,
+                results = ResultsState.Idle,
+                viewing = null,
+                openBook = null,
+                tooShort = false,
+                otherLanguagesMatch = false,
+            )
         }
     }
 
@@ -204,7 +214,7 @@ class SearchViewModel(
         val query = _state.value.parse(_state.value.searchedQuery) ?: return
         if (target.code.equals(from.code, ignoreCase = true)) return
         val now = _state.value
-        history.addLast(Snapshot(now.viewing, now.results.forSnapshot(), now.searchedQuery, now.language))
+        history.addLast(Snapshot(now.viewing, now.results.forSnapshot(), now.searchedQuery, now.language, now.otherLanguagesMatch))
         _state.update { it.copy(viewing = target) }
         search(query, target)
     }
@@ -222,6 +232,7 @@ class SearchViewModel(
                     results = previous.results,
                     searchedQuery = previous.searchedQuery,
                     language = previous.language,
+                    otherLanguagesMatch = previous.otherLanguagesMatch,
                     viewing = previous.viewing,
                     tooShort = false,
                 )
@@ -267,7 +278,15 @@ class SearchViewModel(
                 is SearchQuery.Keywords -> query.text
                 is SearchQuery.Isbn -> query.value
             }
-        _state.update { it.copy(screen = SearchScreen.RESULTS, results = ResultsState.Loading, tooShort = false, searchedQuery = words) }
+        _state.update {
+            it.copy(
+                screen = SearchScreen.RESULTS,
+                results = ResultsState.Loading,
+                tooShort = false,
+                searchedQuery = words,
+                otherLanguagesMatch = false,
+            )
+        }
         jobs.search =
             viewModelScope.launch {
                 try {
@@ -283,7 +302,7 @@ class SearchViewModel(
                     if (keywords != null) {
                         // the three calls of one search go one after the other: the proxy queues them at 1 call a second anyway
                         fetchPage(library, ResultGroup.ALL_HERE, 0)?.join()
-                        _state.fillOthers(otherLibraries, keywords, library)
+                        _state.fillOthers(otherLibraries, keywords, library) { found -> checkOtherLanguages(keywords, found) }
                     }
                 } catch (e: CancellationException) {
                     throw e
@@ -291,6 +310,31 @@ class SearchViewModel(
                     _state.update { it.copy(results = ResultsState.Failed(repository.saved(query, mode))) }
                 }
             }
+    }
+
+    /**
+     * An empty result under one language may only mean that language: ask once whether the words match anything in another, so the
+     * screen can offer All instead of "No books found". It runs before the empty result is shown, so the screen never flashes
+     * "No books found" first. A failed question leaves the plain empty result.
+     */
+    @Suppress("TooGenericExceptionCaught", "SwallowedException")
+    private suspend fun checkOtherLanguages(
+        query: SearchQuery.Keywords,
+        others: OtherLibraries,
+    ) {
+        val loaded = _state.value.results as? ResultsState.Loaded ?: return
+        val nothingHere = loaded.onShelf.exhausted() && loaded.onLoan?.exhausted() != false
+        val nothingElsewhere = others.items.isEmpty() && !others.failed
+        if (query.language == BookLanguage.ALL || !nothingHere || !nothingElsewhere) return
+        val matches =
+            try {
+                repository.matchesInAnyLanguage(query, mode)
+            } catch (e: CancellationException) {
+                throw e
+            } catch (_: Exception) {
+                false
+            }
+        _state.update { it.copy(otherLanguagesMatch = matches) }
     }
 
     @Suppress("TooGenericExceptionCaught", "SwallowedException")
@@ -356,6 +400,7 @@ private suspend fun MutableStateFlow<SearchUiState>.fillOthers(
     load: suspend (SearchQuery.Keywords, Library) -> List<OtherLibrary>,
     query: SearchQuery.Keywords,
     library: Library,
+    beforeShown: suspend (OtherLibraries) -> Unit = {},
 ) {
     editOthers { it.copy(loading = true, failed = false) }
     val result =
@@ -366,6 +411,7 @@ private suspend fun MutableStateFlow<SearchUiState>.fillOthers(
         } catch (_: Exception) {
             OtherLibraries(failed = true)
         }
+    beforeShown(result)
     editOthers { result }
 }
 
@@ -397,12 +443,13 @@ private fun ResultsState.Loaded.withPage(
         }
     }
 
+private fun Shelf.exhausted() = hits.isEmpty() && nextOffset == null && !loading && !failed
+
 /**
  * Everything finished with nothing to show is the empty state. Anything still loading, failed or pageable is not, and neither is a
  * search whose only hits are at other libraries: that is the useful answer, "not here, but there".
  */
 private fun ResultsState.Loaded.normalised(): ResultsState {
-    fun Shelf.exhausted() = hits.isEmpty() && nextOffset == null && !loading && !failed
     val shelvesEmpty = onShelf.exhausted() && (onLoan == null || onLoan.exhausted())
     val noOthers = others == null || (others.items.isEmpty() && !others.loading && !others.failed)
     return if (shelvesEmpty && noOthers) ResultsState.Empty else this

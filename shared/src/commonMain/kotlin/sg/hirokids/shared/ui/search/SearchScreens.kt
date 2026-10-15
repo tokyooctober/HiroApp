@@ -31,6 +31,7 @@ import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.ImeAction
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.jetbrains.compose.resources.stringResource
@@ -43,8 +44,10 @@ import sg.hirokids.shared.resources.Res
 import sg.hirokids.shared.resources.mode_children
 import sg.hirokids.shared.resources.results_back
 import sg.hirokids.shared.resources.results_empty
+import sg.hirokids.shared.resources.results_empty_language
 import sg.hirokids.shared.resources.results_retry
 import sg.hirokids.shared.resources.results_searching
+import sg.hirokids.shared.resources.results_show_all_languages
 import sg.hirokids.shared.resources.search_button
 import sg.hirokids.shared.resources.search_heading
 import sg.hirokids.shared.resources.search_hint
@@ -190,9 +193,34 @@ fun ResultsScreen(
         when (val results = state.results) {
             ResultsState.Idle -> Unit
             ResultsState.Loading -> CenteredMessage { Loading() }
-            ResultsState.Empty -> CenteredMessage { Text(stringResource(Res.string.results_empty), color = HiroColors.TextSecondary) }
+            ResultsState.Empty ->
+                if (state.otherLanguagesMatch) {
+                    OtherLanguagesHint(state.language, onShowAll = { actions.onLanguage(BookLanguage.ALL) })
+                } else {
+                    CenteredMessage { Text(stringResource(Res.string.results_empty), color = HiroColors.TextSecondary) }
+                }
             is ResultsState.Failed -> FailedList(results, actions.onRetry, actions.list.onOpen)
             is ResultsState.Loaded -> ResultList(libraryName, results, actions)
+        }
+    }
+}
+
+/** FR-7: nothing in the chosen language, but the same words match books in another: say so, and offer All in one tap. */
+@Composable
+private fun OtherLanguagesHint(
+    language: BookLanguage,
+    onShowAll: () -> Unit,
+) {
+    CenteredMessage {
+        Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(16.dp)) {
+            Text(
+                stringResource(Res.string.results_empty_language, stringResource(language.label())),
+                color = HiroColors.TextSecondary,
+                textAlign = TextAlign.Center,
+            )
+            Button(onClick = onShowAll, modifier = Modifier.heightIn(min = MinTouchTarget)) {
+                Text(stringResource(Res.string.results_show_all_languages))
+            }
         }
     }
 }

@@ -34,7 +34,7 @@ import sg.hirokids.shared.resources.language_tamil
 import sg.hirokids.shared.ui.theme.HiroColors
 import sg.hirokids.shared.ui.theme.HiroShapes
 
-private fun BookLanguage.label(): StringResource =
+internal fun BookLanguage.label(): StringResource =
     when (this) {
         BookLanguage.ALL -> Res.string.language_all
         BookLanguage.ENGLISH -> Res.string.language_english

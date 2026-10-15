@@ -19,6 +19,8 @@
     <string name="results_found_title">Books found</string>
     <string name="results_searching">Searching…</string>
     <string name="results_empty">No books found. Try different words.</string>
+    <string name="results_empty_language">No %1$s books found for these words. Books in other languages match.</string>
+    <string name="results_show_all_languages">Show all languages</string>
     <string name="results_error">We couldn’t load books. Check your connection and try again.</string>
     <string name="results_retry">Try again</string>
     <string name="results_on_loan_title">In this library, but all copies out</string>

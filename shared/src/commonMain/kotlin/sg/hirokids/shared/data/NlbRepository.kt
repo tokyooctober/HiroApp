@@ -91,6 +91,31 @@ class NlbRepository(
     }
 
     /**
+     * Whether [query] finds any book in any language, anywhere (FR-7). Asked only when a search in one language came back empty, so
+     * the screen can say the words match books in other languages. One call, with no branch and no language; nothing about the user.
+     */
+    suspend fun matchesInAnyLanguage(
+        query: SearchQuery.Keywords,
+        mode: Mode,
+    ): Boolean {
+        val policy = AudiencePolicy(mode)
+        val response =
+            retry.run {
+                api.searchTitles(
+                    SearchTitlesRequest(
+                        keywords = query.text,
+                        audience = mode.intendedAudience(),
+                        location = null,
+                        availableOnly = false,
+                        language = null,
+                        limit = SEARCH_PAGE_SIZE,
+                    ),
+                )
+            }
+        return response.titles.any { group -> group.records.any { policy.allows(it.toTitle(group)) } }
+    }
+
+    /**
      * Every copy of [records] (one title can be several records) at every branch, for the book detail (FR-6). Only copies that pass
      * [AudiencePolicy] are returned. NLB sends copies in pages; they are read one after the other, to the last, because the copies
      * at the current library can be on any page. A busy proxy is retried like the other calls.
