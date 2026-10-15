@@ -1,0 +1,1520 @@
+{
+  "totalRecords": 451,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "恐龙公园 = Dinosaur | Kong long gong yuan = Dinosaur",
+      "seriesTitle": [
+        "聪明孩子的百科全书. | Cong ming hai zi de bai ke quan shu."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557860516?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557860516?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557860516?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205401709,
+          "variantTitles": [
+            "Dinosaur"
+          ],
+          "otherAuthors": [
+            "Liu, Shaochen, editor."
+          ],
+          "nativeOtherAuthors": [
+            "刘少宸, editor."
+          ],
+          "isbns": [
+            "9787557860516",
+            "7557860519"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Changchun Shi : Jilin ke xue ji shu chu ban she"
+          ],
+          "nativePublisher": [
+            "长春市 : 吉林科学技术出版社"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Children's encyclopedias and dictionaries."
+          ],
+          "physicalDescription": [
+            "100 pages : color illustrations ; 23 cm."
+          ],
+          "notes": [
+            "Includes index: page 100."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙王国 = Dinosaur | Kong long wang guo = Dinosaur",
+      "seriesTitle": [
+        "朗朗小书房 ; 13. | Lang lang xiao shu fang ; 13."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787545525601?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787545525601?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787545525601?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203118939,
+          "variantTitles": [
+            "Dinosaur"
+          ],
+          "otherAuthors": [
+            "Wen, Xin, editor."
+          ],
+          "nativeOtherAuthors": [
+            "文心, editor."
+          ],
+          "isbns": [
+            "9787545525601",
+            "7545525604"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Chengdu Shi : Tian di chu ban she"
+          ],
+          "nativePublisher": [
+            "成都市 : 天地出版社"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "137 pages : color illustrations ; 19 x 21 cm."
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "恐龙 = Dinosaur. | Kong long = Dinosaur.",
+      "seriesTitle": [
+        "Disney movie series."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789810733643?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789810733643?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789810733643?s=LG"
+      },
+      "records": [
+        {
+          "brn": 200125761,
+          "variantTitles": [
+            "Dinosaur"
+          ],
+          "isbns": [
+            "9789810733643",
+            "981073364X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Zhou ji xian ye"
+          ],
+          "nativePublisher": [
+            "Singapore : 洲际闲业"
+          ],
+          "publishDate": "[2013]",
+          "physicalDescription": [
+            "16 pages : color illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Title from cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12106352,
+          "variantTitles": [
+            "Dinosaur"
+          ],
+          "isbns": [
+            "9810491980"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Xinjiapo : Zhou ji xian ye",
+            ""
+          ],
+          "nativePublisher": [
+            "新加坡 : 洲际闲业"
+          ],
+          "publishDate": "2003.",
+          "subjects": [
+            "Dinosaurs Juvenile fiction.",
+            "Children's stories.",
+            "Chinese language Readers.",
+            "Readers (Elementary)"
+          ],
+          "physicalDescription": [
+            "16 pages: color illustrations; 21 cm"
+          ],
+          "nativePhysicalDescription": [
+            "16页 : 彩色插图 ; 21公分."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese",
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙 = Dinosaurs | Kong long = Dinosaurs",
+      "seriesTitle": [
+        "手电筒看里面科普透视绘本. | Shou dian tong kan li mian ke pu tou shi hui ben."
+      ],
+      "author": "赫斯特, 拉萨 (Writer of children's literature) | Hurst, Sara (Writer of children's literature)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521701937?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521701937?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521701937?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204051655,
+          "variantTitles": [
+            "Dinosaurs"
+          ],
+          "otherAuthors": [
+            "Cripps, Lucy, illustrator.",
+            "Zhu, Wenfei, translator."
+          ],
+          "nativeOtherAuthors": [
+            "克里普斯, 露西, illustrator.",
+            "朱雯霏, translator."
+          ],
+          "isbns": [
+            "9787521701937",
+            "7521701933",
+            "9787521701920",
+            "7521701925"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Zhong xin chu ban ji tuan gu fen you xian gong si"
+          ],
+          "nativePublisher": [
+            "北京市 : 中信出版集团股份有限公司"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "34 unnumbered pages : color illustrations ; 27 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙世界小百科. 肉食性恐龙 = Dinosaur | Kong long shi jie xiao bai ke. Rou shi xing kong long = Dinosaur",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555272731?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555272731?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555272731?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205686254,
+          "variantTitles": [
+            "Rou shi xing kong long",
+            "Dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "肉食性恐龙"
+          ],
+          "otherAuthors": [
+            "Arredondo, Francisco, illustrator.",
+            "Yang guang san cai, editor, author."
+          ],
+          "nativeOtherAuthors": [
+            "阿雷东多, 弗朗西斯科, illustrator.",
+            "阳光三采, editor, author."
+          ],
+          "isbns": [
+            "9787555272731",
+            "7555272733"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Qingdao Shi : Qingdao chu ban she"
+          ],
+          "nativePublisher": [
+            "青岛市 : 青岛出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 22 cm"
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "大牙恐龙和小牙恐龙 = The big-toothed dinosaur and the small-toothed dinosaur | Da ya kong long he xiao ya kong long = The big-toothed dinosaur and the small-toothed dinosaur",
+      "seriesTitle": [
+        "中文世界儿童阅读文库. | Zhong wen shi jie er tong yue du wen ku."
+      ],
+      "author": "孙昱 | Sun, Yi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814929530?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814929530?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814929530?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205321808,
+          "variantTitles": [
+            "Big-toothed dinosaur and the small-toothed dinosaur"
+          ],
+          "otherAuthors": [
+            "Kinnaird, Ross, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "金奈尔德, 罗丝, illustrator."
+          ],
+          "isbns": [
+            "9789814929530",
+            "9814929530"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Cengage Learning Asia Pte Ltd",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Dinosaurs Juvenile fiction.",
+            "Chinese language Readers Juvenile fiction.",
+            "Children's stories, Chinese."
+          ],
+          "physicalDescription": [
+            "30 pages : color illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙 = First facts dinosaurs | Kong long = First facts dinosaurs",
+      "seriesTitle": [
+        "DK儿童认知百科. | DK er tong ren zhi bai ke."
+      ],
+      "author": "加德纳, 查理 | Gardner, Charlie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787512717114?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787512717114?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787512717114?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204523018,
+          "variantTitles": [
+            "First facts dinosaurs"
+          ],
+          "otherAuthors": [
+            "Er wang er mu, translator."
+          ],
+          "nativeOtherAuthors": [
+            "二王二木, translator."
+          ],
+          "isbns": [
+            "9787512717114",
+            "7512717113"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Zhongguo fu nü chu ban she"
+          ],
+          "nativePublisher": [
+            "北京市 : 中国妇女出版社"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "30 pages : color illustrations ; 22 cm."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙世界小百科. 恐龙的朋友们 = Dinosaur | Kong long shi jie xiao bai ke. Kong long de peng you men = Dinosaur",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555271918?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555271918?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555271918?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205686263,
+          "variantTitles": [
+            "Kong long de peng you men",
+            "Dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "恐龙的朋友们"
+          ],
+          "otherAuthors": [
+            "Arredondo, Francisco, illustrator.",
+            "Yang guang san cai, editor, author."
+          ],
+          "nativeOtherAuthors": [
+            "阿雷东多, 弗朗西斯科, illustrator.",
+            "阳光三采, editor, author."
+          ],
+          "isbns": [
+            "9787555271918",
+            "7555271915"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Qingdao Shi : Qingdao chu ban she"
+          ],
+          "nativePublisher": [
+            "青岛市 : 青岛出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 22 cm"
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "罗力小恐龙 : 亲爱的妈妈们 = Rory the dinosaur | Luoli xiao kong long : qin ai de ma ma men = Rory the dinosaur",
+      "seriesTitle": [
+        "果麦. | Guo mai."
+      ],
+      "author": "克里莫, 莉兹 | Climo, Liz",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532963829?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532963829?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532963829?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205570606,
+          "otherTitles": [
+            "Rory the dinosaur's mother's day. Chinese."
+          ],
+          "variantTitles": [
+            "Qin ai de ma ma men",
+            "Rory the dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "亲爱的妈妈们"
+          ],
+          "otherAuthors": [
+            "Zhou, Gaoyi, translator."
+          ],
+          "nativeOtherAuthors": [
+            "周高逸, translator."
+          ],
+          "isbns": [
+            "9787532963829",
+            "7532963829"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Jinan Shi : Shandong wen yi chu ban she"
+          ],
+          "nativePublisher": [
+            "济南市 : 山东文艺出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 25 cm."
+          ],
+          "notes": [
+            "Translation of: Rory the dinosaur's mother's day."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "探秘恐龙王国. 第一辑. 6, 恐龙灭绝 = Dinosaur Kingdom | Tan mi kong long wang guo. Di yi ji. 6, Kong long mie jue = Dinosaur Kingdom",
+      "seriesTitle": [
+        "妞妞兔. | Niu niu tu."
+      ],
+      "author": "刘莉 | Liu, Li",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205450239,
+          "variantTitles": [
+            "Kong long mie jue",
+            "Dinosaur Kingdom"
+          ],
+          "nativeVariantTitles": [
+            "恐龙灭绝"
+          ],
+          "isbns": [
+            "9787557020835",
+            "7557020839"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guangzhou Shi : Guangdong lü you chu ban she"
+          ],
+          "nativePublisher": [
+            "广州市 : 广东旅游出版社"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Dinosaurs Miscellanea Juvenile literature.",
+            "Dinosaurs Extinction Juvenile literature."
+          ],
+          "physicalDescription": [
+            "25 pages : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙世界小百科. 恐龙去哪了 = Dinosaur | Kong long shi jie xiao bai ke. Kong long qu na le = Dinosaur",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555239246?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555239246?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555239246?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205686257,
+          "variantTitles": [
+            "Kong long qu na le",
+            "Dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "恐龙去哪了"
+          ],
+          "otherAuthors": [
+            "Arredondo, Francisco, illustrator.",
+            "Yang guang san cai, editor, author."
+          ],
+          "nativeOtherAuthors": [
+            "阿雷东多, 弗朗西斯科, illustrator.",
+            "阳光三采, editor, author."
+          ],
+          "isbns": [
+            "9787555239246",
+            "7555239248"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Qingdao Shi : Qingdao chu ban she"
+          ],
+          "nativePublisher": [
+            "青岛市 : 青岛出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 22 cm"
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "好玩的洞洞拉拉书. 第2辑, 恐龙乐园 = Dinosaur | Hao wan de dong dong la la shu. Di 2 ji, Kong long le yuan = Dinosaur",
+      "seriesTitle": [
+        "哈皮童年. | Ha pi tong nian."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555717560?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555717560?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555717560?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205988276,
+          "variantTitles": [
+            "Kong long le yuan",
+            "Dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "恐龙乐园"
+          ],
+          "otherAuthors": [
+            "Ha pi tong nian, editor, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "哈皮童年, editor, illustrator."
+          ],
+          "isbns": [
+            "9787555717560",
+            "7555717565"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Chengdu Shi : Chengdu di tu chu ban she you xian gong si"
+          ],
+          "nativePublisher": [
+            "成都市 : 成都地图出版社有限公司"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Toy and movable books.",
+            "Dinosaurs Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "8 unnumbered pages : colour illustrations ; 16 cm."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙公交车 = The dinosaur's bus | Kong long gong jiao che = The dinosaur's bus",
+      "seriesTitle": [
+        "中文世界儿童阅读文库. | Zhong wen shi jie er tong yue du wen ku."
+      ],
+      "author": "黄宇 | Huang, Yu",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814922920?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814922920?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814922920?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205321707,
+          "variantTitles": [
+            "Dinosaur's bus"
+          ],
+          "otherAuthors": [
+            "Kinnaird, Ross, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "金奈尔德, 罗丝, illustrator."
+          ],
+          "isbns": [
+            "9789814922920",
+            "9814922927"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Cengage Learning Asia Pte Ltd",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Dinosaurs Juvenile fiction.",
+            "Chinese language Readers Juvenile fiction.",
+            "Children's stories, Chinese."
+          ],
+          "physicalDescription": [
+            "38 pages : color illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Partial text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "探秘恐龙王国. 第一辑. 2, 恐龙星球 = Dinosaur Kingdom | Tan mi kong long wang guo. Di yi ji. 2, Kong long xing qiu = Dinosaur Kingdom",
+      "seriesTitle": [
+        "妞妞兔. | Niu niu tu."
+      ],
+      "author": "刘莉 | Liu, Li",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205450227,
+          "variantTitles": [
+            "Kong long xing qiu",
+            "Dinosaur Kingdom"
+          ],
+          "nativeVariantTitles": [
+            "恐龙星球"
+          ],
+          "isbns": [
+            "9787557020835",
+            "7557020839"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guangzhou Shi : Guangdong lü you chu ban she"
+          ],
+          "nativePublisher": [
+            "广州市 : 广东旅游出版社"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Dinosaurs Miscellanea Juvenile literature."
+          ],
+          "physicalDescription": [
+            "25 pages : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "多丽丝的恐龙 = Doris's dinosaur | Duolisi de kong long = Doris's dinosaur",
+      "seriesTitle": [
+        "小猫洋子交际力养成绘本. | Xiao mao Yangzi jiao ji li yang cheng hui ben."
+      ],
+      "author": "威尔斯, 罗斯玛丽 | Wells, Rosemary",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521732481?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521732481?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521732481?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205602124,
+          "variantTitles": [
+            "Doris's dinosaur"
+          ],
+          "otherAuthors": [
+            "Nez, John A., illustrator.",
+            "Zhang, Panjuan, translator."
+          ],
+          "nativeOtherAuthors": [
+            "内斯, 约翰, illustrator.",
+            "张盼娟, translator."
+          ],
+          "isbns": [
+            "9787521732481 (set)",
+            "7521732480 (set)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Zhong xin chu ban ji tuan gu fen you xian gong si"
+          ],
+          "nativePublisher": [
+            "北京市 : 中信出版集团股份有限公司"
+          ],
+          "publishDate": "2021.",
+          "physicalDescription": [
+            "31 pages : color illustrations ; 23 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "恐龙世界小百科. 植食性及杂食性恐龙 = Dinosaur | Kong long shi jie xiao bai ke. Zhi shi xing ji za shi xing kong long = Dinosaur",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555239123?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555239123?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787555239123?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205686260,
+          "variantTitles": [
+            "Zhi shi xing ji za shi xing kong long",
+            "Dinosaur"
+          ],
+          "nativeVariantTitles": [
+            "植食性及杂食性恐龙"
+          ],
+          "otherAuthors": [
+            "Arredondo, Francisco, illustrator.",
+            "Yang guang san cai, editor, author."
+          ],
+          "nativeOtherAuthors": [
+            "阿雷东多, 弗朗西斯科, illustrator.",
+            "阳光三采, editor, author."
+          ],
+          "isbns": [
+            "9787555239123",
+            "7555239124"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Qingdao Shi : Qingdao chu ban she"
+          ],
+          "nativePublisher": [
+            "青岛市 : 青岛出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 22 cm"
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "探秘恐龙王国. 第二辑. 2, 重返侏罗纪 = Dinosaur Kingdom | Tan mi kong long wang guo. Di er ji. 2, Chong fan zhu luo ji = Dinosaur Kingdom",
+      "seriesTitle": [
+        "妞妞兔. | Niu niu tu."
+      ],
+      "author": "刘莉 | Liu, Li",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557021627?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557021627?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557021627?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205450245,
+          "variantTitles": [
+            "Chong fan zhu luo ji",
+            "Dinosaur Kingdom"
+          ],
+          "nativeVariantTitles": [
+            "重返侏罗纪"
+          ],
+          "isbns": [
+            "9787557021627",
+            "7557021622"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guangzhou Shi : Guangdong lü you chu ban she"
+          ],
+          "nativePublisher": [
+            "广州市 : 广东旅游出版社"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Dinosaurs Miscellanea Juvenile literature.",
+            "Paleoecology Jurassic Juvenile literature."
+          ],
+          "physicalDescription": [
+            "25 pages : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "探秘恐龙王国. 第一辑. 1, 恐龙百科 = Dinosaur Kingdom | Tan mi kong long wang guo. Di yi ji. 1, Kong long bai ke = Dinosaur Kingdom",
+      "seriesTitle": [
+        "妞妞兔. | Niu niu tu."
+      ],
+      "author": "刘莉 | Liu, Li",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205444394,
+          "variantTitles": [
+            "Kong long bai ke",
+            "Dinosaur Kingdom"
+          ],
+          "nativeVariantTitles": [
+            "恐龙百科"
+          ],
+          "isbns": [
+            "9787557020835",
+            "7557020839"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guangzhou Shi : Guangdong lü you chu ban she"
+          ],
+          "nativePublisher": [
+            "广州市 : 广东旅游出版社"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Dinosaurs Miscellanea Juvenile literature.",
+            "Children's questions and answers."
+          ],
+          "physicalDescription": [
+            "25 pages : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "nativeNotes": [
+            "\"彩绘注音版\"",
+            "封面书名."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "探秘恐龙王国. 第一辑. 5, 恐龙邻居 = Dinosaur Kingdom | Tan mi kong long wang guo. Di yi ji. 5, Kong long lin ju = Dinosaur Kingdom",
+      "seriesTitle": [
+        "妞妞兔. | Niu niu tu."
+      ],
+      "author": "刘莉 | Liu, Li",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205450236,
+          "variantTitles": [
+            "Kong long lin ju",
+            "Dinosaur Kingdom"
+          ],
+          "nativeVariantTitles": [
+            "恐龙邻居"
+          ],
+          "isbns": [
+            "9787557020835",
+            "7557020839"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guangzhou Shi : Guangdong lü you chu ban she"
+          ],
+          "nativePublisher": [
+            "广州市 : 广东旅游出版社"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Dinosaurs Miscellanea Juvenile literature."
+          ],
+          "physicalDescription": [
+            "25 pages : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "探秘恐龙王国. 第一辑. 3, 恐龙王国 = Dinosaur Kingdom | Tan mi kong long wang guo. Di yi ji. 3, Kong long wang guo = Dinosaur Kingdom",
+      "seriesTitle": [
+        "妞妞兔. | Niu niu tu."
+      ],
+      "author": "刘莉 | Liu, Li",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787557020835?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205450230,
+          "variantTitles": [
+            "Kong long wang guo",
+            "Dinosaur Kingdom"
+          ],
+          "nativeVariantTitles": [
+            "恐龙王国"
+          ],
+          "isbns": [
+            "9787557020835",
+            "7557020839"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guangzhou Shi : Guangdong lü you chu ban she"
+          ],
+          "nativePublisher": [
+            "广州市 : 广东旅游出版社"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Dinosaurs Miscellanea Juvenile literature."
+          ],
+          "physicalDescription": [
+            "25 pages : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 451
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 451
+        },
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 2060
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 68
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 20
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 274
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 240
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 237
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 220
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 212
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 206
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 206
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 204
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 204
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 204
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 200
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 196
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 191
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 185
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 185
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 179
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 177
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 173
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 156
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 140
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 53
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 33
+        },
+        {
+          "id": "09lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 9",
+          "count": 13
+        },
+        {
+          "id": "gngcmcwc",
+          "data": "Comics Library at West Coast CC",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 451
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 27
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 2
+        },
+        {
+          "id": "vid",
+          "data": "Videorecording",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

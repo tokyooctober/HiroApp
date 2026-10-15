@@ -18,8 +18,8 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 - [ ] Decision recorded on the role of `data/nlb_libraries.json` (seed or not, `branchCode` source, radius, `upcoming` libraries)
 - [ ] Email sent to NLB asking for a higher rate limit and an ISBN/BRN-to-MID mapping (human action)
 **Verification:**
-- [ ] `cd proxy && npm run record-fixtures` re-creates the fixtures from a clean checkout when the key is in the environment
-- [ ] `grep -r "X-Api-Key" fixtures/` finds no key value
+- [x] `cd proxy && npm run record-fixtures` re-creates the fixtures from a clean checkout when the key is in the environment _(15 Oct 2026: run from a copy of the script in a scratch folder so the committed files stay as they are; it wrote the same 17 files plus `search-titles-junior-chinese`, now committed)_
+- [x] `grep -r "X-Api-Key" fixtures/` finds no key value _(15 Oct 2026: also no key or app code anywhere in the repo or in a fresh recording)_
 - [ ] Manual: human reads the updated section 2 and 9
 **Dependencies:** none (needs the API key)
 **Files likely touched:** `proxy/scripts/record-fixtures.*`, `fixtures/**`, `docs/hiro-kids-spec.md`
@@ -52,7 +52,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 - [x] Error responses are not cached _(429, 500, 404, a network failure, and a response echoing a credential)_
 **Verification:**
 - [x] `cd proxy && npm test` (TTL per endpoint, key construction, no caching of 429/5xx) _(50 tests pass, 9 Oct 2026; cache hits are also tested to use no queue slot, and logs say hit or miss with no query string)_
-- [ ] Manual: two identical dev-proxy searches, second visible as a hit in proxy logs
+- [x] Manual: two identical dev-proxy searches, second visible as a hit in proxy logs _(15 Oct 2026, Android emulator against the local proxy: the first search of "Dragon Kingdom" was 3 misses; repeating it logged 3 hits and no NLB call)_
 **Dependencies:** Task 2
 **Files touched:** `proxy/src/cache.mjs`, `proxy/src/handler.mjs`, `proxy/test/cache.test.mjs`, `proxy/test/handler-cache.test.mjs` (built with the proxy in the first commit; this entry was never ticked)
 **Estimated scope:** S
@@ -178,7 +178,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Verification:**
 - [x] `./gradlew :shared:allTests` (paging with MockEngine, de-duplication, back-off timing with a test clock) _(green on GitHub Actions 10 Oct 2026, run 38011073493 on 04bfee5: shared tests, ktlint, detekt, the Android debug build with the new list screen, the Kotlin tests on the iOS simulator target and the iOS build. The first run, on 02701df, failed on detekt's MagicNumber in `RetryPolicy`; fixed. 29 new tests, 107 in all)_
 - [ ] UI tests for the error and end-of-results states
-- [ ] Manual: airplane mode mid-search
+- [x] Manual: airplane mode mid-search _(15 Oct 2026, Android emulator: with airplane mode on a search shows "We couldn't load books", Try again, and "Saved on this phone" cards; after airplane mode is off, Try again gives the full results)_
 **Dependencies:** Task 7
 **Files likely touched:** `NlbRepository.kt`, `ResultGrouper.kt`, `RetryPolicy.kt`, `ResultsScreen.kt`, tests
 **Estimated scope:** M
@@ -194,7 +194,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 **Verification:**
 - [x] `./gradlew :shared:allTests --tests "*ResultGrouper*"` (table-driven golden scenario, ordering ties by distance) _(green on GitHub Actions 10 Oct 2026, run 38034114465 on 52149d0: shared tests, ktlint, detekt, the Android debug build with the new other-libraries box, the Kotlin tests on the iOS simulator target and the iOS build. 28 new tests, 135 in all)_
 - [ ] UI test for View and Back on both platforms
-- [ ] Manual: count calls in the proxy log for one search
+- [x] Manual: count calls in the proxy log for one search _(15 Oct 2026: 3 NLB calls (shelf, all copies out, other libraries), plus one NLB 429 that the app retried after 1 s and which then succeeded, so 4 requests reached the proxy; a repeat made 0 NLB calls. A language chip tap costs 3 misses; View then Back costs none)_
 **Dependencies:** Task 8
 **Files likely touched:** `ResultGrouper.kt`, `OtherLibrary` models, `LibraryBackStack.kt`, `ResultsScreen.kt`, tests
 **Estimated scope:** M
@@ -203,7 +203,7 @@ Scope key: S = 1-2 files, M = 3-5, L = 5-8. A task that grows beyond L is split.
 Found by the owner on the Android emulator after Task 9.
 - [x] **Libraries not found.** The picker matched the whole phrase against the app's own name only, and that name differs from NLB's for 21 of the 22 libraries ("Tampines Regional Library" vs NLB's "Tampines Library"). Now every typed word is matched, in any order and case, against the app's name, NLB's name and the street address, so "Tampines Library", "Harbourfront" and "Vivo City" all work. NLB has no VivoCity library; Harbourfront Library (address "…VivoCity") is the one there _(tests: `LibraryMatchTest`, `LibraryDirectoryTest`, and `LibraryDataContractTest` against the real seed and the recorded `GetBranches`)_
 - [x] **Languages mixed in one list.** FR-7 language filter, pulled forward from Task 13 in part: chips English · Chinese · Malay · Tamil · All under the results header, **English on a first install, then the last choice is remembered on the phone**. The choice goes to NLB as `Languages=` on all three calls of a search, so paging stays correct and a tap costs one search (3 calls). Books that are not English-only carry a language tag on the card (bilingual ones show both). Saved books shown offline are narrowed too; ones saved before languages were kept stay visible. An ISBN lookup has no filter. Indonesian and other languages show under All only. Database 2 to 3 adds `book.languages` _(tests: `LanguageViewModelTest`, `BookLanguageTest`, repository, query and store tests including the migration)_
-  - [ ] **To check with the real key:** the value sent is NLB's facet id (`eng`, `chi`, `may`, `tam`), the same style as the `Locations` and `IntendedAudiences` values already confirmed. It could not be checked here (no NLB key in the sandbox). If a language chip returns no books, look at the `Languages=` value in the proxy log first. `npm run record-fixtures` now also records `search-titles-junior-chinese` to settle it.
+  - [x] **Checked with the real key (15 Oct 2026): all four values work.** `Languages=chi`, `may` and `tam` returned 451, 68 and 3 children's "dinosaur" books; `eng` returns English books in the app; `search-titles-junior-chinese.json` is now in `fixtures/`. (Original note:) the value sent is NLB's facet id (`eng`, `chi`, `may`, `tam`), the same style as the `Locations` and `IntendedAudiences` values already confirmed. It could not be checked here (no NLB key in the sandbox). If a language chip returns no books, look at the `Languages=` value in the proxy log first. `npm run record-fixtures` now also records `search-titles-junior-chinese` to settle it.
 - [x] CI green for both fixes (run 38147794018 on 2d58962: shared tests, ktlint, detekt, the Android build with the new chips and tag, the iOS tests and build).
 - [x] **Call number and shelf location** are Task 10 (book detail): they need one extra NLB call per book, which a whole page of cards cannot afford at 15 calls a minute. NLB gives the call number and the shelf section (usage level); it gives no floor or bay.
 
@@ -214,11 +214,11 @@ Found by the owner on the Android emulator after Task 9.
 - [x] **The proxy not running, or restarted.** A search while the proxy is down shows the error and Try again; once the proxy answers, Try again or Search works with no restart of the app, also for loading more results. The library list (also from the proxy) now falls back to the bundled list while the proxy is down and switches to NLB's list on the next ask once it is up (before, the bundled list was kept until the app was closed) _(test: `ProxyComesAndGoesTest`)_
 - [x] **Results only for the language chosen.** The app now checks each book's language itself, besides asking NLB: a Chinese, Malay or Tamil book never shows under English and the reverse, a book in two languages shows under both, a book with no language recorded shows under any _(test: `LanguageResultsTest`)_
 - [x] **Results headed with the wrong library (owner, 13 Oct 2026: front page said VivoCity, the results said Tampines Regional Library).** The search screen now drops the results, the viewed library and the way back whenever the library on the front page changes, so results always belong to the library shown there. _(tests: `LibraryOnResultsTest`; the exact steps that produced it were not seen, so this closes the ways found in the code: a library left over from View, and a change of library, by the picker or a late location fix, while results were still held)_
-- [ ] **"Dragon Kingdom" returned nothing (owner, 13 Oct 2026): not reproduced.** No recording of that search exists and the sandbox has no NLB key. `NoFalseEmptyTest` shows the app lists a match on the shelf, with all copies out, or only at other libraries, and sends both words as one search. To find the cause I need, from the proxy log, the `SearchTitles` requests for that search (Keywords, Languages, Locations) and whether NLB answered with books. Suspects: the unverified `Languages=eng` value; the audience gate hiding every record that has no children's marker; NLB having no children's book of that name.
+- [ ] **"Dragon Kingdom" returned nothing (owner, 13 Oct 2026): not reproduced; likely cause found 15 Oct 2026.** With the live proxy the search lists 5+ books on the shelf at Tampines under English and under All, and the `Languages=eng` value and the audience gate are not the cause. But with the **Chinese** chip chosen (and Malay or Tamil probably the same) the same words show "No books found. Try different words." even though the other languages have matches; a language chip left on from an earlier search would look exactly like a search that returned nothing. Open: decide whether an empty result under one language should say that other languages have matches (owner call). Earlier notes: No recording of that search exists and the sandbox has no NLB key. `NoFalseEmptyTest` shows the app lists a match on the shelf, with all copies out, or only at other libraries, and sends both words as one search. To find the cause I need, from the proxy log, the `SearchTitles` requests for that search (Keywords, Languages, Locations) and whether NLB answered with books. Suspects: the unverified `Languages=eng` value; the audience gate hiding every record that has no children's marker; NLB having no children's book of that name.
 
 ### Checkpoint: Children's search works end to end (after Tasks 7-9)
 - [ ] Golden scenario passes in `commonTest`, and the same flow works by hand on Android and iOS
-- [ ] Proxy log shows ≤ 3 NLB calls per search and cache hits on repeat
+- [x] Proxy log shows ≤ 3 NLB calls per search and cache hits on repeat _(15 Oct 2026, see Task 9)_
 - [ ] First look at a real device in a real library (or a mocked location) and compare with the design screens
 - [ ] **Stop and review with the human before Phase 3**
 
@@ -238,7 +238,7 @@ Found by the owner on the Android emulator after Task 9.
 **Verification:**
 - [x] `./gradlew :shared:allTests` (availability mapper, copy counting per mode, sort order) _(`BookAvailabilityTest`, `NlbFixtureDetailTest` against the recorded `GetAvailabilityInfo`, repository and view model tests; 210 tests locally)_
 - [ ] UI + screenshot tests; Macrobenchmark or timer test for the 200 ms target
-- [ ] Manual: open titles with and without local copies
+- [x] Manual: open titles with and without local copies _(Android emulator: "Exit elsewhere" with 1 of 1 copies on the shelf and call number English DRA, 15 Oct 2026; "Out of darkness" with all 2 copies out and other libraries listed, 13 Oct 2026)_
 **Dependencies:** Task 9
 **Files likely touched:** `DetailViewModel.kt`, `DetailScreen.kt`, `AvailabilityMapper.kt`, `NlbRepository.kt`, tests
 **Estimated scope:** M
@@ -252,7 +252,7 @@ Found by the owner on the Android emulator after Task 9.
 - [x] Only the allowed URL schemes and hosts can be launched (unit-tested allow-list) _(`DirectionsTest`; the test class is named `DirectionsTest`, not `LinkAllowList*` as the task said)_
 **Verification:**
 - [x] `./gradlew :shared:allTests --tests "*Directions*"` _(8 tests)_
-- [ ] Manual: tap Directions on both platforms
+- [ ] Manual: tap Directions on both platforms _(Android done 15 Oct 2026: the ↗ on Bedok Public Library opened Google Maps with "Your location" to the library's address; iOS needs a Mac)_
 **Dependencies:** Task 10
 **Files likely touched:** `MapsLauncher` expect/actual (3), `LinkAllowList.kt`, tests
 **Estimated scope:** S

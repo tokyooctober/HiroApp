@@ -175,5 +175,18 @@
       "IdType": "title",
       "Id": "20978b3f-981f-428a-9781-f4210e311e5b"
     }
+  },
+  {
+    "name": "search-titles-junior-chinese",
+    "file": "search-titles-junior-chinese.json",
+    "status": 200,
+    "endpoint": "/SearchTitles",
+    "params": {
+      "Keywords": "dinosaur",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Languages": "chi"
+    }
   }
 ]
