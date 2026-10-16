@@ -1,0 +1,284 @@
+[
+  {
+    "name": "penguin big book",
+    "status": 200,
+    "totalRecords": 470,
+    "records": 29,
+    "onTopic": 15,
+    "boardOrPictureSubject": 14,
+    "juvenileSubject": 28,
+    "tall": 2,
+    "withHeight": 21,
+    "withSeries": 9,
+    "withAudienceField": 4,
+    "bandShare": 0.474468085106383,
+    "params": {
+      "Keywords": "penguin big book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger big book",
+    "status": 200,
+    "totalRecords": 131,
+    "records": 30,
+    "onTopic": 29,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 29,
+    "tall": 7,
+    "withHeight": 23,
+    "withSeries": 19,
+    "withAudienceField": 5,
+    "bandShare": 0.2900763358778626,
+    "params": {
+      "Keywords": "tiger big book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "rocket big book",
+    "status": 200,
+    "totalRecords": 52,
+    "records": 36,
+    "onTopic": 34,
+    "boardOrPictureSubject": 3,
+    "juvenileSubject": 36,
+    "tall": 6,
+    "withHeight": 21,
+    "withSeries": 23,
+    "withAudienceField": 10,
+    "bandShare": 0.3269230769230769,
+    "params": {
+      "Keywords": "rocket big book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger board book",
+    "status": 200,
+    "totalRecords": 382,
+    "records": 28,
+    "onTopic": 26,
+    "boardOrPictureSubject": 16,
+    "juvenileSubject": 27,
+    "tall": 3,
+    "withHeight": 26,
+    "withSeries": 18,
+    "withAudienceField": 5,
+    "bandShare": 0.46596858638743455,
+    "params": {
+      "Keywords": "tiger board book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin board book",
+    "status": 200,
+    "totalRecords": 545,
+    "records": 34,
+    "onTopic": 31,
+    "boardOrPictureSubject": 20,
+    "juvenileSubject": 32,
+    "tall": 2,
+    "withHeight": 27,
+    "withSeries": 12,
+    "withAudienceField": 6,
+    "bandShare": 0.5853211009174312,
+    "params": {
+      "Keywords": "penguin board book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin lift the flap",
+    "status": 200,
+    "totalRecords": 51,
+    "records": 32,
+    "onTopic": 4,
+    "boardOrPictureSubject": 18,
+    "juvenileSubject": 31,
+    "tall": 2,
+    "withHeight": 30,
+    "withSeries": 18,
+    "withAudienceField": 4,
+    "bandShare": 0.6078431372549019,
+    "params": {
+      "Keywords": "penguin lift the flap",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "space big book",
+    "status": 200,
+    "totalRecords": 294,
+    "records": 27,
+    "onTopic": 23,
+    "boardOrPictureSubject": 1,
+    "juvenileSubject": 22,
+    "tall": 11,
+    "withHeight": 22,
+    "withSeries": 10,
+    "withAudienceField": 4,
+    "bandShare": 0.2857142857142857,
+    "params": {
+      "Keywords": "space big book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger juvenile fiction",
+    "status": 200,
+    "totalRecords": 1166,
+    "records": 29,
+    "onTopic": 29,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 29,
+    "tall": 7,
+    "withHeight": 23,
+    "withSeries": 13,
+    "withAudienceField": 7,
+    "bandShare": 0.32847341337907376,
+    "params": {
+      "Keywords": "tiger juvenile fiction",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger juvenile literature",
+    "status": 200,
+    "totalRecords": 685,
+    "records": 25,
+    "onTopic": 25,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 25,
+    "tall": 3,
+    "withHeight": 22,
+    "withSeries": 24,
+    "withAudienceField": 5,
+    "bandShare": 0.22627737226277372,
+    "params": {
+      "Keywords": "tiger juvenile literature",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin juvenile fiction",
+    "status": 200,
+    "totalRecords": 2605,
+    "records": 34,
+    "onTopic": 34,
+    "boardOrPictureSubject": 6,
+    "juvenileSubject": 33,
+    "tall": 2,
+    "withHeight": 24,
+    "withSeries": 19,
+    "withAudienceField": 6,
+    "bandShare": 0.6571976967370442,
+    "params": {
+      "Keywords": "penguin juvenile fiction",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger Fiction=false",
+    "status": 501,
+    "totalRecords": 0,
+    "records": 0,
+    "onTopic": 0,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 0,
+    "tall": 0,
+    "withHeight": 0,
+    "withSeries": 0,
+    "withAudienceField": 0,
+    "bandShare": null,
+    "params": {
+      "Keywords": "tiger",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Fiction": "false"
+    }
+  },
+  {
+    "name": "tiger Fiction=Y",
+    "status": 400,
+    "totalRecords": 0,
+    "records": 0,
+    "onTopic": 0,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 0,
+    "tall": 0,
+    "withHeight": 0,
+    "withSeries": 0,
+    "withAudienceField": 0,
+    "bandShare": null,
+    "params": {
+      "Keywords": "tiger",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Fiction": "Y"
+    }
+  },
+  {
+    "name": "colourful big book tiger",
+    "status": 200,
+    "totalRecords": 336,
+    "records": 26,
+    "onTopic": 21,
+    "boardOrPictureSubject": 4,
+    "juvenileSubject": 24,
+    "tall": 9,
+    "withHeight": 22,
+    "withSeries": 10,
+    "withAudienceField": 3,
+    "bandShare": 0.3244047619047619,
+    "params": {
+      "Keywords": "colourful big book tiger",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "popular penguin books",
+    "status": 200,
+    "totalRecords": 102,
+    "records": 144,
+    "onTopic": 9,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 49,
+    "tall": 3,
+    "withHeight": 76,
+    "withSeries": 135,
+    "withAudienceField": 44,
+    "bandShare": 0.9901960784313726,
+    "params": {
+      "Keywords": "popular penguin books",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  }
+]

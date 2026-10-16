@@ -1,0 +1,5 @@
+{
+  "statusCode": 400,
+  "error": "Bad Request",
+  "message": "The value 'Y' is not valid for Fiction."
+}

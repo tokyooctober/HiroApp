@@ -1,0 +1,1972 @@
+{
+  "totalRecords": 2605,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Penguin journey",
+      "author": "Kunkel, Angela Burke",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419745898?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419745898?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419745898?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205616206,
+          "otherAuthors": [
+            "Odell, Catherine, illustrator."
+          ],
+          "isbns": [
+            "9781419745898",
+            "1419745891",
+            "9781683359425"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Abrams Appleseed",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Emperor penguin Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Parental behavior in animals Juvenile fiction.",
+            "Emperor penguin."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 25 cm"
+          ],
+          "summary": [
+            "Illustrations and easy-to-read, rhyming text follow a colony of Emperor penguins as they emerge from the sea, find mates, care for their eggs, and are reunited when chicks have hatched. Includes author's note about Emperor penguins and challenges threatening the species."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "003-006."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The king penguin",
+      "author": "Roeder, Vanessa",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593324417?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593324417?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593324417?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206151524,
+          "isbns": [
+            "9780593324417",
+            "0593324412"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Dial Books for Young Readers"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "King penguin Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Animals Polar regions Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "King penguin Percival is off to find subjects who will listen to him, as long as they do not eat him first."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Little Penguin",
+      "seriesTitle": [
+        "Little animal friends"
+      ],
+      "author": "Abery, Julie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681527413?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681527413?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681527413?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205392117,
+          "otherAuthors": [
+            "Mason, Suzie, illustrator."
+          ],
+          "isbns": [
+            "9781681527413",
+            "1681527413"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mankato, MN : Amicus Ink, imprint of Amicus"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Emperor penguin Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Animals Infancy Juvenile fiction.",
+            "Parental behavior in animals Juvenile fiction.",
+            "Board books.",
+            "Stories in rhyme.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly colour illustrations ; 16 cm."
+          ],
+          "summary": [
+            "With help from Mama Penguin, Little Penguin finds the courage to leave the safety of her feet to make new friends and play."
+          ],
+          "notes": [
+            "On board pages.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 0-3. Amicus."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205408708,
+          "digitalId": "358D3F24-7149-487F-BA03-41BE3CD5FAD6",
+          "otherAuthors": [
+            "Mason, Suzie, illustrator."
+          ],
+          "isbns": [
+            "9781681527437"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "edition": [
+            "1."
+          ],
+          "publisher": [
+            "Mankato : Amicus Ink"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Emperor penguin Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Animals Infancy Juvenile fiction.",
+            "Parental behavior in animals Juvenile fiction.",
+            "Stories in rhyme."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A baby Emperor penguin journeys from his mama's feet, taking his first steps. A sweet story of youthful adventure and motherly love, told with short rhyming lines and warm illustrations."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Picking up a penguin's egg really got me into trouble",
+      "seriesTitle": [
+        "Abbie Rose and the magic suitcase."
+      ],
+      "author": "Humphreys, Neil",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813508590?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813508590?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813508590?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300176087,
+          "otherAuthors": [
+            "Cheng, Puay Koon, 1973- illustrator, book designer."
+          ],
+          "isbns": [
+            "9789813508590",
+            "9813508590"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Scholastic Singapore"
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Girls Juvenile fiction.",
+            "Magic Juvenile fiction.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm."
+          ],
+          "notes": [
+            "\"This edition is available for distribution in Asia only\"--Back cover."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205968750,
+          "otherAuthors": [
+            "Cheng, Puay Koon, 1973- illustrator, book designer."
+          ],
+          "isbns": [
+            "9789815084962",
+            "9815084968"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Expanded edition."
+          ],
+          "publisher": [
+            "Singapore : Marshall Cavendish Children"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Girls Juvenile fiction.",
+            "Magic Juvenile fiction.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200138513,
+          "otherAuthors": [
+            "Cheng, Puay Koon 1973- illustrator."
+          ],
+          "isbns": [
+            "9789814484183 (paperback)",
+            "9814484180 (paperback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Marshall Cavendish Children",
+            ""
+          ],
+          "publishDate": "[2013]",
+          "subjects": [
+            "Girls Juvenile fiction.",
+            "Magic Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Children's stories, Singaporean (English)"
+          ],
+          "physicalDescription": [
+            "[26] pages : colored, illustrations ; 24 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203328189,
+          "digitalId": "39CDC371-C15A-4C15-81C2-183A5AB44E27",
+          "otherAuthors": [
+            "Cheng, Puay Koon 1973- illustrator."
+          ],
+          "isbns": [
+            "9789814516754 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2013.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Fantasy.",
+            "Girls Juvenile fiction.",
+            "Magic Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Children's stories, Singaporean (English)"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Four-year old Abbie Rose has a magic suitcase. In this book, she goes on an exciting adventure to the South Pole with her best friend Billy. At the South Pole, which is white and full of snow, she meets a family of Adelie penguins. She picked up a penguin egg and the adventure begins. Abbie Rose and some penguins get separated from the rest of the group and come across a leopard seal that tries to eat them. In the end Billy saves everyone and the penguins are reunited with their family."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin and Ollie",
+      "seriesTitle": [
+        "Penguin."
+      ],
+      "author": "Yoon, Salina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206135001,
+          "isbns": [
+            "9781681193502",
+            "1681193507"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Bloomsbury Children's Books"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Octopuses Juvenile fiction.",
+            "Fear Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 27 cm"
+          ],
+          "summary": [
+            "Worried about his new friend, a shy octopus named Ollie, Penguin recruits the other animals to help look for him, and discovers something more precious than treasure."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300031706,
+          "digitalId": "7B5B479B-860A-44B7-877B-ECC59633B9A1",
+          "isbns": [
+            "9781547612697"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Penguins",
+            "Octopuses",
+            "Friendship",
+            "Fear",
+            "Buried treasure Fiction.",
+            "Friendship Fiction.",
+            "Octopuses Fiction.",
+            "Penguins Fiction.",
+            "Friendship Juvenile fiction.",
+            "Fear Juvenile fiction.",
+            "Octopuses Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Chip gets swimmer shivers",
+      "seriesTitle": [
+        "I can read comics!"
+      ],
+      "author": "Frost, Maddie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063306516?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063306516?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063306516?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300139507,
+          "isbns": [
+            "9780063306516",
+            "0063306514",
+            "9780063306509",
+            "0063306506"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Harper Alley, an imprint of HarperCollinsPublishers",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Penguins Comic books, strips, etc.",
+            "Swimming Comic books, strips, etc.",
+            "Friendship Comic books, strips, etc.",
+            "Penguins Juvenile fiction.",
+            "Swimming Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Graphic novels."
+          ],
+          "physicalDescription": [
+            "31 pages : chiefly colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Chip is starting school... Swim school, that is, and he really isn't looking forward to it. When Mom persuades Chip to go and watch, he bonds with new friend Lucy, who has the swimmer shivers too. They enjoy themselves at the side of the pool, but when it's time for Party Swim--with bubbles and a disco ball, Chip and Lucy wonder if they're missing out!\"--Page [2] of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300190234,
+          "digitalId": "18253BDA-9B79-4C94-8507-B310E031B6B0",
+          "isbns": [
+            "9780063306561"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Penguins Comic books, strips, etc.",
+            "Swimming Comic books, strips, etc.",
+            "Friendship Comic books, strips, etc.",
+            "Graphic novels United States.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Chip, the little penguin, tries to get out of swim lessons in this hilarious Level Two I Can Read Comic by Maddie Frost. Chip is starting swim school and he really isn't looking forward to it. Join Chip as he navigates this first-time experience with imagination and humor. This Level Two I Can Read Comics title by Maddie Frost is illustrated with comic panels and is perfect for children eager to read on their own. This early reader is the second Chip story, a follow-up to Chip Plays Grown-Up. They are great companions, but Chip Gets Swimmer Shivers can be enjoyed on its own."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin and Penelope",
+      "seriesTitle": [
+        "Penguin ; [7]"
+      ],
+      "author": "Yoon, Salina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193441?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193441?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193441?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205876126,
+          "isbns": [
+            "9781681193441",
+            "1681193442",
+            "9781681199788",
+            "9781681199771"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Bloomsbury Children's Books",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Penguin (Fictitious character from Yoon) Pictorial works Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Elephants Juvenile fiction.",
+            "Missing children Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged), 1 folded page : color illustrations ; 26 cm."
+          ],
+          "summary": [
+            "Penguin does everything he can to help his new friend, an elephant named Penelope, find her family after she is left behind."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 3-6.",
+            "Grades K-1."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Mr. Penguin and the fortress of secrets",
+      "seriesTitle": [
+        "Mr. Penguin ; 2"
+      ],
+      "author": "Smith, Alex T",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781444932102?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781444932102?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781444932102?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203935776,
+          "variantTitles": [
+            "Mister Penguin and the fortress of secrets"
+          ],
+          "isbns": [
+            "9781444932102",
+            "1444932101"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Hodder Children's Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "283 pages : illustrations (some color) ; 22 cm"
+          ],
+          "summary": [
+            "Follow Mr. Penguin and Colin as they crash-land on a snowy mountain. Will they be able to solve the mystery of the missing pets? What are the strange noises coming from the abandoned fortress? And will Mr. Penguin conquer his fear of flying? Find out in this book with plenty of slapstick humour, mystery and adventure."
+          ],
+          "notes": [
+            "Originally published: 2018."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203786159,
+          "variantTitles": [
+            "Mister Penguin and the fortress of secrets"
+          ],
+          "isbns": [
+            "9781444932096",
+            "1444932098",
+            "9781444932119 (ebook)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Hodder Children's Books",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Spiders Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Pet loss Juvenile fiction.",
+            "Castles Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "283 pages : illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Mr Penguin - Indiana Jones meets Hercule Poirot. Mr Penguin and Colin crash-land on a snowy mountain. Will they be able to solve the mystery of the missing pets? What are the strange noises coming from the abandoned fortress? And will Mr Penguin conquer his fear of flying?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin & Moose",
+      "author": "Hall, Hannah C",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781546014331?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781546014331?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781546014331?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204077748,
+          "variantTitles": [
+            "Penguin and Moose"
+          ],
+          "otherAuthors": [
+            "Chernyshova, Anna, illustrator."
+          ],
+          "isbns": [
+            "9781546014331",
+            "1546014330"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : WorthyKids"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Moose Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : color illustrations ; 24 x 23 cm"
+          ],
+          "summary": [
+            "Penguin has a problem--he doesn't know how to fly. He and his friend, Moose, try everything they can think of to get him airborne: balloons, treetop starts, cocooning like a caterpillar. But no matter how hard they try, Penguin remains firmly on the ground. At the end of the day, a tired and disappointed Penguin realizes that he has something better than the ability to fly--a friend that supports and loves him no matter what. Written by best-selling author Hannah C. Hall, this series debut celebrates the power of friendship. Children are sure to fall in love with the adorable Penguin and Moose."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Let's find Jonty Gentoo : a lift-the-felt-flap book",
+      "seriesTitle": [
+        "My first Jonty"
+      ],
+      "author": "Donaldson, Julia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702344718?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702344718?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702344718?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300212325,
+          "variantTitles": [
+            "Let us find Jonty Gentoo"
+          ],
+          "otherAuthors": [
+            "Scheffler, Axel, illustrator."
+          ],
+          "isbns": [
+            "9780702344718",
+            "0702344710"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Warwick : Alison Green Books, an imprint of Scholastic"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Gentoo penguin Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Where is Jonty Gentoo? Can you help find him? Lift the bright and bold felt flaps in this fun chunky board book until you find our favourite penguin! This board book will keep your toddler entertained while also helping to increase hand-eye co-ordination, develop speech and aid learning through repetition\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 1,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Pirate & penguin",
+      "author": "Allegra, Mike",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1645677125?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1645677125?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1645677125?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206065562,
+          "variantTitles": [
+            "Pirate and penguin"
+          ],
+          "otherAuthors": [
+            "Harney, Jennifer, illustrator."
+          ],
+          "isbns": [
+            "1645677125",
+            "9781645677123"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Salem, MA : Page Street Kids",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Pirates Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly color illustrations ; 23 x 27 cm"
+          ],
+          "summary": [
+            "\"What happens when a pirate, hoping for a parrot, stumbles upon a bird of a duller plumage? Pirate doesn't know that Penguin is a penguin. But any bird can sit on a shoulder and squawk 'shiver me timbers'...right? Laugh along with Pirate and Penguin in this high seas tale of mistaken identity and find out whether they'll find friendship before somebody walks the plank.\" -- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Five little penguins",
+      "author": "Murray, Lily",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835872246?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835872246?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835872246?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300146321,
+          "variantTitles": [
+            "5 little penguins"
+          ],
+          "otherAuthors": [
+            "Surplice, Holly, illustrator."
+          ],
+          "isbns": [
+            "9781835872246",
+            "1835872247"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Board book edition."
+          ],
+          "publisher": [
+            "London : Templar Books",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Penguins Infancy Juvenile fiction.",
+            "Mother and child Juvenile fiction.",
+            "Winter Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "22 unnumbered pages : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"Join five adorable penguins on a lift-the-flap walk through a winter wonderland. There's so much to see as Mama Penguin and her chicks waddle through a frosty forest, skate down an icy river, and sled down snowy slopes. Along the way, they meet all kinds of festive animals playing in the snow. But wait--the chicks are disappearing one by one. Whatever could they be up to? Lift the flaps to find the chicks and discover a fantastic surprise ending\"--Amazon."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Lift the flaps to find the penguins!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguins don't wear sweaters!.",
+      "author": "Tamura, Marikka",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593406908?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593406908?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593406908?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205604276,
+          "variantTitles": [
+            "Penguins do not wear sweaters!"
+          ],
+          "otherAuthors": [
+            "Rieley, Daniel, illustrator."
+          ],
+          "isbns": [
+            "9780593406908",
+            "0593406907"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First board book edition."
+          ],
+          "publisher": [
+            "New York : Nancy Paulsen Books, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Oil spills and wildlife Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : chiefly color illustrations ; 15 cm"
+          ],
+          "summary": [
+            "When an oil spill prevents penguins from doing the things they love to do, Big Boots come and dress them in sweaters until they--and the water--can be cleaned. Includes facts about penguins and why dressing them in sweaters is not always a good idea."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "Originally published: 2018."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205593199,
+          "digitalId": "D4AE29FA-1AA5-48B7-BA7A-7E1CB17F0C3F",
+          "isbns": [
+            "9781101996973"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Wildlife rescue.",
+            "Sweaters.",
+            "Oil spills.",
+            "Penguins.",
+            "Sweaters Fiction.",
+            "Wildlife rescue Fiction.",
+            "Oil spills Fiction.",
+            "Penguins Fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This uplifting, charmingly told story, tells what happens when well-meaning humans knit sweaters for penguins who've encountered an oil spill.  You may have seen the cute pictures of penguins wearing sweaters-but did you know why they were wearing them? Debut author Marikka Tamura answers this question in this colorful, kid-friendly book that is told simply and charmingly.  Penguins love the sea. Happy in the dark blue water. But what is this? One day something is floating in the water. Dark. Gooey. Oily  . . . When the penguins become coated in an oil spill, many Big Boots arrive. The humans want to help the cold, greasy penguins, so they knit sweaters to keep them warm. The Big Boots mean well, but . . . penguins don't wear sweaters! So after a good, soapy scrub, the penguins dive back into the deep blue sea, happily dressed only in their own penguin feathers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "440 Lexile.",
+            "1.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Some penguin problems.",
+      "seriesTitle": [
+        "Kate the Chemist."
+      ],
+      "author": "Biberdorf, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593351277?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593351277?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593351277?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205549302,
+          "otherAuthors": [
+            "Homzie, Hillary, author."
+          ],
+          "isbns": [
+            "9780593351277",
+            "0593351274"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Philomel Books, an imprint of Penguin Random House LLC"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "School field trips Juvenile fiction.",
+            "Aquariums Juvenile fiction.",
+            "Schools Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "145 pages : illustrations ; 22 cm."
+          ],
+          "summary": [
+            "\"When Kate learns that her class is going on a field trip to the aquarium, she is thrilled that she'll get to see the penguin exhibit! The rockhopper penguins are her favorite. To prepare, Ms. Eberlin assigns the class a project: each student has to do a report about a different animal at the aquarium. Even though Kate gets assigned sea lions, she's still thrilled to go. Kate, Birdie, and the rest of the class excitedly prepare for their projects until it's finally Aquarium Day! But when a huge snowstorm threatens to ruin the class's field trip, will Kate the Chemist be able to save the day with science?\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205567705,
+          "digitalId": "42C9A307-2133-4487-89EA-9B907E24F781",
+          "isbns": [
+            "9780593351284"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Schools.",
+            "School field trips.",
+            "Penguins.",
+            "Aquariums.",
+            "Schools Fiction.",
+            "Aquariums Fiction.",
+            "School field trips Fiction.",
+            "Penguins Fiction.",
+            "Schools Juvenile fiction.",
+            "Aquariums Juvenile fiction.",
+            "School field trips Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature.",
+            "Mystery.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "There are some penguin problems on the fifth-grade field trip in this fifth installment of the Kate the Chemist fiction series that shows kids that everyone can be a scientist! Perfect for fans of the Girls Who Code series.   When Kate learns that her class is going on a field trip to the aquarium, she is thrilled that she'll get to see the penguin exhibit! The rockhopper penguins are her favorite. To prepare, Ms. Eberlin assigns the class a project: each student has to do a report about a different animal at the aquarium. Even though Kate gets assigned sea lions, she's still thrilled to go. Kate, Birdie, and the rest of the class excitedly prepare for their projects until it's finally Aquarium Day! But when a huge snowstorm threatens to ruin the class's field trip, will Kate the Chemist be able to save the day with science?   From Kate the Chemist, chemistry professor and science entertainer as seen on  The Late Show with Stephen Colbert ,  The Wendy Williams Show , and  The Today Show,  comes a clever and fun middle grade series that is the perfect introduction to STEM for young readers!  Make Your Own Chocolate-Covered Pretzels! Experiment Inside!     Praise for the Kate the Chemist series:  \"Proves that science and fun go together like molecules in a polymer.\"-  School Library Journal   \"It's a great introduction to the basics of chemistry that is readily accessible to a variety of ages . . . The way the everyday chemistry is blended in is done seamlessly, and has [me and my ten-year-old son] noticing how we are all doing a little bit of science every day.\" - GeekMom.com"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205567113,
+          "digitalId": "79FD69C4-AF52-4479-83B9-F47037D2AD80",
+          "isbns": [
+            "9780593454640"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library (Audio)"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Mystery.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (3 audio files) : digital"
+          ],
+          "summary": [
+            "There are some penguin problems on the fifth-grade field trip in this fifth installment of the Kate the Chemist fiction series that shows kids that everyone can be a scientist! Perfect for fans of the Girls Who Code series.    When Kate learns that her class is going on a field trip to the aquarium, she is thrilled that she'll get to see the penguin exhibit! The rockhopper penguins are her favorite. To prepare, Ms. Eberlin assigns the class a project: each student has to do a report about a different animal at the aquarium. Even though Kate gets assigned sea lions, she's still thrilled to go. Kate, Birdie, and the rest of the class excitedly prepare for their projects until it's finally Aquarium Day! But when a huge snowstorm threatens to ruin the class's field trip, will Kate the Chemist be able to save the day with science?   From Kate the Chemist, chemistry professor and science entertainer as seen on  The Late Show with Stephen Colbert ,  The Wendy Williams Show , and  The Today Show,  comes a clever and fun middle grade series that is the perfect introduction to STEM for young readers!   Make Your Own Chocolate-Covered Pretzels! Experiment Inside!      Praise for the Kate the Chemist series:   \"Proves that science and fun go together like molecules in a polymer.\"-  School Library Journal    \"It's a great introduction to the basics of chemistry that is readily accessible to a variety of ages . . . The way the everyday chemistry is blended in is done seamlessly, and has [me and my ten-year-old son] noticing how we are all doing a little bit of science every day.\" - GeekMom.com"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The Popper penguin rescue",
+      "author": "Schrefer, Eliot, 1978-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316495424?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316495424?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316495424?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205260824,
+          "otherAuthors": [
+            "Madsen, Jim, 1964- illustrator.",
+            "Atwater, Richard. Mr. Popper's penguins."
+          ],
+          "isbns": [
+            "9780316495424",
+            "0316495425",
+            "9780316495417",
+            "9780316495448"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Little, Brown and Company"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Single-parent families Juvenile fiction.",
+            "Moving, Household Juvenile fiction.",
+            "Arctic regions Juvenile fiction.",
+            "Moving, Household",
+            "Penguins",
+            "Single-parent families",
+            "Arctic Regions"
+          ],
+          "physicalDescription": [
+            "160 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Long after Mr. Popper found his famous penguins a proper home, his distant relatives, Nina and Joel, move to a new house with their mother and find mysterious eggs in the basement."
+          ],
+          "notes": [
+            "\"Inspired by the Newbery Honor Book Mr. Popper's Penguin by Richard and Florence Atwater.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 8-12. Little, Brown and Company."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205336826,
+          "digitalId": "62EEB170-2C4F-441D-8C2D-7E72E323FA1A",
+          "otherAuthors": [
+            "Atwater, Richard. Mr. Popper's penguins."
+          ],
+          "isbns": [
+            "9780316495448"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Single-parent families",
+            "Penguins",
+            "Moving, Household",
+            "Moving, Household Juvenile fiction.",
+            "Single-parent families Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Arctic regions Juvenile fiction.",
+            "Arctic Regions"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "From two-time National Book Award finalist Eliot Schrefer comes an original penguin-tastic adventure inspired by the beloved classic  Mr. Popper's Penguins .  It's been years and years since the Popper family lived in Stillwater, but the town is still riding high on its former penguin residents. Across the river, in Hillport, residents try to re-create the magic with penguin carnival rides and penguin petting zoos, pretending they're the Popper originals. As the years have gone by, fewer and fewer people have come, and the small attractions shuttered. Nina and Joe Popper have just moved to Hillport with their mother. There's a lot to do: unpacking, scrubbing the floors, investigating the basement -  wait ,  what's this?  Two penguin eggs are tucked snugly near the furnace!  It's up to Nina and Joe to find their newly hatched penguin chicks a home. Setting off on the adventure of a lifetime, they endure perilous storms, a long journey to the Arctic, and of course, penguins. Lots and lots of Popper penguins!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Einstein the penguin",
+      "author": "Rangeley, Iona",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008475963?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008475963?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008475963?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205613342,
+          "otherAuthors": [
+            "Tazzyman, David, illustrator."
+          ],
+          "isbns": [
+            "9780008475963",
+            "0008475962",
+            "9780008475970 (ePub ebook)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Children's Books"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Children's stories.",
+            "Penguins",
+            "Friendship",
+            "Animals",
+            "Zoo animals",
+            "Families",
+            "Child detectives",
+            "Human-animal relationships"
+          ],
+          "physicalDescription": [
+            "218 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Perfect for all readers from 7 to 70, Einstein the Penguin introduces an unforgettable new character in a future-classic and fantastically funny debut for all the family to enjoy. Get ready to welcome the most extraordinary penguin into your own home... When the Stewarts spend a sunny, frosty December day at London Zoo, they're enchanted by one small penguin. At the delight of young Imogen and Arthur, Mrs Stewart insists the penguin must come and stay with them whenever he likes. But not one Stewart expects the penguin to turn up at their door that evening, rucksack labelled Einstein on his back... The family's new feathered friend helps Arthur to come out of his shell and makes massive demands on Imogen's amateur sleuthing. But together they must find out why Einstein came to them and they must keep away from the mysterious white-coat man. And Einstein can't stay forever, can he...? From stunning new writing talent Iona Rangeley, and illustrated with wit and brio by the award-winning David Tazzyman, this is a book that will be treasured for years to come."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205983321,
+          "digitalId": "3E782C4D-68A2-4D3D-85D2-0E0B6FC743CD",
+          "otherAuthors": [
+            "Tazzyman, David, illustrator."
+          ],
+          "isbns": [
+            "9780008475970"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Human-animal relationships",
+            "Child detectives",
+            "Families",
+            "Zoo animals",
+            "Animals",
+            "Friendship",
+            "Penguins",
+            "Children's stories.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "'An outstanding debut. Funny and surprising' The Times Best Books for Children 2021 'This debut novel is a delight . . . A joy to read aloud' Sunday Times Children's Book of the Week Perfect for all readers from 7 to 70, Einstein the Penguin introduces an unforgettable new character in a future-classic and fantastically funny debut for all the family to enjoy. Get ready to welcome the most extraordinary penguin into your own home... When the Stewarts spend a sunny, frosty December day at London Zoo, they're enchanted by one small penguin. At the delight of young Imogen and Arthur, Mrs Stewart insists the penguin \"must come and stay with them whenever he likes.\" But not one Stewart expects the penguin to turn up at their door that evening, rucksack labelled \"Einstein\" on his back... The family's new feathered friend helps Arthur to come out of his shell and makes massive demands on Imogen's amateur sleuthing. But together they must find out why Einstein came to them and they must keep away from the mysterious white-coat man. And Einstein can't stay forever, can he...? From stunning new writing talent Iona Rangeley, and illustrated with wit and brio by the award-winning David Tazzyman, this is a book that will be treasured for years to come."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Planet of the penguins",
+      "seriesTitle": [
+        "Alien math ; Book 2"
+      ],
+      "author": "LaRochelle, David",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1454929227?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1454929227?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1454929227?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203986731,
+          "otherAuthors": [
+            "Gorman, Mike, illustrator."
+          ],
+          "isbns": [
+            "1454929227",
+            "9781454929222"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Sterling Children's Books",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Mathematics Juvenile fiction.",
+            "Extraterrestrial beings Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "112 pages : illustrations ; 21 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin problems",
+      "author": "John, Jory",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202664174,
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780553513370",
+            "0553513370",
+            "9780375974656",
+            "9780553513387"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"A penguin whines about the uncontrollable problems in his life.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "ISBN 9781406375992 (pbk.) - London : Walker Books, 2016.",
+            "ISBN 9781406379150 (pbk.) - London : Walker Books,  2017."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203219159,
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780525645757",
+            "0525645756"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House Children's Books"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 21 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203724143,
+          "digitalId": "3D5AB953-308C-41D3-A407-0008F28571BD",
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780553513387"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A penguin levels with human readers about what penguin life is really like-and it isn't all fun and games. A hilarious first collaboration from Jory John (I Will Chomp You! and Quit Calling Me a Monster!) and Lane Smith (The Stinky Cheese Man and Other Fairly Stupid Tales).  Have you ever considered running away to Antarctica? Of course you have! Because it's a land free of worries and responsibilities! All of your problems will surely be blown away by the icy winds of that lawless paradise! . . . Won't they?  Think again, my friend. This penguin has come to tell you that his life down there is no more a picnic than yours is here. For starters, it is FREEZING. Also, penguins have a ton of natural predators. Plus, can you imagine trying to find your mom in a big ol' crowd of identical penguins? No, thank you.  Yes, it seems there is no escaping the drudgery of your daily grind, whatever it might be. Or perhaps we've just learned that grumps are everywhere. . . .   Jory John and Lane Smith let us decide. This book is sure to tickle kids' funny bones and will elicit appreciative sighs from the adults reading it aloud."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin parade",
+      "seriesTitle": [
+        "Ready-to-read."
+      ],
+      "author": "Stemple, Heidi E. Y",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665952125?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665952125?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665952125?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300078296,
+          "otherAuthors": [
+            "Byrne, Eva, illustrator.",
+            "Simon Spotlight (Firm), publisher.",
+            "Simon and Schuster, Inc. Children's Publishing Division."
+          ],
+          "isbns": [
+            "9781665952125",
+            "1665952121",
+            "9781665952118",
+            "1665952113"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Parades Juvenile fiction.",
+            "Parade floats Juvenile fiction.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Hip, hip, hooray--it's a penguin parade! Who will win the Best Float vote? And does one of the penguins have a surprise trick up his sleeve?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Percy the post penguin",
+      "author": "Aspinall, Genevieve",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781915235794?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781915235794?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781915235794?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300194956,
+          "isbns": [
+            "9781915235794",
+            "1915235790"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Preston, UK : UCLan Publishing"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Postal service Juvenile fiction.",
+            "Determination (Personality trait) Juvenile fiction.",
+            "Determination (Personality trait)",
+            "Penguins.",
+            "Postal service.",
+            "South Pole Juvenile fiction.",
+            "Antarctica South Pole."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 24 cm"
+          ],
+          "summary": [
+            "In the chilly South Pole, a hardworking little penguin named Percy lives next to his post office. But not many residents of the South Pole seem to know it is there. With determination and confidence Percy sets off on a mission to make himself known. Will he be able to make his dream come true and create a successful business?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 2605
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 737
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 439
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 327
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 209
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 15
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 2523
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 76
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 3
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 2
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 2
+        },
+        {
+          "id": "english (2016)",
+          "data": "english (2016)",
+          "count": 1
+        },
+        {
+          "id": "english.",
+          "data": "english.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 1802
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 1688
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 1608
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 1567
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 1552
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 1539
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 1529
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 1495
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 1492
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 1433
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 1422
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 1397
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 1359
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 1345
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 1226
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 1212
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 1194
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 1194
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 1110
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 1056
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 293
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 85
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 63
+        },
+        {
+          "id": "08lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 8",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 2605
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 2281
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 530
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 8
+        },
+        {
+          "id": "abc",
+          "data": "Audio Book on CD",
+          "count": 5
+        },
+        {
+          "id": "brl",
+          "data": "Braille",
+          "count": 4
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 4
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 2
+        },
+        {
+          "id": "mss",
+          "data": "Manuscript Material",
+          "count": 1
+        },
+        {
+          "id": "mic",
+          "data": "Microform",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

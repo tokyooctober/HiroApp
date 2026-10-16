@@ -1,0 +1,1154 @@
+{
+  "totalRecords": 13,
+  "count": 13,
+  "hasMoreRecords": false,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Tigers",
+      "seriesTitle": [
+        "Seedlings (Creative Education, Inc. (Mankato, Minn.))"
+      ],
+      "author": "Riggs, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781640268487?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781640268487?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781640268487?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300069081,
+          "isbns": [
+            "9781640268487",
+            "1640268480",
+            "9781682773987",
+            "1682773981",
+            "9798889890164"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mankato, Minnesota : Creative Education/Creative Paperbacks",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Tiger Juvenile literature.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "An engaging introduction to tigers, this beginning reader features eye-catching photographs, humorous captions, and easy-to-read facts about this Asian animal."
+          ],
+          "contents": [
+            "Look there! Tigers -- Cats in Asia -- Striped fur -- Teeth and claws -- Time to eat! -- Baby tigers -- What do tigers do? -- Farewell, tigers! -- Picture a tiger -- Words to know."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-7 Creative Education and Creative Paperbacks.",
+            "Grades K-1 Creative Education and Creative Paperbacks."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200730048,
+          "isbns": [
+            "9780898128895",
+            "0898128897",
+            "9781608183449",
+            "1608183440"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mankato, MN : Creative Paperbacks",
+            ""
+          ],
+          "publishDate": "[2014]",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages: color illustrations; 23 cm."
+          ],
+          "summary": [
+            "\"A kindergarten-level introduction to tigers, covering their growth process, behaviors, the habitats they call home, and such defining physical features as their striped fur\"--Provided by publisher."
+          ],
+          "contents": [
+            "Hello, tigers! -- Cats in Asia -- Striped fur -- Teeth and claws -- Time to eat! -- Baby tigers -- What do tigers do? -- Goodbye, tigers!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger shark vs. praying mantis",
+      "seriesTitle": [
+        "Bizarre beast battles."
+      ],
+      "author": "Humphrey, Natalie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538284131?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538284131?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538284131?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205991161,
+          "variantTitles": [
+            "Tiger shark versus praying mantis"
+          ],
+          "isbns": [
+            "9781538284131",
+            "1538284138",
+            "9781538284117",
+            "1538284111"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Buffalo, NY : Gareth Stevens Publishing"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Tiger shark Juvenile literature.",
+            "Praying mantis Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations, colour maps ; 22 cm."
+          ],
+          "summary": [
+            "\"A tiger shark seems to be the clear winner in a battle against a praying mantis, but the answer might not be as easy as it seems! In this truly bizarre battle, young readers will learn how each species has adapted to their home in the wild and what makes this a tough battle. Through full color photographs, approachable text, and fact boxes showing what makes each species special, young readers will think critically about who they believe is the winner of this battle\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Ellie tames the tiger",
+      "seriesTitle": [
+        "The Critter Club ; 22"
+      ],
+      "author": "Barkley, Callie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534480643?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534480643?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534480643?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205452253,
+          "otherAuthors": [
+            "Bishop, Tracy Nishimura, illustrator."
+          ],
+          "isbns": [
+            "9781534480643",
+            "1534480641"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon paperback edition."
+          ],
+          "publisher": [
+            "New York : Little Simon",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Friendship Juvenile fiction.",
+            "Cats Juvenile fiction.",
+            "Children's plays Juvenile fiction.",
+            "Theater Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "120 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Ellie is paired up with a classmate, Paul, on a special dance number for the school play. But right from the start, Paul gives her the cold shoulder! Will Ellie and Paul be able to patch things up in time to take the stage together? Meanwhile, Marion, Ellie, Liz, and Amy rescue an adorable kitten named Tiger...but he can't stop causing mischief in the Critter Club barn! Can the girls team up to help Tiger--and find him a new home?\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205769746,
+          "digitalId": "6F06A2EC-4C2D-4840-949C-91E0E76E5C9A",
+          "otherAuthors": [
+            "Bishop, Tracy Nishimura, illustrator."
+          ],
+          "isbns": [
+            "9781534480667 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Friendship Juvenile fiction.",
+            "Cats Juvenile fiction.",
+            "Children's plays Juvenile fiction.",
+            "Theater Juvenile fiction.",
+            "Cats",
+            "Friendship",
+            "Theater",
+            "Children's plays",
+            "Kittens"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In this twenty-second book of the Critter Club series, Ellie prepares for her stage debut while she and the other girls try to keep a new kitty from wreaking havoc on their barn!  Ellie is paired up with a classmate, Paul, on a special dance number for the school play. But right from the start, Paul gives her the cold shoulder! Will Ellie and Paul be able to patch things up in time to take the stage together?   Meanwhile, Marion, Ellie, Liz, and Amy rescue an adorable kitten named Tiger...but he can't stop causing mischief in the Critter Club barn! Can the girls team up to help Tiger-and find him a new home?   With easy-to-read language and illustrations on almost every page, The Critter Club chapter books are perfect for beginning readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "3.1 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Kitty and the tiger treasure.",
+      "seriesTitle": [
+        "Kitty."
+      ],
+      "author": "Harrison, Paula",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780192771667?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780192771667?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780192771667?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204355998,
+          "otherAuthors": [
+            "Løvlie, Jenny, illustrator."
+          ],
+          "isbns": [
+            "9780192771667",
+            "0192771663"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Oxford : Oxford University Press"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Superheroes Juvenile fiction.",
+            "Cats Juvenile fiction.",
+            "Robbery investigation Juvenile fiction.",
+            "Museums Juvenile fiction.",
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "109 pages : color illustrations ; 19 cm."
+          ],
+          "summary": [
+            "Join Kitty and her cat crew on the rooftops for a series of enchanting adventures by the light of the moon. Here, Kitty will discover that being a superhero is about more than using her special abilities-she must learn to outwit cunning villains too. Who has stolen the precious Golden Tiger Statue? Can Kitty return it to the museum before sunrise?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205470126,
+          "digitalId": "0687A02C-4D02-4ABA-9BD1-9B96947435E5",
+          "isbns": [
+            "9780062934772"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Theft.",
+            "Superheroes.",
+            "Human-animal communication.",
+            "Cats.",
+            "Mystery and detective stories.",
+            "Adventure and adventurers Fiction.",
+            "Cats Fiction.",
+            "Stealing Fiction.",
+            "Human-animal communication Fiction.",
+            "Superheroes Fiction.",
+            "Cats Juvenile fiction.",
+            "Theft Juvenile fiction.",
+            "Human-animal communication Juvenile fiction.",
+            "Superheroes Juvenile fiction.",
+            "Comic and Graphic Books.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Girl by day. Cat by night. Ready for an adventure.        Meet Kitty, a charming chapter book character with catlike superpowers. In book two in this chapter book series, Kitty must recover the priceless Golden Tiger treasure after it's been stolen. With dramatic two-color art on every page and an emphasis on friendship, family, and building self-confidence, the Kitty books are the perfect choice for newly independent readers and fans of Rebecca Elliott's Owl Diaries.   When a new exhibition arrives at the local museum, Kitty is excited to see its most prized artifact, the Golden Tiger. Sadly, her cat, Pumpkin, won't be able to see the Golden Tiger because pets aren't allowed to visit the galleries. That night, Kitty decides to use her catlike superpowers to sneak Pumpkin into the museum. When they arrive, it's just in time to see someone stealing the Golden Tiger statue! The museum's security cat, Cleo, is devastated that she let the bandit get away. But never fear! Kitty and Pumpkin are there to help Cleo track down the culprit and recover the statue before morning.  Kitty and the Tiger Treasure is the second book in a chapter book series about Kitty and her superhero adventures. With an aspirational main character, a kindle of cats, striking two-color art on every page, and fun facts included at the end of each story, these chapter books are just right for newly independent readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 3",
+            "LG/Lower grades (K-3rd)",
+            "4.3 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The case of the missing tiger's eye",
+      "seriesTitle": [
+        "Rider Woofson."
+      ],
+      "author": "Styles, Walker",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481457385?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481457385?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481457385?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202421884,
+          "otherAuthors": [
+            "Whitehouse, Ben, illustrator."
+          ],
+          "isbns": [
+            "9781481457385 (hc)",
+            "1481457381 (hc)",
+            "9781481457392 (pbk.)",
+            "9781481457408 (ebook)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon hardcover edition."
+          ],
+          "publisher": [
+            "New York : Little Simon"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Dogs Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Sculpture Juvenile fiction.",
+            "Detective and mystery stories."
+          ],
+          "physicalDescription": [
+            "119 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "A doggy detective with a nose for sniffing out clues joins new friends in the Pup Investigators Pack to stop feline fiends from committing nefarious capers in Pawston's criminal underbelly."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204386069,
+          "digitalId": "EC55319C-4BCC-4D7D-A462-B9617520B191",
+          "isbns": [
+            "9781481457408 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Meet Rider Woofson, a dog detective with a nose for finding clues and trouble. Along with his pack of canine investigators, those pups are always on a hunt to collar criminals in a brand-new mystery series.  Welcome to Pawston, the animal capital of the world. Every day, thousands of animals go about their business, behaving as good citizens should. But there's a darker side of Pawston known as the criminal underbelly. And it was not the kind of belly you wanted to scratch unless you wanted to get bitten!   That's where Rider Woofson—the best dog detective in Pawston—comes in. And with the help of his pals in the Pup Investigators Pack, the criminals won't stand a chance...even if they commit the purr-fect crime.   With easy-to-read language and illustrations on almost every page, the Rider Woofson chapter books are perfect for beginning readers!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "LG/Lower grades (K-3rd)",
+            "650 Lexile.",
+            "4.1 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tigers and their cubs : a 4D book",
+      "seriesTitle": [
+        "Pebble plus."
+      ],
+      "author": "Hall, Margaret, 1947-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781543508260?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781543508260?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781543508260?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203089276,
+          "isbns": [
+            "9781543508260",
+            "154350826X",
+            "9781543508383",
+            "1543508383"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Revised edition."
+          ],
+          "publisher": [
+            "North Mankato, Minnesota : Capstone Press",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Tiger cubs Juvenile literature.",
+            "Parental behavior in animals Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"Easy-to-follow text and photos introduce readers to tigers and their cubs. Plus each title includes bonus augmented reality video to help readers learn more.\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Age 4-8."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Mula and the fly : a fun yoga story",
+      "author": "Hoffmeier, Lauren",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802637250?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802637250?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802637250?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300191644,
+          "otherAuthors": [
+            "Smietanka, Ela, illustrator."
+          ],
+          "isbns": [
+            "9781802637250",
+            "1802637257"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Symbolised edition."
+          ],
+          "publisher": [
+            "Leicester : Every Cherry"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Mula (Fictitious character from Hoffmeier) Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Flies Juvenile fiction.",
+            "Yoga Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly colour illustrations ; 27 cm"
+          ],
+          "summary": [
+            "Welcome to the jungle, where a sleepy tiger learns to do yoga, through the help of a mischievous fly! This symbolised edition provides key accessibility features to ensure many readers can enjoy this book, utilising a reading experience that best suits them. With its use of symbols, which provide visual cues above each key word, this book is a perfect choice for readers with disabilities, readers who may be working at a lower reading level and people learning English as an additional language."
+          ],
+          "notes": [
+            "\"Includes free signing video and audiobook ; QR codes inside\"-- Cover.",
+            "\"Symbolised ; signed ; illustrated ; audio\"-- Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205481011,
+          "otherAuthors": [
+            "Smietanka, Ela, illustrator."
+          ],
+          "isbns": [
+            "9781782268895",
+            "1782268898"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Leicester : Sweet Cherry Publishing"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Hatha yoga Pictorial works Juvenile fiction.",
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : color illustrations ; 25 cm"
+          ],
+          "summary": [
+            "Give yoga a try with Mula and the Fly! Mula is a very sleepy tiger. But with the help of a mischievous little Fly, Mula learns to wake up, get moving, and make her dreams come true! This picture book promotes mindfulness and provides young readers with a soft introduction to yoga. The fun characters and easy yoga poses promote a happy, healthy lifestyle and encourage young readers to relax and unwind."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Animal tails",
+      "seriesTitle": [
+        "TreeTops greatest stories."
+      ],
+      "author": "McCaughrean, Geraldine",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780198306054?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780198306054?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780198306054?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203994392,
+          "otherAuthors": [
+            "Wilson, Alex, illustrator.",
+            "Pavon, David, illustrator."
+          ],
+          "isbns": [
+            "9780198306054",
+            "0198306059"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Oxford : Oxford University Press"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Readers (Primary)",
+            "Animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "96 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Chickens, foxes, horses, tigers, lions and mice this is a marvellous menagerie of tales about tails. Meet Chanticleer the pompous cockerel, Reynard the sneaky fox, the sad Ugly Duckling and many more enduring characters, taken from Chaucer and Hans Christian Anderson and traditional tales from around the world. TreeTops Greatest Stories offers children some of the worlds best-loved tales in a collection of timeless classics. Top children's authors and talented illustrators work together to bring to life our literary heritage for a new generation, engaging and delighting children. The books are carefully levelled, making it easy to match every child to the right book. Each book contains inside cover notes to help children explore the content, supporting their reading development."
+          ],
+          "notes": [
+            "\"Oxford level 15\"--Page [4] of cover.",
+            "\"Selected by Michael Morpurgo\" -- Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Paper arty crafty : with simple step-by-step instructions",
+      "seriesTitle": [
+        "Arty crafty."
+      ],
+      "author": "Bergin, Mark, 1961-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781912904303?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781912904303?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781912904303?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204460281,
+          "isbns": [
+            "9781912904303",
+            "1912904306"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Brighton, England] : Book House, a Salariya imprint"
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Paper work Juvenile literature.",
+            "Handicraft Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 28 cm."
+          ],
+          "summary": [
+            "Budding younger artists will love this handy guide to creating easy, quick and fun artworks out of paper, a simple art material. The fun and inspirational projects, clear step-by-step instructions, illustrations and photographs will introduce readers to the techniques needed to start developing their own artistic abilities.--Provided by publisher."
+          ],
+          "contents": [
+            "What you need -- Thomas the tiger -- Felicity the fish -- Tick-tock clock -- Daphne the dragon -- Gustav the whale -- Pumpkin hand puppet -- Fang the scary monster -- Pirate hat -- Donald the dinosaur -- Frank the octopus -- Bookmarks -- Theo the lion -- Santa tree decoration -- Glossary/index."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Make your own paper projects, from a dragon to an octopus. Basic shapes and techniques to get you started. Easy to follow, step-by-step instructions for each fantastic paper project\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Catch zoo later",
+      "seriesTitle": [
+        "The very worst ever ; 3"
+      ],
+      "author": "Nonamus, Andy",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665954631?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665954631?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665954631?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300052910,
+          "variantTitles": [
+            "Catch you later"
+          ],
+          "otherAuthors": [
+            "Jindra, Amy, illustrator."
+          ],
+          "isbns": [
+            "9781665954631",
+            "1665954639",
+            "9781665954648",
+            "1665954647",
+            "9781665954655"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon edition."
+          ],
+          "publisher": [
+            "New York : Little Simon",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "School field trips Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Zoos Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "115 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "A class field trip to the zoo takes a chaotic turn when a creep of geckos accidentally escapes."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 5-9. Little Simon.",
+            "Grades K-1. Little Simon."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Reptiles and amphibians",
+      "seriesTitle": [
+        "The coolest pets"
+      ],
+      "author": "O'Daly, Anne, 1966-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1534545395?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1534545395?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1534545395?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206125669,
+          "isbns": [
+            "1534545395",
+            "9781534545397",
+            "1534545387",
+            "9781534545380"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Buffalo, NY : KidHaven Publishing",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Reptiles Juvenile literature.",
+            "Reptiles as pets Juvenile literature.",
+            "Amphibians Juvenile literature.",
+            "Amphibians as pets Juvenile literature.",
+            "Pets Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"Frogs, snakes, and other reptiles and amphibians are amazing animals that make cool pets, but they aren't for everyone! Readers are given the tools to decide for themselves if they might want one of these animals for a pet. They explore detailed text about how to care for reptiles and amphibians, and some of the most common examples of these animals as pets are presented to readers through focused chapters and full-color photographs. Additional text features such as fact boxes and graphic organizers enhance the reading experience, and an activity shows readers how to make something special for their pet\"--Publisher."
+          ],
+          "contents": [
+            "Choosing a pet -- Getting started -- A home for your pet -- Food and water -- Keeping healthy -- In the wild -- Red-eared slider -- Corn snake -- Leopard gecko -- Bearded dragon -- Pacman frog -- Tiger salamander -- Easy-to-make: slithery snake -- Fun facts."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The wonderful world of water : from dams to deserts",
+      "author": "Garré, Sarah, 1984-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9783791375502?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9783791375502?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9783791375502?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206149778,
+          "otherTitles": [
+            "Het grote waterboek van zwetende planten tot verwoestende tsunami's. English"
+          ],
+          "variantTitles": [
+            "Water"
+          ],
+          "otherAuthors": [
+            "Huysmans, Marijke, author.",
+            "Panders, Wendy, illustrator.",
+            "Asbury, Anna, translator."
+          ],
+          "isbns": [
+            "9783791375502",
+            "3791375504"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Munich [Germany] : Prestel"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Water Juvenile literature."
+          ],
+          "physicalDescription": [
+            "59 pages : colour illustrations ; 33 cm"
+          ],
+          "summary": [
+            "\"Dip into any page of this fun, fact-filled book and discover the endless ways that water impacts and sustains life on earth. Water is our planet’s most important resource, yet it’s easy to overlook its significance in our daily life. This kaleidoscopic journey across the planet offers fascinating insights into how water is connected to the air we breathe, the food we eat, and how our own actions can upset the delicate balance of its cycle. Readers will learn about how water journeys from ocean to sky to mountains, rivers, soil and back again; how water purification works; the flora and fauna of the rainforest; cloud formations and the weather they predict; natural phenomena such as the tiger bush; why rivers flood; what causes a tsunami. Presented in lively and engaging double-page spreads, each topic is explored with quirky illustrations, trivia, and sidebars that encourage further exploration and experimentation. Best of all, it makes young readers aware just how deeply entwined their futures are with the health of our planet’s water\"--Amazon."
+          ],
+          "notes": [
+            "Translation of: Het grote waterboek van zwetende planten tot verwoestende tsunami's."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "An anthology of intriguing animals",
+      "author": "Hoare, Ben",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1465477020?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1465477020?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1465477020?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203777801,
+          "otherAuthors": [
+            "Long, Daniel, illustrator.",
+            "Rizza, Angela, illustrator.",
+            "Terrazzini, Daniela Jaglenka, illustrator."
+          ],
+          "isbns": [
+            "1465477020",
+            "9781465477026"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York, NY : DK Publishing",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Animals Encyclopedias, Juvenile."
+          ],
+          "physicalDescription": [
+            "224 pages : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Discover the incredible stories and myths behind your favorite animals--whether it's how the koala got its name, or which animal the Ancient Egyptians thought rolled the sun across the sky. Children will pore over the spectacular photographs, including detailed close-ups, and learn fun facts at the same time. Containing more than 100 species, this beautiful modern bestiary lets you find the animals that interest you, and possibly uncover a new favorite along the way. With easy-to-read text and large images, this compendium of creatures invites young readers to explore the animal kingdom and get to know each animal individually--from big to small, feathered to furred. -- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204448199,
+          "digitalId": "441DB5A1-8E34-4FB8-8F0A-87A21D17834C",
+          "isbns": [
+            "9780241380116 (electronic bk)",
+            "9780241380109 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Young Adult Nonfiction.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A beautiful gift, this is a children's animal encyclopedia with a twist. Alongside interesting facts are the stories and myths behind children's favourite animals as well as incredible pictures and stunning illustrations. Containing more than 100 species, this beautiful modern bestiary will take children through the animal kingdom from the huge whale to the tiny spider.   Discover how the koala got its name or which animal the Ancient Egyptians thought rolled the Sun across the sky. Each page features fun animal facts and detailed close-up photographs for children to pore over, including firm favourites such as dolphins, tigers and butterflies as well more unusual animals such as walrus, lemur and peacock.   A perfect gift for children who can't get enough of animals, wildlife and nature,  An Anthology of Intriguing Animals  covers animals big and small and feathered and furred and will be a treasured favourite book."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 13
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 1
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 1
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 11
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 10
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 10
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 10
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 9
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 9
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 9
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 9
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 9
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 8
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 8
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 8
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 8
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 7
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 6
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 6
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 6
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 6
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 5
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 13
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 11
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1901 @@
+{
+  "totalRecords": 51,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "揭秘世界地图 = Lift-the-flap : picture atlas | Jie mi shi jie di tu = Lift-the-flap : picture atlas",
+      "seriesTitle": [
+        "乐乐趣科普翻翻书. | Le le qu ke pu fan fan shu."
+      ],
+      "author": "弗里斯, 埃里克斯 (Children's author) | Frith, Alex (Children's author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787541765308?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787541765308?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787541765308?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203773285,
+          "variantTitles": [
+            "Lift-the-flap : picture atlas"
+          ],
+          "otherAuthors": [
+            "Leake, Kate, illustrator.",
+            "Lei, Ting, translator."
+          ],
+          "nativeOtherAuthors": [
+            "利克, 凯特, illustrator.",
+            "雷婷, translator."
+          ],
+          "isbns": [
+            "9787541765308",
+            "7541765309"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Xi'an : Shanxi xin hua chu ban chuan mei ji tuan wei lai chu ban she"
+          ],
+          "nativePublisher": [
+            "西安 : 陕西新华出版传媒集团未来出版社"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Children's atlases Juvenile literature.",
+            "World maps, Pictorial Juvenile literature.",
+            "Lift-the-flap books Juvenile literature."
+          ],
+          "physicalDescription": [
+            "15 unnumbered pages : color illustrations ; 27 cm. + 1 folded map."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Amazing animals",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781839036521?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781839036521?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781839036521?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205597607,
+          "variantTitles": [
+            "At head of title: Lift the flap"
+          ],
+          "otherAuthors": [
+            "Pang, Bonnie, illustrator."
+          ],
+          "isbns": [
+            "9781839036521",
+            "1839036524",
+            "9781800222281",
+            "1800222289"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Cottage Farm, UK : Autumn Publishing"
+          ],
+          "publishDate": "[2021?]",
+          "subjects": [
+            "Animals Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm"
+          ],
+          "summary": [
+            "What's inside a camel's hump? What's the loudest animal? Why do hummingbirds have long beaks? Learn everything you've ever wanted to know about animals from all around the world in this interactive board book, with over 60 lift-the-flaps."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "Hardback edition (board book) published in 2021 with ISBN 9781800222281."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203929753,
+          "isbns": [
+            "9789811400148",
+            "9811400148",
+            "9789811400001",
+            "9811400008",
+            "9789811199998",
+            "981119999X",
+            "9789811400018",
+            "9811400016",
+            "9789811400025",
+            "9811400024",
+            "9789811400032",
+            "9811400032",
+            "9789811400049",
+            "9811400040",
+            "9789811400056",
+            "9811400059",
+            "9789811400063",
+            "9811400067",
+            "9789811400070",
+            "9811400075",
+            "9789811400087",
+            "9811400083",
+            "9789811400094",
+            "9811400091",
+            "9789811400100",
+            "9811400105",
+            "9789811400117",
+            "9811400113",
+            "9789811400124",
+            "9811400121",
+            "9789811400131",
+            "981140013X",
+            "9789811400155",
+            "9811400156"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Scholastic Singapore, a subsidiary of Scholastic Inc., New York, USA by arrangement with Make Believe Ideas Ltd.",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Animals Juvenile fiction.",
+            "Chameleons Juvenile fiction.",
+            "Dinosaurs Juvenile fiction.",
+            "Domestic animals Juvenile fiction.",
+            "Giraffe Juvenile fiction.",
+            "Pandas Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Swine Juvenile fiction.",
+            "Puppies Juvenile fiction.",
+            "Zoo animals Juvenile fiction.",
+            "Readers (Primary)",
+            "Animals.",
+            "Chameleons.",
+            "Dinosaurs.",
+            "Domestic animals.",
+            "Giraffe.",
+            "Pandas.",
+            "Penguins.",
+            "Puppies.",
+            "Readers (Primary)",
+            "Swine.",
+            "Zoo animals."
+          ],
+          "physicalDescription": [
+            "16 volumes : color illustrations ; 23 cm"
+          ],
+          "contents": [
+            "Playful puppies / written by Sarah Phillips, illustrated by Stuart Lynch ; Can you do this? / written by Mary Atkinson, illustrated by Stuart Lynch ; Dress-up day / written by Mary Atkinson, illustrated by Stuart Lynch ; You can't sleep here! / written by Rosie Greening, illustrated by Stuart Lynch ; This pig can fly / written by Rosie Greening, illustrated by Stuart Lynch ; What am I / written by Mary Atkinson, illustrated by Stuart Lynch ; What a sight I saw last night  / written by Mary Atkinson, illustrated by Stuart Lynch ; Noisy farm / written by Jane Horne, illustrated by Stuart Lynch ; At the zoo / written by Mary Atkinson, illustrated by Stuart Lynch ; I spy / written by Mary Atkinson, illustrated by Stuart Lynch ; Chameleon can / written by Rosie Greening, illustrated by Stuart Lynch ; I saw a dinosaur / written by Mary Atkinson, illustrated by Stuart Lynch ; We are animals / written by Rosie Greening, illustrated by Stuart Lynch ; I am bigger / written by Rosie Greening, illustrated by Stuart Lynch ; Panda's playtime / written by Rosie Greening, illustrated by Stuart Lynch ; Penguin's present / written by Rosie Greening, illustrated by Stuart Lynch."
+          ],
+          "notes": [
+            "Title from container.",
+            "Includes a reward chart and two sticker sheets.",
+            "Jump-start your child's kindergarten reading success with this fun collection of 16 readers that correlate with Scholastic Guided Reading levels A-D. Each story features simple, engaging text and photographs of animals that build reading conifdence and achievement.",
+            "\"16 readers for kindergarten reading success!\" --Container.",
+            "\"This edition is available for distribution in Asia only\" --Back of container."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200002227,
+          "isbns": [
+            "981051638X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Wallis Publishing Company Pte Ltd."
+          ],
+          "publishDate": "2004.",
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true,
+          "volumes": [
+            "Jan-05"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Where's little chick? : a magical lift-the-flap book",
+      "seriesTitle": [
+        "Ten minutes to bed"
+      ],
+      "author": "Fielding, Rhiannon",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241793237?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241793237?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241793237?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300171300,
+          "variantTitles": [
+            "Where is little chick?"
+          ],
+          "otherAuthors": [
+            "Chatterton, Chris, illustrator."
+          ],
+          "isbns": [
+            "9780241793237",
+            "0241793238"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Penguin Random House Children's UK",
+            ""
+          ],
+          "publishDate": "2026",
+          "subjects": [
+            "Chick Pictorial works Juvenile fiction.",
+            "Bedtime Pictorial works Juvenile fiction.",
+            "Children's stories Pictorial works.",
+            "Board books.",
+            "Stories in rhyme.",
+            "Picture books.",
+            "Lift-the-flap books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 22 cm"
+          ],
+          "summary": [
+            "\"It's Easter time in the Land of Nod but Little Chick is missing! Help Twinkle and the Easter Bunny find the missing little chick in this magical lift-the-flap adventure! Enjoy bumping into a few familiar faces along the way such as Rumble the Dinosaur, and even Poppy the Little Fairy!\"-- Amazon.com"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "姆明捉迷藏 = Moomin | Muming zhuo mi cang = Moomin",
+      "seriesTitle": [
+        "姆明惊喜互动纸板书. | Muming jing xi hu dong zhi ban shu."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521707717?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521707717?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521707717?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204510277,
+          "variantTitles": [
+            "Moomin",
+            "Original title: Moomin's lift-the flap hide and seek"
+          ],
+          "otherAuthors": [
+            "Jansson, Tove, author.",
+            "Huang, Xiaoheng, translator.",
+            "Moomin Characters (Firm), adapter."
+          ],
+          "nativeOtherAuthors": [
+            "扬松, 托芙, author.",
+            "黄小衡, translator.",
+            "姆明一族, adapter."
+          ],
+          "isbns": [
+            "9787521707717",
+            "7521707710"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Zhong xin chu ban ji tuan gu fen you xian gong si"
+          ],
+          "nativePublisher": [
+            "北京市 : 中信出版集团股份有限公司"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Moomins (Fictitious characters) Juvenile fiction.",
+            "Picture books for children.",
+            "Board books.",
+            "Lift-the-flap books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 19 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Characters and artwork are the original creation of Tove Jansson ... Text and illustrations ... by Moomin Characters\"--Colophon.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The very hungry caterpillar's jungle hide & seek : a finger trail lift-the-flap book",
+      "seriesTitle": [
+        "World of Eric Carle."
+      ],
+      "author": "Carle, Eric",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593887943?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593887943?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593887943?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300109380,
+          "variantTitles": [
+            "Jungle hide & seek",
+            "Jungle hide and seek"
+          ],
+          "isbns": [
+            "9780593887943",
+            "0593887948"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York : World of Eric Carle, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Caterpillars Juvenile fiction.",
+            "Jungles Juvenile fiction.",
+            "Jungle animals Juvenile fiction.",
+            "Board books.",
+            "Toy and movable books.",
+            "Lift-the-flap books.",
+            "Hide-and-seek Juvenile fiction.",
+            "Stories in rhyme.",
+            "Picture books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 22 cm"
+          ],
+          "summary": [
+            "Who lives beside the monkeys, swinging through the trees? It's someone slow and sleepy... a sloth who hangs with ease! Play hide-and-seek with The Very Hungry Caterpillar in this interactive board book with indented trails for fingers to follow, and flaps to lift! With a gentle rhyming narrative and an introduction to jungle friends, this book is perfect for little explorers."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206036138,
+          "variantTitles": [
+            "Very hungry caterpillar's jungle hide and seek",
+            "Jungle hide & seek",
+            "Jungle hide and seek"
+          ],
+          "isbns": [
+            "9780241616154",
+            "0241616158"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin Books"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Jungle animals Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "Follow the finger trails and lift the flaps to discover sleeping sloths, swooping parrots, crawling tigers, and many more. A gentle rhyming narrative with a die-cut finger trail, die-cut details, and a chunky flap on every page. There is so much for little hands to explore in this fun first introduction to jungle creatures and their habitat."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Moomin : the very big Moominhouse lift-the-flap book.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241489604?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241489604?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241489604?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205566212,
+          "variantTitles": [
+            "Very big Moominhouse lift-the-flap book"
+          ],
+          "otherAuthors": [
+            "Jansson, Tove, creator."
+          ],
+          "isbns": [
+            "9780241489604",
+            "0241489601"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Penguin Random House Children's UK",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Moomins (Fictitious characters) Juvenile fiction.",
+            "Moominland (Imaginary place) Juvenile fiction.",
+            "Families Juvenile fiction.",
+            "Home Juvenile fiction.",
+            "Picnics Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : illustrations ; 30 cm."
+          ],
+          "summary": [
+            "Discover the magical world of Moomin with this big and sturdy lift-the-flap book. The Moominhouse is abuzz with activity as everyone is getting ready for a trip to the beach! But where are Moomin's bucket and spade? And can you spot any delicious treats to pack in the picnic basket? Lift the flaps of this BIG and sturdy board book to help Moomin and his family find everything they need for their special trip. With a different room to explore on every spread, there's so much to discover! Perfect for introducing little ones to the magical world of Moomin!"
+          ],
+          "notes": [
+            "\"Characters and artwork are the original creation of Tove Jansson\"--Back cover.",
+            "On board pages.",
+            "Cover title.",
+            "\"Over 40 fun flaps for little hands\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Where is Peter Rabbit? : a lift-the-flap book",
+      "seriesTitle": [
+        "World of Peter Rabbit."
+      ],
+      "author": "Potter, Beatrix, 1866-1943",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241355039?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241355039?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241355039?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203865565,
+          "isbns": [
+            "9780241355039",
+            "0241355036",
+            "9780241358764",
+            "0241358760"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin Books"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Rabbits Juvenile fiction.",
+            "Toy and movable books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Naughty Peter Rabbit runs away to Mr. McGregor's garden, but can he get home safely? In this hide-and-seek version of the well-loved classic, key words in the story are linked to flaps which the child can lift to follow Peter's adventures and find out what happens next."
+          ],
+          "notes": [
+            "Lift-the-flap books.",
+            "Board book.",
+            "ISBN 9780241358764 (board book) - New York, New York : Frederick Warne, an imprint of Penguin Random House LLC, 2019."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Hide and find in the frozen wilds : a lift-the-flap frozen wilds adventure",
+      "author": "Dieckmann, Sandra",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702331299?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702331299?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702331299?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300195875,
+          "variantTitles": [
+            "Lift-the-flap frozen wilds adventure"
+          ],
+          "isbns": [
+            "9780702331299",
+            "0702331295"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Warwick : Scholastic"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Board books.",
+            "Polar regions Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : colour illustrations ; 32 cm"
+          ],
+          "summary": [
+            "From the chilly Arctic coast and the windy mountains, all the way to a frosty forest and Antarctica in the frozen south, follow a fluffy Arctic fox, a migrating tern, and an adorable baby penguin as they scamper, soar and waddle. How many beavers can be seen by a rushing river? What colourful bird is hiding inside a hole in the tree? Join the adorable trio as they explore the lands around them, observing all the incredible things there are to spot and learn about."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The poky little puppy's first Easter : a lift-the-flap board book",
+      "author": "Posner-Sanchez, Andrea",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984892508?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984892508?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984892508?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300028713,
+          "variantTitles": [
+            "Lift the flap board book"
+          ],
+          "otherAuthors": [
+            "DiCicco, Sue, illustrator."
+          ],
+          "isbns": [
+            "9781984892508",
+            "1984892509"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Golden Books, an imprint of Random House Children's Books, a division of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Hide-and-seek visual adventures.",
+            "Easter stories.",
+            "Easter eggs Juvenile fiction.",
+            "Farms Juvenile fiction.",
+            "Domestic animals Juvenile literature.",
+            "Dogs Juvenile fiction.",
+            "Domestic animals Juvenile fiction.",
+            "Dogs",
+            "Domestic animals",
+            "Easter eggs",
+            "Easter stories",
+            "Farms"
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 16 cm"
+          ],
+          "summary": [
+            "Little ones can join Poky as he celebrates Easter with all of his friends on the farm, in this adorable board book filled with lift-the-flap fun!"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "0-3 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Seas : protecting our planet! : a lift-the-flap eco book",
+      "author": "Saldaña, Carmen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241448403?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241448403?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241448403?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205392421,
+          "isbns": [
+            "9780241448403",
+            "0241448409"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Penguin Random House Children's UK",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Seas Juvenile literature.",
+            "Seas Environmental aspects Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations, map ; 21 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "\"Protecting our planet!\"."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The very hungry caterpillar's Easter egg hunt : a lift-the-flap book",
+      "author": "Carle, Eric",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593523575?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593523575?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593523575?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205989060,
+          "isbns": [
+            "9780593523575",
+            "0593523571"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : World of Eric Carle, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Animals Juvenile fiction.",
+            "Caterpillars Juvenile fiction.",
+            "Easter egg hunts Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 22 cm"
+          ],
+          "summary": [
+            "On a lift-the-flap adventure, The Very Hungry Caterpillar hunts for Easter eggs."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Trees",
+      "author": "Saldaña, Carmen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241448366?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241448366?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241448366?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205391156,
+          "variantTitles": [
+            "Trees : a lift-the-flap eco book",
+            "Trees : protecting our planet!"
+          ],
+          "isbns": [
+            "9780241448366",
+            "0241448360"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Penguin Random House Children's UK",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Trees Juvenile literature.",
+            "Trees Environmental aspects Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm"
+          ],
+          "summary": [
+            "\"Why are they so important, and what can you do to help? Join the fight to save our planet with this eco-friendly book about trees\"-- Page [4] of cover."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "\"Protecting our planet!\"."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "姆明猜一猜 = Moomin | Muming cai yi cai = Moomin",
+      "seriesTitle": [
+        "姆明惊喜互动纸板书. | Muming jing xi hu dong zhi ban shu."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521707724?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521707724?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787521707724?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204510283,
+          "variantTitles": [
+            "Moomin",
+            "Original title: Moomin's lift-the-flap peekaboo"
+          ],
+          "otherAuthors": [
+            "Jansson, Tove, author.",
+            "Huang, Xiaoheng, translator.",
+            "Moomin Characters (Firm), adapter."
+          ],
+          "nativeOtherAuthors": [
+            "扬松, 托芙, author.",
+            "黄小衡, translator.",
+            "姆明一族, adapter."
+          ],
+          "isbns": [
+            "9787521707724",
+            "7521707729"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Zhong xin chu ban ji tuan gu fen you xian gong si"
+          ],
+          "nativePublisher": [
+            "北京市 : 中信出版集团股份有限公司"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Moomins (Fictitious characters) Juvenile fiction.",
+            "Picture books for children.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged, folded pages) : color illustrations ; 19 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Characters and artwork are the original creation of Tove Jansson ... Text and illustrations ... by Moomin Characters\"--Colophon.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "A mighty day in Tracksville : a lift-the-flap book.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593519622?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593519622?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593519622?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205873076,
+          "otherTitles": [
+            "Based on: Mighty Express (Television program)"
+          ],
+          "variantTitles": [
+            "At head of title: Mighty Express"
+          ],
+          "isbns": [
+            "9780593519622",
+            "0593519620"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Penguin Young Readers Licenses"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Railroad trains Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"Chugga chugga woo-hoo! Spend a mighty busy day with the trains in Tracksville! Lift the flap to see what Freight Nate, Farmer Faye, and the rest of the trains do in this sturdy lift-the-flap board that fans of the Mighty Express will love!\"--Publisher description."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The very hungry caterpillar's forest hide & seek : a finger trail lift-the-flap book",
+      "seriesTitle": [
+        "World of Eric Carle"
+      ],
+      "author": "Carle, Eric",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593226667?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593226667?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593226667?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205494948,
+          "variantTitles": [
+            "Forest hide and seek"
+          ],
+          "isbns": [
+            "9780593226667",
+            "0593226666"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : World of Eric Carle, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Caterpillars Juvenile fiction.",
+            "Forests and forestry Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : color illustrations ; 22 cm."
+          ],
+          "summary": [
+            "\"Who is in the forest where it's bright and sunny? Busy, buzzing bees making tasty honey! Play hide-and-seek with The Very Hungry Caterpillar in this fantastic finger trail lift-the-flap book! With a gentle rhyming narrative and an introduction to woodland friends, this book is perfect for little explorers.\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"First published in Great Britain in 2020 by Puffin Books.\"--Back cover.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Baby-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Bluey and Bingo's book of scary things : a lift-the-flap book.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593891254?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593891254?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593891254?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300139759,
+          "otherTitles": [
+            "Based on: Bluey (Television program)"
+          ],
+          "variantTitles": [
+            "Book of scary things",
+            "Title appears on item as: Bluey Bluey and Bingo's book of scary things"
+          ],
+          "otherAuthors": [
+            "Penguin Young Readers Group, publisher."
+          ],
+          "isbns": [
+            "9780593891254",
+            "0593891252"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York : Penguin Young Readers Licenses"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Bingo (Fictitious character) Juvenile fiction.",
+            "Bluey (Fictitious character) Juvenile fiction.",
+            "Australian cattle dog Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "From kreepy krawlies in the pool, to Dad eating the last ice block, every day is filled with surprises for Bluey and Bingo! Find out all the ways the Heelers have a screaming good time in this lift-the-flap board book that's perfect for Bluey fans!"
+          ],
+          "notes": [
+            "Cover title.",
+            "On lift-the-flap board pages.",
+            "\"A lift-the-flap book\"-- Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "1-3 years. Penguin Young Readers Group."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Let's find Jonty Gentoo : a lift-the-felt-flap book",
+      "seriesTitle": [
+        "My first Jonty"
+      ],
+      "author": "Donaldson, Julia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702344718?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702344718?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780702344718?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300212325,
+          "variantTitles": [
+            "Let us find Jonty Gentoo"
+          ],
+          "otherAuthors": [
+            "Scheffler, Axel, illustrator."
+          ],
+          "isbns": [
+            "9780702344718",
+            "0702344710"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Warwick : Alison Green Books, an imprint of Scholastic"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Gentoo penguin Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Where is Jonty Gentoo? Can you help find him? Lift the bright and bold felt flaps in this fun chunky board book until you find our favourite penguin! This board book will keep your toddler entertained while also helping to increase hand-eye co-ordination, develop speech and aid learning through repetition\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 1,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Let's find the penguin",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781680105827?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781680105827?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781680105827?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204011722,
+          "variantTitles": [
+            "Let us find the penguin"
+          ],
+          "otherAuthors": [
+            "Willmore, Alex, illlustrator."
+          ],
+          "isbns": [
+            "9781680105827",
+            "1680105825"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Wilton, Connecticut : Tiger Tales",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Board books.",
+            "Lift-the-flap books.",
+            "Penguins.",
+            "Toy and movable books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"Penguin is hiding.  Let's find him! There are animals playing in the snow, but could any of the, be Penguin?  Peek through the pages and lift the felt flaps to find out!\"--Publisher's description."
+          ],
+          "notes": [
+            "On board pages.",
+            "Cover title.",
+            "Originally published in Great Britain 2019 by Little Tiger Press Ltd.",
+            "Board back edition with ISBN 9781788814805 published by Little Tiger Press Ltd in 2019."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaurs.",
+      "seriesTitle": [
+        "My photo series."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993696?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993696?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993696?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300061912,
+          "otherAuthors": [
+            "Doyle, Lizzy, illustrator."
+          ],
+          "isbns": [
+            "9781838993696",
+            "183899369X",
+            "9781684494101"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Priddy Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 21 cm"
+          ],
+          "summary": [
+            "\"With wheels to turn, tabs to pull and flaps to lift, this interactive novelty book will delight toddlers as they learn about roarsome dinosaurs\"--Back cover."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Full of novelty fun\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300200030,
+          "isbns": [
+            "9781998211289",
+            "1998211282"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mono, ON : Taffy Tales Press",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Dinosaurs is a fun new title in Taffy Tales' best-selling Look and Find Lift-the-Flaps series. On each page, the child is encouraged to look and find different things in the dinosaur scene. Fun, playful, and colorful, this book will delight young dinosaur lovers."
+          ],
+          "notes": [
+            "Cover title.",
+            "On die-cut board pages with lift-the-flaps."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205668532,
+          "otherAuthors": [
+            "Lemon Ribbon (Firm), illustrator."
+          ],
+          "isbns": [
+            "9780241547229",
+            "0241547229"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Ladybird Books",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Textured books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "Statement of responsibility from page [4] of cover.",
+            "\"A touch-and-feel playbook\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205902461,
+          "otherAuthors": [
+            "Gray, Howard, illustrator.",
+            "Kear, Katie, illustrator."
+          ],
+          "isbns": [
+            "9781684492435",
+            "1684492432",
+            "9781838992262"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Priddy Books",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "28 pages : color illustrations ; 22 cm"
+          ],
+          "summary": [
+            "Curious kids can discover the world of the dinosaurs with this fascinating fact book. Covering everything from where they lived, to what they looked like, and what they ate, this book is the ideal introduction to dinosaurs."
+          ],
+          "notes": [
+            "Includes index.",
+            "Cover title.",
+            "\"Full of fun facts for curious kids\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205610024,
+          "variantTitles": [
+            "Puffin little historian : dinosaurs",
+            "Little historian : dinosaurs"
+          ],
+          "isbns": [
+            "9781761041716",
+            "1761041711"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[North Sydney, NSW] : Puffin Books, an imprint of Penguin Random House Australia",
+            "©2021"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Dinosaurs Miscellanea Juvenile literature.",
+            "Dinosaurs."
+          ],
+          "physicalDescription": [
+            "95 pages : illustrations ; 18 cm."
+          ],
+          "summary": [
+            "Just because we're little doesn't mean we can't learn BIG facts. Have you ever wondered how the Stegosaurus got its name? If you're a Little Historian who wants to learn all about dinosaurs, get ready to GO BACK IN TIME with Puffin Little!"
+          ],
+          "contents": [
+            "Introduction -- The prehistoric world -- What is a dinosaur? -- The Triassic period -- The Jurassic period -- The Cretaceous period -- Palaeontology."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "6+ years old."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203866933,
+          "otherAuthors": [
+            "Americo, Tiago, illustrator."
+          ],
+          "isbns": [
+            "9781529002843",
+            "1529002842"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Campbell Books"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dinosaurs Juvenile fiction.",
+            "Children's stories.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : color illustrations ; 19 cm."
+          ],
+          "summary": [
+            "Take a trip to meet the Dinosaurs! Lift the giant flaps to reveal the dinosaurs and touch lots of exciting textures. Feel the bumpy head of Triceratops, the smooth skin of Diplodocus and the scratchy plates of Stegosaurus. Bright and friendly illustrations from Tiago Americo bring the prehistoric scenes to life and, with something to spot or count on every page too, each colourful book in the My First Touch and Find series provides lots of fun for older babies and toddlers."
+          ],
+          "notes": [
+            "\"With big flaps.\"",
+            "On board pages with die cut flaps.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202669067,
+          "otherAuthors": [
+            "Allen, Peter, 1964- illustrator.",
+            "Bloomsbury (Firm), editor."
+          ],
+          "isbns": [
+            "9781681190990",
+            "1681190990"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York : Bloomsbury Activity Books, an imprint of Bloomsbury Publishing, Inc."
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Lift-the-flap books Specimens.",
+            "Board books.",
+            "Dinosaurs Juvenile fiction.",
+            "Toy and movable books Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "Invites young readers to lift flaps to figure out who left such big footprints, play hide and seek with the dinosaurs, and join in with a dinosaur meal."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202639153,
+          "variantTitles": [
+            "Collins dinosaurs."
+          ],
+          "isbns": [
+            "9780008169282",
+            "0008169284"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Second edition."
+          ],
+          "publisher": [
+            "Glasgow : Collins",
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "71 pages : colour illustrations, maps ; 24 cm."
+          ],
+          "summary": [
+            "Discover incredible facts about the dinosaurs that roamed our planet millions of years ago: learn where they lived, what they ate and what they looked like, with full colour diagrams and fact files about each species. A great supporting resource for schoolwork and home projects. Highly visual, easy to follow, fun and entertaining."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 6908162,
+          "isbns": [
+            "9813021462"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Mighty Minds Corp.",
+            ""
+          ],
+          "publishDate": "1993.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "[6] pages."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Animal sounds",
+      "author": "Dahl, Roald",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593621585?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593621585?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593621585?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206066943,
+          "variantTitles": [
+            "Roald Dahl : animal sounds"
+          ],
+          "otherAuthors": [
+            "Blake, Quentin, illustrator."
+          ],
+          "isbns": [
+            "9780593621585",
+            "0593621581"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Animal sounds Pictorial works Juvenile literature.",
+            "Vocabulary Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "16 unnumberd pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"From monkeys to lions, this board book is a great way to teach our littlest readers the silly sounds that animals make\"--Publisher's website."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"First published in the United Kingdom by Puffin UK, an imprint of Penguin Random House UK, 2021\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205499933,
+          "variantTitles": [
+            "Roald Dahl : animal sounds"
+          ],
+          "otherAuthors": [
+            "Blake, Quentin, illustrator."
+          ],
+          "isbns": [
+            "9780241481509",
+            "0241481503"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin Books"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Animal sounds Pictorial works Juvenile literature.",
+            "Vocabulary Pictorial works Juvenile literature.",
+            "Board books.",
+            "Lift-the-flap books.",
+            "Animal sounds.",
+            "Board books.",
+            "Lift-the-flap books.",
+            "Vocabulary."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 19 cm"
+          ],
+          "summary": [
+            "Learn all about animal sounds in this board book with BITE! Discover the sounds made by all sorts of marvellous animals with Roald Dahl! From curious cows to excited elephants, busy little hands will discover some truly splendiferous animals and fearsome beasts. With iconic illustrations from Quentin Blake, this sturdy, colourful board book is the perfect introduction to the world of Roald Dahl for toddlers."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "Lift-the-flap book."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 51
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 25
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 46
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 42
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 37
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 35
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 32
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 31
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 30
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 30
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 30
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 29
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 29
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 28
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 27
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 27
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 27
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 26
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 25
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 25
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 25
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 24
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 21
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 4
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 3
+        },
+        {
+          "id": "ru",
+          "data": "Repository Used Book Collection",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 51
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 6
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1630 @@
+{
+  "totalRecords": 470,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "My first big book of fruits and veggies.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127447?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127447?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127447?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108599,
+          "variantTitles": [
+            "My first big book of fruits and vegetables"
+          ],
+          "isbns": [
+            "9789815127447",
+            "9815127446"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Fruit Pictorial works Juvenile literature.",
+            "Vegetables Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars identify and learn about different fruits and vegetables. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Amazon."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of animals.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127478?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127478?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127478?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300113984,
+          "isbns": [
+            "9789815127478",
+            "9815127470"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Animals Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "24 unnumberd pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Get Set Go... on an enjoyable and engaging journey of learning. A wonderfully designed book that will help little scholars learn about several domestic and wild animals. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of alphabet.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127393?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127393?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127393?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300113983,
+          "isbns": [
+            "9789815127393",
+            "981512739X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "English language Alphabet Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Get Set Go... on an enjoyable and engaging journey of learning. A wonderfully designed book that will help little scholars recognize and learn about various things that start with each letter of the English alphabet. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of numbers.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127409?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127409?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127409?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108596,
+          "isbns": [
+            "9789815127409",
+            "9815127403"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Counting Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars recognize and learn not just numbers from 1 to 20, but number names and counting too. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of birds.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127485?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127485?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127485?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108587,
+          "isbns": [
+            "9789815127485",
+            "9815127489"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Birds Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars recognize and learn about various birds. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Amazon."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of transport.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127461?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127461?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127461?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108594,
+          "isbns": [
+            "9789815127461",
+            "9815127462"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Transportation Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars recognize and learn about land, water, and air transport. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of colors.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127416?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127416?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127416?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108597,
+          "isbns": [
+            "9789815127416",
+            "9815127411"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Colors Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars identify objects and their distinct colors. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of shapes.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127423?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127423?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127423?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108598,
+          "isbns": [
+            "9789815127423",
+            "981512742X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Shapes Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars recognize and learn about numerous objects and their distinct shapes. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of seasons and opposites.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127454?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127454?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127454?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300108595,
+          "isbns": [
+            "9789815127454",
+            "9815127454"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Seasons Pictorial works Juvenile literature.",
+            "Polarity Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars recognize and learn not only about different seasons and associated things but also several pairs of opposite words as well. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Little kids first big book of animals",
+      "seriesTitle": [
+        "National Geographic kids."
+      ],
+      "author": "Hughes, Catherine D",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825225?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825225?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825225?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300193381,
+          "isbns": [
+            "9780008825225",
+            "000882522X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Collins",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Animals Juvenile literature.",
+            "Animals"
+          ],
+          "physicalDescription": [
+            "128 pages : colour illustrations, colour map ; 27 cm."
+          ],
+          "summary": [
+            "\"Polar bears, penguins, lions,  giraffes, seahorses, frogs, butterflies ... and much more! These fun-filled pages introduce young readers to more than 30 animals and their exciting lives in the wild. Inside you'll find: more than 200 incredible animal photos and fun facts, questions in each chapter to encourage interactivity, a world map introducing children to geography, parent tips that extend the experience beyond the pages of this book, and more!\"-- Back cover."
+          ],
+          "contents": [
+            "Grassland. Cheetah -- Zebra -- Giraffe -- Black-and-yellow garden spider -- Lion -- Ocean. Bottlenose dolphin -- Green sea turtle -- Short-head seahorse -- Sea otter -- Giant Pacific octopus -- Humpback whale -- Blue-striped grunt -- Desert. Arizona coral snake -- Meerkat -- Desert jerboa -- Thorny lizard -- Camel -- Forest. Red-eyed tree frog -- Gray wolf -- Black-handed spider monkey -- Blue morpho butterfly -- Koala -- Mountain gorilla -- Raccoon -- North American beaver -- Tiger -- Polar. Emperor penguin -- Harp seal -- Snowy owl -- Polar bear -- Glossary -- Parent tips -- Animal map -- Index."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"First published 2010\"-- Title page verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My first big book of things at home and around us.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127430?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127430?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789815127430?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300107641,
+          "isbns": [
+            "9789815127430",
+            "9815127438"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Penguin Random House SEA",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Vocabulary Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"A wonderfully designed book that will help little scholars recognize and learn about several things they can see at home, in supermarkets, on the playground, in school, and in the hospital. An amazing picture book loaded with colorful illustrations that make each word easy to remember\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin's big adventure",
+      "author": "Yoon, Salina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781619637306?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781619637306?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781619637306?s=LG"
+      },
+      "records": [
+        {
+          "brn": 201649387,
+          "isbns": [
+            "9781619637306",
+            "1619637308"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Board book edition."
+          ],
+          "publisher": [
+            "New York, New York : Bloomsbury Children's Books"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Board books.",
+            "Penguins Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Adventure and adventurers Juvenile fiction.",
+            "Voyages and travels Juvenile fiction.",
+            "North Pole Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 17 cm"
+          ],
+          "summary": [
+            "As Penguin sets out on a journey to become the first penguin to reach the North Pole, he meets many friends along the way."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 0,
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "serial": false,
+          "availability": false,
+          "volumes": [
+            "[v.]1",
+            "[v.]2",
+            "[v.]3",
+            "[v.]4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cowgirls & dinosaurs : big trouble in Little Spittle",
+      "author": "Ebrey, Lucie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593115206?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593115206?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593115206?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206172172,
+          "variantTitles": [
+            "Cowgirls and dinosaurs",
+            "Big trouble in Little Spittle"
+          ],
+          "isbns": [
+            "9780593115206",
+            "0593115201",
+            "9780593115145",
+            "0593115147"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Razorbill"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Cowgirls Comic books, strips, etc. Juvenile fiction.",
+            "Dinosaurs Comic books, strips, etc. Juvenile fiction.",
+            "Outlaws Comic books, strips, etc. Juvenile fiction.",
+            "West (U.S.) Comic books, strips, etc. Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "281 pages : chiefly colour illustrations, colour map ; 23 cm"
+          ],
+          "summary": [
+            "\"A Western-inspired graphic novel for young readers who love crime-fighting, gutsy girls, and of course, dinosaurs!\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206170403,
+          "digitalId": "BC2E546A-1109-475C-8A94-FD2DC16D93C9",
+          "variantTitles": [
+            "Cowgirls and dinosaurs"
+          ],
+          "otherAuthors": [
+            "Penguin Random House.",
+            "Razorbill (Firm), publisher."
+          ],
+          "isbns": [
+            "9780593115152"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Outlaws",
+            "Dinosaurs",
+            "Cowgirls",
+            "Graphic novels.",
+            "Robbers and outlaws Fiction.",
+            "Dinosaurs Fiction.",
+            "Cowgirls Fiction.",
+            "Outlaws Comic books, strips, etc.",
+            "Dinosaurs Comic books, strips, etc.",
+            "Cowgirls Comic books, strips, etc.",
+            "Comic and Graphic Books.",
+            "Juvenile Literature.",
+            "West (U.S.) Comic books, strips, etc.",
+            "West United States",
+            "West (U.S.) Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A Western-inspired graphic novel for young readers who love crime-fighting, gutsy girls, and of course, dinosaurs! For fans of Hilda and the Troll series and  Witches of Brooklyn !  In the town of Little Spittle, dinosaurs and cowgirls live in harmony. Abigail, who has always dreamed of becoming a detective, lives on the outskirts of town with her pet dinosaur Rootbeer. Meanwhile Clementine, daughter of the sheriff, was born into the life of fighting crime. But when the Bandit Queen gets a hold of some dark magic, the town and the sheriff are nowhere to be found. It's up to Clem, Abigail, and Rootbeer to team up, defeat the Bandit Queen, and save their beloved town from bandits, dinomagik, and undercover attacks. In a hilarious tale of two unlikely friends, Clem and Abigail show us how to be our authentic selves while simultaneously kicking some butt."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 2",
+            "450 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguins don't wear sweaters!.",
+      "author": "Tamura, Marikka",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593406908?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593406908?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593406908?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205604276,
+          "variantTitles": [
+            "Penguins do not wear sweaters!"
+          ],
+          "otherAuthors": [
+            "Rieley, Daniel, illustrator."
+          ],
+          "isbns": [
+            "9780593406908",
+            "0593406907"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First board book edition."
+          ],
+          "publisher": [
+            "New York : Nancy Paulsen Books, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Oil spills and wildlife Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : chiefly color illustrations ; 15 cm"
+          ],
+          "summary": [
+            "When an oil spill prevents penguins from doing the things they love to do, Big Boots come and dress them in sweaters until they--and the water--can be cleaned. Includes facts about penguins and why dressing them in sweaters is not always a good idea."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "Originally published: 2018."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205593199,
+          "digitalId": "D4AE29FA-1AA5-48B7-BA7A-7E1CB17F0C3F",
+          "isbns": [
+            "9781101996973"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Wildlife rescue.",
+            "Sweaters.",
+            "Oil spills.",
+            "Penguins.",
+            "Sweaters Fiction.",
+            "Wildlife rescue Fiction.",
+            "Oil spills Fiction.",
+            "Penguins Fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This uplifting, charmingly told story, tells what happens when well-meaning humans knit sweaters for penguins who've encountered an oil spill.  You may have seen the cute pictures of penguins wearing sweaters-but did you know why they were wearing them? Debut author Marikka Tamura answers this question in this colorful, kid-friendly book that is told simply and charmingly.  Penguins love the sea. Happy in the dark blue water. But what is this? One day something is floating in the water. Dark. Gooey. Oily  . . . When the penguins become coated in an oil spill, many Big Boots arrive. The humans want to help the cold, greasy penguins, so they knit sweaters to keep them warm. The Big Boots mean well, but . . . penguins don't wear sweaters! So after a good, soapy scrub, the penguins dive back into the deep blue sea, happily dressed only in their own penguin feathers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "440 Lexile.",
+            "1.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Kid penguin",
+      "seriesTitle": [
+        "Reggie."
+      ],
+      "author": "Oliveira, Jen de",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557550?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557550?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557550?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206068911,
+          "isbns": [
+            "9780759557550",
+            "0759557551",
+            "9780759557567",
+            "075955756X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Little Brown Ink"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Penguins Comic books, strips, etc. Juvenile fiction.",
+            "Play Comic books, strips, etc. Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "79 pages : chiefly colour illustrations ; 22 cm."
+          ],
+          "summary": [
+            "\"Reginald \"Reggie\" Guinn is a kid penguin who is equal parts playful, curious and cantankerous, and gets into everyday adventures at school, home, and his neighborhood\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206078404,
+          "digitalId": "18360582-571D-4F2D-8F04-0A0972DC5AD6",
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Play Comic books, strips, etc. Juvenile fiction.",
+            "Penguins Comic books, strips, etc. Juvenile fiction.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Fans of Babymouse and Owly will love this early graphic novel series about the everyday adventures and high jinks of Reginald \"Reggie\" Guinn, a little kid penguin with a big personality!       Reggie is just like any other kid: always looking for fun and adventure! But Reggie's curious, playful side sometimes gets him into trouble. Like when he tries to give himself a haircut before picture day...and ends up gluing his feathers back on his head! Or when he sneaks a mouthful of cookie dough from the kitchen...then feels the sun baking cookies in his tummy! Or when his babysitter puts him on a kid leash while they walk to the park...and he rebels by acting like a dog!  Reggie: Kid Penguin  is a collection of six silly stories that explore kid-friendly themes, all through the eyes of a lovable, spunky penguin."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin and Ollie",
+      "seriesTitle": [
+        "Penguin."
+      ],
+      "author": "Yoon, Salina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206135001,
+          "isbns": [
+            "9781681193502",
+            "1681193507"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Bloomsbury Children's Books"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Octopuses Juvenile fiction.",
+            "Fear Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 27 cm"
+          ],
+          "summary": [
+            "Worried about his new friend, a shy octopus named Ollie, Penguin recruits the other animals to help look for him, and discovers something more precious than treasure."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300031706,
+          "digitalId": "7B5B479B-860A-44B7-877B-ECC59633B9A1",
+          "isbns": [
+            "9781547612697"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Penguins",
+            "Octopuses",
+            "Friendship",
+            "Fear",
+            "Buried treasure Fiction.",
+            "Friendship Fiction.",
+            "Octopuses Fiction.",
+            "Penguins Fiction.",
+            "Friendship Juvenile fiction.",
+            "Fear Juvenile fiction.",
+            "Octopuses Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin problems",
+      "author": "John, Jory",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202664174,
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780553513370",
+            "0553513370",
+            "9780375974656",
+            "9780553513387"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"A penguin whines about the uncontrollable problems in his life.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "ISBN 9781406375992 (pbk.) - London : Walker Books, 2016.",
+            "ISBN 9781406379150 (pbk.) - London : Walker Books,  2017."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203219159,
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780525645757",
+            "0525645756"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House Children's Books"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 21 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203724143,
+          "digitalId": "3D5AB953-308C-41D3-A407-0008F28571BD",
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780553513387"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A penguin levels with human readers about what penguin life is really like-and it isn't all fun and games. A hilarious first collaboration from Jory John (I Will Chomp You! and Quit Calling Me a Monster!) and Lane Smith (The Stinky Cheese Man and Other Fairly Stupid Tales).  Have you ever considered running away to Antarctica? Of course you have! Because it's a land free of worries and responsibilities! All of your problems will surely be blown away by the icy winds of that lawless paradise! . . . Won't they?  Think again, my friend. This penguin has come to tell you that his life down there is no more a picnic than yours is here. For starters, it is FREEZING. Also, penguins have a ton of natural predators. Plus, can you imagine trying to find your mom in a big ol' crowd of identical penguins? No, thank you.  Yes, it seems there is no escaping the drudgery of your daily grind, whatever it might be. Or perhaps we've just learned that grumps are everywhere. . . .   Jory John and Lane Smith let us decide. This book is sure to tickle kids' funny bones and will elicit appreciative sighs from the adults reading it aloud."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Chip plays grown-up",
+      "seriesTitle": [
+        "I can read comics!"
+      ],
+      "author": "Frost, Maddie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063306479?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063306479?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063306479?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300089909,
+          "isbns": [
+            "9780063306479",
+            "0063306476",
+            "9780063306486",
+            "0063306484"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Harper Alley, an imprint of HarperCollinsPublishers",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Chores Comic books, strips, etc.",
+            "Mothers Comic books, strips, etc.",
+            "Penguins Comic books, strips, etc.",
+            "Chores Juvenile fiction.",
+            "Mothers Juvenile fiction.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "31 pages : colour illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Chip has a great idea-switching with Mom so he can stay up like a grown-up. But if he wants to stay up late, he also has to do Mom's list of grown-up chores, like dishes and laundry.Maybe being an adult isn't as fun as he thought!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300190091,
+          "digitalId": "1D1CA9CC-CF3B-436A-85D3-3BB55CE7CDFA",
+          "isbns": [
+            "9780063306493"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Beginning Reader.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Chores Comic books, strips, etc.",
+            "Mothers Comic books, strips, etc.",
+            "Penguins Comic books, strips, etc.",
+            "Chores Juvenile fiction.",
+            "Mothers Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Meet the newest I Can Read Comics character, Chip! I Can Read Comics is an early reader line that familiarizes children with the world of graphic novel storytelling and encourages visual literacy in emerging readers. Meet Chip, a lively penguin with big ideas, created by Maddie Frost, one of the funniest author-illustrators around! Chip doesn't want to go to bed, so he has a great idea-switching roles with Mom so he can stay up like a grown-up! Join Chip's adventures in this Level Two I Can Read Comics, perfect for shared reading. Social and emotional learnings abound-but always in a way that will appeal to young readers' funny bones! · Initiative · Self-advocacy · Delayed gratification · Setting goals · Identifying solutions · Communicating effectively"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "1.7 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Shirley & Jamila's big fall",
+      "seriesTitle": [
+        "Shirley & Jamila ; [2]"
+      ],
+      "author": "Goerz, Gillian",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525552895?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525552895?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525552895?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205626148,
+          "variantTitles": [
+            "Shirley and Jamila's big fall",
+            "Big fall"
+          ],
+          "isbns": [
+            "9780525552895",
+            "0525552898",
+            "9780525552888",
+            "052555288X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Dial Books for Young Readers, an imprint of Penguin Random House LLC"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Best friends Comic books, strips, etc.",
+            "Best friends Juvenile fiction.",
+            "Schools Comic books, strips, etc.",
+            "Schools Juvenile fiction.",
+            "Bullying Comic books, strips, etc.",
+            "Bullying Juvenile fiction.",
+            "Extortion Comic books, strips, etc.",
+            "Extortion Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "235 pages : chiefly color illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Starting a new school in the fall with her friend Shirley, everything is going well for Jamila until Shirley pulls her into a new assignment: stop Chuck Milton, a school bully who is using blackmail and intimidation to become school president--an assignment that will involve a bit of breaking and entering."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205621165,
+          "digitalId": "047A0FD8-AC24-4C3C-8D65-120F5FD02741",
+          "isbns": [
+            "9780525552901"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Extortion Juvenile fiction.",
+            "Extortion Comic books, strips, etc.",
+            "Bullying Juvenile fiction.",
+            "Bullying Comic books, strips, etc.",
+            "Schools Juvenile fiction.",
+            "Schools Comic books, strips, etc.",
+            "Best friends Juvenile fiction.",
+            "Best friends Comic books, strips, etc.",
+            "Comic and Graphic Books.",
+            "Juvenile Literature.",
+            "Mystery."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For fans of Raina Telgemeier and Victoria Jamieson, this middle grade graphic novel series tells the story of Shirley and Jamila, two girl detectives on a mission to stop their school's biggest bully once and for all   As Jamila settles into the rhythms of classes and after-school basketball practice, Shirley has a new mystery on her mind. Her old enemy Chuck is up to his usual tricks: He's been blackmailing kids all over school, and Shirley knows that she and Jamila can put a stop to it.   They hatch a plan: They'll break into his house late one night and recover all the notes Chuck's been using to blackmail innocent kids.   But while Shirley and Jamila are at the house, another intruder arrives-an intruder who can help them put a stop to Chuck's crimes once and for all."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin huddle",
+      "author": "Montgomery, Ross",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406389838?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406389838?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406389838?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205932697,
+          "otherAuthors": [
+            "Warburton, Sarah, illustrator."
+          ],
+          "isbns": [
+            "9781406389838",
+            "1406389838",
+            "9781529512830"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Walker Books Ltd "
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Penguins Pictorial works Juvenile fiction.",
+            "Cold Pictorial works Juvenile fiction.",
+            "Hugging Pictorial works Juvenile fiction.",
+            "Friendship Pictorial works Juvenile fiction.",
+            "Animals Pictorial works Juvenile fiction.",
+            "Helping behavior Pictorial works Juvenile fiction.",
+            "Problem solving Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "A charming and playful picture book told with humour and heart from the brilliant team behind Ten Delicious Teachers. The penguin pack play all day long. And when the sun goes down, and the night grows cold and dark... Penguin Huddle! The penguins squeeze and squish together to stay warm and cosy. But one night, there is a freezing gale. And the next morning ... the penguins are stuck! They are frozen together like a giant penguin ice pop. What a penguin MUDDLE! Nobody in the Antarctic can figure out how to unstick them. But Pipsqueak, the smallest penguin of them all, has a brilliant idea... They must adventure out of their snowy home to a vibrant city across the great, gleaming ocean to solve their penguin puzzle. This light-hearted tale of jolly penguins big and small is a celebration of friendship, community spirit and helping those in trouble."
+          ],
+          "notes": [
+            "Paperback edition published in 2023 with ISBN 9781529512830."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 470
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 84
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 60
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 55
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 47
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 45
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 469
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 1
+        },
+        {
+          "id": "english.",
+          "data": "english.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 353
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 328
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 313
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 308
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 300
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 297
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 294
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 293
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 287
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 284
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 282
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 281
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 261
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 246
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 242
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 240
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 239
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 239
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 219
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 217
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 60
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 18
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 16
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 470
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 458
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 119
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 1
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

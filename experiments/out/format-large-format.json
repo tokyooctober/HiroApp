@@ -1,0 +1,2006 @@
+{
+  "totalRecords": 53,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "The giver",
+      "seriesTitle": [
+        "The Giver Quartet."
+      ],
+      "author": "Lowry, Lois",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008726430?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008726430?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008726430?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300115939,
+          "isbns": [
+            "9780008726430",
+            "0008726434"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Children's Books"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Individuality Fiction.",
+            "Liberty Fiction.",
+            "Social control Fiction.",
+            "Social prediction Fiction.",
+            "Memory Fiction.",
+            "Dystopias Fiction.",
+            "Young adult fiction."
+          ],
+          "physicalDescription": [
+            "xi, 224 pages ; 20 cm."
+          ],
+          "summary": [
+            "\"It is the future. There is no war, no hunger, no pain. No one in the community wants for anything. Everything needed is provided. And at twelve years old, each member of the community has their profession carefully chosen for them by the Committee of Elders. Twelve-year old Jonas has never thought there was anything wrong with his world. But from the moment he is selected as the Receiver of Memory, Jonas discovers that their community is not as perfect as it seems. It is only with the help of the Giver, that Jonas can find what has been lost. And it is only through his personal courage that Jonas finds the strength to do what is right\"--Amazon."
+          ],
+          "notes": [
+            "Originally published: 1993."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205634587,
+          "isbns": [
+            "9781328471222",
+            "1328471225",
+            "9780544336261",
+            "0544336267"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "25th anniversary edition."
+          ],
+          "publisher": [
+            "Boston : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Individuality Fiction.",
+            "Liberty Fiction.",
+            "Social control Fiction.",
+            "Social prediction Fiction.",
+            "Young adult fiction."
+          ],
+          "physicalDescription": [
+            "246 pages : illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Living in a \"perfect\" world without social ills, a boy approaches the time when he will receive a life assignment from the Elders, but his selection leads him to a mysterious man known as the Giver, who reveals the dark secrets behind the utopian facade."
+          ],
+          "notes": [
+            "\"Originally published in hardcover in the United States by Houghton Mifflin Books for Children, an imprint of Houghton Mifflin Harcourt Publishing Company, 1993\"--Title page verso.",
+            "Includes the author's Newbery acceptance speech, and an afterword called \"Ever After.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 14224858,
+          "isbns": [
+            "0547424779",
+            "9780547424774"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston : Houghton Mifflin"
+          ],
+          "publishDate": "2011, c1993.",
+          "subjects": [
+            "Science fiction.",
+            "Individuality Juvenile fiction.",
+            "Liberty Juvenile fiction.",
+            "Social control Juvenile fiction.",
+            "Social prediction Juvenile fiction.",
+            "Memory Juvenile fiction.",
+            "Dystopias Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "197 pages, [12] leaves of plates: illustrations (some color); 22 cm"
+          ],
+          "summary": [
+            "Given his lifetime assignment at the Ceremony of Twelve, Jonas becomes the receiver of memories shared by only one other in his community and discovers the terrible truth about the society in which he lives."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 203642107,
+          "digitalId": "DD04B113-D1BD-4ED3-8C01-BFB3842A771E",
+          "isbns": [
+            "9780544458444"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Dystopias Fiction.",
+            "Memory Fiction.",
+            "Social prediction Fiction.",
+            "Social control Fiction.",
+            "Liberty Fiction.",
+            "Individuality Fiction.",
+            "Science fiction.",
+            "Mystery.",
+            "Science Fiction."
+          ],
+          "summary": [
+            "Soon to be a major motion picture, The Giver, the 1994 Newbery Medal winner, has become one of the most influential novels of our time. The haunting story centers on twelve-year-old Jonas, who lives in a seemingly ideal, if colorless, world of conformity and contentment. Not until he is given his life assignment as the Receiver of Memory does he begin to understand the dark, complex secrets behind his fragile community. This movie tie-in edition features cover art from the movie and exclusive Q&A with members of the cast, including Taylor Swift, Brenton Thwaites and Cameron Monaghan."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203590426,
+          "digitalId": "262CB902-DD12-42A8-9687-B94C87C82A80",
+          "isbns": [
+            "9780007369881"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2012.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Young adult fiction.",
+            "Science fiction.",
+            "Social prediction Juvenile fiction.",
+            "Social control Juvenile fiction.",
+            "Liberty Juvenile fiction.",
+            "Individuality Juvenile fiction.",
+            "Mystery.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In a perfect world, Jonas begins to see the flaws...         THE GIVER is the classic award-winning novel that inspired the dystopian genre and a major motion picture adaptation for 2014 starring Jeff Bridges, Meryl Streep, Katie Holmes and Taylor Swift.         It is the future. There is no war, no hunger, no pain. No one in the community wants for anything. Everything needed is provided. And at twelve years old, each member of the community has their profession carefully chosen for them by the Committee of Elders.         Twelve-year old Jonas has never thought there was anything wrong with his world. But from the moment he is selected as the Receiver of Memory, Jonas discovers that their community is not as perfect as it seems.         It is only with the help of the Giver, that Jonas can find what has been lost. And it is only through his personal courage that Jonas finds the strength to do what is right...         The Giver is the award-winning classic of bravery and adventure that has inspired countless dystopian writers as the forerunner of this genre."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "MG/Middle grades (4th-8th)",
+            "5.7 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 202940933,
+          "isbns": [
+            "078627154X",
+            "9780786271542",
+            "0786271531",
+            "9780786271535"
+          ],
+          "format": {
+            "code": "27",
+            "name": "Large Print"
+          },
+          "edition": [
+            "Large print edition."
+          ],
+          "publisher": [
+            "Waterville, Me. : Thorndike Press",
+            ""
+          ],
+          "publishDate": "2004.",
+          "subjects": [
+            "Control (Psychology) Juvenile fiction.",
+            "Social control Juvenile fiction.",
+            "Ethics Juvenile fiction.",
+            "Large type books."
+          ],
+          "physicalDescription": [
+            "226 pages (large print) ; 21 cm"
+          ],
+          "summary": [
+            "Given his lifetime assignment at the Ceremony of Twelve, Jonas becomes the receiver of memories shared by only one other in his community and discovers the terrible truth about the society in which he lives."
+          ],
+          "notes": [
+            "\"Recommended for middle readers\"--Title page verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Barnyard dance!",
+      "seriesTitle": [
+        "Boynton on board"
+      ],
+      "author": "Boynton, Sandra",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925075?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925075?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925075?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206037040,
+          "isbns": [
+            "9781665925075",
+            "1665925078"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Lap-size edition."
+          ],
+          "publisher": [
+            "New York City : Boynton Bookworks, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Domestic animals Juvenile fiction.",
+            "Dance Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "20 unnumbered pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"Get ready to do-si-do in the barnyard with Sandra Boynton's bestselling, toe-tapping Barnyard Dance!--now available in an oversized lap edition!  Join twirling pigs, fiddle-playing cows, and other unforgettable animals in their barnyard dance! With rhythmic rhyming text, this book is guaranteed to get kids and adults spinning, swinging, and prancing with the high-spirited cast of characters! It's BIG fun from Sandra Boynton in the big, big size of this favorite board book\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Seven lively and beloved board books in quite a wonderful size\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 14641245,
+          "isbns": [
+            "0761166165",
+            "9780761166160"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Large-format edition."
+          ],
+          "publisher": [
+            "New York : Workman Pub.",
+            ""
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Stories in rhyme.",
+            "Domestic animals Juvenile fiction.",
+            "Dance Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "[20] pages: color illustrations; 24 cm."
+          ],
+          "summary": [
+            "A bespectacled fiddle-playing cow and a pig twirling a sheep are featured in a barnyard dance."
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 6882334,
+          "isbns": [
+            "9781563054426",
+            "1563054426 "
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Workman Pub.",
+            ""
+          ],
+          "publishDate": "1993.",
+          "subjects": [
+            "Domestic animals Fiction.",
+            "Dance Fiction.",
+            "Stories in rhyme.",
+            "Domestic animals Juvenile fiction.",
+            "Dance Juvenile fiction.",
+            "Stories in rhyme Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged): color illustrations; 17 cm"
+          ],
+          "summary": [
+            "A bespectacled fiddle-playing cow and a pig twirling a sheep are featured in a barnyard dance. On board pages with a die-cut cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Eek! Halloween!",
+      "seriesTitle": [
+        "Boynton on board"
+      ],
+      "author": "Boynton, Sandra",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665988025?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665988025?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665988025?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300137975,
+          "isbns": [
+            "9781665988025",
+            "1665988029"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Lap-sized editions."
+          ],
+          "publisher": [
+            "New York : Boynton Bookworks",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Halloween Pictorial works Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 24 x 22 cm."
+          ],
+          "summary": [
+            "It's time for Halloween in a board book that's all treat and no tricks from the one and only Sandra Boynton-this holiday favorite is now available in an oversized lap edition. Strange things are happening. One chicken sees a pumpkin with flickering eyes, another spies a mouse of enormous size. They all see a wizard and a witch, and a spooky robot, too. \"What's Going On Here? What Does It Mean? Relax, silly chickens! It's Halloween!\"."
+          ],
+          "notes": [
+            "Board book.",
+            "Originally published: New York: Workman Publishing, 2016."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203209948,
+          "isbns": [
+            "9781523504015",
+            "1523504013"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Large format edition."
+          ],
+          "publisher": [
+            "New York, NY : Workman Publishing Co., Inc.",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Board books.",
+            "Halloween Juvenile fiction.",
+            "Chickens Juvenile fiction.",
+            "Halloween costumes Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "There's a big round moon in a dark, dark sky.  The chickens are nervous.  Do you know why?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202640518,
+          "isbns": [
+            "9780761193005 (board book)",
+            "0761193006 (board book)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Workman Publishing",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Halloween Juvenile fiction.",
+            "Chickens Juvenile fiction.",
+            "Board books.",
+            "Stories in rhyme."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 16 cm"
+          ],
+          "summary": [
+            "\"There's a big round moon in a dark, dark sky. The chickens are nervous. Witches, wizards, robots, and an alarmingly enormous mouse (eek!) are prowling around town tonight, and it's up to the chickens to get to the bottom of it -- that is, if they can uncover their eyes long enough!\"-- Provided by publisher."
+          ],
+          "notes": [
+            "On board pages.",
+            "Board book edition with ISBN 9781665925143 published by Boynton Bookworks, New York City [2023]."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Pajama time!",
+      "seriesTitle": [
+        "Boynton on board"
+      ],
+      "author": "Boynton, Sandra",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925037?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925037?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925037?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206037039,
+          "isbns": [
+            "9781665925037",
+            "1665925035"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Lap-size edition."
+          ],
+          "publisher": [
+            "New York City : Boynton Bookworks, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Pajamas Juvenile fiction.",
+            "Bedtime Juvenile fiction.",
+            "Animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "20 unnumbered pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Animals celebrate pajamas of all colors and kinds."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 14641956,
+          "isbns": [
+            "0761166173",
+            "9780761166177"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Large-format edition."
+          ],
+          "publisher": [
+            "New York : Workman Pub.",
+            ""
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Board books.",
+            "Animals Juvenile fiction.",
+            "Pajamas Juvenile fiction.",
+            "Bedtime Juvenile fiction.",
+            "Stories in rhyme."
+          ],
+          "physicalDescription": [
+            "[22] pages: color illustrations; 24 cm."
+          ],
+          "summary": [
+            "Animals celebrate pajamas of all colors and kinds."
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12997577,
+          "isbns": [
+            "9780761119753",
+            "0761119752"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Workman Pub.",
+            ""
+          ],
+          "publishDate": "2000.",
+          "subjects": [
+            "Animals Juvenile fiction.",
+            "Pajamas Juvenile fiction.",
+            "Bedtime Juvenile fiction.",
+            "Animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged): color illustrations; 16 cm"
+          ],
+          "notes": [
+            "On board pages with a die-cut cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Lost species",
+      "author": "French, Jess",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526361394?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526361394?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526361394?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300195079,
+          "otherAuthors": [
+            "Long, Daniel (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781526361394",
+            "1526361396"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Wren & Rook"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Extinct animals Pictorial works Juvenile literature.",
+            "Animals Pictorial works Juvenile literature.",
+            "Extinct animals"
+          ],
+          "physicalDescription": [
+            "63 pages : colour illustrations, colour map ; 26 cm"
+          ],
+          "summary": [
+            "\"Step into an incredible lost world and marvel at the strange and magnificent creatures that once roamed our Earth. From the awe-inspiring woolly mammoth and the ferocious Spinosaurus to the shy Chinese river dolphin and incredibly rare Pinta Island tortoise 'Lonesome George', meet 35 extinct species and discover how these creatures came under threat. Featuring additional information on 'Lazarus species' (animals declared extinct but which, amazingly, have been rediscovered in the wild), and mass extinction events, including the part we are playing in endangering our wildlife, the book shows young readers that extinction is not simply a part of ancient history - it is happening right now across the planet - but that if we all make some small changes to our lifestyles, our wonderful species can be saved. With beautiful and vibrant illustrations throughout, this stunning large format compendium is a reminder of the remarkable animals we have lost, as well as a celebration of those that have returned from the brink of extinction\"--Amazon."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "What do animals eat?.",
+      "author": "Gorelik, Katerina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780764365140?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780764365140?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780764365140?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205962020,
+          "isbns": [
+            "9780764365140",
+            "0764365142"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Atglen, PA : Schiffer Kids",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Animals Food Juvenile literature.",
+            "Animal behavior Juvenile literature.",
+            "Animal behavior.",
+            "Animals Food."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations, 23 cm"
+          ],
+          "summary": [
+            "Bats eat bugs, pelicans eat fish, gorillas eat leaves, and the fox would like to eat the chickens...Full of fun facts about animals and their diets, this colorful board book shows who eats what in the natural world."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Originally published as Drôles d'animaux Qui mange quoi? by Katerina Gorelik, © Larousse, 2019\"--Back cover.",
+            "\"Curious Creatures\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206044855,
+          "digitalId": "C2B526A5-0A9F-4AE3-A915-4CD2EEF10DF5",
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Atglen : Schiffer Kids"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Nature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "From what they are eating to how they are finding their food, animals are very curious creatures. This large-format board book is full of facts about animals and their diets and is a perfect introduction for toddlers and preschoolers to the \"who eats what\" in the natural world. Discover what wild animals like bats, birds, owls, foxes, hedgehogs wolves, tigers, crocodiles, elephants, gorillas, pelicans, and even polar bears dine on, along with clues about their behavior and way of life. Each spread looks at how animals find meals and what types of food they eat, from carnivores to the herbivores, and builds vocabulary and sight word recognition. Young children will be fascinated by how differently each of these animals finds their food and how each feeds their families. The bold pictures pair with the wildly informative text to capture the interest of little ones and have them asking to read it again and again! Fun family story time book to read aloud or to read independently High-growth topics treated with an original approach for the youngest readers Perfect for preschool and kindergarten students and homeschool curriculums"
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Stuck in the middle",
+      "seriesTitle": [
+        "Difficult Conversations."
+      ],
+      "author": "Tinn-Disbury, Tom",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241575000?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241575000?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241575000?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206053063,
+          "variantTitles": [
+            "Stuck in the middle : a story about separation"
+          ],
+          "isbns": [
+            "9780241575000",
+            "0241575001",
+            "9780744080285",
+            "0744080282"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Dorling Kindersley Limited"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Divorce Pictorial works Juvenile fiction.",
+            "Separation (Psychology) Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"This touching story of separation shows children that, despite being apart, their parents will always be there for them and they will try their best to meet in the middle\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206057706,
+          "digitalId": "00914F05-688B-4437-A423-9FC5E3B415F8",
+          "isbns": [
+            "9780241575000"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Separation (Psychology) Pictorial works Juvenile fiction.",
+            "Divorce Pictorial works Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A touching story that introduces children to separation, following the challenges a family face going through a divorce.   Divorce and separation can be hard on any family and a difficult topic for children to understand, including Tilly. Tilly lives in the mountains with her mummy and daddy. She loves it - there are beautiful views and lots of space to play. The only downside is that she lives some of the time with Mummy on one mountain and the rest of the time with Daddy on another. Even though their mountains are joined by a bridge, Tilly isn't allowed to use it. Instead, Tilly has to walk all the way down one mountain and trek up the next to get between the two houses, which makes her extremely tired and makes her wish that they all lived together. One day, when upset, Tilly decides to fix the old, wobbly bridge in the hope that it will fix her family. Will she succeed?  This touching story for children aged 3-5 features:   - The charming narrative of this book differs from the typically intense and institutional approach to the topic. - Beautiful, immersive illustrations that engage the young readers in the story. - A large format makes it perfect for adults and children to read together. - Two non-fiction pages that teaches families about how to approach this difficult conversation. - One page of professional advice and tips for parents and adults. This moving and sensitively written story gently introduces children to family separation and teaches them how to deal with the emotions surrounding divorce. Beautiful illustrations allow children to immerse themselves in the book, alongside the informative and charming narrative which provides a gentle approach to this sensitive subject. The second book in Tom Tinn-Disbury's Difficult Conversations series,  Stuck in the Middle  is ideal for adults and children to share and perfect for starting a difficult conversation with a little one.  At DK, we believe in the power of discovery.   So why stop there?  The Difficult Conversations  series gently introduces sensitive topics to help children understand them a little better. Stuck in the Middle is the second book in the series, so why not try  Lost in the Clouds , a gentle story to help children understand the difficult topic of grief."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Forgotten beasts : amazing creatures that once roamed the Earth",
+      "author": "Sewell, Matt",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781843653936?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781843653936?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781843653936?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206026321,
+          "isbns": [
+            "9781843653936",
+            "1843653931"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Pavilion Children's Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Animals, Fossil Juvenile literature.",
+            "Dinosaurs Juvenile literature.",
+            "Reptiles Juvenile literature.",
+            "Fossils Juvenile literature.",
+            "Dinosaurs Miscellanea Juvenile literature."
+          ],
+          "physicalDescription": [
+            "96 pages : colour illustrations ; 31 cm"
+          ],
+          "summary": [
+            "Matt Sewell's follow-up to the mega-hit Dinosaurs is a beautifully-illustrated large format look at the amazing beasts that time forgot - from the relatively well known, such as the sabre-toothed tiger and woolly mammoth, to the obscure monsters that walked the earth millions of years ago - many now forgotten. New findings are being made every year, and research is showing us exactly how these beasts looked and how they lived."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Incredible : stars of the plant world.",
+      "author": "Flouw, Benjamin, 1986-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9782408049898?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9782408049898?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9782408049898?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300029067,
+          "otherTitles": [
+            "Grandiose. English"
+          ],
+          "variantTitles": [
+            "Stars of the plant world"
+          ],
+          "otherAuthors": [
+            "Hardenberg, Wendeline A., translator."
+          ],
+          "isbns": [
+            "9782408049898",
+            "240804989X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First English-language edition."
+          ],
+          "publisher": [
+            "Montrouge, France : Twirl"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Plants Juvenile literature.",
+            "Trees Juvenile literature.",
+            "Plants Miscellanea Juvenile literature.",
+            "Trees Miscellanea Juvenile literature."
+          ],
+          "physicalDescription": [
+            "45 pages : color illustrations, color map ; 34 cm"
+          ],
+          "summary": [
+            "Discover the most unusual and impressive plants on Earth! Towering sequoias, giant Saguaro cacti, prehistoric plants, incredible palms and many more fill the pages of this large format book. The detailed illustrations are accompanied by fascinating facts about each plant."
+          ],
+          "contents": [
+            "Helpful words to know -- Forest giants. Coastal redwood ; Mountain ash -- A trunk bigger than a house. Baobab ; Montezuma cypress ; Banyan -- Ancient ones. King's holly ; Great Basin bristlecone pine ; Norway spruce -- Big and prickly. Saguaro ; Elephant cactus -- In water. Gulfweed ; Furbelow ; Giant kelp -- Giant leaves. Royal raffia palm ; Welwitschia ; Giant rhubarb ; Queen Victoria's water lily -- Exceptional flowers. Titan arum ; Rafflesia ; Talipot palm -- Enormous fruits and seeds. Sea heart ; Sea coconut ; Jackfruit tree --To the max!. Winter squash ; Zucchini ; Cabbage -- Spreading out. Quaking aspen ; Neptune grass ; Sacred fig -- Long vines. Guyanese bauhinia ; Pitcher plant ; Swiss cheese plant -- Fast growers. Titanka ; Bamboo ; Sensitive plant --Out of this world. Canary Islands dragon tree ; Jackal food ; Desert rose ; Black bat flower -- Prehistoric plants. Tree fern ; Mexican giant horsetail ; Gingko ; Monkey puzzle tree -- In extreme conditions. Cypress-pine ; Arctic willow ; Red mangrove -- Solitary. Wood's cycad ; Tree of Ténéré ; Campbell Island Sitka spruce -- Map."
+          ],
+          "notes": [
+            "\"Originally published in France by Éditions Milan, Toulouse, in 2019 under the title Grandiose: Les Végétaux Les Plus Fous\"--Page facing title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Encyclopedia of undersea life for young readers",
+      "author": "Jarosova, Bohdana",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788000074474?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788000074474?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788000074474?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300127880,
+          "otherAuthors": [
+            "Tůma, Tomáš, illustrator."
+          ],
+          "isbns": [
+            "9788000074474",
+            "8000074478"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Prague, Czech Republic : B4U Publishing for Albatros"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Marine animals Encyclopedias, Juvenile."
+          ],
+          "physicalDescription": [
+            "47 pages : colour illustrations ; 39 cm"
+          ],
+          "summary": [
+            "As the fourth book in the Encyclopedias for Young Readers series, this large-format encyclopedia invites children to dive into the vast and colorful world of oceans and seas. Covering the Pacific, Atlantic, Arctic, and Indian Oceans, it introduces young readers to the wonders of undersea life, from vibrant coral reefs teeming with life to the strange, deep-sea creatures that glide through the darkest depths. With stunning visuals and engaging facts, kids will encounter everything from the sharp teeth of sharks to the playful antics of clownfish, learning about the incredible variety of life hidden beneath the waves."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The story of portraits : 40,000 years of the human face",
+      "author": "Manning, Mick",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781445190754?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781445190754?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781445190754?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300151469,
+          "otherAuthors": [
+            "Granström, Brita, author."
+          ],
+          "isbns": [
+            "9781445190754",
+            "1445190753"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Franklin Watts"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Portraits History Juvenile literature."
+          ],
+          "physicalDescription": [
+            "87 pages : colour illustrations ; 31 cm"
+          ],
+          "summary": [
+            "The Story of Portraits' begins with an ivory sculpture of a female head carved during the last ice age, and takes the reader through to the modern day, with iconic photos, including the first ever photographic selfie, and sculpture. Mick Manning and Brita Granström take you on a tour of their personally selected gallery which showcases the work of some of the world's most famous portrait artists and a few less well-known ones. The artists featured include Rembrandt, Picasso, da Vinci, Vermeer, Kahlo, Klimt, Sekoto, Warhol and more. The friendly text and illustrations help children to appreciate the art, highlighting interesting biographical details and picking out key details to spot. The book's large format means the art is reproduced on a wonderfully impactful scale. This really is a book to treasure."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The tale of Mr. Jeremy Fisher",
+      "seriesTitle": [
+        "Beatrix Potter."
+      ],
+      "author": "Potter, Beatrix, 1866-1943",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241794609?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241794609?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241794609?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300194822,
+          "variantTitles": [
+            "Tale of Mister Jeremy Fisher"
+          ],
+          "isbns": [
+            "9780241794609",
+            "0241794609",
+            "9780241794593"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "120th anniversary edition."
+          ],
+          "publisher": [
+            "London : Frederick Warne",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Frogs Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Fishing stories.",
+            "Picture books Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 29 cm"
+          ],
+          "summary": [
+            "\"Once upon a time, there was a frog called Mr. Jeremy Fisher; he lived in a little damp house amongst the buttercups at the edge of a pond. Jeremy Fisher sets off to catch some minnows for his dinner - but his fishing trip doesn't quite go to plan in this charming and iconic Beatrix Potter tale. Now available in this new large format, perfect for families to read and enjoy together.\"-- abebooks.com."
+          ],
+          "notes": [
+            "\"A picture book edition\"-- Front cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "4-6 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203488756,
+          "digitalId": "89536D28-6E95-4D9E-A3DD-A981BD4ED251",
+          "isbns": [
+            "9780723265665"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Fishing Pictorial works Juvenile fiction.",
+            "Frogs Pictorial works Juvenile fiction.",
+            "Classic Literature."
+          ],
+          "summary": [
+            "This original, authorised version has been lovingly recreated electronically for the first time, with reproductions of Potter's unmistakeable artwork optimised for use on colour devices such as the iPad.     The Tale of Mr. Jeremy Fisher endures as one of Beatrix Potter's most popular and well-loved tales. It tells of an optimistic and slightly accident-prone frog, who sets off on a fishing expedition across the pond, only to find himself bitten on the toe bt a water-beetle, fighting with a stickleback, and eventually nearly eaten by a trout!  The Tale of Jeremy Fisher is number seven in Beatrix Potter's series of 23 little books, the titles of which are as follows:  1 The Tale of Peter Rabbit 2 The Tale of Squirrel Nutkin 3 The Tailor of Gloucester 4 The Tale of Benjamin Bunny 5 The Tale of Two Bad Mice 6 The Tale of Mrs. Tiggy-Winkle 7 The Tale of Mr. Jeremy Fisher 8 The Tale of Tom..."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The tale of Benjamin Bunny",
+      "seriesTitle": [
+        "Tales by Beatrix Potter"
+      ],
+      "author": "Potter, Beatrix, 1866-1943",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781503880467?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781503880467?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781503880467?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206123826,
+          "otherAuthors": [
+            "Rasmussen, Wendy, 1952- illustrator."
+          ],
+          "isbns": [
+            "9781503880467",
+            "150388046X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Parker, Colorado] : The Child's World",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Rabbits Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 25 cm."
+          ],
+          "summary": [
+            "\"Benjamin Bunny is a curious and bold young rabbit. When his cousin, Peter Rabbit, loses his clothes in Mr. McGregor's garden, Benjamin and Peter have quite the adventure retrieving them.\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300036180,
+          "isbns": [
+            "9780241642245",
+            "0241642248",
+            "9780241679173",
+            "0241679176"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "120th anniversary edition."
+          ],
+          "publisher": [
+            "London : Frederick Warne",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Peter Rabbit (Fictitious character) Juvenile fiction.",
+            "Benjamin Bunny (Fictitious character) Juvenile fiction.",
+            "Rabbits Juvenile fiction.",
+            "Cats Juvenile fiction.",
+            "Gardens Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "Discover Peter Rabbit's adventure with his brave cousin, Benjamin Bunny, with a picture book edition of this classic tale. This new large format is perfect for families to share."
+          ],
+          "notes": [
+            "\"A picture book edition\"--Cover.",
+            "First published: 1904."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinoland : search, find and count! : a prehistoric counting book",
+      "author": "Baruzzi, Agnese",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788854415430?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788854415430?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788854415430?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205363957,
+          "variantTitles": [
+            "Search, find and count! : a prehistoric counting book",
+            "Dino land",
+            "Counting for young children activity book"
+          ],
+          "isbns": [
+            "9788854415430",
+            "885441543X",
+            "9788854416260",
+            "8854416266"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Milan, Italy : White Star Kids",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Counting Juvenile literature.",
+            "Picture puzzles Juvenile literature.",
+            "Counting.",
+            "Dinosaurs.",
+            "Picture puzzles."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "In this large format book, children can test their powers of observation and practice doing additions. The most prevalent dinosaurs and reptiles of the Prehistoric Age are depicted in Agnese Baruzzi's richly detailed, full page illustrations. The children must find the animals, count them and write down their results in the designated area on the margin of the page. How many dinosaurs can they find on each page? The correct answers are on the last page of the book so that the children can check their work. Entertaining and educational at the same time, this big book will give hours of fun to its young readers."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The magic of flight",
+      "author": "Davies, Nicola, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781444980691?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781444980691?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781444980691?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300102285,
+          "otherAuthors": [
+            "Scobie, Lorna, illustrator."
+          ],
+          "isbns": [
+            "9781444980691",
+            "1444980696"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Hodder Children's Books",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Animal flight Juvenile literature.",
+            "Wings (Anatomy) Juvenile literature.",
+            "Animal behavior Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 30 cm"
+          ],
+          "summary": [
+            "\"Explore how and why animals fly, and the many ways in which this incredible ability has helped them flourish on our beautiful planet, in this beautiful book from award-winning non-fiction specialist Nicola Davies. Packed with fascinating facts and incredible illustrations to pore over again and again, this stunning large-format hardback is the perfect gift to inspire children to treasure our planet's precious biodiversity\"--Amazon."
+          ],
+          "notes": [
+            "Publication date from publisher's website."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205995924,
+          "otherAuthors": [
+            "Scobie, Lorna, illustrator."
+          ],
+          "isbns": [
+            "9781444948424",
+            "1444948423"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Hodder Children's Books"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Animal flight Juvenile literature.",
+            "Wings (Anatomy) Juvenile literature.",
+            "Animal behavior Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 36 cm"
+          ],
+          "summary": [
+            "Our skies are full of life! From bats and birds to bees and beetles, the air around us is buzzing with amazing flying creatures. Explore how and why animals fly, and the many ways in which this incredible ability has helped them flourish on our beautiful planet."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Colossal : heavyweights of the vehicle universe",
+      "author": "Frattini, Stéphane",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9782408052478?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9782408052478?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9782408052478?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300080526,
+          "otherAuthors": [
+            "Studio Muti (Firm), illustrator."
+          ],
+          "isbns": [
+            "9782408052478",
+            "2408052475"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First English-language edition."
+          ],
+          "publisher": [
+            "Montrouge, France : Twirl"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Vehicles Juvenile literature."
+          ],
+          "physicalDescription": [
+            "41 pages : illustrations (chiefly colour) ; 34 cm"
+          ],
+          "summary": [
+            "Find out about the largest, tallest, and most powerful transportation giants on Earth! The biggest monster truck, the tallest construction cranes, the longest trains, and many more fill the pages of this large format book. The detailed illustrations are accompanied by fascinating facts and figures about each vehicle. -- Supersized spreads with eye-catching illustrations that capture readers' attention -- Bite-sized descriptions about each vehicle -- Educational content reviewed by experts."
+          ],
+          "notes": [
+            "Translation of: Géants : les véhicules et engins les plus fous."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "A ticket for cricket",
+      "seriesTitle": [
+        "I can read it all by myself."
+      ],
+      "author": "Coxe, Molly",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525645467?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525645467?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525645467?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205329268,
+          "isbns": [
+            "9780525645467",
+            "0525645462",
+            "9780525645474",
+            "0525645470",
+            "9780525645481"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Beginner Books, a division of Random House",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Crickets Juvenile fiction.",
+            "Brothers Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "40 unnumbered pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"Little Cricket's wishes he could go someplace where he could play and make noise without waking his new baby brother\"-- Provided by publisher."
+          ],
+          "notes": [
+            "\"Beginner books.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 3-7. Random House."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205359339,
+          "digitalId": "876D461E-0769-4AC2-924A-F0D65426548A",
+          "isbns": [
+            "9780525645481"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Brothers Juvenile fiction.",
+            "Crickets Juvenile fiction.",
+            "Beginning Reader."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A funny Beginner Book about the difficulties of being a big brother-perfect for kids who love bugs and space!  In this charming, rhymed easy-reader, energetic Little Cricket longs to go someplace where he can play and make noise without waking up his new baby sibling. But when Cricket finds a ticket that (literally!) takes him  out of this world, he discovers that the best place to have fun is at home with his family-including Baby Cricket! Ideal for reading alone or reading out loud,  A Ticket for Cricket  is the perfect choice for beginning readers, big brothers or sisters, bug-lovers, budding astronomers, or kids who are all of the above! Originally created by Dr. Seuss himself, Beginner Books are fun, funny, and easy to read. These unjacketed hardcover early readers encourage children to read all on their own, using simple words and illustrations. Smaller than the classic large format Seuss picture books like  The Lorax  and  Oh, The Places You'll Go!,  these portable packages are perfect for practicing readers ages 3-7, and lucky parents too!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The essential Beatrix Potter storytime collection : the original classics featuring Peter Rabbit and his famous friends",
+      "author": "Potter, Beatrix, 1866-1943",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510780941?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510780941?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510780941?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300078430,
+          "otherAuthors": [
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Peter Rabbit.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Benjamin Bunny.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Mr. Tod.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of the Flopsy Bunnies.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Tom Kitten.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Jemima Puddle-Duck.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Mr. Jeremy Fisher.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Gloucester.",
+            "Container of (work): Potter, Beatrix, 1866-1943. Tale of Squirrel Nutkin."
+          ],
+          "isbns": [
+            "9781510780941",
+            "1510780947",
+            "9781510781207"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Sky Pony Press edition."
+          ],
+          "publisher": [
+            "New York : Sky Pony Press"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Peter Rabbit (Fictitious character) Juvenile fiction.",
+            "Rabbits Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Children's stories, English."
+          ],
+          "physicalDescription": [
+            "v, 177 pages : color illustrations ; 26 cm"
+          ],
+          "summary": [
+            "\"The definitive Beatrix Potter stories with the original full-color illustrations in a large format. Perfect for storytelling fun at bedtime or any time! Follow the exciting and whimsical adventures of Peter Rabbit and some of his most famous feathery, furry, and froggy friends! This colossal volume features all four original stories featuring the famous bunny, including The Tale of Peter Rabbit, The Tale of Benjamin Bunny, The Tale of Mr. Tod, and The Tale of the Flopsy Bunnies as well as some of Potter's lesser-known, but equally-as-charming yarns, including The Tale of Tom Kitten, The Tale of Jemima Puddle-Duck, The Tale of Mr. Jeremy Fisher, The Tailor of Gloucester, and The Tale of Squirrel Nutkin. The basis for countless television shows, films, and spin-offs, Peter Rabbit has been hailed as one of the bestselling stories of all time. The original story features a young rebellious rabbit who, despite his mother's wishes, enters the dangerous garden of Mr. McGregor to feast on its endless bounty. From there on out, he gets himself into all kinds of trouble and learns a valuable lesson.\"-- Provided by publisher."
+          ],
+          "contents": [
+            "The tale of Peter Rabbit -- The tale of Benjamin Bunny -- The tale of Mr. Tod -- The tale of the Flopsy Bunnies -- The tale of Tom Kitten -- The tale of  Jemima Puddle-Duck -- The tale of Mr. Jeremy Fisher -- The tailor of Gloucester -- The tale of  Squirrel Nutkin."
+          ],
+          "notes": [
+            "First published 1902-1908 by Frederick Warne & Co."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 6-7."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The Magnificent Book of Horses",
+      "author": "Jackson, Tom",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681887692?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681887692?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681887692?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205528222,
+          "otherAuthors": [
+            "Ferguson, Diana, author.",
+            "Mendez, Simon, illustrator.",
+            "Walerczuk, Val, illustrator."
+          ],
+          "isbns": [
+            "9781681887692",
+            "168188769X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "San Rafael, CA : Weldon Owen Children's Books",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Horses Juvenile literature.",
+            "Horses"
+          ],
+          "physicalDescription": [
+            "80 pages : color illustrations, color map ; 32 cm"
+          ],
+          "summary": [
+            "\"From stocky Shetland ponies and gentle Welsh cobs to energetic Arabian horses and muscular destriers, dozens of horse breeds are depicted in beautiful full-color illustrations. Accompanied by a selection of intriguing facts about each horse, this is a wonderful reference young equestrians will revisit time and again\"--Provided by publisher."
+          ],
+          "contents": [
+            "Camargue -- Akhal-Teke -- Holsteiner -- Connemara -- Przewalski's Horse -- Mustang -- Andalusian -- Arab -- Knabstrupper -- Basuto Pony -- Icelandic Horse -- Falabella -- Shire -- Konik -- Thoroughbred -- Jutland -- Brumby -- Lipizzaner -- Exmoor Pony -- Friesian -- Brabant -- Tennessee Walking Horse -- Quarter Horse -- Shetland Pony -- Criollo -- Haflinger -- Appaloosa -- Welsh Cob -- Percheron -- Marwari -- Don -- Australian Stock Horse -- Orlov Trotter -- American Paint Horse -- Fjord -- Noriker."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300170845,
+          "digitalId": "55E53B0A-787F-4D96-B335-87633CBDC80F",
+          "isbns": [
+            "9798886743340"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Weldon Owen"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This beautifully illustrated series will have you captivated. Stunning illustrations, intriguing facts, and a large format make an engaging reference to revisit time and again. From stocky Shetland ponies and gentle Welsh cobs to energetic Arabian horses and muscular destriers, dozens of horse breeds are depicted in beautiful full-color illustrations. Accompanied by a selection of intriguing facts about each horse, this is a wonderful reference young equestrians will revisit time and again."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "When plants took over the planet",
+      "author": "Thorogood, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711261266?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711261266?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711261266?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205503572,
+          "otherAuthors": [
+            "Grimes, Amy, illustrator."
+          ],
+          "isbns": [
+            "9780711261266",
+            "0711261261",
+            "9780711261297"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : QED Publishing"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Plants Evolution Juvenile literature.",
+            "Plants Evolution."
+          ],
+          "physicalDescription": [
+            "64 pages : colour illustrations ; 31 cm."
+          ],
+          "summary": [
+            "This large-format, highly illustrated book will guide readers through the key aspects of the life of plants, from early ferns which were most certainly munched on by dinosaurs, to carnivorous plants that snap and 'attack' their prey, or powerful medicinal plants that can heal ailments and boost health. Mysterious and wonderful plants and trees are explored through the diverse habitats they're found in, from the Amazon Rainforest to the Sahara Desert, and through the animals found living on them or amongst them. This book also explores how humans use - and abuse - our precious plants, and how reliant we all are on the survival of our planet's network of botanical life"
+          ],
+          "notes": [
+            "Includes index.",
+            "\"The amazing story of plant evolution\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 53
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 14
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 9
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 8
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 7
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 6
+        },
+        {
+          "id": "specialized",
+          "data": "specialized",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 40
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 36
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 36
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 36
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 35
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 32
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 32
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 32
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 31
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 31
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 30
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 30
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 29
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 29
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 27
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 26
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 25
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 25
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 25
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 24
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 4
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 2
+        },
+        {
+          "id": "08lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 8",
+          "count": 1
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 53
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 33
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 3
+        },
+        {
+          "id": "lpt",
+          "data": "Large Print",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

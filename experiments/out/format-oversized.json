@@ -1,0 +1,2613 @@
+{
+  "totalRecords": 72,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "We drive oversize loads",
+      "seriesTitle": [
+        "We deliver it!"
+      ],
+      "author": "Wood, Alix",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788565899?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788565899?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788565899?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300123547,
+          "variantTitles": [
+            "Oversize loads"
+          ],
+          "isbns": [
+            "9781788565899",
+            "1788565894"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Tunbridge Wells, Kent] : Ruby Tuesday Books"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Trucks Juvenile literature.",
+            "Road loads Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"When you need to move a yacht, a building, a train carriage, a wind turbine, or even a space shuttle, who do you call? An oversize load truck driver and their supersize truck! In this fascinating book, young readers will get on the road with the men and women who move truly gigantic loads from A to B. Readers will learn what it's like to drive a load that fills a highway. And they will discover how these drivers plan their routes and liaise with outriders and police escorts who warn other vehicles that the giant load is approaching\"--Publisher."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Encyclopedia of animals : for young readers",
+      "author": "Tůma, Tomáš",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/8000063522?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/8000063522?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/8000063522?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206069164,
+          "variantTitles": [
+            "Encyclopedia of animals for young readers"
+          ],
+          "isbns": [
+            "8000063522",
+            "9788000063522"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Prague, Czech Republic : Albatros",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Animals Encyclopedias, Juvenile.",
+            "Zoology Encyclopedias, Juvenile.",
+            "Oversize books Specimens.",
+            "Animals.",
+            "Zoology."
+          ],
+          "physicalDescription": [
+            "47 pages : color illustrations ; 39 cm"
+          ],
+          "summary": [
+            "Vast numbers of animals live here on Earth, from tiny insects to large mammals. The animal world is varied and quite interesting. This encyclopedia will introduce you to several hundreds of the best known and most interesting animals on the whole planet, and to top it off , it will help you put each one of them into the right group. This book will show you an attractive selection of mammals, rodents, ungulates, primates, predators, cetaceans, birds, fish, cartilaginous fish, amphibians, reptiles, insects, and other animal groups that can be found all over Earth."
+          ],
+          "contents": [
+            "Mammals. Rodents ; Ungulates ; Primates ; Predators ; Cetaceans -- Birds. Songbirds ; Parrots -- Fish. Cartilaginous fish -- Amphibians -- Reptiles. Snakes ; Tortoises ; Lizards -- Invertabrates. Arthropods ; Insects ; Beetles ; Butterflies ; Mollusks."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "This is Ireland",
+      "author": "Sasek, M. (Miroslav), 1916-1980",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0789312247?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0789312247?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0789312247?s=LG"
+      },
+      "records": [
+        {
+          "brn": 200148317,
+          "isbns": [
+            "0789312247",
+            "9780789312242"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Universe"
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Oversize books Specimens.",
+            "Ireland Juvenile literature.",
+            "Ireland Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "59 pages: color illustrations, color map.; 32 cm"
+          ],
+          "summary": [
+            "Describes the city and country sights of Ireland, and includes historical and cultural facts."
+          ],
+          "notes": [
+            "Originally published: [London] : W. H. Allen, [1964]."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "1, 2, 3 to the zoo : a counting book",
+      "author": "Carle, Eric",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1984812564?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1984812564?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1984812564?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204007531,
+          "variantTitles": [
+            "One, two, three to the zoo",
+            "1, 2, 3 to the zoo : an oversized counting book"
+          ],
+          "isbns": [
+            "1984812564",
+            "9781984812568"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[New York?] : World of Eric Carle, an imprint of Penguin Random House, LLC",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Counting Juvenile literature.",
+            "Zoo animals Juvenile literature.",
+            "Board books.",
+            "Board books.",
+            "Counting.",
+            "Zoo animals."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 x 28 cm"
+          ],
+          "summary": [
+            "Count the zoo animals in each train car, from 1 to 10."
+          ],
+          "notes": [
+            "On board pages.",
+            "Subtitle on page 1 of cover: An oversized counting book."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204451275,
+          "digitalId": "2C35817B-C230-453A-9534-2BA0880FDF51",
+          "isbns": [
+            "9780593382783"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Zoo animals Fiction.",
+            "Counting.",
+            "Zoo animals.",
+            "Animals Fiction.",
+            "Counting Fiction.",
+            "Zoo animals Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Joyously colored animals, riding on a train to the zoo, offer youngsters a first introduction to numbers, number sets, addition and counting in this paperback reissue of  Eric Carle's  first picture book."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K",
+            "0 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "You are my I love you",
+      "author": "Cusimano, Maryann K",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217039388?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217039388?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217039388?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300169963,
+          "otherAuthors": [
+            "Ichikawa, Satomi, illustrator."
+          ],
+          "isbns": [
+            "9798217039388"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First paperback edition."
+          ],
+          "publisher": [
+            "New York : Philomel",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Parent and child Juvenile fiction.",
+            "Love Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 25 cm"
+          ],
+          "summary": [
+            "\"A day in the life of parent and child, full of smiles and giggles, messes and meals, boundless energy and well-earned rest-not to mention lots of love. Here, in simple, rhyming verse accompanied by colorful, playful illustrations by world-renowned artist Satomi Ichikawa, is one such day. Share it with others and treasure the memories.\"-- Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203807178,
+          "otherAuthors": [
+            "Ichikawa, Satomi, illustrator."
+          ],
+          "isbns": [
+            "9781984812575",
+            "1984812572"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First oversize board book edition."
+          ],
+          "publisher": [
+            "New York : Philomel Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Parent and child Pictorial works Juvenile fiction.",
+            "Love Pictorial works Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : chiefly color illustrations ; 26 cm"
+          ],
+          "summary": [
+            "The love and affection between a parent and child are captured in an oversized board book edition of a best-selling gentle, rhyming tale in which they share giggles, meals, messes and plenty of love. --Publisher"
+          ],
+          "notes": [
+            "Originally published: 2010.",
+            "On board pages.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 13706687,
+          "otherAuthors": [
+            "Ichikawa, Satomi."
+          ],
+          "isbns": [
+            "039924395X",
+            "9780399243950"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st board book edition."
+          ],
+          "publisher": [
+            "New York : Philomel Books"
+          ],
+          "publishDate": "2001.",
+          "subjects": [
+            "Parent and child Pictorial works Juvenile fiction.",
+            "Love Pictorial works Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "[28] pages: illustrations 16 cm"
+          ],
+          "notes": [
+            "On board pages.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "The very hungry caterpillar",
+      "seriesTitle": [
+        "The world of Eric Carle"
+      ],
+      "author": "Carle, Eric",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525516194?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525516194?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525516194?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203763115,
+          "isbns": [
+            "9780525516194",
+            "0525516190"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "50th anniversary edition."
+          ],
+          "publisher": [
+            "New York, NY : Philomel Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Metamorphosis Juvenile fiction.",
+            "Butterflies Juvenile fiction.",
+            "Caterpillars Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : illustrations (some color) ; 22 x 31 cm"
+          ],
+          "summary": [
+            "Follows the progress of a hungry little caterpillar as he eats his way through a varied and very large quantity of food until, full at last, he forms a cocoon around himself and goes to sleep and wakes up a butterfly."
+          ],
+          "notes": [
+            "Bonus content including an appreciation from Dolly Parton."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 14693079,
+          "isbns": [
+            "9780141338484",
+            "0141338482",
+            "9780141339672",
+            "0141339675"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Oversized board-book edition."
+          ],
+          "publisher": [
+            "London : Puffin Books"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Caterpillars Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "[24] pages: color illustrations; 24 x 28 cm."
+          ],
+          "summary": [
+            "Follows the progress of a hungry little caterpillar as he eats his way through a varied and very large quantity of food until, full at last, he forms a cocoon around himself and goes to sleep. Die-cut pages illustrate what the caterpillar ate on successive days."
+          ],
+          "notes": [
+            "Originally published: 2007.",
+            "On board pages.",
+            "\"A big big board book\"--P. [1] of cover.",
+            "Board book with number and picture blocks."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 8800692,
+          "isbns": [
+            "0241003008",
+            "9780241003008"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Hamish Hamilton"
+          ],
+          "publishDate": "1994.",
+          "subjects": [
+            "Caterpillars Juvenile fiction.",
+            "Toy and movable books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 13 x 19 cm"
+          ],
+          "summary": [
+            "Classic picture book story"
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 9367639,
+          "isbns": [
+            "9780399208539",
+            "0399208534"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "[revised edition]."
+          ],
+          "publisher": [
+            "New York : Philomel Books",
+            ""
+          ],
+          "publishDate": "1987, c1969",
+          "subjects": [
+            "Caterpillars Fiction.",
+            "Metamorphosis Juvenile fiction.",
+            "Butterflies Juvenile fiction.",
+            "Caterpillars Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "[28] pages: color illustrations; 22 x 31 cm"
+          ],
+          "summary": [
+            "Follows the progress of a hungry little caterpillar as he eats his way through a varied and very large quantity of food until, full at last, he forms a cocoon around himself and goes to sleep and wakes up a butterfly."
+          ],
+          "notes": [
+            "First published: Cleveland ; New York : World Publishing , 1969."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 203739463,
+          "digitalId": "DBDF33A3-7592-4B7B-B649-615B32BD5F79",
+          "isbns": [
+            "9781524739553"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Caterpillars Fiction.",
+            "Metamorphosis Juvenile fiction.",
+            "Butterflies Juvenile fiction.",
+            "Caterpillars Juvenile fiction.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The all-time classic picture book, from generation to generation, sold somewhere in the world every 30 seconds! Have you shared it with a child or grandchild in your life?For the first time, Eric Carle's The Very Hungry Caterpillar is now available in e-book format, perfect for storytime anywhere. As an added bonus, it includes read-aloud audio of Eric Carle reading his classic story. This fine audio production pairs perfectly with the classic story, and it makes for a fantastic new way to encounter this famous, famished caterpillar."
+          ],
+          "notes": [
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Eric Carle."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300087614,
+          "digitalId": "4B84A770-C322-4245-86AB-6AAB42285EF0",
+          "otherAuthors": [
+            "Free, Kevin R.."
+          ],
+          "isbns": [
+            "9780593417522 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Classic Literature.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "Brought to life by narrator Kevin R. Free with sound effects and music, this  The Very Hungry Caterpillar  audiobook includes a special read-along track of Eric Carle narrating his all-time classic story.       One sunny Sunday, the caterpillar was hatched out of a tiny egg. He was very hungry. On Monday, he ate through one apple; on Tuesday, he ate through two pears—but still he was hungry. When full at last, he made a cocoon around himself and went to sleep, to wake up a few weeks later wonderfully transformed into a butterfly!     Whether you listen to Kevin R. Free or read-along with Eric Carle, these productions are a fantastic way to encounter Carle's famous, very hungry caterpillar."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 2",
+            "460 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Kevin R. Free."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "We're going on a bear hunt",
+      "seriesTitle": [
+        "A Classic board book."
+      ],
+      "author": "Rosen, Michael, 1946-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529525915?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529525915?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529525915?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300130981,
+          "variantTitles": [
+            "We are going on a bear hunt"
+          ],
+          "otherAuthors": [
+            "Oxenbury, Helen, illustrator."
+          ],
+          "isbns": [
+            "9781529525915",
+            "1529525918"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London, England : Walker Books",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Bear hunting Juvenile fiction.",
+            "Bears Juvenile fiction.",
+            "Families Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "14 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "For brave hunters and bear-lovers, the classic chant-aloud by Michael Rosen and Helen Oxenbury. Follow and join in the family's excitement as they wade through the grass, splash through the river and squelch through the mud in search of a bear. What a surprise awaits them in the cave on the other side of the dark forest!"
+          ],
+          "notes": [
+            "\"Pull, slide and play\"--Cover.",
+            "Originally published: 1989.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203986885,
+          "variantTitles": [
+            "We are going on a bear hunt"
+          ],
+          "otherAuthors": [
+            "Oxenbury, Helen, illustrator."
+          ],
+          "isbns": [
+            "9781534454200",
+            "1534454209"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "30th anniversary edition.",
+            "First Little Simon 30th anniversary board book edition."
+          ],
+          "publisher": [
+            "New York : Little Simon, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Bears Juvenile fiction.",
+            "Bear hunting Juvenile fiction.",
+            "Hunting stories.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 16 x 18 cm"
+          ],
+          "summary": [
+            "A family gamely takes on every obstacle as they walk far and wide in search of a bear."
+          ],
+          "notes": [
+            "Title from cover.",
+            "\"Originally published in Great Britain in 1989 by Walker Books Ltd\"--Page 4 of cover.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300040820,
+          "otherAuthors": [
+            "Oxenbury, Helen, illustrator."
+          ],
+          "isbns": [
+            "9781406377736",
+            "1406377732"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Snowglobe gift book [edition.]."
+          ],
+          "publisher": [
+            "London : Walker Books"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Bear hunting Juvenile fiction.",
+            "Bears Juvenile fiction.",
+            "Hunting stories.",
+            "Bears Pictorial works Juvenile fiction.",
+            "Rhythm Pictorial works Juvenile fiction.",
+            "Bear hunting.",
+            "Bears.",
+            "Hunting stories.",
+            "Rhythm."
+          ],
+          "physicalDescription": [
+            "40 unnumbered pages : color illustrations ; 25 x 28 cm"
+          ],
+          "summary": [
+            "Brave bear hunters go through grass, a river, mud, and other obstacles before the inevitable encounter with the bear forces a headlong retreat."
+          ],
+          "notes": [
+            "Snowglobe insert on front cover of book.",
+            "Originally published: London : Walker Books, 1989."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 202092046,
+          "otherAuthors": [
+            "Oxenbury, Helen, illustrator."
+          ],
+          "isbns": [
+            "9781406363074 (board bk.)",
+            "1406363073 (board bk.)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Walker Books"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Bears Juvenile fiction.",
+            "Hunting stories.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (some color) ; 16 x 18 cm"
+          ],
+          "summary": [
+            "Brave bear hunters go through grass, a river, mud, and other obstacles before the inevitable encounter with the bear forces a headlong retreat."
+          ],
+          "notes": [
+            "Title from cover.",
+            "First published: London : Walker Books Ltd., 1989.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200908446,
+          "variantTitles": [
+            "We are going on a bear hunt"
+          ],
+          "otherAuthors": [
+            "Oxenbury, Helen, illustrator."
+          ],
+          "isbns": [
+            "9781481419246",
+            "1481419242"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon oversize board book edition."
+          ],
+          "publisher": [
+            "New York : Little Simon, an imprint of Simon & Schuster Children's Publishing Division"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Board books.",
+            "Bears Juvenile fiction.",
+            "Hunting Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : illustrations (some color) ; 21 x 28 cm"
+          ],
+          "summary": [
+            "Brave bear hunters go through grass, a river, mud, and other obstacles before the inevitable encounter with the bear forces a headlong retreat."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12653974,
+          "otherAuthors": [
+            "Oxenbury, Helen."
+          ],
+          "isbns": [
+            "0689815816 "
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st Little Simon board book edition."
+          ],
+          "publisher": [
+            "New York : Little Simon"
+          ],
+          "publishDate": "1997, c1989.",
+          "subjects": [
+            "Readers Juvenile literature.",
+            "Reader (Elementary)",
+            "Picture books Juvenile fiction.",
+            "Board books Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "[34] pages: illustrations; 13 x 15 cm."
+          ],
+          "summary": [
+            "A typically wonderful Oxenbury family sets out with gusto on a bear hunt, and the old story comes to life.  Paintings are simply marvelous... Rosen's retelling is spare, with a driving rhythm, and some new sounds add sparkle to the traditional tale. A predictable story in which brave bear hunters go through grass, a river, mud, and other obstacles before the inevitable encounter with the bear forces a headlong retreat."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Time for school, Mouse!",
+      "author": "Numeroff, Laura Joffe",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062427410?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062427410?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062427410?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202574463,
+          "otherAuthors": [
+            "Bond, Felicia, illustrator."
+          ],
+          "isbns": [
+            "9780062427410",
+            "0062427415"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First lap edition."
+          ],
+          "publisher": [
+            "New York, NY : Harper, an imprint of HarperCollinsPublishers"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Mice Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Homework Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 27 x 27 cm"
+          ],
+          "summary": [
+            "It's time for school, but Mouse can't find his homework."
+          ],
+          "notes": [
+            "On board pages.",
+            "Oversized board book."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 13058736,
+          "otherAuthors": [
+            "Bond, Felicia."
+          ],
+          "isbns": [
+            "9780061433078",
+            "0061433071 "
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st edition."
+          ],
+          "publisher": [
+            "New York : Laura Geringer Books/HarperFestival",
+            ""
+          ],
+          "publishDate": "2008.",
+          "subjects": [
+            "Mice Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Homework Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged): color illustrations; 17 x 17 cm"
+          ],
+          "summary": [
+            "It's time for school, but Mouse can't find his homework."
+          ],
+          "notes": [
+            "On board pages.",
+            "\"An if you give-- book\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The very busy spider",
+      "seriesTitle": [
+        "Penguin young readers."
+      ],
+      "author": "Carle, Eric",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593432297?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593432297?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593432297?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205622518,
+          "isbns": [
+            "9780593432297",
+            "0593432290",
+            "9780593432280",
+            "0593432282"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Spiders Juvenile fiction.",
+            "Spider webs Juvenile fiction.",
+            "Domestic animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "The farm animals try to divert a busy little spider from spinning her web, but she persists and produces a thing of both beauty and usefulness. The pictures may be felt as well as seen."
+          ],
+          "notes": [
+            "\"Originally published in hardcover in the United States by Philomel Books, an imprint of Penguin Young Readers Group, a division of Penguin Random House LLC, New York, in 1984.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200190906,
+          "isbns": [
+            "9780448480534",
+            "0448480530",
+            "9780448480527 (paperback)",
+            "0448480522 (paperback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York, USA : Penguin Young Readers, an imprint of Penguin Group (USA) LLC"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Spiders Juvenile fiction.",
+            "Spider webs Juvenile fiction.",
+            "Domestic animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "The farm animals try to divert a busy little spider from spinning her web, but she persists and produces a thing of both beauty and usefulness."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 14267584,
+          "isbns": [
+            "0399256016",
+            "9780399256011"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Oversize board bk. edition."
+          ],
+          "publisher": [
+            "New York : Philomel Books"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Spiders Juvenile fiction.",
+            "Spider webs Juvenile fiction.",
+            "Spiders Fiction.",
+            "Spider webs Fiction."
+          ],
+          "physicalDescription": [
+            "[24] pages: color illustrations; 24 x 28 cm"
+          ],
+          "summary": [
+            "The farm animals try to divert a busy little spider from spinning her web, but she persists and produces a thing of both beauty and usefulness."
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205664186,
+          "digitalId": "B59AFB1E-7389-4675-A6B8-7780C4A9AACE",
+          "otherAuthors": [
+            "Free, Kevin R.."
+          ],
+          "isbns": [
+            "9780593382806"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "edition": [
+            "Enhanced."
+          ],
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Spiders",
+            "Spider webs",
+            "Domestic animals",
+            "Domestic animals Juvenile fiction.",
+            "Spider webs Juvenile fiction.",
+            "Spiders Juvenile fiction.",
+            "Juvenile Literature.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A spider, blown by the wind to a fence post near a farm yard, begins to build her web and cannot be distracted from the task at hand-not by the horse, cow, sheep, goat, or dog. But when the rooster asks if she wants to catch a pesky fly, the busy spider is able to catch it in her web immediately!"
+          ],
+          "notes": [
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "330 Lexile.",
+            "1.3 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Kevin R. Free."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300087642,
+          "digitalId": "A911F1E4-E0E5-4827-9282-A58A6676E4B9",
+          "otherAuthors": [
+            "Free, Kevin R.."
+          ],
+          "isbns": [
+            "9780593417546 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "A spider, blown by the wind to a fence post near a farm yard, begins to build her web and cannot be distracted from the task at hand—not by the horse, cow, sheep, goat, or dog. But when the rooster asks if she wants to catch a pesky fly, the busy spider is able to catch it in her web immediately! \"A beautifully executed work for the very young that satisfies the needs of both visually handicapped and sighted children without losing its artistic integrity.\"            The Horn Book , starred review. \"Both sighted and blind children will follow the action with ease . . . Visually and verbally, this is a winner.\"           Booklist , starred review."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "330 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Kevin R. Free."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A work in progress.",
+      "author": "Lerner, Jarrett",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665905152?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665905152?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665905152?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206041824,
+          "isbns": [
+            "9781665905152",
+            "1665905158"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Aladdin hardcover edition."
+          ],
+          "publisher": [
+            "New York : Aladdin, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Obesity Juvenile fiction.",
+            "Self-esteem Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "361 pages : illustrations ; 22 cm"
+          ],
+          "summary": [
+            "Will is the only round kid in a school full of string beans. So he hides in baggy jeans and oversized hoodies, in the back row during class, and anywhere but the cafeteria during lunch. But shame isn't the only feeling that dominates Will's life. He's also got a crush on a girl named Jules who knows he doesn't have a chance with, string beans only date string beans, but he can't help wondering what if? Will's best shot at attracting Jules's attention is by slaying the Will Monster inside him by changing his eating habits and getting more exercise. But the results are either frustratingly slow or infuriatingly unsuccessful, and Will's shame begins to morph into self-loathing. As he resorts to increasingly drastic measures to transform his appearance, Will meets skateboarder Markus, who helps him see his body and all it contains as an ever-evolving work in progress."
+          ],
+          "notes": [
+            "\"Content Warning: This story contains content that may be triggering for some readers, including, but not limited to, depictions of body shaming, body dysmorphia, binge eating, food restriction, and disordered eating. Please be aware, read with care, and, if needed, refer to the resources listed on page 360.\" -- Title page verso"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 8-12."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206055536,
+          "digitalId": "B899AABE-9AC7-409E-83C6-67DEBDC95CE0",
+          "isbns": [
+            "9781665905176",
+            "9781665905152"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Self-esteem Juvenile fiction.",
+            "Obesity Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A young boy struggles with body image in this poignant middle grade journey to self-acceptance told through prose, verse, and illustration.  Will is the only round kid in a school full of string beans. So he hides...in baggy jeans and oversized hoodies, in the back row during class, and anywhere but the cafeteria during lunch. But shame isn't the only feeling that dominates Will's life. He's also got a crush on a girl named Jules who knows he doesn't have a chance with-string beans only date string beans-but he can't help wondering  what if?    Will's best shot at attracting Jules's attention is by slaying the Will Monster inside him by changing his eating habits and getting more exercise. But the results are either frustratingly slow or infuriatingly unsuccessful, and Will's shame begins to morph into self-loathing.    As he resorts to increasingly drastic measures to transform his appearance, Will meets skateboarder Markus, who helps him see his body and all it contains as an ever-evolving work in progress."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 206054715,
+          "digitalId": "A4CC90BF-B803-4291-AD59-B2DEDCB71D3B",
+          "otherAuthors": [
+            "Yang, Eric."
+          ],
+          "isbns": [
+            "9781797159171"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Simon & Schuster Audio"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Self-esteem Juvenile fiction.",
+            "Obesity Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (2 audio files) : digital"
+          ],
+          "summary": [
+            "A young boy struggles with body image in this poignant middle grade journey to self-acceptance told through prose, verse, and illustration.  Will is the only round kid in a school full of string beans. So he hides...in baggy jeans and oversized hoodies, in the back row during class, and anywhere but the cafeteria during lunch. But shame isn't the only feeling that dominates Will's life. He's also got a crush on a girl named Jules who knows he doesn't have a chance with-string beans only date string beans-but he can't help wondering  what if?    Will's best shot at attracting Jules's attention is by slaying the Will Monster inside him by changing his eating habits and getting more exercise. But the results are either frustratingly slow or infuriatingly unsuccessful, and Will's shame begins to morph into self-loathing.    As he resorts to increasingly drastic measures to transform his appearance, Will meets skateboarder Markus, who helps him see his body and all it contains as an ever-evolving work in progress."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Eric Yang."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Freewater.",
+      "seriesTitle": [
+        "James Patterson presents."
+      ],
+      "author": "Luqman-Dawson, Amina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316056618?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316056618?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316056618?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205707217,
+          "variantTitles": [
+            "Free water"
+          ],
+          "isbns": [
+            "9780316056618",
+            "0316056618",
+            "9780316056748"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Little, Brown and Company",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "African Americans Juvenile fiction.",
+            "Slavery Juvenile fiction.",
+            "Brothers and sisters Juvenile fiction.",
+            "Communities Juvenile fiction.",
+            "Children's stories.",
+            "African Americans."
+          ],
+          "physicalDescription": [
+            "viii, 403 pages ; 20 cm"
+          ],
+          "summary": [
+            "After fleeing the plantation where they were enslaved, siblings Ada and Homer discover the secret community of Freewater, and work with freeborn Sanzi to protect their new home from the encroaching dangers of the outside world."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 8-12. Little, Brown and Company."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205676581,
+          "digitalId": "F9FA31C4-22BC-4653-AF2C-EBD5BA88F918",
+          "isbns": [
+            "9780316447928"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "African Americans.",
+            "Communities Fiction.",
+            "Brothers and sisters Fiction.",
+            "Slavery Fiction.",
+            "African Americans Fiction.",
+            "Communities Juvenile fiction.",
+            "Brothers and sisters Juvenile fiction.",
+            "Slavery Juvenile fiction.",
+            "African Americans Juvenile fiction.",
+            "Historical Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Debut author Amina Luqman-Dawson pens a lyrical, accessible historical middle-grade novel about two enslaved children's escape from a plantation and the many ways they find freedom.  Under the cover of night, twelve-year-old Homer flees Southerland Plantation with his little sister Ada, unwillingly leaving their beloved mother behind. Much as he adores her and fears for her life, Homer knows there's no turning back, not with the overseer on their trail. Through tangled vines, secret doorways, and over a sky bridge, the two find a secret community called Freewater, deep in the swamp. In this society created by formerly enslaved people and some freeborn children, Homer finds new friends, almost forgetting where he came from. But when he learns of a threat that could destroy Freewater, he crafts a plan to find his mother and help his new home. Deeply inspiring and loosely based on the history of maroon communities in the South, this is a striking tale of survival, adventure, friendship, and courage."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 206045679,
+          "digitalId": "B9B31860-6755-4877-A1E4-E843E0C28BC3",
+          "otherAuthors": [
+            "Hite, Cary."
+          ],
+          "isbns": [
+            "9781549163357",
+            "9780316056618"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "subjects": [
+            "Juvenile Fiction.",
+            "African Americans.",
+            "Children's stories.",
+            "Communities Juvenile fiction.",
+            "Brothers and sisters Juvenile fiction.",
+            "Slavery Juvenile fiction.",
+            "African Americans Juvenile fiction.",
+            "African American Fiction.",
+            "Historical Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (8 audio files) : digital"
+          ],
+          "summary": [
+            "Debut author Amina Luqman-Dawson pens a lyrical, accessible historical middle-grade novel about two enslaved children's escape from a plantation and the many ways they find freedom.  Under the cover of night, twelve-year-old Homer flees Southerland Plantation with his little sister Ada, unwillingly leaving their beloved mother behind. Much as he adores her and fears for her life, Homer knows there's no turning back, not with the overseer on their trail. Through tangled vines, secret doorways, and over a sky bridge, the two find a secret community called Freewater, deep in the swamp. In this society created by formerly enslaved people and some freeborn children, Homer finds new friends, almost forgetting where he came from. But when he learns of a threat that could destroy Freewater, he crafts a plan to find his mother and help his new home. Deeply inspiring and loosely based on the history of maroon communities in the South, this is a striking tale of survival, adventure, friendship, and courage."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 3",
+            "MG/Middle grades (4th-8th)",
+            "4.6 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Cary Hite."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Super Dweeb and the pencil of destiny",
+      "seriesTitle": [
+        "Super Dweeb."
+      ],
+      "author": "Bradley, Jess, 1980-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398802452?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398802452?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398802452?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205518891,
+          "isbns": [
+            "9781398802452",
+            "139880245X",
+            "9781789502930",
+            "1789502934"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Arcturus"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Superheroes Comic books, strips, etc.",
+            "Brothers Comic books, strips, etc.",
+            "Pencils Comic books, strips, etc.",
+            "Cartoonists Comic books, strips, etc.",
+            "Friendship Comic books, strips, etc.",
+            "Monsters Comic books, strips, etc.",
+            "Superheroes Juvenile fiction.",
+            "Brothers Juvenile fiction.",
+            "Pencils Juvenile fiction.",
+            "Cartoonists Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Monsters Juvenile fiction.",
+            "Graphic novels England."
+          ],
+          "physicalDescription": [
+            "63 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "Andy wishes that he had awesome powers like the heroes of his homemade comic stories. But instead, he's stuck in the real world, where he has an annoying little brother, a super-weird teacher...and everyone says he's a total dweeb. Then one day, he discovers an oversized, glowing pencil on a school trip to the local toxic waste dump. He starts sketching and finds that he can redraw reality."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205952215,
+          "digitalId": "239C2D5A-12C8-45A4-80F3-BE9329DE4AD0",
+          "isbns": [
+            "9781398817418"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Superheroes.",
+            "Pencils.",
+            "Monsters.",
+            "Graphic novels.",
+            "Friendship.",
+            "Cartoonists.",
+            "Brothers.",
+            "Graphic novels England.",
+            "Monsters Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Cartoonists Juvenile fiction.",
+            "Pencils Juvenile fiction.",
+            "Brothers Juvenile fiction.",
+            "Superheroes Juvenile fiction.",
+            "Monsters Comic books, strips, etc.",
+            "Friendship Comic books, strips, etc.",
+            "Cartoonists Comic books, strips, etc.",
+            "Pencils Comic books, strips, etc.",
+            "Brothers Comic books, strips, etc.",
+            "Superheroes Comic books, strips, etc.",
+            "Humor (Fiction).",
+            "Monsters",
+            "Pencils",
+            "England",
+            "England.",
+            "Superheroes",
+            "Brothers",
+            "Cartoonists",
+            "Friendship",
+            "Graphic novels"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "\"With fast-paced action and absurd humor [...]  Super Dweeb  in an exciting new series for fans of  Captain Underpants  or  Diary of a Wimpy Kid\" -   SCHOOL LIBRARY JOURNAL  \"A funny, fast-paced and zany adventure bursting with colourful cartoon-style illustrations\" -  BOOK TRUST  Andy wishes that he had * awesome powers* , like the heroes of his home-made comic stories. But instead, he's stuck in the real world, where he has an  annoying  little brother, a  super-weird  teacher ... and everyone says he's a total  dweeb . Then one day, he discovers an  oversized, glowing pencil  on a school trip to the local toxic waste dump. He starts sketching and finds that he can redraw reality. Now, thanks to the power of doodling, Andy can bring to life anything that he can imagine, erase his problems, and doodle his way of sticky situations. He's not just a dweeb ... he's a  SUPER DWEEB ! Even Mona, the ice-cool new girl at school, seems impressed. But there's a twist in the tale.. because everything goes very wrong when little brother Oscar does some doodling of his own. Now there's a  scribble monster  on the loose! Run for it, Andy! The first of the hilarious new  Super Dweeb  series, this unpredictable, anarchic adventure story will have kids rolling on the floor. Featuring comic-strip-style storytelling in full-color, this chapter book is perfect for readers aged 7-9."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "270 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Leave it to Plum!",
+      "author": "Phelan, Matt",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063079168?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063079168?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063079168?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205811962,
+          "isbns": [
+            "9780063079168",
+            "006307916X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Greenwillow Books, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Peafowl Juvenile fiction.",
+            "Dasyuridae Juvenile fiction.",
+            "Zoos Juvenile fiction.",
+            "Theft Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "114 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Every day at the Athensville Zoo the peacocks are allowed to wander freely among the visitors, delighting and guiding kids and grownups alike, and kind, curious Plum is the peacock most proud of their responsibility. But Itch the ningbing--a type of very small marsupial--doesn't understand why those birdbrains should get so much freedom while he's all cooped up. So he plots and plots, sure that he will escape and become the zoo ambassador!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205770075,
+          "digitalId": "AB694EC3-C135-4393-8FA6-F26CC9987C81",
+          "isbns": [
+            "9780063079199"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "When a small mammal with an oversized ego tries to take over the zoo, just leave it to the big-hearted peacock Plum to save the day! From award-winning author Matt Phelan, the creator of Knights vs. Dinosaurs and its two sequels, Leave It to Plum! is a highly illustrated young middle grade novel perfect for reluctant readers and animal lovers everywhere.   Young Plum is one of the peacock ambassadors for the Athensville Zoo. Every day the peacocks are allowed to wander freely among the zoo's visitors, delighting and guiding kids and grown-ups alike. The peacocks are very proud of their responsibility; none so much as kind, curious Plum.  But Itch the ningbing-a type of very small marsupial-doesn't understand why those birdbrains should get so much freedom while he's all cooped up. So he plots and plots, sure that he will escape and become the zoo ambassador!  With short chapters and energetic black-and-white illustrations, award-winning author Matt Phelan's Leave It to Plum! is a highly illustrated young middle grade novel full of warmth and humor. The first hilarious story in a duology about a young peacock with a big heart, a small mammal with a big ego, and the busy zoo they both live in as a must-have for fans of the Princess in Black and Mercy Watson series."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205768925,
+          "digitalId": "18351EA7-0FC9-4FD9-8A2D-11D2B5712F64",
+          "otherAuthors": [
+            "Glick, Maxwell."
+          ],
+          "isbns": [
+            "9780063249653"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Greenwillow Books"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Peafowl",
+            "Zoos"
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "When a small mammal with an oversized ego tries to take over the zoo, just leave it to the big-hearted peacock Plum to save the day! From award-winning author Matt Phelan, the creator of Knights vs. Dinosaurs and its two sequels, Leave It to Plum! is a young middle grade novel perfect for reluctant readers and animal lovers everywhere.   Young Plum is one of the peacock ambassadors for the Athensville Zoo. Every day the peacocks are allowed to wander freely among the zoo's visitors, delighting and guiding kids and grown-ups alike. The peacocks are very proud of their responsibility; none so much as kind, curious Plum.  But Itch the ningbing-a type of very small marsupial-doesn't understand why those birdbrains should get so much freedom while he's all cooped up. So he plots and plots, sure that he will escape and become the zoo ambassador!  With short chapters, award-winning author Matt Phelan's Leave It to Plum! is a young middle grade novel full of warmth and humor. The first hilarious story in a duology about a young peacock with a big heart, a small mammal with a big ego, and the busy zoo they both live in as a must-have for fans of the Princess in Black and Mercy Watson series."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Maxwell Glick."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Breathe a rainbow : with 8 calming textures to trace with your finger",
+      "seriesTitle": [
+        "Breathe-along book"
+      ],
+      "author": "Koon, Julie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419780431?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419780431?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419780431?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300189190,
+          "variantTitles": [
+            "With 8 calming textures to trace with your finger",
+            "With eight calming textures to trace with your finger"
+          ],
+          "otherAuthors": [
+            "Greenberg, Melissa Nelson, book designer.",
+            "Afendi, Azalea (book designer), book designer."
+          ],
+          "isbns": [
+            "9781419780431",
+            "1419780433"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Abrams Appleseed, an imprint of ABRAMS",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Anger in children Juvenile literature.",
+            "Anxiety Juvenile literature.",
+            "Emotions Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 21 cm"
+          ],
+          "summary": [
+            "\"This oversize board book with die-cuts combines textured calmingstrips and deep-breathing exercises to encourage mindfulness. With inspiring affirmations and a textured calming strip for kids to trace with their fingertips on each spread, this is a wonderful playroomor classroom tool to help lessen anxiety, anger, overstimulation, and many more big emotions little ones may not yet understand how to identify, describe, or regulate.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "\"Book design by Melissa N. Greenberg and Azalea Afendi.\"-- Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "0-3 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300194396,
+          "digitalId": "1130535C-2C26-45F1-B31A-5C7D9D7E94AB",
+          "variantTitles": [
+            "With 8 calming textures to trace with your finger",
+            "With eight calming textures to trace with your finger"
+          ],
+          "isbns": [
+            "9798896843818"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Abrams Appleseed"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Anger in children Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Anxiety Juvenile literature.",
+            "Health & Fitness.",
+            "Emotions Juvenile literature.",
+            "Sociology."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Breathe in . . . and breathe out . . . with this unique, interactive board book that offers mindful breathing exercises and calming textures for children to trace with their fingers as they inhale and exhale This unique, interactive board book combines textured calming strips and deep-breathing exercises to encourage mindfulness. With inspiring affirmations and a textured calming strip for kids to trace with their fingertips on each spread, this is a wonderful playroom or classroom tool to help lessen anxiety, anger, overstimulation, and many more big emotions little ones may not yet understand how to identify, describe, or regulate. If you feel stuck in the mud, breathe in and out as you trace the outline of a bright flower's petals. If you feel your worries whirl and swirl, breathe in and out as you trace textured ocean waves. Other shapes include a rainbow, a star, a butterfly's wings, mountain tops, a swirling breeze, and a heart."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "First 101 animal words",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781639623112?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781639623112?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781639623112?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300119209,
+          "variantTitles": [
+            "First one hundred one animal words",
+            "First one hundred and one animal words"
+          ],
+          "otherAuthors": [
+            "Garófoli, Viviana, illustrator."
+          ],
+          "isbns": [
+            "9781639623112",
+            "1639623116"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Honesdale, Pennsylvania : Highlights Press",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Vocabulary Juvenile literature.",
+            "Animals Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 26 cm"
+          ],
+          "summary": [
+            "Encourage early learning with 101 essential animal words and photos, in an oversize board book filled with photos of animals on the farm, in the ocean, in the jungle and more, and 30 sturdy flaps to lift to reveal surprises."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "\"A lift-the-flap hide-and-seek game with 30 flaps.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Barnyard dance!",
+      "seriesTitle": [
+        "Boynton on board"
+      ],
+      "author": "Boynton, Sandra",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925075?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925075?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665925075?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206037040,
+          "isbns": [
+            "9781665925075",
+            "1665925078"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Lap-size edition."
+          ],
+          "publisher": [
+            "New York City : Boynton Bookworks, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Domestic animals Juvenile fiction.",
+            "Dance Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "20 unnumbered pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"Get ready to do-si-do in the barnyard with Sandra Boynton's bestselling, toe-tapping Barnyard Dance!--now available in an oversized lap edition!  Join twirling pigs, fiddle-playing cows, and other unforgettable animals in their barnyard dance! With rhythmic rhyming text, this book is guaranteed to get kids and adults spinning, swinging, and prancing with the high-spirited cast of characters! It's BIG fun from Sandra Boynton in the big, big size of this favorite board book\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Seven lively and beloved board books in quite a wonderful size\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 14641245,
+          "isbns": [
+            "0761166165",
+            "9780761166160"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Large-format edition."
+          ],
+          "publisher": [
+            "New York : Workman Pub.",
+            ""
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Stories in rhyme.",
+            "Domestic animals Juvenile fiction.",
+            "Dance Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "[20] pages: color illustrations; 24 cm."
+          ],
+          "summary": [
+            "A bespectacled fiddle-playing cow and a pig twirling a sheep are featured in a barnyard dance."
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 6882334,
+          "isbns": [
+            "9781563054426",
+            "1563054426 "
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Workman Pub.",
+            ""
+          ],
+          "publishDate": "1993.",
+          "subjects": [
+            "Domestic animals Fiction.",
+            "Dance Fiction.",
+            "Stories in rhyme.",
+            "Domestic animals Juvenile fiction.",
+            "Dance Juvenile fiction.",
+            "Stories in rhyme Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged): color illustrations; 17 cm"
+          ],
+          "summary": [
+            "A bespectacled fiddle-playing cow and a pig twirling a sheep are featured in a barnyard dance. On board pages with a die-cut cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The magnificent book of ocean creatures",
+      "author": "Jackson, Tom",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798886741193?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798886741193?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798886741193?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300029425,
+          "variantTitles": [
+            "Book of ocean creatures",
+            "Ocean creatures"
+          ],
+          "otherAuthors": [
+            "Walerczuk, Val, illustrator."
+          ],
+          "isbns": [
+            "9798886741193"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "San Rafael, CA : Weldon Owen Children's Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Marine animals Juvenile literature."
+          ],
+          "physicalDescription": [
+            "80 pages : colour illustrations, colour map ; 31 cm"
+          ],
+          "summary": [
+            "\"The world's oceans are teeming with amazing animals, and The Magnificent Book of Ocean Creatures brings this undersea world into the reader's hands with dazzling, oversized illustrations and captivating facts. Each of the 36 animals is presented in full color, accompanied by interesting information about how it survives in its natural habitat. Key characteristics of each creature are also presented in fact boxes for easy reference. From the reclusive giant squid and the awe-inspiring blue whale to the colorful insulamon freshwater crab and the mysterious oarfish, the magnificent creatures of the oceans lie in wait on these pages\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300084622,
+          "digitalId": "DF95E85C-78C7-49C3-99FF-9E1192C287E0",
+          "isbns": [
+            "9798886741209 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Weldon Owen"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Nature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Dive into the world's oceans, exploring sunlit coral reefs, wide open seas, and the murky depths to meet 36 magnificent ocean creatures.  Take a journey through oceans and seas to find 36 magnificent marine animals, from the immense blue whale to speedy flying fish. See fierce predators like the great white shark and orca, as well as truly bizarre creatures such as the giant clam and the sea slug. During your watery adventure you can find out how whales talk to each other, where sea turtles sleep, and how sea stars eat. Marvel at the hooded seal's extraordinary air bag and at the humpback anglerfish's glowing 'fishing rod'. Learn how the sea otter uses a tool to crack open shellfish and why the queen parrotfish is an expert reef-cleaner.    With stunning illustrations, intriguing facts, and full-color, poster-sized illustrations, this is the ideal reference for all the family.    36 OCEAN CREATURES: Learn about dozens of ocean creatures, from the spiny lobster to the majestic sailfish.    BEAUTIFULLY ILLUSTRATED: Vibrant, detailed images bring these fascinating ocean creatures to life.    FASCINATING FACTS: Includes hundreds of illuminating facts in an easy-to-read format that will enthrall animal-lovers of all ages.    MAP OF THE OCEAN WORLD: A full-page map shows where each ocean creature is found.    COLLECT THE SERIES: More beautifully illustrated compendiums for all ages include  The Magnificent Book of Cats ,  The Magnificent Book of Birds ,  The Magnificent Book of Horses ,  The Magnificent Book of Extinct Animals , and  The Magnificent Book of Sharks ."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Norton and the bear",
+      "author": "Evans, Gabriel, 1991-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781922610447?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781922610447?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781922610447?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205737174,
+          "isbns": [
+            "9781922610447",
+            "1922610445"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First US edition."
+          ],
+          "publisher": [
+            "Victoria, Australia : Berbay Publishing"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Dogs Juvenile fiction.",
+            "Bears Juvenile fiction.",
+            "Clothing and dress Juvenile fiction.",
+            "Individuality Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 23 x 28 cm"
+          ],
+          "summary": [
+            "Annoyed with an oversized bear who likes to copy his style, fashion-conscious Norton the dog goes to increasingly ridiculous lengths in order to maintain his individuality."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Ukraine",
+      "seriesTitle": [
+        "Countries"
+      ],
+      "author": "Van, R. L",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1532199759?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1532199759?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1532199759?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205952877,
+          "isbns": [
+            "1532199759",
+            "9781532199752"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Big Buddy Books, an imprint of Abdo Publishing",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Ukraine Juvenile literature.",
+            "Ukraine History Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 21 x 25 cm."
+          ],
+          "summary": [
+            "\"Welcome to Ukraine--home of the Lemurian Lake, the National Chernobyl Museum, and vast fields of grain! Informative, easy-to-read text and oversize scenic photos draw in readers as they learn about Ukraine's history, government, major cities, land features, natural resources, culture, and more! Maps, a timeline with photos, and a facts page that includes major statistics complement the text. Aligned to Common Core standards and correlated to state standards. Big Buddy Books is an imprint of Abdo Publishing, a division of ABDO\"--Amazon."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Whole whale",
+      "author": "Yin, Karen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798888592144?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798888592144?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798888592144?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300084917,
+          "otherAuthors": [
+            "Verhoeff, Nelleke, illustrator."
+          ],
+          "isbns": [
+            "9798888592144"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Board book edition."
+          ],
+          "publisher": [
+            "West Concord, MA : Barefoot Books",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Counting Juvenile fiction.",
+            "Animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 23 cm"
+          ],
+          "summary": [
+            "One hundred animals try to squeeze into the pages of this rhyming tale. Includes a list of the animals."
+          ],
+          "notes": [
+            "Includes two fold-out pages.",
+            "On board pages.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 72
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 12
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 9
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 3
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 3
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 2
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 72
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 48
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 42
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 40
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 39
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 39
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 38
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 36
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 36
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 33
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 31
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 30
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 29
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 29
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 27
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 25
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 24
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 23
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 21
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 20
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 19
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 7
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 1
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 72
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 52
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 8
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 1
+        },
+        {
+          "id": "bdv",
+          "data": "Blu-ray + DVD",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

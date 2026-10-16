@@ -1,0 +1,1438 @@
+{
+  "totalRecords": 1760,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Tiger",
+      "seriesTitle": [
+        "Apex predators (AV2)"
+      ],
+      "author": "Watt, E. Melanie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791156756?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791156756?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791156756?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300002884,
+          "isbns": [
+            "9781791156756",
+            "1791156754",
+            "9781791156763",
+            "1791156762"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : AV2",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 26 cm."
+          ],
+          "summary": [
+            "\"The tiger is the world's largest species of cat. The biggest tiger, found in eastern Russia and northeastern China, are known as Amur, or Siberian, tigers. Find our more about this top predator in Tiger. one of the title in Apex Predators. This series takes readers to the top of the food chain, exploring a major predator's habitat, diet, adaptations, cultural importance, and much more\"--Back cover."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger",
+      "seriesTitle": [
+        "Eyediscover."
+      ],
+      "author": "Koran, Maria",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791139964?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791139964?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791139964?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205528600,
+          "otherAuthors": [
+            "Willis, John, author."
+          ],
+          "isbns": [
+            "9781791139964",
+            "1791139965"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : AV2",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Tiger Juvenile literature.",
+            "Animals Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 22 x 25 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger",
+      "seriesTitle": [
+        "What do animals do all day?"
+      ],
+      "author": "Galloway, Fhiona",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526383167?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526383167?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526383167?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205816994,
+          "isbns": [
+            "9781526383167",
+            "1526383160"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Pat-a-Cake"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 19 cm."
+          ],
+          "summary": [
+            "What does a tiger do all day? Wiggle its stripy head and lift the flaps to find out! Join the busy tiger as it goes about its daily life. Turn the wheel to wiggle its head and learn about why a tiger has stripes, then join the tigers for a swim and find out what noise they make. With a lift-the-flap game at the end and a fun 'Did You Know?' fact on every page, this bright, interactive book will teach little ones what tigers do all day."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages with die-cut hole in cover.",
+            "\"Turn the wheel and lift the flaps!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger",
+      "seriesTitle": [
+        "Eye on the wild"
+      ],
+      "author": "Eszterhas, Suzi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781847806567?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781847806567?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781847806567?s=LG"
+      },
+      "records": [
+        {
+          "brn": 201574899,
+          "isbns": [
+            "9781847806567 (paperback)",
+            "1847806562 (paperback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Frances Lincoln Children's Books"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Tiger cubs Juvenile literature.",
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 26 cm."
+          ],
+          "summary": [
+            "Text and close-up photos follow three young tiger cubs as they grow from birth to adulthood in the forests of India."
+          ],
+          "notes": [
+            "Originally published: London : Frances Lincoln Children's Books, 2014.",
+            "\"Janetta Otter-Barry books\"--Page facing title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger",
+      "author": "Allen, Judy",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1564020835?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1564020835?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1564020835?s=LG"
+      },
+      "records": [
+        {
+          "brn": 6373556,
+          "otherAuthors": [
+            "Humphries, Tudor, illustrator."
+          ],
+          "isbns": [
+            "1564020835 "
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st U.S. edition."
+          ],
+          "publisher": [
+            "Cambridge, Mass. : Candlewick Press"
+          ],
+          "publishDate": "1992.",
+          "subjects": [
+            "Tigers Fiction.",
+            "China Fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged): color illustrations; 29 cm"
+          ],
+          "summary": [
+            "When the villagers hire a famous hunter to kill the tiger rumored to live in the woods, only one young boy wishes to protect the animal; and, in fact, the hunter knows more than one way to shoot a tiger."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger",
+      "seriesTitle": [
+        "Five ancestors ; 1"
+      ],
+      "author": "Stone, Jeff",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0375830723?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0375830723?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0375830723?s=LG"
+      },
+      "records": [
+        {
+          "brn": 12499275,
+          "isbns": [
+            "0375830723",
+            "037593071X",
+            "0375830715"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st edition."
+          ],
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Martial arts Fiction.",
+            "Brothers Fiction.",
+            "Human-animal relationships Fiction."
+          ],
+          "physicalDescription": [
+            "196 pages; 22 cm."
+          ],
+          "summary": [
+            "Five young warrior-monk brothers survive an insurrection and must use the ancient arts to avenge their Grandmaster."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Bengal tiger",
+      "seriesTitle": [
+        "Asian animals"
+      ],
+      "author": "Hansen, Grace",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781098205928?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781098205928?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781098205928?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205339666,
+          "isbns": [
+            "9781098205928",
+            "1098205928",
+            "9781098206482",
+            "9781098206765"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Abdo Kids Jumbo, an imprint of Abdo Kids",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Bengal tiger Juvenile literature.",
+            "Tiger Juvenile literature.",
+            "Bengal tiger.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations, color map ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"Bengal tigers are ... Asian animals that mainly live in India. Readers will find out where they can be found on a map, what Bengal tigers look like, what they eat, and a little about their young\"--Publisher marketing."
+          ],
+          "contents": [
+            "Bengal tiger habitat -- Body -- Food & hunting -- Baby Bengal tigers."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger : a first field guide to the big cat with the stripes",
+      "seriesTitle": [
+        "Young zoologist."
+      ],
+      "author": "Helle, Samantha",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993252?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993252?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993252?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300012215,
+          "otherAuthors": [
+            "Agar, Sally, illustrator."
+          ],
+          "isbns": [
+            "9781838993252",
+            "1838993258"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Neon Squad",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Tiger Juvenile literature.",
+            "Animals Juvenile literature.",
+            "Zoos Juvenile literature."
+          ],
+          "physicalDescription": [
+            "29 pages : colour illustrations ; 23 cm."
+          ],
+          "summary": [
+            "You might know that tigers are the largest of the big cats, but there's so much more to learn about these incredible predators! Discover why tigers have stripes, what makes them stick out their tongue, and how they can survive in habitats ranging from snowy Siberia to the tropical rainforest of Indonesia. You'll also discover what it takes to become a tiger zoologist - including learning how to track a tiger using its paw prints! Filled with simple science and plenty of animal facts, this book also looks at the conservation challenges these iconic animals face."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tasmanian tiger",
+      "seriesTitle": [
+        "Endlings: the last species"
+      ],
+      "author": "Markovics, Joyce L",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781668909713?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781668909713?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781668909713?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205866768,
+          "isbns": [
+            "9781668909713",
+            "1668909715",
+            "9781668911310",
+            "1668911310"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Ann Arbor, Michigan : Cherry Lake Press",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Thylacine Juvenile literature.",
+            "Extinct animals Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : illustrations (some colour) ; 21 cm."
+          ],
+          "summary": [
+            "\"When animals die out, the last survivor is called an endling. Discover the moving story of the last Tasmanian tiger, how it came to extinction, and the scientists who cared for and studied it. Finally, learn what can be done to protect our incredible wildlife. This book includes a table of contents, glossary of keywords, index, author biography, sidebars, and info about other animals on the brink of extinction\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "老虎 = Tiger | Lao hu = Tiger",
+      "seriesTitle": [
+        "呦呦童. | You you tong."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787121492396?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787121492396?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787121492396?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300196523,
+          "variantTitles": [
+            "Tiger"
+          ],
+          "otherAuthors": [
+            "You you tong, editor, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "呦呦童, editor, illustrator."
+          ],
+          "isbns": [
+            "9787121492396",
+            "7121492393"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Dian zi gong ye chu ban she"
+          ],
+          "nativePublisher": [
+            "北京市 : 电子工业出版社"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Tiger Juvenile literature.",
+            "Tiger Behavior Juvenile literature."
+          ],
+          "physicalDescription": [
+            "22 pages : colour illustrations ; 15 x 15 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Siberian tiger",
+      "seriesTitle": [
+        "Animals in the wild (Crabtree Publishing Company)"
+      ],
+      "author": "Whipple, Annette",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781039880771?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781039880771?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781039880771?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300209426,
+          "isbns": [
+            "9781039880771",
+            "1039880770",
+            "9781039884380",
+            "1039884385"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "St. Catharines, Ontario : Crabtree Publishing",
+            ""
+          ],
+          "publishDate": "[2026]",
+          "subjects": [
+            "Siberian tiger Juvenile literature.",
+            "Siberian tiger"
+          ],
+          "physicalDescription": [
+            "48 pages : illustrations (chiefly colour), colour map ; 27 cm."
+          ],
+          "summary": [
+            "\"Get up close and personal with Siberian tigers. Learn about their behaviors, where they live, what they eat, and more. Discover whether these animals are endangered and what's being done to protect them. Vivid photographs and sidebars with intriguing facts help bring these fascinating big cats to life\"--Provided by publisher."
+          ],
+          "contents": [
+            "Meet the Siberian tiger -- What do they look like? -- Home and habitat -- What to eat? -- Siberian tiger behavior -- The next generation -- Siberian tiger conservation."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"A Crabtree Forest book.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger tiger",
+      "author": "Lambert, Jonny",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848694439?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848694439?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848694439?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202834566,
+          "isbns": [
+            "9781848694439",
+            "1848694431",
+            "9781848694446",
+            "184869444X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Little Tiger Press"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Children's stories Pictorial works."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 28 cm"
+          ],
+          "summary": [
+            "Old tiger just wants to relax, snooze and do very little. But little tiger cub really wants to play! He soon gets old tiger to join him and see things through younger eyes."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "笑笑虎 = The ha-ha tiger | Xiao xiao hu = The ha-ha tiger",
+      "seriesTitle": [
+        "中文世界儿童阅读文库. | Zhong wen shi jie er tong yue du wen ku."
+      ],
+      "author": "高洪波 | Gao, Hongbo",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814929660?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814929660?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814929660?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205322072,
+          "variantTitles": [
+            "Ha-ha tiger"
+          ],
+          "otherAuthors": [
+            "Xu, Kaiyun, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "徐开云, illustrator."
+          ],
+          "isbns": [
+            "9789814929660",
+            "9814929662",
+            "9789815190922 (set)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Cengage Learning Asia Pte Ltd",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Chinese language Readers Juvenile fiction.",
+            "Children's stories, Chinese."
+          ],
+          "physicalDescription": [
+            "28 pages : color illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Partial text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The saber-toothed tiger & the Siberian tiger",
+      "seriesTitle": [
+        "Endangered: lessons from the past."
+      ],
+      "author": "Burns, Jason M., 1978-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781629207650?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781629207650?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781629207650?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206158084,
+          "variantTitles": [
+            "Saber-toothed tiger and the Siberian tiger"
+          ],
+          "isbns": [
+            "9781629207650",
+            "1629207659"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Fremont, CA : Full Tilt Press",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Saber-toothed tigers Juvenile literature.",
+            "Siberian tiger Juvenile literature.",
+            "Extinct animals Juvenile literature.",
+            "Endangered species Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : illustrations (chiefly colour) ; 24 cm."
+          ],
+          "summary": [
+            "\"History has a way of repeating itself. We can watch mistakes happen again, or we can make moves to stop them. Scientists know how amazing animals like the saber-toothed tiger lived and then died out forever. They can also see modern big cats, like the endangered Siberian tiger, are following that same path. How can the past help us learn about the future? Find out what steps are being taken to protect big cats from going extinct\"--Amazon.com."
+          ],
+          "contents": [
+            "Smiling felines -- Big cats, shrinking populations -- Sharing a small space -- Quiz -- Activity."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "How to be an explorer",
+      "author": "Cox, Tiger",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781787081178?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781787081178?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781787081178?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205669536,
+          "variantTitles": [
+            "How to be an explorer : outdoor skills and know-how for young adventurers"
+          ],
+          "isbns": [
+            "9781787081178",
+            "1787081176"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Lewes, East Sussex : Button Books"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Outdoor life Juvenile literature.",
+            "Survival Juvenile literature."
+          ],
+          "physicalDescription": [
+            "127 pages : color illustrations ; 27 cm"
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "What would you rather be? A tiger or a tiger shark?",
+      "seriesTitle": [
+        "Scholastic reader."
+      ],
+      "author": "Pallotta, Jerry",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781339035567?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781339035567?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781339035567?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300147916,
+          "variantTitles": [
+            "Tiger or a tiger shark?"
+          ],
+          "isbns": [
+            "9781339035567",
+            "1339035561",
+            "9781546109884"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Scholastic"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Tiger shark Juvenile literature.",
+            "Tiger Juvenile literature.",
+            "Animal behavior Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 23 cm"
+          ],
+          "summary": [
+            "\"Would you rather prowl with a tiger or swim with a tiger shark? Let's find out! Readers will compare and contrast basic facts about these kid-favorite animals before making the ultimate decision -- which animal would they rather be? Simple language appeals to developing readers, while photo-realistic art will keep animal lovers engaged. This fun new series brings new life to the classic childhood game, Would You Rather! Enjoy this exciting Level 1 Scholastic Reader from the bestselling author of Who Would Win?\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 5-7 Scholastic Inc.",
+            "Grades K-1 Scholastic Inc."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger wild",
+      "author": "Millward, Gwen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205585681,
+          "otherTitles": [
+            "Tiger Lily"
+          ],
+          "isbns": [
+            "9780593118153",
+            "0593118154"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Girls Conduct of life Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Runaway children Juvenile fiction.",
+            "Imaginary companions Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Human behavior Juvenile fiction.",
+            "Tiger",
+            "Human-animal relationships",
+            "Imaginary companions",
+            "Runaway children",
+            "Emotions",
+            "Girls Conduct of life",
+            "Human behavior",
+            "Girls"
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Struggling to keep her emotions in check whenever they get very big, a little girl attempts to resist the naughty impulses of a disruptive imaginary best friend who convinces her to run away on an adventure of endless stomping, jumping, and wild fun."
+          ],
+          "notes": [
+            "\"First published as Tiger Lily in the UK by Egmont UK Ltd. in 2018\"--Page before title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Asiatic lion vs. Bengal tiger",
+      "seriesTitle": [
+        "Animal Battles."
+      ],
+      "author": "Downs, Kieran",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781644877593?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781644877593?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781644877593?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205830196,
+          "variantTitles": [
+            "Asiatic lion versus Bengal tiger"
+          ],
+          "isbns": [
+            "9781644877593",
+            "1644877597",
+            "9781648348754",
+            "1648348750"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, MN : Bellwether Media"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Lion India Juvenile literature.",
+            "Bengal tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"Amazing photography accompanies engaging information about Asiatic lions and Bengal tigers. The combination of high-interest subject matter and light text is intended for students in grades 3 through 7\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205951510,
+          "digitalId": "DCD5EE46-9FB6-4358-9F30-1DFAAE20DA1D",
+          "isbns": [
+            "9781648348051"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Bengal tiger Juvenile literature.",
+            "Lion India Juvenile literature.",
+            "Nature.",
+            "Science.",
+            "India",
+            "Lion",
+            "Bengal tiger"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Asiatic lions dominate the Gir Forest of India. But what would happen if a Bengal tiger encroached on their territory? In this clash of big cats, readers will learn about the secret weapons of these two animals, their attack techniques, and who may win in a battle. Features highlight each animal's weapons, while profiles show each animal's size and habitat. This title is sure to have readers roaring with excitement!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "MG/Middle grades (4th-8th)",
+            "550 Lexile.",
+            "3.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tiger sharks",
+      "seriesTitle": [
+        "World of sharks"
+      ],
+      "author": "Storm, Marysa",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781623107932?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781623107932?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781623107932?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206156821,
+          "isbns": [
+            "9781623107932",
+            "1623107938",
+            "9781644666067",
+            "1644666065"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mankato, Minnesota : Black Rabbit Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Tiger shark Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 23 x 24 cm."
+          ],
+          "summary": [
+            "\"Tiger sharks are . . . animals and . . . eating machines. Let beginning readers dive in and learn all about these creatures through closely leveled text, . . . imagery, and . . . infographics\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Bolt Jr.\"--Front cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206162536,
+          "digitalId": "F7D64721-063B-4084-9285-A0BD2F1AD9D8",
+          "isbns": [
+            "9781623107994"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Mankato : Bolt Jr."
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Wildlife: aquatic creatures: general interest",
+            "Tiger shark",
+            "Tiger shark.",
+            "Tiger shark Juvenile literature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Swimming through warm ocean waters, fearsome tiger sharks are always on the hunt, ready to sink their teeth into any prey that crosses their path. Let early readers dive in and explore these animals' unique body features, food, habitats, and behavior. Up-close, vibrant images reinforce the concepts, and a captivating design keeps reader engaged. Perfect for animal lovers, early reports, STEM and biology lessons, and struggling or reluctant readers. On-page vocabulary definitions, a table of contents, a glossary with pronunciations, further resources, and an index all enhance comprehension in a nonfiction beginning reader format."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 2",
+            "470 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "没有牙齿的大老虎 = The toothless tiger | Mei you ya chi de da lao hu = The toothless tiger",
+      "seriesTitle": [
+        "中文世界儿童阅读文库. | Zhong wen shi jie er tong yue du wen ku."
+      ],
+      "author": "冰子 | Bing, Zi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814915564?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814915564?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789814915564?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205322294,
+          "variantTitles": [
+            "Toothless tiger"
+          ],
+          "otherAuthors": [
+            "Yang, Ge, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "杨格, illustrator."
+          ],
+          "isbns": [
+            "9789814915564",
+            "9814915564",
+            "9789815190922 (set)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Cengage Learning Asia Pte Ltd",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Chinese language Readers Juvenile fiction.",
+            "Children's stories, Chinese."
+          ],
+          "physicalDescription": [
+            "35 pages : color illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Partial text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 1760
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 237
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 136
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 90
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 34
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 26
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 26
+        },
+        {
+          "id": "specialized",
+          "data": "specialized",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 1646
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 91
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 15
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 5
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 3
+        },
+        {
+          "id": "ger",
+          "data": "German",
+          "count": 1
+        },
+        {
+          "id": "pol",
+          "data": "Polish",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 1132
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 1004
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 964
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 941
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 910
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 905
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 885
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 875
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 845
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 841
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 826
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 810
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 787
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 768
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 727
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 718
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 715
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 709
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 633
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 608
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 159
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 89
+        },
+        {
+          "id": "09lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 9",
+          "count": 79
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 78
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 1760
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 495
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 69
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 30
+        },
+        {
+          "id": "mcd",
+          "data": "Music CD",
+          "count": 2
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 1
+        },
+        {
+          "id": "abt",
+          "data": "Audio Book on Cassette",
+          "count": 1
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

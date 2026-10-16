@@ -1,0 +1,1654 @@
+{
+  "totalRecords": 547,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "The last tiger",
+      "author": "Horáček, Petr",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781910959718?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781910959718?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781910959718?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205609354,
+          "isbns": [
+            "9781910959718",
+            "1910959715"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Burley Gate, Herefordshire : Otter-Barry Books"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Captivity Juvenile fiction.",
+            "Liberty Juvenile fiction.",
+            "Hunting stories.",
+            "Zoos Juvenile fiction.",
+            "Escapes Juvenile fiction.",
+            "Picture books.",
+            "Children's stories.",
+            "Tiger",
+            "Liberty",
+            "Picture books for children",
+            "Pride and vanity",
+            "Picture books",
+            "Zoos",
+            "Captivity",
+            "Children's stories"
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "Strong and proud, the tiger is lord of the jungle. But when he's captured by human hunters he realises that what really matters is not strength or power... but freedom. Will the tiger be able to escape and be free again?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger vs. nightmare",
+      "author": "Tetri, Emily",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781626725355?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781626725355?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781626725355?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203780425,
+          "variantTitles": [
+            "Tiger versus nightmare",
+            "Tiger v. nightmare"
+          ],
+          "isbns": [
+            "9781626725355",
+            "1626725357"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : First Second",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Tiger Comic books, strips, etc.",
+            "Nightmares Comic books, strips, etc.",
+            "Monsters Comic books, strips, etc.",
+            "Sleep Comic books, strips, etc.",
+            "Bedtime Comic books, strips, etc.",
+            "Tiger Juvenile literature.",
+            "Nightmares Juvenile fiction.",
+            "Monsters Juvenile fiction.",
+            "Sleep Juvenile fiction.",
+            "Bedtime Juvenile fiction.",
+            "Graphic novels United States."
+          ],
+          "physicalDescription": [
+            "62 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"Tiger is a very lucky kid: she has a monster living under her bed. Every night, Tiger and Monster play games until it's time for lights out. Of course, Monster would never try to scare Tiger--that's not what best friends do. But Monster needs to scare someone...it's a monster, after all. So while Tiger sleeps, Monster scares all of her nightmares away. Thanks to her friend, Tiger has nothing but good dreams. But waiting in the darkness is a nightmare so big and mean that Monster can't fight it alone. Only teamwork and a lot of bravery can chase this nightmare away.\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203836638,
+          "digitalId": "88E65549-AC9F-4210-96CF-F3DDCD727288",
+          "isbns": [
+            "9781250231406 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A 2019 Theodor Seuss Geisel Honor book A 2018  Kirkus Reviews  Best Picture Book of the Year A  School Library Journal  Best Graphic Novel of 2018 Tiger is a very lucky kid: she has a monster living under her bed. Every night, Tiger and Monster play games until it's time for lights out. Of course, Monster would never try to scare Tiger—that's not what best friends do. But Monster needs to scare someone...it's a monster, after all. So while Tiger sleeps, Monster scares all of her nightmares away. Thanks to her friend, Tiger has nothing but good dreams. But waiting in the darkness is a nightmare so big and mean that Monster can't fight it alone. Only teamwork and a lot of bravery can chase this nightmare away. In this charming graphic novel for young readers, cartoonist Emily Tetri proves that unlikely best friends can be an unbeatable team, even agianst the scariest monsters."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "500 Lexile.",
+            "2.1 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A tiger like me",
+      "author": "Engler, Michael, 1961-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781542044561?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781542044561?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781542044561?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205626426,
+          "otherTitles": [
+            "Ich bin ein Tiger English"
+          ],
+          "otherAuthors": [
+            "Tourlonias, Joëlle, 1985- illustrator.",
+            "Watkinson, Laura, translator."
+          ],
+          "isbns": [
+            "9781542044561",
+            "1542044561"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Amazon Crossing Kids",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Imagination Juvenile fiction.",
+            "Families Juvenile fiction.",
+            "Picture books for children.",
+            "Picture books for children.",
+            "Families.",
+            "Imagination.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "A little boy--um, no, a tiger!--tells us all about what he gets up to on an ordinary day: how he wakes up in his tiger den, what he eats for breakfast at his feeding spot, and how little tigers feel when they are wide awake, hungry, thirsty, or in the mood for adventures. But at night, even the wildest of tigers is happy to curl up in bed with Tiger-Mom and Tiger-Dad and become a cuddly little tiger cub."
+          ],
+          "notes": [
+            "Previously published as Ich bin ein Tiger by Annette Betz Verlag in Germany in 2016."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "A tiger without stripes",
+      "author": "Whitbread, Jaimie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781943147717?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781943147717?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781943147717?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205604825,
+          "isbns": [
+            "9781943147717",
+            "194314771X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Seattle, WA : The Innovation Press",
+            ""
+          ],
+          "publishDate": "2020",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Individuality Juvenile fiction.",
+            "Self-esteem Juvenile fiction.",
+            "Picture books for children.",
+            "Individuality.",
+            "Picture books for children.",
+            "Self-esteem.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 26 cm"
+          ],
+          "summary": [
+            "A young tiger born without stripes wonders why she alone is different. As she grows, her feeling of incompleteness draws her on a quest she hopes will make her whole. Will her efforts to earn her stripes pay off, or will she find a surprising answer to the question that has defined her life? -- Amazon.com"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "When a tiger comes to dinner",
+      "author": "Olien, Jessica",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062568298?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062568298?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062568298?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205634572,
+          "isbns": [
+            "9780062568298",
+            "0062568299"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Balzer + Bray, an imprint of HarperCollinsPublishers",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Mice Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Picture books for children.",
+            "Children's stories.",
+            "Picture books for children.",
+            "Children's stories.",
+            "Friendship.",
+            "Mice.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : color illustrations ; 26 cm"
+          ],
+          "summary": [
+            "An interactive picture-book story features a little mouse host who invites readers to help prepare for a visit from an unlikely tiger friend."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-8."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The tiger who came to tea",
+      "author": "Kerr, Judith",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008280581?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008280581?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008280581?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203120483,
+          "isbns": [
+            "9780008280581",
+            "0008280584"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "50 anniversary edition."
+          ],
+          "publisher": [
+            "London : HarperCollins Children's Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Afternoon teas Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 20 cm"
+          ],
+          "summary": [
+            "A tiger comes to tea at Sophie's house and eats and drinks everything in sight, so that there is nothing left for Daddy's supper."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12700136,
+          "isbns": [
+            "0007215991",
+            "0007216009"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Children's Books"
+          ],
+          "publishDate": "2006.",
+          "physicalDescription": [
+            "[28] pages: color illustrations; 28 cm"
+          ],
+          "notes": [
+            "Originally published: London: Collins, 1968."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 203598407,
+          "digitalId": "43A5805D-62CA-41B6-AC3F-2E0C87F917ED",
+          "isbns": [
+            "9780007510580 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Glasgow : HarperCollins"
+          ],
+          "publishDate": "2013.",
+          "subjects": [
+            "Juvenile Nonfiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "READ BY GERALDINE MCEWAN. This classic story has been loved by millions of children since it was first published over 40 years ago. The doorbell rings just as Sophie and her mummy are sitting down to tea. Who could it possibly be? What they certainly don't expect to see at the door is a big furry, stripy tiger!"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "740 Lexile.",
+            "3.2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Family : a peek-through picture book",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593902004?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593902004?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593902004?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300121135,
+          "otherAuthors": [
+            "Hegarty, Patricia, author."
+          ],
+          "isbns": [
+            "9780593902004",
+            "0593902009"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York : Doubleday Books for Young Readers",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Familial behavior in animals Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"Peek-through holes on each page allow readers to discover how animal families live in the wild\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Originally published in the United Kingdom by Little Tiger Kids, an imprint of Little Tiger Group, London, in 2024.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Mr Tiger, Betsy and the sea dragon",
+      "author": "Gardner, Sally",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788546584?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788546584?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788546584?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203911063,
+          "variantTitles": [
+            "Mister Tiger, Betsy and the sea dragon"
+          ],
+          "otherAuthors": [
+            "Maland, Nick, illustrator."
+          ],
+          "isbns": [
+            "9781788546584",
+            "178854658X",
+            "9781788546591",
+            "9780593095867"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Zephyr"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "196 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "The mysterious Mr Tiger and the inquisitive Betsy K. Glory set off on their second adventure, from bestselling author Sally Gardner, sumptuously illustrated by Nick Maland. Crumble cakes! A red rogue wind is blowing and a wicked pirate captain and his crew are marauding the seven seas near the island left off the map of the world. A rare egg has gone missing and a very unhappy sea dragon wants it back. A pirate ship, the Kettle Black, is anchored in a secret cove off the island left off the map of the world. Betsy and her mum, Myrtle the mermaid, must dive deep beneath the waves, while Alfonso Glory and Mr Tiger fly high above the clouds in a hot air balloon ... It's time for Mr Tiger, Betsy and the Gongalongs to set off on their second adventure ... This book is printed in Dyslexie, a font specially designed to make reading easier - and more fun. Sally is the founder of NUword, which champions positive debate about dyslexia."
+          ],
+          "notes": [
+            "Paperback edition with ISBN 9780593095867 published by Penguin Workshops in 2021."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204015865,
+          "digitalId": "0787FD51-E780-488B-AC45-116ADBA79306",
+          "isbns": [
+            "9781788546577"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Cork : Zephyr"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Picture Book Fiction.",
+            "Pirates",
+            "Tiger",
+            "Magic",
+            "Quests (Expeditions)",
+            "Children's stories",
+            "Dragons",
+            "Friendship"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The mysterious Mr Tiger and the inquisitive Betsy K Glory set sail on their second adventure, from bestselling author Sally Gardner, sumptuously illustrated by Nick Maland.  Crumble cakes! A wicked pirate captain and his crew are marauding in the seven seas near the island left off the map of the world. A very rare egg has gone missing and there is one unhappy sea dragon who wants it back. It's time for Mr Tiger, Betsy and the Gongalongs to set sail on their second adventure...  This book will be printed in blue ink in Dyslexie, a font specially designed to make reading easier - and more fun. Sally is the founder of NuWord, which champions positive debate about dyslexia."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Moon : a peek-through picture book",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524769666?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524769666?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524769666?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203104563,
+          "isbns": [
+            "9781524769666",
+            "1524769665"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York : Doubleday Books for Young Readers",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Toy and movable books Specimens.",
+            "Night Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Moon Phases Juvenile fiction.",
+            "Toy and movable books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Die-cut pages show the phases of the moon as it shines on animals all over the world, from sea turtles laying eggs on the beach to frogs in the jungle and mice in the fields."
+          ],
+          "notes": [
+            "Originally published in the United Kingdom by Little Tiger Press in 2017."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Most of the better natural things in the world",
+      "author": "Eggers, Dave",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781452162829?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781452162829?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781452162829?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204088285,
+          "otherAuthors": [
+            "Chang, Angel, illustrator."
+          ],
+          "isbns": [
+            "9781452162829",
+            "1452162824"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "San Francisco, California : Chronicle Books",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Landscapes Juvenile fiction.",
+            "Landforms Juvenile fiction.",
+            "Physical geography Juvenile fiction.",
+            "Landscapes.",
+            "Picture books for children.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations , 2 unnumbered folded pages ; 27 cm"
+          ],
+          "summary": [
+            "In this picture book with minimal text, a tiger with a chair on its back wanders across the different but beautiful landscapes of the Earth, from an Alpine lake to the tundra."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204425107,
+          "digitalId": "D3ADD1FD-050D-4EDF-81EF-EDB5161866F4",
+          "otherAuthors": [
+            "Chang, Angel, illustrator."
+          ],
+          "isbns": [
+            "9781452166957"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Tiger.",
+            "Picture books for children.",
+            "Landscapes.",
+            "Physical geography Juvenile fiction.",
+            "Landforms Juvenile fiction.",
+            "Landscapes Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A tiger carries a dining room chair on her back. But why? Where is she going? With just one word per page, in lush, color-rich landscapes, we learn about the features that make up our world: an archipelago, a dune, an isthmus, a lagoon. Across them all, the tiger roams. This enigmatic investigation of our world's most beautiful places from bestselling author Dave Eggers is beautifully illustrated by debut artist Angel Chang."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tiny feet between the mountains.",
+      "author": "Cha, Hanna",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534429925?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534429925?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534429925?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204384037,
+          "isbns": [
+            "9781534429925",
+            "1534429921",
+            "9781534429932"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Simon & Schuster Books for Young Readers",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Body size Juvenile fiction.",
+            "Ability Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Korea Juvenile fiction.",
+            "Folklore.",
+            "Ability.",
+            "Body size.",
+            "Tiger.",
+            "Korea."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged): color illustrations ; 24 x 28 cm"
+          ],
+          "summary": [
+            "In a Korean village where being strong and loud is valued, tiny Soe-in is ridiculed but when the sun disappears, Soe-in dares to find the spirit tiger and set things right. Includes note about the position of tigers in Korean culture."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204446967,
+          "digitalId": "49494BE2-15E8-49AC-AD6C-057C934B5A67",
+          "isbns": [
+            "9781534429932"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Tigre Fiction.",
+            "Stature Fiction.",
+            "Aptitude Fiction.",
+            "Tiger.",
+            "Body size.",
+            "Ability.",
+            "Folklore.",
+            "German language.",
+            "Tiger Fiction.",
+            "Ability Fiction.",
+            "Size Fiction.",
+            "Tiger Juvenile fiction.",
+            "Ability Juvenile fiction.",
+            "Size Juvenile fiction.",
+            "Picture Book Fiction.",
+            "Korea Juvenile fiction.",
+            "Corée Fiction.",
+            "Korea.",
+            "Korea Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A young Korean girl must come up with a clever idea to help a spirit tiger who has swallowed the sun by mistake in this fun, charming debut picture book from author-illustrator Hanna Cha.  Soe-In is a tiny child in a village full of large people. She struggles with completing chores due to her size, but she never gives up.   One day, when the sky grows dark and full of smoke, Soe-In volunteers to travel into the tall mountains to investigate. She's surprised to find a spirit tiger there and learn he has swallowed the sun by mistake!   To help the spirit tiger and her village, Soe-In must come up with a clever idea to solve this gigantic problem. And while she's at it, she just may prove that the smallest people often have the biggest, bravest hearts."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "630 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "寅虎 | Yin hu",
+      "seriesTitle": [
+        "中国民间传统原创绘本. | Zhongguo min jian chuan tong yuan chuang hui ben."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787549379194?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787549379194?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787549379194?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204003530,
+          "otherAuthors": [
+            "Men shen tong shu, editor illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "门神童书, editor illustrator."
+          ],
+          "isbns": [
+            "9787549379194 (hardback)",
+            "754937919X (hardback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban.",
+            "Dian cang ban."
+          ],
+          "nativeEdition": [
+            "第1版.",
+            "典藏版."
+          ],
+          "publisher": [
+            "Nanchang Shi : Jiangxi gao xiao chu ban she"
+          ],
+          "nativePublisher": [
+            "南昌市 : 江西高校出版社"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Folklore China Juvenile literature.",
+            "Tiger Juvenile literature.",
+            "Astrology, Chinese Juvenile literature.",
+            "Picture books for children.",
+            "Children's stories, Chinese."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 30 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The twelve days of Christmas : a peep-through picture book",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788814706?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788814706?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788814706?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204036051,
+          "isbns": [
+            "9781788814706",
+            "1788814703"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Little tiger kids"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Board books.",
+            "Children's stories.",
+            "Christmas stories.",
+            "Toy and movable books."
+          ],
+          "physicalDescription": [
+            "24 unnumbred pages : colour illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Introduce children to the traditional song, The Twelve Days of Christmas, in this beautiful new book, featuring illustrations by Britta Teckentrup. The peep-through pages reveal each new Christmas gift, creating a stunning layered effect. A perfect gift for your true love!"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "What would you rather be? A tiger or a tiger shark?",
+      "seriesTitle": [
+        "Scholastic reader."
+      ],
+      "author": "Pallotta, Jerry",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781339035567?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781339035567?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781339035567?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300147916,
+          "variantTitles": [
+            "Tiger or a tiger shark?"
+          ],
+          "isbns": [
+            "9781339035567",
+            "1339035561",
+            "9781546109884"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Scholastic"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Tiger shark Juvenile literature.",
+            "Tiger Juvenile literature.",
+            "Animal behavior Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 23 cm"
+          ],
+          "summary": [
+            "\"Would you rather prowl with a tiger or swim with a tiger shark? Let's find out! Readers will compare and contrast basic facts about these kid-favorite animals before making the ultimate decision -- which animal would they rather be? Simple language appeals to developing readers, while photo-realistic art will keep animal lovers engaged. This fun new series brings new life to the classic childhood game, Would You Rather! Enjoy this exciting Level 1 Scholastic Reader from the bestselling author of Who Would Win?\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 5-7 Scholastic Inc.",
+            "Grades K-1 Scholastic Inc."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger wild",
+      "author": "Millward, Gwen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205585681,
+          "otherTitles": [
+            "Tiger Lily"
+          ],
+          "isbns": [
+            "9780593118153",
+            "0593118154"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Girls Conduct of life Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Runaway children Juvenile fiction.",
+            "Imaginary companions Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Human behavior Juvenile fiction.",
+            "Tiger",
+            "Human-animal relationships",
+            "Imaginary companions",
+            "Runaway children",
+            "Emotions",
+            "Girls Conduct of life",
+            "Human behavior",
+            "Girls"
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Struggling to keep her emotions in check whenever they get very big, a little girl attempts to resist the naughty impulses of a disruptive imaginary best friend who convinces her to run away on an adventure of endless stomping, jumping, and wild fun."
+          ],
+          "notes": [
+            "\"First published as Tiger Lily in the UK by Egmont UK Ltd. in 2018\"--Page before title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Daniel Tiger's delightful tales",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Santomero, Angela C",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665973748?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665973748?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665973748?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095732,
+          "otherTitles": [
+            "Adaptation of (expression): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "variantTitles": [
+            "At head of title: Daniel Tiger's neighborhood"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781665973748",
+            "1665973749"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Talent shows Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "58 pages : colour illustrations ; 27 cm."
+          ],
+          "summary": [
+            "\"Join Daniel Tiger in three terrific tales in one padded, hardcover bind-up with a textured cover that looks and feels like Daniel's sweater! There's nothing little fans can't learn with their friend Daniel Tiger! At a school talent show, see what makes everyone special. Plus, find out how to be a good friend, and then say goodnight after a busy day!\"--Amazon.com"
+          ],
+          "contents": [
+            "You are special, Daniel Tiger! -- I will always be your friend! -- Goodnight, Daniel Tiger."
+          ],
+          "notes": [
+            "\"The stories in this book were adapted from previously published books\"--Back cover.",
+            "\"Inspired by the classic series Mister Rogers' Neighborhood\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The twelve days of Christmas",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848697140?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848697140?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848697140?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204066698,
+          "variantTitles": [
+            "Twelve days of Christmas : a peep-through picture book."
+          ],
+          "isbns": [
+            "9781848697140",
+            "1848697147"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London Little Tiger Kids",
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Twelve days of Christmas (English folk song) Juvenile literature.",
+            "Carols, English Texts Juvenile literature.",
+            "Christmas music Texts Juvenile literature.",
+            "Counting Juvenile literature.",
+            "Twelve days of Christmas (English folk song)",
+            "Carols, English.",
+            "Christmas music.",
+            "Counting."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 27 cm."
+          ],
+          "summary": [
+            "Introduce children to the traditional song, The Twelve Days of Christmas, in this beautiful new book, featuring illustrations by Britta Teckentrup. The peep-through pages reveal each new Christmas gift, creating a stunning layered effect."
+          ],
+          "notes": [
+            "Originally published: 2014.",
+            "With die-cut holes in cover and most pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 3+."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200944823,
+          "isbns": [
+            "9781848958869",
+            "1848958862"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Little Tiger Kids"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Carols, English Texts Juvenile.",
+            "Christmas music Texts Juvenile."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 26 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Carries 'CE' logo.",
+            "3-5."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Is this a tiger?",
+      "seriesTitle": [
+        "Alex's field guides ; [2]"
+      ],
+      "author": "Ellis, Elina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781525306754?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781525306754?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781525306754?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300088822,
+          "isbns": [
+            "9781525306754",
+            "1525306758"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Toronto, ON : Kids Can Press",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Tiger Juvenile literature.",
+            "Endangered species Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unnumbered pages) : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"Two young friends search for the endangered tiger in the latest in this picture-book series. Animal expert Alex wants to help her friend Atticus spot a tiger. Sharing cool tiger facts from her journal, she shows Atticus what to look for. Each new fact leads Atticus to think he sees the elusive beasts everywhere: This critter has stripes and that one has enormous teeth. Young readers will love knowing more than Atticus, as his confident refrain \"Is this a tiger?\" invites a resounding \"NO!\" Spreads shown from Alex's field guide are lined with tiger facts. The back matter includes further information about tigers and bonus facts about the other animals that appear in the book\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger days : a book of feelings",
+      "author": "Clark, M. H",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781946873415?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781946873415?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781946873415?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203825280,
+          "otherAuthors": [
+            "Hurley, Anna, illustrator."
+          ],
+          "isbns": [
+            "9781946873415",
+            "1946873411"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Seattle, WA : Compendium, Inc."
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Emotions Juvenile fiction.",
+            "Stories in rhyme.",
+            "Emotions in children Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : color illustrations ; 25 cm"
+          ],
+          "summary": [
+            "\"Some days I feel so wild and brave and some days I feel small. There are so many ways to be when you're as BIG inside as me\"--cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Daniel has an allergy",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Santomero, Angela C",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534409057?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534409057?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534409057?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203911457,
+          "otherTitles": [
+            "Adaptation of (expression): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "variantTitles": [
+            "Daniel Tiger's neighborhood. Daniel has an allergy"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781534409057",
+            "153440905X",
+            "9781544409064"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight paperback edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Food allergy in children Juvenile fiction.",
+            "Physicians Juvenile fiction.",
+            "Food allergy in children.",
+            "Physicians.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 x 21 cm."
+          ],
+          "summary": [
+            "Daniel Tiger learns how to manage a food allergy."
+          ],
+          "notes": [
+            "At head of title: Daniel Tiger's neighborhood.",
+            "\"Based on the screenplay \"Daniel's Allergy\" written by Angela C. Santomero.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 2-5."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 547
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 99
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 58
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 3
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 1
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 544
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 436
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 397
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 390
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 383
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 381
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 369
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 365
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 353
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 347
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 346
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 338
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 336
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 327
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 325
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 324
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 309
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 307
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 298
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 275
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 265
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 79
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 6
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 5
+        },
+        {
+          "id": "08lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 8",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 547
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 138
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 19
+        },
+        {
+          "id": "mcd",
+          "data": "Music CD",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

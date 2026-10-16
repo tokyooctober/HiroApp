@@ -1,0 +1,1518 @@
+{
+  "totalRecords": 336,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Big tiger",
+      "author": "Altés, Marta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529020922?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529020922?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529020922?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300203827,
+          "isbns": [
+            "9781529020922",
+            "1529020921"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Macmillan Children's Books"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Parent and child Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 28 cm"
+          ],
+          "summary": [
+            "This tiger used to be small, but not any more. Now this tiger is the oldest, which means this tiger is BIG. But the jungle is even BIGGER and full of big creatures. It's a scary place for a tiger alone. But don't worry tiger, Mum is never far behind! You might be too big for kisses and too big for tears, but no matter how big you get, you are NEVER too big for a hug."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "My big book of Spot : a first book of numbers, shapes and colours",
+      "author": "Hill, Eric, 1927-2014",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241353622?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241353622?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241353622?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203803209,
+          "isbns": [
+            "9780241353622",
+            "0241353629"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Spot (Fictitious character) Pictorial works Juvenile literature.",
+            "Vocabulary Pictorial works Juvenile literature.",
+            "Colors Pictorial works Juvenile literature.",
+            "Shapes Pictorial works Juvenile literature.",
+            "Counting Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : chiefly color illustrations ; 28 cm"
+          ],
+          "notes": [
+            "Originally published: London: Frederick Warne, 1994.",
+            "On board pages.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "The Usborne big book of big tractors",
+      "author": "Gillespie, Lisa Jane",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836040231?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836040231?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836040231?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300209338,
+          "variantTitles": [
+            "Big book of big tractors"
+          ],
+          "otherAuthors": [
+            "Byrne, Mike, 1979- illustrator."
+          ],
+          "isbns": [
+            "9781836040231",
+            "1836040237"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing Ltd."
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Tractors Juvenile literature.",
+            "Tractors"
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) (some folded pages) : chiefly illustrations (colour) ; 30 cm"
+          ],
+          "summary": [
+            "A large-size, highly illustrated book to show off all kinds of tractors, with fold-out pages. Open the giant fold-out pages of this bright, friendly book to discover some of the biggest and most amazing tractors ever built - and some little ones too. Colourful pictures show all kinds of machines, from combine harvesters to snow and sea tractors, with facts about their special equipment. Includes links to video clips to see tractors at work. The book covers different types of tractors, and the machines they pull, as well as showing some very specific - and absolutely MASSIVE - tractors."
+          ],
+          "notes": [
+            "\"4 giant fold-outs\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tigers",
+      "seriesTitle": [
+        "Big cats"
+      ],
+      "author": "Andrews, Elizabeth, 1996-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098246934?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098246934?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098246934?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095463,
+          "isbns": [
+            "1098246934",
+            "9781098246938"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Cody Koala, an imprint of Pop!",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Get to know the largest big cat, the famous tiger! Filled with bright, colorful images, simple text, and QR codes loaded with extra materials, young readers will be entertained while they learn about the tiger."
+          ],
+          "notes": [
+            "\"4D Book!\"",
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Little tiger, big tiger",
+      "author": "Fuller, Lois Hamilton",
+      "records": [
+        {
+          "brn": 2935267,
+          "otherAuthors": [
+            "Vyas, Anil illustrator."
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st edition."
+          ],
+          "publisher": [
+            "New Delhi : Children's Book Trust"
+          ],
+          "publishDate": "1982 printing, c1970.",
+          "subjects": [
+            "Tigers Juvenile fiction.",
+            "Tigers Fiction.",
+            "Jungles Fiction."
+          ],
+          "physicalDescription": [
+            "[26] pages: color illustrations; 18 x 25 cm"
+          ],
+          "summary": [
+            "A tiger cub discovers that he cannot do all the things that his mother can, such as scaring the other jungle animals and capturing prey."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The Week Junior big book of knowledge.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1801995222?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1801995222?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1801995222?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300081056,
+          "variantTitles": [
+            "Big book of knowledge"
+          ],
+          "otherAuthors": [
+            "Week Junior (Magazine), associated with work."
+          ],
+          "isbns": [
+            "1801995222",
+            "9781801995221"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Bloomsbury Education"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Curiosities and wonders Juvenile literature.",
+            "Children's questions and answers."
+          ],
+          "physicalDescription": [
+            "240 pages : colour illustrations ; 31 cm"
+          ],
+          "summary": [
+            "\"Let your imagination run wild with The Week Junior Big Book of Knowledge! Packed to the brim with brain-expanding facts and mind-blowing information, this book from multi-award-winning children's magazine The Week Junior is the perfect gift for curious children. How much would someone pay for a painting done by a pig? Why did a Japanese company send a hamster to space? What do Star Wars and King Charles III have in common? And how can poo save your life?! This fun-packed book is stuffed with facts - everything from the unbelievable to the essential! Whether you want to know about science or sport, inventions or art, amazing life on earth or what's up there in space, this is the book for you. With incredible true stories, and the world's most astonishing facts, The Week Junior Big Book of Knowledge has everything children love about the UK's most popular children's magazine The Week Junior - in book form. With brilliant photos, easy explanations and colourful design throughout, this book will boost your brain and help you astonish your friends! Ideal as a Christmas or birthday gift or just as a way to inspire young minds, this large-format, full-colour hardback is a must-have for every child's bookshelf\"--Amazon."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Over 500 incredible true stories and astonishing facts!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Little kids first big book of animals",
+      "seriesTitle": [
+        "National Geographic kids."
+      ],
+      "author": "Hughes, Catherine D",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825225?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825225?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825225?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300193381,
+          "isbns": [
+            "9780008825225",
+            "000882522X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Collins",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Animals Juvenile literature.",
+            "Animals"
+          ],
+          "physicalDescription": [
+            "128 pages : colour illustrations, colour map ; 27 cm."
+          ],
+          "summary": [
+            "\"Polar bears, penguins, lions,  giraffes, seahorses, frogs, butterflies ... and much more! These fun-filled pages introduce young readers to more than 30 animals and their exciting lives in the wild. Inside you'll find: more than 200 incredible animal photos and fun facts, questions in each chapter to encourage interactivity, a world map introducing children to geography, parent tips that extend the experience beyond the pages of this book, and more!\"-- Back cover."
+          ],
+          "contents": [
+            "Grassland. Cheetah -- Zebra -- Giraffe -- Black-and-yellow garden spider -- Lion -- Ocean. Bottlenose dolphin -- Green sea turtle -- Short-head seahorse -- Sea otter -- Giant Pacific octopus -- Humpback whale -- Blue-striped grunt -- Desert. Arizona coral snake -- Meerkat -- Desert jerboa -- Thorny lizard -- Camel -- Forest. Red-eyed tree frog -- Gray wolf -- Black-handed spider monkey -- Blue morpho butterfly -- Koala -- Mountain gorilla -- Raccoon -- North American beaver -- Tiger -- Polar. Emperor penguin -- Harp seal -- Snowy owl -- Polar bear -- Glossary -- Parent tips -- Animal map -- Index."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"First published 2010\"-- Title page verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The big book of cars",
+      "author": "Colson, Rob, 1971-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526332547?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526332547?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526332547?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300205250,
+          "variantTitles": [
+            "Big book of cars : the fastest, coolest and craziest rides on the planet"
+          ],
+          "isbns": [
+            "9781526332547",
+            "152633254X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Wayland"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Automobiles Miscellanea Juvenile literature.",
+            "Automobiles"
+          ],
+          "physicalDescription": [
+            "128 pages : illustrations (chiefly colour) ; 28 cm"
+          ],
+          "summary": [
+            "\"The ultimate guide to the best cars on the planet from racing and sports cars to classic and custom cars. From sleek supercars to roaring racing machines, The Big Book of Cars showcases the fastest, flashiest and most fascinating cars on the planet. Packed with striking full-colour photos, each spread shows these incredible vehicles in all their glory.Readers will discovers what makes these machines tick with fact-packed profiles and detailed 'Tech Points' that break down the cutting-edge engineering behind each car. Whether it's a custom-built street beast, a legendary classic, or a record-breaking racer, this book dives under the hood to reveal what makes them truly unique. Perfect for curious minds aged 8 and up, this is the ultimate guide for young car enthusiasts who dream of speed, style, and serious horsepower\"--Amazon."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Daniel's little songs for big feelings",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Nakamura, May",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534470903?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534470903?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534470903?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205258382,
+          "otherTitles": [
+            "Daniel Tiger's neighborhood (Television program)"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781534470903",
+            "1534470905"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Simon Spotlight",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Singing Juvenile fiction.",
+            "Music Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "112 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Daniel Tiger has a strategy and a song for every experience, whether he is playing with friends, going to school, or trying something new! This includes fifty strategy song lyrics, and tips for parents, caregivers and educators, the perfect go-to as little tigers navigates big feelings, first experiences, and developmental milestones."
+          ],
+          "contents": [
+            "New experiences -- Big feelings -- Taking care of your body -- Growing up and being independent -- Family -- Friends and neighbors -- Playtime -- Staying safe and being scared -- Index."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tigers.",
+      "seriesTitle": [
+        "Animal Kingdom."
+      ],
+      "author": "Murray, Julie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098280067?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098280067?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098280067?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205967771,
+          "isbns": [
+            "1098280067",
+            "9781098280062"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Dash! Leveled Readers, an imprint of Abdo Zoom",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 24 cm."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204094297,
+          "isbns": [
+            "9781532116544",
+            "1532116543"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Big Buddy Books, an imprint of Abdo Publishing",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations, color map ; 21 x 24 cm."
+          ],
+          "summary": [
+            "\"This book introduces readers to the unique features of tigers. Basic information is covered, such as habitat, life cycle, range, diet and threats\"--Provided by publisher."
+          ],
+          "contents": [
+            "The biggest cat -- What they look like -- Where they live -- Hunting and eating -- Territories -- Swimming cats -- Tiger cubs."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204479889,
+          "digitalId": "DFA397DF-0B0F-4855-9D15-94827099A085",
+          "isbns": [
+            "9781532157547"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Minneapolis : Big Buddy Books"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Nature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "540 Lexile.",
+            "3.1 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tiger wild",
+      "author": "Millward, Gwen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205585681,
+          "otherTitles": [
+            "Tiger Lily"
+          ],
+          "isbns": [
+            "9780593118153",
+            "0593118154"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Girls Conduct of life Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Runaway children Juvenile fiction.",
+            "Imaginary companions Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Human behavior Juvenile fiction.",
+            "Tiger",
+            "Human-animal relationships",
+            "Imaginary companions",
+            "Runaway children",
+            "Emotions",
+            "Girls Conduct of life",
+            "Human behavior",
+            "Girls"
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Struggling to keep her emotions in check whenever they get very big, a little girl attempts to resist the naughty impulses of a disruptive imaginary best friend who convinces her to run away on an adventure of endless stomping, jumping, and wild fun."
+          ],
+          "notes": [
+            "\"First published as Tiger Lily in the UK by Egmont UK Ltd. in 2018\"--Page before title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger vs. nightmare",
+      "author": "Tetri, Emily",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781626725355?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781626725355?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781626725355?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203780425,
+          "variantTitles": [
+            "Tiger versus nightmare",
+            "Tiger v. nightmare"
+          ],
+          "isbns": [
+            "9781626725355",
+            "1626725357"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : First Second",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Tiger Comic books, strips, etc.",
+            "Nightmares Comic books, strips, etc.",
+            "Monsters Comic books, strips, etc.",
+            "Sleep Comic books, strips, etc.",
+            "Bedtime Comic books, strips, etc.",
+            "Tiger Juvenile literature.",
+            "Nightmares Juvenile fiction.",
+            "Monsters Juvenile fiction.",
+            "Sleep Juvenile fiction.",
+            "Bedtime Juvenile fiction.",
+            "Graphic novels United States."
+          ],
+          "physicalDescription": [
+            "62 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"Tiger is a very lucky kid: she has a monster living under her bed. Every night, Tiger and Monster play games until it's time for lights out. Of course, Monster would never try to scare Tiger--that's not what best friends do. But Monster needs to scare someone...it's a monster, after all. So while Tiger sleeps, Monster scares all of her nightmares away. Thanks to her friend, Tiger has nothing but good dreams. But waiting in the darkness is a nightmare so big and mean that Monster can't fight it alone. Only teamwork and a lot of bravery can chase this nightmare away.\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203836638,
+          "digitalId": "88E65549-AC9F-4210-96CF-F3DDCD727288",
+          "isbns": [
+            "9781250231406 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A 2019 Theodor Seuss Geisel Honor book A 2018  Kirkus Reviews  Best Picture Book of the Year A  School Library Journal  Best Graphic Novel of 2018 Tiger is a very lucky kid: she has a monster living under her bed. Every night, Tiger and Monster play games until it's time for lights out. Of course, Monster would never try to scare Tiger—that's not what best friends do. But Monster needs to scare someone...it's a monster, after all. So while Tiger sleeps, Monster scares all of her nightmares away. Thanks to her friend, Tiger has nothing but good dreams. But waiting in the darkness is a nightmare so big and mean that Monster can't fight it alone. Only teamwork and a lot of bravery can chase this nightmare away. In this charming graphic novel for young readers, cartoonist Emily Tetri proves that unlikely best friends can be an unbeatable team, even agianst the scariest monsters."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "500 Lexile.",
+            "2.1 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tiger : a first field guide to the big cat with the stripes",
+      "seriesTitle": [
+        "Young zoologist."
+      ],
+      "author": "Helle, Samantha",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993252?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993252?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838993252?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300012215,
+          "otherAuthors": [
+            "Agar, Sally, illustrator."
+          ],
+          "isbns": [
+            "9781838993252",
+            "1838993258"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Neon Squad",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Tiger Juvenile literature.",
+            "Animals Juvenile literature.",
+            "Zoos Juvenile literature."
+          ],
+          "physicalDescription": [
+            "29 pages : colour illustrations ; 23 cm."
+          ],
+          "summary": [
+            "You might know that tigers are the largest of the big cats, but there's so much more to learn about these incredible predators! Discover why tigers have stripes, what makes them stick out their tongue, and how they can survive in habitats ranging from snowy Siberia to the tropical rainforest of Indonesia. You'll also discover what it takes to become a tiger zoologist - including learning how to track a tiger using its paw prints! Filled with simple science and plenty of animal facts, this book also looks at the conservation challenges these iconic animals face."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The tiger who came to tea",
+      "author": "Kerr, Judith",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008280581?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008280581?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008280581?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203120483,
+          "isbns": [
+            "9780008280581",
+            "0008280584"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "50 anniversary edition."
+          ],
+          "publisher": [
+            "London : HarperCollins Children's Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Afternoon teas Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 20 cm"
+          ],
+          "summary": [
+            "A tiger comes to tea at Sophie's house and eats and drinks everything in sight, so that there is nothing left for Daddy's supper."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12700136,
+          "isbns": [
+            "0007215991",
+            "0007216009"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Children's Books"
+          ],
+          "publishDate": "2006.",
+          "physicalDescription": [
+            "[28] pages: color illustrations; 28 cm"
+          ],
+          "notes": [
+            "Originally published: London: Collins, 1968."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 203598407,
+          "digitalId": "43A5805D-62CA-41B6-AC3F-2E0C87F917ED",
+          "isbns": [
+            "9780007510580 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Glasgow : HarperCollins"
+          ],
+          "publishDate": "2013.",
+          "subjects": [
+            "Juvenile Nonfiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "READ BY GERALDINE MCEWAN. This classic story has been loved by millions of children since it was first published over 40 years ago. The doorbell rings just as Sophie and her mummy are sitting down to tea. Who could it possibly be? What they certainly don't expect to see at the door is a big furry, stripy tiger!"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "740 Lexile.",
+            "3.2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tigers",
+      "seriesTitle": [
+        "Dangerous mammals (Norwood House Press)"
+      ],
+      "author": "Parker, Madison (Children's author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781684502691?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781684502691?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781684502691?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300107674,
+          "isbns": [
+            "9781684502691",
+            "1684502691",
+            "9781684502684",
+            "1684502683"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Buffalo, NY : Norwood House Press"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Tiger Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"Tigers are one of the most-feared mammals on Earth, with their big teeth and sharp claws. What makes them so dangerous? Readers will learn all about these fierce big cats in this fact-filled book. Text covers fascinating tiger features and behaviors, which are high-interest topics for young readers. Accessible language and eye-catching photographs bring readers face to face with this prowling predator\"--Amazon."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiny tiger says : why can't I?",
+      "seriesTitle": [
+        "Tiny tiger big feelings"
+      ],
+      "author": "Prasadam-Halls, Smriti",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398511101?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398511101?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398511101?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300142234,
+          "variantTitles": [
+            "Why can't I?",
+            "Why cannot I?"
+          ],
+          "otherAuthors": [
+            "Small, Steve (Animator), illustrator."
+          ],
+          "isbns": [
+            "9781398511101",
+            "1398511102",
+            "9781398511118",
+            "1398511110"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Simon & Schuster"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Emotions in children Juvenile fiction.",
+            "Thoughtfulness Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 27 cm."
+          ],
+          "summary": [
+            "\"Tiny Tiger has so many brilliant things to do - if only people would stop saying no! The perfect book for every tiny tiger who says: \"Why can't I?\"\"--Publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Siberian tiger",
+      "seriesTitle": [
+        "Animals in the wild (Crabtree Publishing Company)"
+      ],
+      "author": "Whipple, Annette",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781039880771?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781039880771?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781039880771?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300209426,
+          "isbns": [
+            "9781039880771",
+            "1039880770",
+            "9781039884380",
+            "1039884385"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "St. Catharines, Ontario : Crabtree Publishing",
+            ""
+          ],
+          "publishDate": "[2026]",
+          "subjects": [
+            "Siberian tiger Juvenile literature.",
+            "Siberian tiger"
+          ],
+          "physicalDescription": [
+            "48 pages : illustrations (chiefly colour), colour map ; 27 cm."
+          ],
+          "summary": [
+            "\"Get up close and personal with Siberian tigers. Learn about their behaviors, where they live, what they eat, and more. Discover whether these animals are endangered and what's being done to protect them. Vivid photographs and sidebars with intriguing facts help bring these fascinating big cats to life\"--Provided by publisher."
+          ],
+          "contents": [
+            "Meet the Siberian tiger -- What do they look like? -- Home and habitat -- What to eat? -- Siberian tiger behavior -- The next generation -- Siberian tiger conservation."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"A Crabtree Forest book.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "There's a tiger in the garden",
+      "author": "Stewart, Lizzy",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781847808066?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781847808066?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781847808066?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202514528,
+          "variantTitles": [
+            "There is a tiger in the garden"
+          ],
+          "isbns": [
+            "9781847808066 (hardback)",
+            "1847808069 (hardback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Frances Lincoln Children's Books"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Tiger Pictorial works Juvenile fiction.",
+            "Gardens Pictorial works Juvenile fiction.",
+            "Children's stories Pictorial works."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 31 cm"
+          ],
+          "summary": [
+            "When Grandma says she's seen a tiger in the garden, Nora doesn't believe her. She's too old to play Grandma's silly games! Everyone knows that tigers live in jungles, not gardens. So even when Nora sees butterflies with wings as big as her arm, and plants that try and eat her toy giraffe, and a polar bear that likes fishing, she knows there's absolutely, DEFINITELY no way there could be a tiger in the garden ...Could there?"
+          ],
+          "notes": [
+            "9781328791832 (hardcover) published by Houghton Mifflin Harcourt Books for Young Readers, 2018."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "It's tough to be a...tiger (and other big cats)",
+      "author": "Townsend, John, 1955-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526329547?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526329547?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526329547?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300196249,
+          "variantTitles": [
+            "It is tough to be a tiger and other big cats"
+          ],
+          "otherAuthors": [
+            "Bennett, Ruth (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781526329547",
+            "1526329549",
+            "9781526329561",
+            "1526329565"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Wayland"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Felidae Juvenile literature."
+          ],
+          "physicalDescription": [
+            "46 pages : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Tigers, and other big cats, may be incredible predators with few natural enemies but being the world's biggest cats can still be tough! In this book, cartoon strips explore why a tiger cub can easily get into trouble, why jaguars habitats are in danger and why even the king of the jungle has it tough. Alongside the cartoon strips, we explore topics such as the variety of cat species, food chains, habitats and threats, to build a picture of life as a big cat."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Mr Tiger, Betsy and the sea dragon",
+      "author": "Gardner, Sally",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788546584?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788546584?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781788546584?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203911063,
+          "variantTitles": [
+            "Mister Tiger, Betsy and the sea dragon"
+          ],
+          "otherAuthors": [
+            "Maland, Nick, illustrator."
+          ],
+          "isbns": [
+            "9781788546584",
+            "178854658X",
+            "9781788546591",
+            "9780593095867"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Zephyr"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "196 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "The mysterious Mr Tiger and the inquisitive Betsy K. Glory set off on their second adventure, from bestselling author Sally Gardner, sumptuously illustrated by Nick Maland. Crumble cakes! A red rogue wind is blowing and a wicked pirate captain and his crew are marauding the seven seas near the island left off the map of the world. A rare egg has gone missing and a very unhappy sea dragon wants it back. A pirate ship, the Kettle Black, is anchored in a secret cove off the island left off the map of the world. Betsy and her mum, Myrtle the mermaid, must dive deep beneath the waves, while Alfonso Glory and Mr Tiger fly high above the clouds in a hot air balloon ... It's time for Mr Tiger, Betsy and the Gongalongs to set off on their second adventure ... This book is printed in Dyslexie, a font specially designed to make reading easier - and more fun. Sally is the founder of NUword, which champions positive debate about dyslexia."
+          ],
+          "notes": [
+            "Paperback edition with ISBN 9780593095867 published by Penguin Workshops in 2021."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204015865,
+          "digitalId": "0787FD51-E780-488B-AC45-116ADBA79306",
+          "isbns": [
+            "9781788546577"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Cork : Zephyr"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Picture Book Fiction.",
+            "Pirates",
+            "Tiger",
+            "Magic",
+            "Quests (Expeditions)",
+            "Children's stories",
+            "Dragons",
+            "Friendship"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The mysterious Mr Tiger and the inquisitive Betsy K Glory set sail on their second adventure, from bestselling author Sally Gardner, sumptuously illustrated by Nick Maland.  Crumble cakes! A wicked pirate captain and his crew are marauding in the seven seas near the island left off the map of the world. A very rare egg has gone missing and there is one unhappy sea dragon who wants it back. It's time for Mr Tiger, Betsy and the Gongalongs to set sail on their second adventure...  This book will be printed in blue ink in Dyslexie, a font specially designed to make reading easier - and more fun. Sally is the founder of NuWord, which champions positive debate about dyslexia."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 336
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 65
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 25
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 15
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 12
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 12
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 335
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 248
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 227
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 225
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 223
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 221
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 213
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 203
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 202
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 201
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 196
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 195
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 192
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 192
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 190
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 185
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 181
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 179
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 175
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 164
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 159
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 51
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 24
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 11
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 336
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 167
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 18
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

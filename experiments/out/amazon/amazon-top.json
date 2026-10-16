@@ -1,0 +1,25 @@
+{
+  "_source": "amazon.sg search result pages, first non-sponsored results, read in the built-in browser; ISBN-shaped ASINs only (B0... ASINs are Kindle/self-published and carry no ISBN)",
+  "queries": {
+    "board books penguins for toddlers": {
+      "isbnShaped": ["0593432843", "9815233394", "038538369X", "0399226907", "0385375166", "9815233548", "0811826023", "0593752546", "030797586X", "0375805613", "9815127586", "0593123999", "0063212080", "0553521098"],
+      "resultsSeen": 14
+    },
+    "large colourful picture book tiger for kids": {
+      "isbnShaped": ["6192640157", "1689606320"],
+      "resultsSeen": 12
+    },
+    "rocket space books for kids age 4-6": {
+      "isbnShaped": [],
+      "resultsSeen": 12
+    },
+    "easy reader books about scientists for kids": {
+      "isbnShaped": ["1426313446", "0593435486", "1465456600", "1647390427", "1426324480", "1648760562", "1426322933", "1426319436", "1426317476", "1426325428", "1426324448", "1631581929"],
+      "resultsSeen": 12
+    },
+    "big oversized picture books for kids": {
+      "isbnShaped": ["1629798266", "1615197702", "1615198180", "2745981781", "0805087184", "1499809093", "0064433129", "1684376505", "0399169814", "0061119776", "0064434095", "1665925078"],
+      "resultsSeen": 12
+    }
+  }
+}

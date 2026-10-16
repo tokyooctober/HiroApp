@@ -1,0 +1,2083 @@
+{
+  "totalRecords": 1355,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "The elephant and the sea",
+      "author": "Vere, Ed",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780141376400?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780141376400?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780141376400?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300046278,
+          "isbns": [
+            "9780141376400",
+            "0141376406"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin Books"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Elephants Juvenile fiction.",
+            "Determination (Personality trait) in children Juvenile fiction.",
+            "Lifeboats Juvenile fiction.",
+            "Rescue work Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "\"In a village by the sea, carved into the rockiest edge of land, where the waves are wild and tumbling lives an old elephant. Once he was a young elephant - with a dream of joining the lifeboat crew. But elephants don't fit in lifeboats. Gabriel is determined, and he is ingenious, and he is brave. So much so that one stormy day he might be the only one who can save the day\"-- Publisher's website."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300061111,
+          "digitalId": "347370CB-9E0D-4789-822A-69C5D535213B",
+          "isbns": [
+            "9780525580928 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "USA TODAY BESTSELLER! An inspiring, seafaring fable about a determined and brave elephant who reaches for his dreams, from  New York Times  bestselling author-illustrator Ed Vere.   \"There is only one thing I want to do . . . So I will do it!\"  Gabriel the elephant dreams of being part of the lifeboat crew in his seaside town, but he is too young, and too little. But soon, Gabriel grows up and he is too . . . BIG! Disappointed but undaunted, Gabriel makes a plan. He hammers and chops, saws and sands, and builds his very own boat. One night, a great storm hits, and it's Gabriel's time to shine, pulling his oars alone against the crashing waves to save a crew in peril. Young children will love rooting for underdog Gabriel and will draw inspiration from his determination to achieve his dreams despite hurdles and setbacks.   The Elephant and the Sea  is a perfect gift for anyone setting out on a new path, encouraging them to face life’s obstacles with optimism."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300214391,
+          "digitalId": "A9429929-AAB7-4629-BE7C-3BC27D3C64DF",
+          "variantTitles": [
+            "The elephant and the sea : A first-time feelings picture book"
+          ],
+          "isbns": [
+            "9780241717981"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Elephants Juvenile fiction.",
+            "Lifeboats Juvenile fiction.",
+            "Rescue work Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "From the award-winning author-illustrator Ed Vere comes a lyrical tale that reminds us all to chase our dreams. Meet Gabriel. A young elephant who lives in a village by the sea. He has one dream and it's to join the lifeboat crew. He wants to help people in the water, bravely sailing out to sea! But elephants don't fit in lifeboats. He's too big to help the sailors. But one STORMY, WINDY day, the lifeboat crew run into trouble and Gabriel might be the only one who can help. Can Gabriel save the day? One growing elephant. One smallish lifeboat. One BIG dream . . . \"A charming winner about purpose, bravery, and making one's dreams come true.\" - Kirkus Reviews."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 2",
+            "500 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A Home for Spark the Dragon",
+      "author": "Sheen, Michael",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241705414?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241705414?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241705414?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300194709,
+          "otherAuthors": [
+            "Webb, Jess (author), author.",
+            "Massini, Sarah, illustrator."
+          ],
+          "isbns": [
+            "9780241705414",
+            "024170541X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin Books",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Dragons Juvenile fiction.",
+            "Animals Habitations Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 28 cm"
+          ],
+          "summary": [
+            "\"When a storm leaves Spark without a place to live, he must set out to find somewhere new. He meets many kind friends along the way, but will this little dragon ever find a place to call home?\"-- Back cover."
+          ],
+          "notes": [
+            "\"First published 2025\"-- Title page verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300188031,
+          "digitalId": "8E272CBC-F395-47E4-AE93-2306D4542292",
+          "variantTitles": [
+            "A home for spark the dragon : A heartwarming picture-book story from michael sheen about the importance of home"
+          ],
+          "otherAuthors": [
+            "Webb, Jess, author.",
+            "Massini, Sarah, illustrator."
+          ],
+          "isbns": [
+            "9780241705438"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Fantasy.",
+            "Juvenile Literature.",
+            "Dragons Juvenile fiction.",
+            "Home Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "An ebook edition of this heartwarming story about the importance of finding a home, by much-loved actor and activist Michael Sheen. When Spark the dragon wakes up to find a storm has destroyed his cosy nest, he must find a new place to live. But Spark soon discovers that a house needs more than just walls to feel like home. Will he ever find the right place for him? This heartwarming story by Michael Sheen and co-author Jess Webb is brought to life with illustrations from Sarah Massini. *This is the digital ebook edition* £1 from the sale of each hardback copy and 50p from the sale of each paperback copy of the book in the UK and Ireland will be given to Shelter. Shelter is a charity whose mission is to help support children and families affected by the UK's housing emergency."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin problems",
+      "author": "John, Jory",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553513370?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202664174,
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780553513370",
+            "0553513370",
+            "9780375974656",
+            "9780553513387"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"A penguin whines about the uncontrollable problems in his life.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "ISBN 9781406375992 (pbk.) - London : Walker Books, 2016.",
+            "ISBN 9781406379150 (pbk.) - London : Walker Books,  2017."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203219159,
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780525645757",
+            "0525645756"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House Children's Books"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 21 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203724143,
+          "digitalId": "3D5AB953-308C-41D3-A407-0008F28571BD",
+          "otherAuthors": [
+            "Smith, Lane, illustrator."
+          ],
+          "isbns": [
+            "9780553513387"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A penguin levels with human readers about what penguin life is really like-and it isn't all fun and games. A hilarious first collaboration from Jory John (I Will Chomp You! and Quit Calling Me a Monster!) and Lane Smith (The Stinky Cheese Man and Other Fairly Stupid Tales).  Have you ever considered running away to Antarctica? Of course you have! Because it's a land free of worries and responsibilities! All of your problems will surely be blown away by the icy winds of that lawless paradise! . . . Won't they?  Think again, my friend. This penguin has come to tell you that his life down there is no more a picnic than yours is here. For starters, it is FREEZING. Also, penguins have a ton of natural predators. Plus, can you imagine trying to find your mom in a big ol' crowd of identical penguins? No, thank you.  Yes, it seems there is no escaping the drudgery of your daily grind, whatever it might be. Or perhaps we've just learned that grumps are everywhere. . . .   Jory John and Lane Smith let us decide. This book is sure to tickle kids' funny bones and will elicit appreciative sighs from the adults reading it aloud."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Bye, penguin!",
+      "author": "Lee, Seou",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646140213?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646140213?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646140213?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205263421,
+          "isbns": [
+            "9781646140213",
+            "1646140214"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Levine Querido",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction.",
+            "Ocean travel Juvenile fiction.",
+            "Global warming Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : color illustrations ; 22 x 26 cm"
+          ],
+          "summary": [
+            "You'd think that a penguin stranded on an ever-smaller block of ice, on a trip around the world wouldn't be so. FUN! But it is! There's our fearless penguin passing the gondolas of Venice. There's penguin floating by the Sydney Opera House! From the Aurora Borealis to a hilarious encounter with a surfer in Hawaii, this is a wordless journey that truly FROLICKS. In fact, the adventures are so amusing that most readers will barely register the nod to global warming until it's slipped right in on the breath of a laugh."
+          ],
+          "notes": [
+            "Originally published in Korea by BookGoodCome."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205444525,
+          "digitalId": "C4592038-F418-4B8B-8747-B3A2C690E40C",
+          "isbns": [
+            "9781646140626"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Global warming Juvenile fiction.",
+            "Ocean travel Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature.",
+            "Picture Book Fiction.",
+            "Travel Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "You'd think that a penguin stranded on an ever-smaller block of ice, on a trip around the world wouldn't be so...FUN! But it is! There's our fearless penguin passing the gondolas of Venice...there's penguin floating by the Sydney Opera House! From the Aurora Borealis to a hilarious encounter with a surfer in Hawaii, this is a wordless journey that truly FROLICKS. In fact, the adventures are so amusing that most readers will barely register the nod to global warming until it's slipped right in on the breath of a laugh."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Little penguin gets the hiccups",
+      "author": "Bentley, Tadgh",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063464964?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063464964?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063464964?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300151939,
+          "isbns": [
+            "9780063464964",
+            "0063464969"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Harper",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Hiccups Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 26 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202748591,
+          "isbns": [
+            "9780062652249",
+            "0062652249"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First board book edition."
+          ],
+          "publisher": [
+            "New York, NY : Balzer + Bray, an imprint of HarperCollins Publishers"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Hiccups Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Poor Little Penguin has a major case of the HIC! hiccups.  It all started last week on a chili night. Since then he's tried everything to get rid of them, but nothing HIC! works. Can you help Little Penguin HIC! cure his hiccups?\"-- Provided by publisher."
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204418363,
+          "digitalId": "FCC51B14-BAAD-493C-9002-79B3B04C1810",
+          "isbns": [
+            "9780062430892"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humorous stories.",
+            "Penguins Juvenile fiction.",
+            "Hiccups Juvenile fiction.",
+            "Humor (Fiction)."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Poor Little Penguin has a major case of the HIC! hiccups.  It all started last week on chili night. Since then he's tried everything to get rid of them, but nothing HIC! works.  So when his friend Franklin suggests that a good scare might do the trick, Little Penguin is willing to give it a try. . . . All he needs is a little help from YOU!  Can you help Little Penguin HIC! cure his hiccups?  From debut author-illustrator Tadgh Bentley, Little Penguin Gets the Hiccups is a sweetly hilarious tale of icebergs, chili, and playful surprises that puts its readers at the very center of the story."
+          ],
+          "notes": [
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "500 Lexile.",
+            "1.4 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Poles apart",
+      "author": "Willis, Jeanne",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781805137474?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781805137474?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781805137474?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300149688,
+          "otherAuthors": [
+            "Jarvis, 1985- illustrator."
+          ],
+          "isbns": [
+            "9781805137474",
+            "1805137476"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "10th anniversary edition."
+          ],
+          "publisher": [
+            "London : Nosy Crow",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Polar bear Juvenile fiction.",
+            "Voyages and travels Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Picture books.",
+            "Voyages and travels.",
+            "Friendship.",
+            "Penguins.",
+            "Picture books.",
+            "Polar bear.",
+            "North Pole Juvenile fiction.",
+            "Arctic Ocean North Pole."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"As everybody knows that penguins live at the South Pole and polar bears live at the North Pole, on the other side of the world. But in this story, polar bears and penguins soon become the best of friends...\"--Back cover."
+          ],
+          "notes": [
+            "\"One polar bear. Five penguins. 12,430 miles of friendship.\"--Cover.",
+            "\"With a free stories aloud smartphone audio book!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Preschool."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Little penguins",
+      "author": "Rylant, Cynthia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553507706?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553507706?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780553507706?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202684950,
+          "otherAuthors": [
+            "Robinson, Christian, illustrator."
+          ],
+          "isbns": [
+            "9780553507706",
+            "0553507702",
+            "9780553507713",
+            "9780553507720"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Schwartz & Wade Books",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Winter Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "1 volume (unnumbered pages) : color illustrations ; 23 x 29 cm"
+          ],
+          "summary": [
+            "\"During the first snowy day of winter, five little penguins bundle up and venture outside to play\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203991746,
+          "otherAuthors": [
+            "Robinson, Christian, illustrator."
+          ],
+          "isbns": [
+            "9781984830586",
+            "1984830589"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Schwartz & Wade Books",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Winter Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "36 unnumbered pages : color illustrations ; 16 x 21 cm"
+          ],
+          "summary": [
+            "\"During the first snowy day of winter, five little penguins bundle up and venture outside to play\"--Provided by publisher."
+          ],
+          "notes": [
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203666178,
+          "digitalId": "F9511FAF-EC37-48EE-A83A-C192F171296F",
+          "otherAuthors": [
+            "Robinson, Christian, illustrator."
+          ],
+          "isbns": [
+            "9780553507720"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Picture books for children.",
+            "Winter Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Newbery Medal-winning author Cynthia Rylant and Caldecott Honor-winning illustrator Christian Robinson pair up to tell this wintry story about five little penguins enjoying a snowy day.   Snowflakes? Many snowflakes. Winter is coming. So begins this ever-so-simple story. As the snow starts to fall, the excited penguins pull out scarves, mittens, heavy socks, and boots, and Mama helps them bundle up. But when it's time to go out, one timid penguin decides to stay home. Filled with waddling baby penguins, playful text, and delightful illustrations, this book feels like a young picture-book classic in the making.\"Visually stunning. . . . Pair with Ezra Jack Keats's classic The Snowy Day.\" -Booklist, Starred\"An excellent tale for the very young. A very warm and satisfying bedtime book and a paean to penguins and winter delights.\" -Kirkus ReviewsWinners of the National Parenting Product AwardA School Library Journal Best Book of the Year"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K",
+            "LG/Lower grades (K-3rd)",
+            "0.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Keluarga penguin.",
+      "seriesTitle": [
+        "Helo haiwan"
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789830042015?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789830042015?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789830042015?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204465386,
+          "isbns": [
+            "9789830042015",
+            "9830042014"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Johor Bahru : Penerbitan Pelangi",
+            ""
+          ],
+          "publishDate": "[2014]",
+          "subjects": [
+            "Picture books for children.",
+            "Children's stories, Malay."
+          ],
+          "physicalDescription": [
+            "16 pages : chiefly color illustrations ; 20 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin & tiny shrimp don't do bedtime!",
+      "author": "Berry, Cate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062491534?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062491534?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062491534?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203128642,
+          "variantTitles": [
+            "Penguin and tiny shrimp do not do bedtime!"
+          ],
+          "otherAuthors": [
+            "Santoso, Charles, illustrator."
+          ],
+          "isbns": [
+            "9780062491534",
+            "0062491539"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Balzer + Bray, an imprint of HarperCollins Publishers"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Bedtime Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Shrimps Juvenile fiction.",
+            "Picture books for children Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "Penguin and Tiny Shrimp DO NOT have a bedtime story to share with you. There are no soft beds or cozy covers here. There are fireworks! And shark-infested waters!! This book will never make you sleepy! Not at all. Not even a little...--book jacket."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin : si lucu yang saling melindungi",
+      "seriesTitle": [
+        "Aneka satwa unik."
+      ],
+      "author": "Alfayyad, Arfan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789790638419?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789790638419?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789790638419?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203988105,
+          "otherAuthors": [
+            "Wulan, Suryaning, editor.",
+            "Arrahmanrendi, illustrator."
+          ],
+          "isbns": [
+            "9789790638419",
+            "9790638418"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Cetakan 6."
+          ],
+          "publisher": [
+            "Jakarta Timur : Lini Gurita, Penerbit Zikrul Hakim",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Picture books for children Indonesia.",
+            "Picture books for children.",
+            "Indonesia."
+          ],
+          "physicalDescription": [
+            "1 volume : colour illustrations ; 21 x 24 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Indonesian"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Where to Hide a Star",
+      "author": "Jeffers, Oliver",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008579753?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008579753?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008579753?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300150105,
+          "isbns": [
+            "9780008579753",
+            "000857975X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Children's Books",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Friendship Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Stars Juvenile fiction.",
+            "Extraterrestrial beings Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "\"Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help, and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn't the only one who had always dreamed of having a star as a friend...\"-- Provided by publisher."
+          ],
+          "notes": [
+            "\"A boy & penguin book\"-- Cover.",
+            "\"First published in hardback in the United Kingdom by HarperCollins Children's Books in 2024\"-- Opposite title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300081226,
+          "isbns": [
+            "9780008579685",
+            "0008579687"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London, UK : HarperCollins Children's Books",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Children Fiction.",
+            "Picture books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "\"Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn’t the only one who had always dreamed of having a star as a friend… The out-of-this-world, long-awaited sequel to the much-loved Boy stories, loved all around the world – now introducing a brand-new character!\"-- Front Jacket Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "3 years and up."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300087957,
+          "digitalId": "942FD97A-08DA-45EB-9E91-F9E12F74C37F",
+          "isbns": [
+            "9780593622254 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "World-renowned artist and picture book creator Oliver Jeffers brings to life an endearing story about the magic of friendship—and sharing what brings us joy.  Celebrate twenty years of The Boy in this highly anticipated new adventure from the internationally bestselling picture book creator of  Lost and Found , Oliver Jeffers! Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help, and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn’t the only one who had always dreamed of having a star as a friend . . . The out-of-this-world, long-awaited sequel to the much-loved Boy stories, loved all around the world—now introducing a brand-new character!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300087571,
+          "digitalId": "2EB42D3C-BCD5-40B6-A9A7-164393049424",
+          "otherAuthors": [
+            "Jeffers, Oliver."
+          ],
+          "isbns": [
+            "9780593945162 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "World-renowned artist and picture book creator Oliver Jeffers brings to life an endearing story about the magic of friendship—and sharing what brings us joy.  Celebrate twenty years of The Boy in this highly anticipated new adventure from the internationally bestselling picture book creator of  Lost and Found , Oliver Jeffers! Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help, and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn’t the only one who had always dreamed of having a star as a friend . . . The out-of-this-world, long-awaited sequel to the much-loved Boy stories, loved all around the world—now introducing a brand-new character!"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Oliver Jeffers."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "我有一个大发现 | Wo you yi ge da fa xian",
+      "seriesTitle": [
+        "森林鱼. | Sen lin yu."
+      ],
+      "author": "波蒂斯, 安托瓦内特 | Portis, Antoinette",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559322142?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559322142?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559322142?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203903362,
+          "variantTitles": [
+            "Original title: A Penguin Story"
+          ],
+          "otherAuthors": [
+            "Zhang, Jin, translator."
+          ],
+          "nativeOtherAuthors": [
+            "张瑾, translator."
+          ],
+          "isbns": [
+            "9787559322142",
+            "755932214X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Ha'erbin: Heilongjiang mei shu chu ban she"
+          ],
+          "nativePublisher": [
+            "哈尔滨: 黑龙江美术出版社"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Penguins Pictorial works.",
+            "Picture books for children.",
+            "Curiosity Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "36 pages : color illustrations ; 21 x 26 cm"
+          ],
+          "summary": [
+            "Edna the penguin tries to find something in her surroundings that is not black, white, or blue."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "谁偷走了我的虾 | Shui tou zou le wo de xia",
+      "seriesTitle": [
+        "青铜葵花图画书奖获奖作品. | Qing tong kui hua tu hua shu jiang huo jiang zuo pin."
+      ],
+      "author": "茆智敏 | Mao, Zhimin",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787501623488?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787501623488?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787501623488?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300096935,
+          "otherAuthors": [
+            "Hu jing, author.",
+            "Shen, Jiao, author.",
+            "Liu, Ni, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "胡婧, author.",
+            "申校, author.",
+            "刘霓, illustrator."
+          ],
+          "isbns": [
+            "9787501623488",
+            "7501623481"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Tian tian chu ban she you xian ze ren  gong si"
+          ],
+          "nativePublisher": [
+            "北京市 : 天天出版社有限责任公司"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Penguins Climate Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 23 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "南极来的魔术师 | Nan ji lai de mo shu shi",
+      "seriesTitle": [
+        "魔法象图画书王国 ; ME508. | Mo fa xiang tu hua shu wang guo ; ME508."
+      ],
+      "author": "温艾凝 | Wen, Aining",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559869739?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559869739?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559869739?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300190679,
+          "isbns": [
+            "9787559869739",
+            "7559869734",
+            "9787559869708",
+            "755986970X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Guilin Shi : Guangxi shi fan da xue chu ban she"
+          ],
+          "nativePublisher": [
+            "桂林市 : 广西师范大学出版社"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Magicians Juvenile fiction.",
+            "Trumpet Juvenile fiction.",
+            "Music Juvenile fiction.",
+            "Children's stories, Chinese.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : colour illustrations ; 19 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "小米吴大世界. 2, 帝企鹅爸爸会孵蛋 | Xiao Mi Wu da shi jie. 2, Di qi e ba ba hui fu dan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787556898589?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787556898589?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787556898589?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300210749,
+          "variantTitles": [
+            "Di qi e ba ba hui fu dan"
+          ],
+          "nativeVariantTitles": [
+            "帝企鹅爸爸会孵蛋"
+          ],
+          "otherAuthors": [
+            "Wei hua wen hua, author, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "未华文化, author, illustrator."
+          ],
+          "isbns": [
+            "9787556898589",
+            "755689858X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Nanchang Shi : Er shi yi shi ji chu ban she ji tuan"
+          ],
+          "nativePublisher": [
+            "南昌市 : 二十一世纪出版社集团"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "38 pages (some folded) : colour illustrations ; 24 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "小鼹鼠的土豆 | Xiao yan shu de tu dou",
+      "seriesTitle": [
+        "小企鹅心灵成长故事. | Xiao qi e xin ling cheng zhang gu shi."
+      ],
+      "author": "熊磊 | Xiong, Lei",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787533298890?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787533298890?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787533298890?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205815404,
+          "otherAuthors": [
+            "Lu, Xin, illustrator.",
+            "Han, Yan, illustrator."
+          ],
+          "nativeOtherAuthors": [
+            "卢欣, illustrator.",
+            "韩岩, illustrator."
+          ],
+          "isbns": [
+            "9787533298890",
+            "7533298896"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Jinan Shi : Ming tian chu ban she"
+          ],
+          "nativePublisher": [
+            "济南市 : 明天出版社"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 23 cm."
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin flies home : a flight school story",
+      "seriesTitle": [
+        "Flight School."
+      ],
+      "author": "Judge, Lita",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534414419?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534414419?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534414419?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203814141,
+          "isbns": [
+            "9781534414419",
+            "153441441X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Atheneum",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Birds Flight Juvenile fiction.",
+            "Individuality Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : color illustrations ; 27 cm."
+          ],
+          "summary": [
+            "Even though his penguin friends would rather swim, Penguin dreams of flying."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205448405,
+          "digitalId": "257925BB-3C2C-4107-BB37-B4EB0CB2C294",
+          "isbns": [
+            "9781534414426"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Picture books for children.",
+            "Individuality Juvenile fiction.",
+            "Birds Flight Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Penguin mastered his quest to soar with the eagles in  Flight School -now he's heading home to teach his friends in this sweet and inspiring stand-alone companion story!  Penguin loves everything about flying: the wind beneath his wings, the song that rises from his belly, and the sight of new and wonderful places.   Still, he misses his penguin friends in the South Pole. So, he flips and flaps back home, ready to teach them the magic of flight!   But when he arrives, his enthusiasm for flying doesn't get quite the reaction he expected. Will Penguin's friends still like him, even if they don't share his soaring dreams?"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "LG/Lower grades (K-3rd)",
+            "620 Lexile.",
+            "3.4 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "I am not a penguin : A pangolin's lament.",
+      "author": "Wong, Liz",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593127407?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593127407?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593127407?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205359616,
+          "variantTitles": [
+            "Pangolin's lament"
+          ],
+          "isbns": [
+            "9780593127407",
+            "0593127404",
+            "9780593127414",
+            "0593127412",
+            "9780593127421"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Alfred A. Knopf",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Pangolins Juvenile fiction.",
+            "Mistaken identity Juvenile fiction.",
+            "Animals Identification Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Humorous stories.",
+            "Animals.",
+            "Friendship.",
+            "Humorous stories.",
+            "Mistaken identity.",
+            "Pangolins."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "Poor Pangolin! He's trying to explain who he is, but the other animals keep getting confused. A pangolin might be a very unusual animal, but in this very funny story of mix-ups and misunderstandings, he discovers the rarest creature of all: a friend who really listens and likes you for who you are. Includes some interesting facts about pangolins."
+          ],
+          "notes": [
+            "\"This is a Borzoi book.\"--Colophon."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205367200,
+          "digitalId": "68638C82-312B-4B1E-9CEF-AB457C669E7D",
+          "isbns": [
+            "9780593127421"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Pangolins.",
+            "Mistaken identity.",
+            "Humorous stories.",
+            "Friendship.",
+            "Animals.",
+            "Humorous stories.",
+            "Friendship Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Animals Identification Juvenile fiction.",
+            "Mistaken identity Juvenile fiction.",
+            "Pangolins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This hilarious story of a pangolin with an identity crisis will be loved by fans of  Penguin Problems  and  Unicorn Thinks He's Pretty Great.   Poor pangolin-he's trying to explain who he is, but all the other animals keep getting confused.  You have scales-like a snake? A long tongue-like a frog? A strong scent-like a skunk? You can roll in a ball-like an armadillo? And a name that sounds a lot like...penguin? We love penguins! \"No, no, no! I am not a penguin! There are no penguins here!\" But then, just when it couldn't get worse, a penguin arrives!! What's a poor pangolin got to do to be understood?!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 2",
+            "470 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Five little penguins",
+      "author": "Murray, Lily",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835872246?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835872246?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835872246?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300146321,
+          "variantTitles": [
+            "5 little penguins"
+          ],
+          "otherAuthors": [
+            "Surplice, Holly, illustrator."
+          ],
+          "isbns": [
+            "9781835872246",
+            "1835872247"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Board book edition."
+          ],
+          "publisher": [
+            "London : Templar Books",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Penguins Infancy Juvenile fiction.",
+            "Mother and child Juvenile fiction.",
+            "Winter Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "22 unnumbered pages : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"Join five adorable penguins on a lift-the-flap walk through a winter wonderland. There's so much to see as Mama Penguin and her chicks waddle through a frosty forest, skate down an icy river, and sled down snowy slopes. Along the way, they meet all kinds of festive animals playing in the snow. But wait--the chicks are disappearing one by one. Whatever could they be up to? Lift the flaps to find the chicks and discover a fantastic surprise ending\"--Amazon."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Lift the flaps to find the penguins!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Baby penguins",
+      "seriesTitle": [
+        "Starting out"
+      ],
+      "author": "Riggs, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781568464558?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781568464558?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781568464558?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300197360,
+          "isbns": [
+            "9781568464558",
+            "156846455X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mankato, MN : Creative Editions"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Penguins Infancy Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "13 pages : color illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Discover the icy world of baby penguins in this sturdy board book for little hands. Follow a penguin chick as it narrates the story of its life, showcasing key moments in its growth and development\"-- Provided by publisher."
+          ],
+          "contents": [
+            "I am a chick -- Breaking the egg -- Changing feathers -- What to eat -- Speak and listen -- Chick words."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203942768,
+          "isbns": [
+            "9781640260788",
+            "1640260781",
+            "9781628326666",
+            "1628326662"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Mankato, Minnesota : Creative Education and Creative Paperbacks",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Penguins Infancy Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"A baby penguin narrates the story of its life, describing how physical features, diet, habitat, and familial relationships play a role in its growth and development\"--Page facing title page."
+          ],
+          "contents": [
+            "I am a chick -- Breaking the egg -- Changing feathers -- What to eat -- Spiny tongues -- I am a young penguin."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300179368,
+          "isbns": [
+            "9789813510425",
+            "9813510420"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Scholastic Singapore",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Penguins Infancy Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm"
+          ],
+          "summary": [
+            "A baby penguin narrates the story of its life, describing how physical features, diet, habitat, and familial relationships play a role in its growth and development"
+          ],
+          "contents": [
+            "I am a chick -- Breaking the egg -- Changing feathers -- What to eat -- Spiny tongue -- I am a young penguin -- Speak and listen-- Chick words -- Thinking caps."
+          ],
+          "notes": [
+            "\"More fun with audio!\"--Cover.",
+            "\"This edition is available for distribution in Asia only\"--Colophon."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 1355
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 237
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 233
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 57
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 25
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 18
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 1330
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 24
+        },
+        {
+          "id": "english (2016)",
+          "data": "english (2016)",
+          "count": 1
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 1
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 1085
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 1058
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 1002
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 977
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 977
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 949
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 947
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 931
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 930
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 909
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 898
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 856
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 822
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 816
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 809
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 807
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 806
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 791
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 719
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 674
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 186
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 19
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 8
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 1355
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 1181
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 165
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 3
+        },
+        {
+          "id": "brl",
+          "data": "Braille",
+          "count": 1
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 1
+        },
+        {
+          "id": "abc",
+          "data": "Audio Book on CD",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

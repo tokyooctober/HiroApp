@@ -1,0 +1,3741 @@
+{
+  "totalRecords": 142,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Penguins",
+      "seriesTitle": [
+        "Marvels animals ; 08."
+      ],
+      "author": "Riggs, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781640268456?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781640268456?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781640268456?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300086088,
+          "isbns": [
+            "9781640268456",
+            "1640268456",
+            "9781682773956",
+            "1682773957"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mankato, Minnesota : Creative Education and Creative Paperbacks",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Penguins Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"An engaging introduction to penguins, this beginning reader features eye-catching photographs, humorous captions, and easy-to-read facts about this Antarctic animal\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The battle of the werepenguins",
+      "seriesTitle": [
+        "Werepenguin."
+      ],
+      "author": "Woodrow, Allan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593114261?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593114261?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593114261?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205585566,
+          "otherAuthors": [
+            "Brown, Scott (Illustrator)"
+          ],
+          "isbns": [
+            "9780593114261",
+            "0593114264"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Shapeshifting Juvenile fiction.",
+            "Good and evil Juvenile fiction.",
+            "Adventure stories.",
+            "Humorous stories."
+          ],
+          "physicalDescription": [
+            "381 pages : illustrations ; 22 cm"
+          ],
+          "summary": [
+            "After receiving a clue from Omneseus the Seer, twelve-year-old werepenguin Bolt and his friends Blackburn and Annika set off to defeat \"the Stranger\" and free the world's penguins from his reign."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205572515,
+          "digitalId": "B3CB2523-A1F6-459C-ADA5-55A45C7CE128",
+          "otherAuthors": [
+            "Brown, Scott (Illustrator)"
+          ],
+          "isbns": [
+            "9780593114285"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Shapeshifting.",
+            "Penguins.",
+            "Humorous stories.",
+            "Good and evil.",
+            "Adventure stories.",
+            "Humorous stories.",
+            "Adventure and adventurers Fiction.",
+            "Good and evil Fiction.",
+            "Shapeshifting Fiction.",
+            "Penguins Fiction.",
+            "Humorous stories.",
+            "Adventure stories.",
+            "Good and evil Juvenile fiction.",
+            "Shapeshifting Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In the series Chris Grabenstein called \"hysterically hilarious,\" the saga about the evil werepenguins of Brugaria comes to a stunning, action-packed conclusion!  When Bolt, Annika, and Blackburn are given another cryptic clue by Omneseus the Seer, they know the time has come to defeat the baddest Werepenguin, \"the Stranger,\" and free the world's penguins from his evil reign. Only a very special tooth can bring the Stranger down, but of course, procuring this precious item is no easy task, and it doesn't help that Bolt can't stop hearing the Stranger in his head, trying to coax him to the dark side. When Bolt stumbles into a weremole burrow and meets Grom, a human boy with a penguin birthmark who's desperate to be bitten, he starts to question whether a werepenguin can be anything but a terrible monster. Or if one born out of love might be the key to penguin salvation. As Bolt's werepenguin strengths grow more powerful, the ultimate war between good and evil looms closer. But no one can guess what's about to go down. And when an unexpected foe returns, the battle of the werepenguins IS ON."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205573220,
+          "digitalId": "3E774CC4-BD1C-44C3-B851-C2E779193952",
+          "isbns": [
+            "9780593397657"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library (Audio)"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (8 audio files) : digital"
+          ],
+          "summary": [
+            "In the series Chris Grabenstein called \"hysterically hilarious,\" the saga about the evil werepenguins of Brugaria comes to a stunning, action-packed conclusion!  When Bolt, Annika, and Blackburn are given another cryptic clue by Omneseus the Seer, they know the time has come to defeat the baddest Werepenguin, \"the Stranger,\" and free the world's penguins from his evil reign. Only a very special tooth can bring the Stranger down, but of course, procuring this precious item is no easy task, and it doesn't help that Bolt can't stop hearing the Stranger in his head, trying to coax him to the dark side. When Bolt stumbles into a weremole burrow and meets Grom, a human boy with a penguin birthmark who's desperate to be bitten, he starts to question whether a werepenguin can be anything but a terrible monster. Or if one born out of love might be the key to penguin salvation. As Bolt's werepenguin strengths grow more powerful, the ultimate war between good and evil looms closer. But no one can guess what's about to go down. And when an unexpected foe returns, the battle of the werepenguins IS ON."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Corduroy's garden",
+      "seriesTitle": [
+        "Corduroy."
+      ],
+      "author": "Inches, Alison",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524790851?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524790851?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524790851?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203861904,
+          "otherAuthors": [
+            "Eitzen, Allan, illustrator.",
+            "Freeman, Don, 1908-1978, creator."
+          ],
+          "isbns": [
+            "9781524790851",
+            "1524790850",
+            "9781524790844",
+            "1524790842"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Penguin Young Readers",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Corduroy (Fictitious character) Juvenile fiction.",
+            "Teddy bears Juvenile fiction.",
+            "Toys Juvenile fiction.",
+            "Plants Juvenile fiction.",
+            "Gardens Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "31 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "\"Corduroy has an important job. After planting some beans in her garden, Lisa leaves Corduroy in charge of watching them. But when he falls asleep and a puppy digs up the seeds, Corduroy must find a way to save the day!\"--Page 4 of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204451711,
+          "digitalId": "3C16540A-F9DC-48F9-AF9C-668320188666",
+          "otherAuthors": [
+            "Eitzen, Allan, illustrator.",
+            "Freeman, Don, 1908-1978, creator."
+          ],
+          "isbns": [
+            "9780593095539"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Corduroy (Fictitious character)",
+            "Gardens.",
+            "Plants.",
+            "Readers (Elementary)",
+            "Teddy bears.",
+            "Toys.",
+            "Readers (Elementary)",
+            "Gardens Juvenile fiction.",
+            "Plants Juvenile fiction.",
+            "Toys Juvenile fiction.",
+            "Teddy bears Juvenile fiction.",
+            "Corduroy (Fictitious character) Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In  Corduroy's Garden , Lisa leaves Corduroy to keep watch over her newly planted seeds. But when a puppy digs up the garden, it's up to Corduroy to save the day. Based on the popular characters created by Don Freeman, the Corduroy easy-to-read series is ideal for children just beginning to read on their own. The brief sentences, repetitive phrases, and important visual clues within the illustrations help readers along while keeping them entertained."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Cupcake catastrophe",
+      "seriesTitle": [
+        "Ready-to-read graphics."
+      ],
+      "author": "Fosberry, Jennifer",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665932011?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665932011?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665932011?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206124544,
+          "variantTitles": [
+            "At head of title: Chi-Chi and Pey-Pey"
+          ],
+          "otherAuthors": [
+            "Pate, Shiho, illustrator."
+          ],
+          "isbns": [
+            "9781665932011",
+            "1665932015",
+            "9781665932004",
+            "1665932007",
+            "9781518293306",
+            "1518293301"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Chickens Comic books, strips, etc.",
+            "Penguins Comic books, strips, etc.",
+            "Animals Comic books, strips, etc.",
+            "Cupcakes Comic books, strips, etc.",
+            "Sharing Comic books, strips, etc.",
+            "Chickens Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Cupcakes Juvenile fiction.",
+            "Sharing Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"Chi-Chi and Pey-Pey are excited when they get cupcakes at snack time, but there is only one cupcake that has purple frosting--and they both want it! Can they find a way to share before they're left with nothing but crumbs? When these two work together, anything is possible\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206164520,
+          "digitalId": "DCA4F837-8054-4C0E-9904-9C2022711430",
+          "isbns": [
+            "9781665932028 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Best friends Chi-Chi the chicken and Pey-Pey the penguin both want the same cupcake in the second book in this sweet Level 1 Ready-to-Read Graphics series about celebrating differences!  Chi-Chi and Pey-Pey are excited when they get cupcakes at snack time, but there is only one cupcake that has purple frosting—and they both want it! Can they find a way to share before they're left with nothing but crumbs? When these two work together, anything is possible.   Ready-to-Read Graphics books give readers the perfect introduction to the graphic novel format with easy-to-follow panels, speech bubbles with accessible vocabulary, and sequential storytelling that is spot-on for beginning readers. There's even a how-to guide for reading graphic novels at the beginning of each book."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguins",
+      "seriesTitle": [
+        "Zoom in on polar animals"
+      ],
+      "author": "Statts, Leo",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1680791885?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1680791885?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1680791885?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202672830,
+          "isbns": [
+            "1680791885",
+            "9781680791884"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, MN : Abdo Zoom",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Penguins Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm"
+          ],
+          "contents": [
+            "Penguinss -- Body -- Habitat -- Food -- Life cycle -- Quick stats."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205406088,
+          "digitalId": "0EA0B11E-11CC-4633-8940-4B9A055257C4",
+          "isbns": [
+            "9781680794458"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Minneapolis : Abdo Zoom"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Nature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Learn all about playful penguins! This book captivates young readers through simple and easy-to-read text combined with vibrant, full-color photographs. Plus, quick stats sections and bolded glossary terms invite readers to zoom in and learn more. Aligned to Common Core Standards and correlated to state standards. Abdo Zoom is a division of ABDO."
+          ],
+          "notes": [
+            "Title from eBook information screen..",
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "390 Lexile.",
+            "1.7 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Where to Hide a Star",
+      "author": "Jeffers, Oliver",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008579753?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008579753?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008579753?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300150105,
+          "isbns": [
+            "9780008579753",
+            "000857975X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : HarperCollins Children's Books",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Friendship Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Stars Juvenile fiction.",
+            "Extraterrestrial beings Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "\"Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help, and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn't the only one who had always dreamed of having a star as a friend...\"-- Provided by publisher."
+          ],
+          "notes": [
+            "\"A boy & penguin book\"-- Cover.",
+            "\"First published in hardback in the United Kingdom by HarperCollins Children's Books in 2024\"-- Opposite title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300081226,
+          "isbns": [
+            "9780008579685",
+            "0008579687"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London, UK : HarperCollins Children's Books",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Children Fiction.",
+            "Picture books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "\"Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn’t the only one who had always dreamed of having a star as a friend… The out-of-this-world, long-awaited sequel to the much-loved Boy stories, loved all around the world – now introducing a brand-new character!\"-- Front Jacket Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "3 years and up."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300087957,
+          "digitalId": "942FD97A-08DA-45EB-9E91-F9E12F74C37F",
+          "isbns": [
+            "9780593622254 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "World-renowned artist and picture book creator Oliver Jeffers brings to life an endearing story about the magic of friendship—and sharing what brings us joy.  Celebrate twenty years of The Boy in this highly anticipated new adventure from the internationally bestselling picture book creator of  Lost and Found , Oliver Jeffers! Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help, and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn’t the only one who had always dreamed of having a star as a friend . . . The out-of-this-world, long-awaited sequel to the much-loved Boy stories, loved all around the world—now introducing a brand-new character!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300087571,
+          "digitalId": "2EB42D3C-BCD5-40B6-A9A7-164393049424",
+          "otherAuthors": [
+            "Jeffers, Oliver."
+          ],
+          "isbns": [
+            "9780593945162 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "World-renowned artist and picture book creator Oliver Jeffers brings to life an endearing story about the magic of friendship—and sharing what brings us joy.  Celebrate twenty years of The Boy in this highly anticipated new adventure from the internationally bestselling picture book creator of  Lost and Found , Oliver Jeffers! Once there was a boy who would often play hide-and-seek with his friends the star and the penguin. The star was always easy to find, but one day it went missing. So, the boy radioed the Martian for help, and soon found himself on an exciting spaceship rescue mission to the North Pole! But there, he discovered that he wasn’t the only one who had always dreamed of having a star as a friend . . . The out-of-this-world, long-awaited sequel to the much-loved Boy stories, loved all around the world—now introducing a brand-new character!"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Oliver Jeffers."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A tale of two cities",
+      "seriesTitle": [
+        "Illustrated classics."
+      ],
+      "author": "Dickens, Charles, 1812-1870",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241736555?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241736555?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241736555?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300113421,
+          "otherAuthors": [
+            "Doyle, Roddy, 1958- writer of introduction.",
+            "Jennings, Linda M., abridger."
+          ],
+          "isbns": [
+            "9780241736555",
+            "0241736552"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Puffin Books"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Friendship Juvenile fiction.",
+            "Loyalty Juvenile fiction.",
+            "Revenge Juvenile fiction.",
+            "France History Revolution, 1789-1799 Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "vii, 445 pages ; 20 cm."
+          ],
+          "summary": [
+            "\"Charles Darnay and Sydney Carton are alike in appearance, different in character and in love with the same woman. In the midst of the French Revolution, Darnay, who has fled to London to escape the cruelty of the French nobility, must return to Paris to rescue his servant from death. But he endangers his own life and is captured. Carton may be able to help, but will his resemblance be enough to save Darnay's life?\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Abridged\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12479002,
+          "otherAuthors": [
+            "Suman Sharma."
+          ],
+          "isbns": [
+            "9814177423"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Allscript Establishment (Singapore)"
+          ],
+          "publishDate": "2004.",
+          "subjects": [
+            "City and town life France Paris Juvenile fiction.",
+            "City and town life England London Juvenile fiction.",
+            "France History Revolution, 1789-1799 Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "240 pages: illustrations; 14 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 11773010,
+          "otherAuthors": [
+            "Maxwell, Richard, editor, author of introduction."
+          ],
+          "isbns": [
+            "0141439602",
+            "9780141439600"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "New edition with updated editorial material, revised Dickens chronology and new appendix."
+          ],
+          "publisher": [
+            "London : Penguin"
+          ],
+          "publishDate": "2003.",
+          "subjects": [
+            "City and town life France Paris Fiction.",
+            "City and town life England London Fiction.",
+            "France History Revolution, 1789-1799 Fiction."
+          ],
+          "physicalDescription": [
+            "lii, 488 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "After eighteen years as a political prisoner in the Bastille, the aging Doctor Manette is finally released and reunited with his daughter in England. There the lives of two very different men, Charles Darnay, an exiled French aristocrat, and Sydney Carton, a disreputable but brilliant English lawyer, become enmeshed through their love for Lucie Manette. From the tranquil roads of London, they are drawn against their will to the vengeful, bloodstained streets of Paris at the height of the Reign of Terror, and they soon fall under the lethal shadow of La Guillotine. This edition uses the text as it appeared in its first serial publication in 1859 to convey the full scope of Dickens's vision, and includes the original illustrations by H.K. Browne ('Phiz'). Richard Maxwell's introduction discusses the intricate interweaving of epic drama with personal tragedy."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202710403,
+          "isbns": [
+            "1853260398",
+            "9781853260391"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Ware : Wordsworth"
+          ],
+          "publishDate": "1993.",
+          "subjects": [
+            "Paris (France) History 1789-1799 Fiction.",
+            "London (England) History 18th century Fiction.",
+            "France History Revolution, 1789-1799 Fiction."
+          ],
+          "physicalDescription": [
+            "424 pages ; 18 cm."
+          ],
+          "summary": [
+            "After eighteen years as a political prisoner in the Bastille, the aging Doctor Manette is finally released and reunited with his daughter in England. There the lives of two very different men, Charles Darnay, an exiled French aristocrat, and Sydney Carton, a disreputable but brilliant English lawyer, become enmeshed through their love for Lucie Manette. From the tranquil roads of London, they are drawn against their will to the vengeful, bloodstained streets of Paris at the height of the Reign of Terror, and they soon fall under the lethal shadow of La Guillotine.--(Abstract: Great Illustrated Classics)."
+          ],
+          "notes": [
+            "\"Complete and unabridged.\""
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200036622,
+          "otherAuthors": [
+            "Kottmeyer, William",
+            "Toomey, Elizabeth"
+          ],
+          "isbns": [
+            "07099689X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Mcgraw-hill Far Eastern Publishers (s) Ltd. "
+          ],
+          "publishDate": "[1975].",
+          "subjects": [
+            "Readers.",
+            "English fiction."
+          ],
+          "physicalDescription": [
+            "151 pages: color illustrations; 19 cm."
+          ],
+          "notes": [
+            "Edited by William Kottmeyer formerly superintendent of instruction St. Louis, Missouri, Public Schools.",
+            "Adapted by Elizabeth Toomey."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300075773,
+          "digitalId": "F719547B-FC3F-40AB-AFC0-B64120ED5BAA",
+          "isbns": [
+            "9780714548524 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "London : Alma Books"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "France History Revolution, 1789-1799 Fiction.",
+            "London (England) History 18th century Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Against the backdrop of growing discontent in Paris, Doctor Manette is released from the Bastille after eighteen years of unjust imprisonment and begins a new life in England with his devoted daughter Lucie. There, the gifted but dissolute lawyer Sydney Carton and the exiled French nobleman Charles Darnay find their lives increasingly intertwined with those of the Manettes. Yet soon both men are drawn ineluctably from the peaceful English capital to the horror and bloodshed of the Paris Terror and the looming threat of the guillotine.Representing a departure from the social satire of most of his other novels and deemed by Dickens himself to be \"the best story I have written\", A Tale of Two Cities is a powerful historical novel about the repercussions of epochal events on the personal lives of people on both sides of the Channel."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 8 - Text Difficulty 9",
+            "1130 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203468047,
+          "digitalId": "14AC4FE7-BDFC-40F5-A29C-2BDFA0E20CFA",
+          "isbns": [
+            "9781602911697"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Costa Mesa : Saddleback Educational Publishing"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Executions and executioners",
+            "British",
+            "Fathers and daughters",
+            "French fiction",
+            "Lookalikes",
+            "France",
+            "France Paris",
+            "England London",
+            "Fiction.",
+            "Comic and Graphic Books."
+          ],
+          "summary": [
+            "Journey between London and Paris during that perilous time known as \"The French Revolution.\" This is a story of two men that look alike- one in danger of being beheaded by the guillotine, and the other, a hero that sacrifices his own life for his friend. The French Revolution has been called \"The Reign of Terror,\" and you will feel the terror in your own bones as you read!"
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grade 1 - Grade 2",
+            "500L Lexile Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203302152,
+          "digitalId": "C02F9972-631D-483C-A0A3-D6359534851D",
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Garfield Heights : Duke Classics"
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "French fiction England London.",
+            "Lookalikes Fiction.",
+            "Fathers and daughters Fiction.",
+            "Executions and executioners Fiction.",
+            "Paris (France) History 1789-1799 Fiction.",
+            "France Paris.",
+            "France.",
+            "England London.",
+            "France History Revolution, 1789-1799 Fiction.",
+            "London (England) History 18th century Fiction.",
+            "Fiction.",
+            "Classic Literature."
+          ],
+          "summary": [
+            "\"It was the best of times, it was the worst of times.\"  Charles Dickens', A Tale of Two Cities, begins with these famous words.  On the eve of the French Revolution of 1789, the story follows Charles Darney, a French aristocrat-turned-revolutionary, and Sydney Carton, a purposeless British lawyer in love with Darney's wife, Lucie.  Sydney's love for Lucie inspires him to join the Revolution alongside his friend Darney, at a time when both France and England are experiencing tensions between the upper and lower classes.First released in 1859 via magazine installments A Tale of Two Cities, is ultimately the tale of Carton and Darney, London and Paris... A Tale of Two Men."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grade 8 - Grade 9"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203243080,
+          "digitalId": "6191A21F-9EE6-49E6-9C45-F202C6332382",
+          "isbns": [
+            "1595470115 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Luverne : NuVision Publications"
+          ],
+          "publishDate": "2004.",
+          "subjects": [
+            "Historical Fiction.",
+            "France History Revolution, 1789-1799 Fiction.",
+            "London (England) History 18th century Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This 1859 Classic Novel begins a year before the American Independence and several years before the French Revolution. This grand book will educate you about life and death, society, and history through a superb story.  Please Note:  This book is easy to read in true text, not scanned images that can sometimes be difficult to decipher.  This eBook has bookmarks at chapter headings and is printable up to two full copies per year."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 8 - Text Difficulty 9",
+            "1130 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 8679148,
+          "otherAuthors": [
+            "Lesser, Anton."
+          ],
+          "isbns": [
+            "9626340576"
+          ],
+          "format": {
+            "code": "52",
+            "name": "Audio Book on CD"
+          },
+          "publisher": [
+            "[s. l.] : NAXOS Audiobooks"
+          ],
+          "publishDate": "p1995.",
+          "subjects": [
+            "Dickens, Charles, 1812-1870. Tale of two cities.",
+            "France History Revolution, 1789-1799 Literature and the revolution."
+          ],
+          "physicalDescription": [
+            "3 sound discs (3:51:48): digital; 4 3/4 in."
+          ],
+          "notes": [
+            "Compact disc (DDD)",
+            "Abridged by Perry Keenlyside ; produced by Nicolas Soames.",
+            "\"Classic literature with classical music\" -- Container.",
+            "\"Classic fiction\" -- Container."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Read by Anton Lesser."
+          ],
+          "availability": true,
+          "volumes": [
+            "[v.]1-3"
+          ]
+        },
+        {
+          "brn": 300075779,
+          "digitalId": "77C5640C-C5B6-402A-ADE4-3791098EFFB4",
+          "otherAuthors": [
+            "Rhind-Tutt, Julian."
+          ],
+          "isbns": [
+            "9780241439777 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "London : Penguin Classics"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "City and town life England London Fiction.",
+            "City and town life France Paris Fiction.",
+            "Classic Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (14 audio files) : digital"
+          ],
+          "summary": [
+            "Brought to you by Penguin.     This Penguin Classic is performed by Julian Rhind-Tutt, star of  Green Wing , also known for his roles in  The Madness of King George  and  Tomb Raider . This definitive recording includes an Introduction by Richard Maxwell.   After eighteen years as a political prisoner in the Bastille the aging Dr Manette is finally released and reunited with his daughter in England. There two very different men, Charles Darnay, an exiled French aristocrat, and Sydney Carton, a disreputable but brilliant English lawyer, become enmeshed through their love for Lucie Manette. From the tranquil lanes of London, they are all drawn against their will to the vengeful, bloodstained streets of Paris at the height of the Reign of Terror and soon fall under the lethal shadow of La Guillotine. (c) Charles Dickens 1859 (P) Penguin Audio 2019"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 8 - Text Difficulty 9",
+            "1130 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Julian Rhind-Tutt."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203416679,
+          "digitalId": "C3FEC4B0-6C5E-41F9-A5EF-F147D5537C95",
+          "otherAuthors": [
+            "Prebble, Simon."
+          ],
+          "isbns": [
+            "9781483090412"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Ashland : Blackstone Publishing"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Man-woman relationships",
+            "French fiction",
+            "Lookalikes",
+            "Fathers and daughters",
+            "Executions and executioners",
+            "Classic Literature.",
+            "France",
+            "France Paris",
+            "England London"
+          ],
+          "physicalDescription": [
+            "1 online resource (13 audio files) : digital"
+          ],
+          "summary": [
+            "Set against the backdrop of the French Revolution, A Tale of Two Cities is a sprawling tale of London and revolutionary Paris with a complex plot portraying the results of terror and treason, love and supreme sacrifice. \"It was the best of times, it was the worst of times.\"-opening line of A Tale of Two Cities It was the time of the French Revolution, a time of great change and great danger. It was a time when injustice was met by a lust for vengeance, and rarely was a distinction made between the innocent and the guilty. Against this tumultuous historical backdrop, Dickens' dramatic story of adventure and courage unfolds. Unjustly imprisoned for eighteen years in the Bastille, Dr. Alexandre Manette is reunited with his daughter, the gentle Lucie Manette, and safely transported from France to England. It would seem that they could now take up the threads of their lives in peace. As fate would have it, however, the two are summoned to the Old Bailey to testify against a young Frenchman, Charles Darnay, falsely accused of treason. Strangely enough, Darnay bears an uncanny resemblance to another man in the courtroom: Sydney Carton, a dissolute barrister. It is a coincidence that saves Darnay from certain doom more than once, as the two men's fates become intertwined with that of the Revolution. And there is Madame Defarge, a female revolutionary who has an implacable grudge against the aristocratic Evrémonde dynasty and who knits as she watches the beheadings. The storming of the Bastille, the death carts with their doomed human cargo, the swift drop of the blade of La Guillotine-this is the French Revolution that Charles Dickens vividly captures. Brilliantly plotted, the novel is rich in drama, romance, and heroics that culminate in a daring prison escape in the shadow of the guillotine."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 9 - Text Difficulty 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Simon Prebble."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203413267,
+          "digitalId": "03554581-7701-4FBA-9950-A8442C617463",
+          "otherAuthors": [
+            "Henderson, Adam."
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Garfield Heights : Duke Classics"
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "Fiction.",
+            "British France Paris Fiction.",
+            "French England London.",
+            "Classic Literature.",
+            "Paris (France) History 1789-1799 Fiction.",
+            "France Paris.",
+            "France.",
+            "England London.",
+            "France History Revolution, 1789-1799 Fiction.",
+            "London (England) History 18th century Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (15 audio files) : digital"
+          ],
+          "summary": [
+            "\"It was the best of times, it was the worst of times.\"  Charles Dickens', A Tale of Two Cities, begins with these famous words.  On the eve of the French Revolution of 1789, the story follows Charles Darney, a French aristocrat-turned-revolutionary, and Sydney Carton, a purposeless British lawyer in love with Darney's wife, Lucie.  Sydney's love for Lucie inspires him to join the Revolution alongside his friend Darney, at a time when both France and England are experiencing tensions between the upper and lower classes.First released in 1859 via magazine installments A Tale of Two Cities, is ultimately the tale of Carton and Darney, London and Paris... A Tale of Two Men."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Adam Henderson."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203391915,
+          "digitalId": "BB6DBF5D-2D8A-4168-881D-EB87BEF5E68E",
+          "otherAuthors": [
+            "Butler, David."
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Solon : InAudio"
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Classic Literature.",
+            "Historical Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (audio file) : digital"
+          ],
+          "summary": [
+            "\"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way-in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.\"    Charles Dickens was born February 7, 1812, near the town of Portsmouth, England. When he was twelve, his father was arrested for debt and sent to prison and Charles went to work in a factory. At fifteen he worked as a law clerk and at nineteen, a reporter. His writing career began in 1837 with  Pickwick Papers  and was to include many great works such as  Oliver Twist ,  David Copperfield  and  A Tale of Two Cities . He died on June 9, 1870."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 9 - Text Difficulty 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: David Butler."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203417487,
+          "digitalId": "204C6948-7B1F-4D8B-9598-37D1EA4D224F",
+          "otherAuthors": [
+            "Lesser, Anton."
+          ],
+          "isbns": [
+            "9789629544980"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Abridged."
+          ],
+          "publisher": [
+            "Franklin : Naxos AudioBooks"
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Fiction.",
+            "Classic Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (3 audio files) : digital"
+          ],
+          "summary": [
+            "'It was the best of times, it was the worst of times'. A Tale of Two Cities, Dickens's only historical novel, sets personal happiness against the terrors of the French Revolution where the search for social justice sacrifices individual rights. Dr Manette has emerged from eighteen years' unjust imprisonment in the Bastille: by an ironic twist of fate, his daughter Lucie's marriage draws the family into a terrifying web of circumstance which, it seems, can only end in death by the guillotine."
+          ],
+          "notes": [
+            "Abridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 9 - Text Difficulty 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Anton Lesser."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The call of the wild.",
+      "seriesTitle": [
+        "Puffin classics."
+      ],
+      "author": "London, Jack, 1876-1916",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780192789105?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780192789105?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780192789105?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300038958,
+          "isbns": [
+            "9780192789105",
+            "0192789104"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Oxford : Oxford University Press"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Dogs Juvenile fiction.",
+            "Wolves Juvenile fiction.",
+            "Yukon History 20th century Juvenile fiction.",
+            "Canada History 1867-1914 Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "139 pages : map ; 20 cm."
+          ],
+          "summary": [
+            "\"Half St Bernard and half sheepdog, Buck is stolen away from his comfortable life as a pet and put to work as a sled dog in Alaska. Surrounded by cruelty, he adapts and learns the ways of the wilderness. Using his strength and instinct, Buck must fight for survival\"--Amazon."
+          ],
+          "notes": [
+            "First published: 1903."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300123253,
+          "isbns": [
+            "9781802631838",
+            "1802631836"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Leicester : Cherry Stone Publishing"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Dogs Juvenile fiction.",
+            "Wolves Juvenile fiction.",
+            "Yukon History 20th century Juvenile fiction.",
+            "Canada History 1867-1914 Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "128 pages ; 20 cm"
+          ],
+          "summary": [
+            "\"Buck, a wealthy judge's dog, leads a quiet life until he is kidnapped, sold and taken to the freezing north. Forced to become a sled dog, Buck learns to love the harsh, natural world. When the time comes, Buck must make the ultimate decision: return to his former life as a pet or embrace the call of the wild.\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203099016,
+          "isbns": [
+            "1788282558",
+            "9781788282550 (paperback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Arcturus Publishing Limited"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Dogs Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "106 pages ; 20 cm"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205937440,
+          "otherAuthors": [
+            "Container of (work): London, Jack, 1876-1916. To build a fire.",
+            "Container of (work): London, Jack, 1876-1916. Bâtard.",
+            "Container of (work): London, Jack, 1876-1916. Love of life."
+          ],
+          "isbns": [
+            "9780241341490",
+            "0241341493"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[London] : Penguin Books"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Dogs Fiction.",
+            "Atavism Fiction.",
+            "Pet theft Fiction.",
+            "Yukon History 19th century Fiction."
+          ],
+          "physicalDescription": [
+            "147 pages ; 20 cm."
+          ],
+          "summary": [
+            "The biting cold and the aching silence of the far North become an unforgettable backdrop for Jack London's vivid, rousing, superbly realistic wilderness adventure stories featuring the author's unique knowledge of the Yukon and the behavior of humans and animals facing nature at its cruelest."
+          ],
+          "contents": [
+            "The call of the wild -- To build a fire -- Bâtard -- Love of life."
+          ],
+          "notes": [
+            "The four stories were originally published in 1903, 1908, 1904, and 1907 respectively."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 13371817,
+          "otherAuthors": [
+            "Doctorow, E. L., 1931-2015"
+          ],
+          "isbns": [
+            "1598530585",
+            "9781598530582"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st Library of America paperback classic edition."
+          ],
+          "publisher": [
+            "[Place of publication not identified] : Library of America : distributed to the trade in the United States by Penguin Group"
+          ],
+          "publishDate": "2009.",
+          "subjects": [
+            "Adventure stories, American.",
+            "Nature stories, American.",
+            "Feral dogs Fiction.",
+            "Sled dogs Fiction.",
+            "Wolfdogs Fiction.",
+            "Wolves Fiction.",
+            "Dogs Fiction.",
+            "Klondike River Valley (Yukon) Fiction."
+          ],
+          "physicalDescription": [
+            "102 pages: maps; 21 cm."
+          ],
+          "notes": [
+            "\"... contents ... are drawn from Jack London : novels and stories, volume #6 in The Library of America series.\"",
+            "\"Introduction copyright c1990 by E.L. Doctorow.\" -- T.p. verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 13767310,
+          "isbns": [
+            "9780192728012",
+            "0192728016",
+            "9780192743626"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Oxford ; New York : Oxford University Press"
+          ],
+          "publishDate": "2009.",
+          "subjects": [
+            "Dogs Juvenile fiction.",
+            "Dogs Fiction.",
+            "Wolves Fiction.",
+            "Yukon History 20th century Fiction.",
+            "Canada History 1867-1914 Fiction."
+          ],
+          "physicalDescription": [
+            "110 pages: map; 20 cm."
+          ],
+          "summary": [
+            "The adventures of an unusual dog, part St. Bernard, part Scotch shepherd, that is forcibly taken to the Klondike gold fields where he eventually becomes the leader of a wolf pack."
+          ],
+          "notes": [
+            "Complete and unabridged.",
+            "Originally published: 1903."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 13004561,
+          "otherAuthors": [
+            "Gascoigne, Martin."
+          ],
+          "isbns": [
+            "0141321059",
+            "9780141321059"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "New edition "
+          ],
+          "publisher": [
+            "London : Puffin"
+          ],
+          "publishDate": "2008.",
+          "subjects": [
+            "Sled dogs Yukon Juvenile fiction.",
+            "Sled dogs. Yukon Fiction."
+          ],
+          "physicalDescription": [
+            "vi, 133 pages: illustrations; 18 cm."
+          ],
+          "summary": [
+            "The adventures of an unusual dog, part St. Bernard, part Scotch shepherd, that is forcibly taken to the Klondike gold fields where he eventually becomes the leader of a wolf pack."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 200099816,
+          "otherAuthors": [
+            "Kottmeyer, William",
+            "Burton, Ardis E."
+          ],
+          "isbns": [
+            "070996822"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Mcgraw-hill Far Eastern Publishers (s) Ltd. "
+          ],
+          "publishDate": "[1975].",
+          "subjects": [
+            "Readers.",
+            "Animal welfare Fiction."
+          ],
+          "physicalDescription": [
+            "122 pages: color illustrations; 19 cm."
+          ],
+          "notes": [
+            "Edited by William Kottmeyer formerly superintendent of instruction St. Louis, Missouri, Public Schools.",
+            "Adapted by Ardis E. Burton."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 5995489,
+          "format": {
+            "code": "28",
+            "name": "Braille"
+          },
+          "publisher": [
+            "[Place of publication not identified : Publisher not identified"
+          ],
+          "publishDate": "[between 1900 and 1991]",
+          "subjects": [
+            "Blind Books and reading."
+          ],
+          "physicalDescription": [
+            "1 volume"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203385877,
+          "digitalId": "CBA06F45-054C-46AE-B720-96B3219618DB",
+          "isbns": [
+            "9781480477018 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Open Road Media Teen & Tween"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "summary": [
+            "Jack London's finest achievement: the tale of a dog's heroic adventures in the frozen YukonAn instant classic when it was first published in 1903, The Call of the Wild is at once a thrilling frontier adventure and a uniquely American ode to the power of nature. The story begins at the dawn of the Klondike Gold Rush, when capable sled dogs are in high demand. Half St. Bernard and half sheep dog, Buck is stolen from an estate in California's idyllic Santa Clara Valley and shipped north. Beset by the harsh conditions of the Yukon, the recklessness of his owners, and the ruthlessness of the other dogs, Buck must learn to recover his primitive instincts in order to survive. But when he forms a special bond with a prospector named John Thornton, Buck is torn between two worlds: that of his human companion and that of the relentless, beckoning wilderness. This ebook has been professionally proofread to ensure accuracy and readability on all devices."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203301388,
+          "digitalId": "976F063C-AF97-432A-93A9-4AD010ED78F0",
+          "isbns": [
+            "9781620114483 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Garfield Heights : Duke Classics"
+          ],
+          "publishDate": "2012.",
+          "subjects": [
+            "Fiction.",
+            "Classic Literature."
+          ],
+          "summary": [
+            "The Call of the Wild is Jack London's most popular book and is considered by many to be his best. Telling the story of Buck, a domesticated dog whose wild instincts begin to kick-in while serving as a sled dog in the treacherous Yukon. The novel's tone is often dark, and despite being considered juvenile literature by some, it portrays much violence and cruelty. The Call of the Wild was followed in 1906 by White Fang with its mirroring plot of a wild wolf becoming domesticated by a miner."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grade 7"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203440566,
+          "digitalId": "F74C8DD4-F17A-44D6-9B67-B3CD4B65BA96",
+          "isbns": [
+            "9781849893442",
+            "9781849893435"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "edition": [
+            "1."
+          ],
+          "publisher": [
+            "Luton : Andrews UK"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Drama."
+          ],
+          "summary": [
+            "Buck is a St. Bernard/Scotch Shepherd mix dog living in the \"sun-kissed\" valley of Santa Clara, California. But, when he is stolen and transported up to frozen lands of the Yukon, he discovers an existence almost beyond his comprehension. However, while most southern dogs that are suddenly dropped into this harsh and unforgiving environment, Buck not only survives, he thrives. It seems that ancient memories are speaking to Buck, drawing him towards the call of the wild... This classic tale has been specially formatted for today's e-readers."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "MG/Middle grades (4th-8th)",
+            "640L Lexile Level",
+            "8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203467773,
+          "digitalId": "5A50ED0B-EDE0-42F8-BB3C-44A3DEED2805",
+          "isbns": [
+            "9781602911437"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Costa Mesa : Saddleback Educational Publishing"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Fiction.",
+            "Comic and Graphic Books."
+          ],
+          "summary": [
+            "Follow the adventures of Buck, a loving family pet, who is stolen from his comfortable home to become a sled dog in the Yukon gold rush territory. As Buck faces freezing temperatures, starvation, and cruelty, he learns that he must be brutal to survive."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grade 1",
+            "670L Lexile Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203253495,
+          "digitalId": "6A34F569-0F08-4A2B-8CCB-81CFBC49CDB7",
+          "isbns": [
+            "1595471510 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Luverne : NuVision Publications"
+          ],
+          "publishDate": "2004.",
+          "subjects": [
+            "Fiction.",
+            "Historical Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The book begins in California, where a dog named Buck lives. He is kidnapped by the gardener and thrown into the baggage car of a train and then sold to dog traffickers. He promptly realizes what he must do if he wants to endure his new life in the difficult situations he is placed in. He knows that if he is going to live, he must undergo the call of his ancestors and act more like a wild dog.  Please Note:  This book is easy to read in true text, not scanned images that can sometimes be difficult to decipher.  The Microsoft eBook has a contents page linked to the chapter headings for easy navigation. The Adobe eBook has bookmarks at chapter headings and is printable up to two full copies per year.  Both versions are text searchable."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 7 - Text Difficulty 9",
+            "1120 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203394039,
+          "digitalId": "5D3A0C90-EE5E-407F-B6FA-6B0A8C892BF4",
+          "otherAuthors": [
+            "Daniels, Jeff."
+          ],
+          "isbns": [
+            "9780307710291 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library (Audio)"
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (3 audio files) : digital"
+          ],
+          "summary": [
+            "Jack London's The Call of the Wild was written in 1903, but Buck's gripping adventure makes for a thrilling listen on audio more than 100 years after it was first published. This gripping story follows the adventures of the loyal dog Buck, who is stolen from his comfortable family home and forced into the harsh life of an Alaskan sled dog. Passed from master to master, Buck embarks on an extraordinary journey that ends with his becoming the legendary leader of a wolf pack.  \"To this day Jack London is the most widely read American writer in the world,\" E. L. Doctorow wrote in The New York Times Book Review. Generally considered to be London's greatest achievement, The Call of the Wild brought him international acclaim when it was published. His story of the dog Buck, who learns to survive in the bleak Yukon wilderness, is viewed by many as his symbolic autobiography. \"No other popular writer of his time did any better writing than you will find in..."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 3 - Text Difficulty 6",
+            "MG/Middle grades (4th-8th)",
+            "640 Lexile.",
+            "8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Jeff Daniels."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203425666,
+          "digitalId": "34FFDF5C-2472-475E-B12F-AE2275C45160",
+          "otherAuthors": [
+            "Lee, John."
+          ],
+          "isbns": [
+            "9781433242670"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Ashland : Blackstone Audio, Inc."
+          ],
+          "publishDate": "2008.",
+          "subjects": [
+            "Fiction.",
+            "Classic Literature."
+          ],
+          "summary": [
+            "A bold-spirited dog named Buck is stripped from his comfortable life on a California estate and thrust into the rugged terrain of the Klondike. There he is made a sled dog and battles to become his team's leader and the devoted servant of John Thornton, a man who shows him kindness amid the savage lawlessness of man and beast."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grade 5 - Grade 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203391712,
+          "digitalId": "C87F22A8-E29E-4340-96C0-E31494CACFB9",
+          "otherAuthors": [
+            "Kramer, Michael."
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Solon : InAudio"
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Fiction.",
+            "Classic Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (audio file) : digital"
+          ],
+          "summary": [
+            "Buck, a huge four-year-old Scottish Shepherd-Saint Bernard cross-breed, lived a life of ease at Judge Miller's Santa Clara Valley estate. This is the story of Buck and how he was thrust into the life of a sled-dog in the savage Klondike during the Gold Rush, and how he ran with the wolves.    Jack London, born in San Francisco on January 12, 1876, is well known for his stories involving men and animals and their struggles in the environment. Being an illegitimate child, he adopted his stepfather's surname. London had an adventurous life which included being an oyster pirate, a laundromat worker, a seaman and a participating in the 1897-98 Alaskan Gold Rush. His personal life adventures, idealism and belief that the fittest should survive inspired much of his writing. He wrote 50 books in 20 years, the most widely acclaimed being the story of the dog Buck in The Call of the Wild. London died at the age of 40 on November 22, 1916. He was the most successful and best-known writer in America in the first decade of the 20th century.    Michael Kramer has narrated hundreds of audiobooks and received numerous awards including AudioFile magazine's Earphone Award."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 6 - Text Difficulty 12",
+            "MG/Middle grades (4th-8th)",
+            "640 Lexile.",
+            "8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Michael Kramer."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A little snow must fall",
+      "seriesTitle": [
+        "The DATA set ; 11"
+      ],
+      "author": "Hopper, Ada",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665949132?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665949132?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665949132?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300004017,
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator."
+          ],
+          "isbns": [
+            "9781665949132",
+            "1665949139",
+            "9781665949149",
+            "1665949147"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon paperback edition."
+          ],
+          "publisher": [
+            "New York : Little Simon"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Inventions Juvenile fiction.",
+            "Doorways Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Antarctica Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "127 pages : illustrations ; 19 cm."
+          ],
+          "summary": [
+            "When Dr. Bunsen's latest robotic invention snatches Gabe, hops into a portal, and takes him all the way to Antarctica, the DATA Set follow in pursuit."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300030867,
+          "digitalId": "5C20E673-7E69-44FD-8FF4-4A2F3D2F0F1F",
+          "isbns": [
+            "9781665949156 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In the eleventh DATA Set adventure, the kids and Dr. Bunsen prepare for their iciest adventure yet...in the Antarctic!  It's snowing in Newtonburg and the DATA Set is excited for a winter-ful day! That is, until Dr. Bunsen's latest robotic invention snatches Gabe, hops into a portal, and takes him all the way to Antarctica. In a world filled with ice, snow, and suspicious penguins, surely there's snow thing to fear...right?   With easy-to-read language and illustrations on almost every page, the DATA Set chapter books are perfect for emerging readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Ratoncito and the Box",
+      "seriesTitle": [
+        "Penguin readers (Penguin Young Readers Group)."
+      ],
+      "author": "Canetti, Yanitzia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593888735?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593888735?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593888735?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300205945,
+          "otherTitles": [
+            "Ratoncito y la caja. English"
+          ],
+          "otherAuthors": [
+            "Ruiz Johnson, Mariana, illustrator."
+          ],
+          "isbns": [
+            "9780593888735",
+            "0593888731",
+            "9780593888742",
+            "059388874X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "English edition."
+          ],
+          "publisher": [
+            "New York, New York : Penguin Young Readers, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "2026",
+          "subjects": [
+            "Ratoncito Pérez (Fictitious character) Juvenile fiction.",
+            "Mice Juvenile fiction.",
+            "Gifts Juvenile fiction.",
+            "Boxes Juvenile fiction.",
+            "Boxes",
+            "Gifts",
+            "Mice"
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 24 cm"
+          ],
+          "summary": [
+            "A retelling of the folktale of Ratoncito Perez for early readers. Ratoncito is similar to the Tooth Fairy and leaves a young boy an assortment of gifts in exchange for a tooth--as many gifts as a box will fit!"
+          ],
+          "notes": [
+            "Translation of: Ratoncito y la caja."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "006-007.",
+            "1-2."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300201323,
+          "digitalId": "6579F6B4-865E-431C-AAE4-5C282E77923D",
+          "otherAuthors": [
+            "Ruiz Johnson, Mariana, illustrator."
+          ],
+          "isbns": [
+            "9798217142361"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Ratoncito Pérez (Fictitious character) Juvenile fiction.",
+            "Juvenile Fiction.",
+            "Fantasy.",
+            "Juvenile Literature.",
+            "Mythology.",
+            "Mice Juvenile fiction.",
+            "Gifts Juvenile fiction.",
+            "Boxes Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A classic story gets a modern retelling in this early reader! The well-known and much beloved folktale of Ratoncito Perez comes to life with vibrant illustrations and easy-to-read text in this early reader guaranteed to make children laugh while sharpening their comprehension skills."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 3",
+            "520 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Treehouse trouble",
+      "seriesTitle": [
+        "Muk 'n' Honey ; 1"
+      ],
+      "author": "Bean, Brett",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593658970?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593658970?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593658970?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300114297,
+          "isbns": [
+            "9780593658970",
+            "0593658973",
+            "9780593658963",
+            "0593658965"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Penguin Workshop"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Inventors Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Problem solving Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "80 pages : colour illustrations ; 20 cm."
+          ],
+          "summary": [
+            "As forest inventors Honey Bunny and Muk Muk help their friends resolve their problems, they inadvertently find a solution to their own stubborn dilemma."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300138874,
+          "digitalId": "F7CE1D99-DC0F-4D3F-86ED-263CA6CEAE13",
+          "otherAuthors": [
+            "Penguin Workshop (Firm), publisher.",
+            "Penguin Random House."
+          ],
+          "isbns": [
+            "9780593658987"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Science Fiction.",
+            "Inventors Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Problem solving Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Meet Honey Bunny and Muk Muk Moose: the inventor duo who make whimsical creations to help the forest, even if it takes them a few times to get it right! Designed to engage early readers, this chapter book series combines simple text, lively illustrations, and laugh-out-loud humor to help boost kids' confidence and create lifelong readers! Honey Bunny and Muk Muk Moose may be forest inventors, but when the staircase to their treehouse collapses, they're stumped! Not only do they have to get back up in time to take their delicious Triple Decker Hunger Wrecker concoction out of the oven, but now some of their friends need help solving their own problems, too. Can Honey Bunny and Muk Muk Moose come up with new creations to help everyone, even themselves? With full-color illustrations on every spread, this humorous and whimsical story is perfect for kids just beginning to read on their own. The short chapters, early vocabulary, and amusing illustrations make reading easy and fun! Exciting, easy-to-read books are the stepping stone a young reader needs to bridge the gap between being a beginner and being fluent."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Bluey and Bingo's fancy restaurant cookbook.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593659533?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593659533?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593659533?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206106483,
+          "otherTitles": [
+            "Inspired by: Bluey (Television program)"
+          ],
+          "variantTitles": [
+            "Fancy restaurant cookbook"
+          ],
+          "isbns": [
+            "9780593659533",
+            "0593659538"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Penguin Young Readers Licenses"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Bluey (Fictitious character) Juvenile literature.",
+            "Cooking Juvenile literature.",
+            "Quick and easy cooking Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 27 cm"
+          ],
+          "summary": [
+            "\"Learn how to make yummy food with Bluey and Bingo! Bake some Shadowland Cupcakes, make BBQ Sausages, Capsicum Salad, or write your very own Fancy Restaurant menu! This cookbook lays flat and makes it easy to read and cook fun recipes for everyone to enjoy\"--Provided by publisher."
+          ],
+          "contents": [
+            "Things you will need -- Omelet -- Shadowlands cupcakes -- Poffertjes -- Nana's ice blocks -- BBQ sausages & capsicum salad with Aunty Mary's salad dressing -- Fish and chips -- Prawn kebabs -- Fancy restaurant -- Pizza night -- Curry quest -- Takeaway spring rolls -- Ice cream -- Pavlova -- Weekly menu."
+          ],
+          "notes": [
+            "Spiral binding.",
+            "Originally published: 2022.",
+            "\"This book is based on the TV series Bluey\"--Title page verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Young Cam Jansen and the ice skate mystery",
+      "seriesTitle": [
+        "Puffin easy-to-read."
+      ],
+      "author": "Adler, David A",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780141300122?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780141300122?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780141300122?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300029205,
+          "otherAuthors": [
+            "Natti, Susanna, illustrator."
+          ],
+          "isbns": [
+            "9780141300122",
+            "0141300124"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, N.Y. : Penguin Young Readers",
+            ""
+          ],
+          "publishDate": "2012.",
+          "subjects": [
+            "Jansen, Cam (Fictitious character)",
+            "Skating Juvenile fiction.",
+            "Lost articles Juvenile fiction.",
+            "Memory Juvenile fiction.",
+            "Lost articles",
+            "Memory",
+            "Skating"
+          ],
+          "physicalDescription": [
+            "31 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "When her friend Eric loses the key to their locker at the ice skating rink, Cam uses her photographic memory to solve the mystery."
+          ],
+          "notes": [
+            "\"First published in 1998 by Viking\"--Page facing title page.",
+            "\"Level 3, transitional reader.\"",
+            "\"Level 3, guided reading level J\"--Page 1st prelim. page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 9791196,
+          "otherAuthors": [
+            "Natti, Susanna."
+          ],
+          "isbns": [
+            "0141300124"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Puffin Books"
+          ],
+          "publishDate": "2000.",
+          "subjects": [
+            "Jansen, Cam (Fictitious character)",
+            "Ice skating Fiction.",
+            "Mystery and detective stories."
+          ],
+          "physicalDescription": [
+            "31 pages: color illustrations; 24 cm."
+          ],
+          "summary": [
+            "When her friend Eric loses the key to their locker at the ice skating rink, Cam uses her photographic memory to solve the mystery."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Green eggs and ham take a hike : a Green eggs and ham story",
+      "seriesTitle": [
+        "Dr. Seuss graphic novel."
+      ],
+      "author": "Kochalka, James",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593703007?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593703007?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593703007?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300104171,
+          "otherAuthors": [
+            "Based on (work): Seuss, Dr. Green eggs and ham."
+          ],
+          "isbns": [
+            "9780593703007",
+            "0593703006",
+            "9780593703014",
+            "0593703014"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : RH Graphic",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Seuss, Dr. Green eggs and ham Comic books, strips, etc.",
+            "Seuss, Dr. Green eggs and ham Juvenile fiction.",
+            "Friendship Comic books, strips, etc.",
+            "Likes and dislikes Comic books, strips, etc.",
+            "Nature Comic books, strips, etc.",
+            "Friendship Juvenile fiction.",
+            "Likes and dislikes Juvenile fiction.",
+            "Nature Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "73 pages : chiefly colour illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Sam-I-Am is determined to help his grumpy friend Walter experience the joys of the great outdoors despite Walter's many objections."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300198358,
+          "digitalId": "3EFDAFA8-44C0-4C35-BE6B-3F4FAD6715FB",
+          "variantTitles": [
+            "Green eggs and ham take a hike"
+          ],
+          "otherAuthors": [
+            "Based on (work): Seuss, Dr. Green eggs and ham.",
+            "RH Graphic, publisher.",
+            "Penguin Random House."
+          ],
+          "isbns": [
+            "9780593703021"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Seuss, Dr. Green eggs and ham Comic books, strips, etc.",
+            "Seuss, Dr. Green eggs and ham Juvenile fiction.",
+            "Juvenile Fiction.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Friendship Comic books, strips, etc.",
+            "Likes and dislikes Comic books, strips, etc.",
+            "Nature Comic books, strips, etc.",
+            "Friendship Juvenile fiction.",
+            "Likes and dislikes Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Dr. Seuss's iconic, original dynamic duo is back-and this time, Sam-I-Am is going to show his grumpy pal the world beyond green eggs and ham in their own chapter book graphic novel! Sam-I-Am's grumpy best pal Walter is missing out on the great big world but Sam-I-Am is determined to make sure he doesn't miss a thing! After all, that's what best friends are for. Walter doesn't know what the big deal is-sure, it might be nice to have a green eggs and ham picnic on a hike, but doesn't Sam-I-Am know about all of the bugs? And the flowers that make you sneeze? Or the rivers that block your way? No, Walter is not a fan of the outdoors, he certainly is not. And nothing Sam-I-Am will do or say will change his mind. Too bad for Walter, Sam-I-Am is always up for a challenge! With brand-new illustrations and easy-to-follow paneled storytelling, this graphic novel is an excellent bridge for kids transitioning to chapter books-a must-have for young readers and Dr. Seuss fans alike."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "1.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Big Shark, Little Shark",
+      "seriesTitle": [
+        "Step into reading."
+      ],
+      "author": "Membrino, Anna",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984895141?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984895141?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984895141?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204446020,
+          "otherAuthors": [
+            "Budgen, Tim, 1977- illustrator."
+          ],
+          "isbns": [
+            "9781984895141",
+            "1984895141"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House Children's Books, a division of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Sharks Juvenile fiction.",
+            "Polarity Juvenile fiction.",
+            "English language Synonyms and antonyms Juvenile fiction.",
+            "Picture books for children.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : color illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Can a hungry little shark catch a big shark?"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "\"Originally published in a different form in paperback by Random House Children's Books, New York, in 2017.\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202889599,
+          "otherAuthors": [
+            "Budgen, Tim, 1977- illustrator."
+          ],
+          "isbns": [
+            "9780399557286",
+            "0399557288",
+            "9780399557293",
+            "0399557296"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Random House"
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Sharks Juvenile fiction.",
+            "Size Juvenile fiction.",
+            "English language Synonyms and antonyms Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "30 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Can a hungry little shark catch a big shark?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203686704,
+          "digitalId": "1391A45C-4A5B-4CBF-A206-E4D9A2506033",
+          "isbns": [
+            "9780399557309"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Sharks Juvenile fiction.",
+            "Size Juvenile fiction.",
+            "English language Synonyms and antonyms Juvenile fiction.",
+            "Beginning Reader.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Just when you thought it was safe to read an early reader . . . SHARK!This fun Step 1 book about two sharks is a study in opposites. Big Shark has big teeth; Little Shark has little teeth. Big Shark swims fast; Little Shark swims slow. But they are both hungry! Will they each succeed in finding a tasty snack? Little Shark is hoping that he won't become fast food for Big Shark!  Step 1 Readers feature big type and easy words for children who know the alphabet and are eager to begin reading. Rhyme and rhythmic text paired with picture clues help children decode the story."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K",
+            "150 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Look at rollo!.",
+      "seriesTitle": [
+        "Rollo."
+      ],
+      "author": "Duncan, Reed",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1524792527?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1524792527?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1524792527?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205289250,
+          "otherAuthors": [
+            "Frawley, Keith, illustrator."
+          ],
+          "isbns": [
+            "1524792527",
+            "9781524792527"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Penguin Workshop",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Boys Juvenile fiction.",
+            "Bulldog Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "For fans of Tiny, Biscuit, and Charlie the Ranch Dog comes an easy-to-read series about a rambunctious, mischievous, and totally lovable bulldog, Rollo! Meet Rollo, a little bulldog with a giant personality. It's Rollo's big day at the park! Time to run, play, and catch the ball... and, of course, get messy along the way. Look at Rollo go!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205352482,
+          "digitalId": "DB949809-BCE7-419E-AD94-2AEFB1F87FDD",
+          "otherAuthors": [
+            "Frawley, Keith, illustrator."
+          ],
+          "isbns": [
+            "9780593222966"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Bulldog Juvenile fiction.",
+            "Boys Juvenile fiction.",
+            "Beginning Reader."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For fans of Tiny, Biscuit, and Charlie the Ranch Dog comes an easy-to-read series about a rambunctious, mischievous, and totally lovable bulldog, Rollo!  Meet Rollo, a little bulldog with a  giant  personality. It's Rollo's big day at the park! Time to run, play, and catch the ball... and, of course, get messy along the way. Look at Rollo go!  With easy-to-read vocabulary and lively illustrations, this book is perfect for progressing readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "280 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Where's Rollo?",
+      "seriesTitle": [
+        "Rollo."
+      ],
+      "author": "Duncan, Reed",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524792466?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524792466?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524792466?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204049281,
+          "variantTitles": [
+            "Where is Rollo?"
+          ],
+          "otherAuthors": [
+            "Frawley, Keith, illustrator."
+          ],
+          "isbns": [
+            "9781524792466",
+            "1524792462"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Penguin Workshop, an imprint of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Boys Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Bulldog Juvenile fiction.",
+            "Animals.",
+            "Boys.",
+            "Dogs."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"For fans of Tiny, Biscuit, and Charlie the Ranch Dog comes an easy-to-read series about a rambunctious, mischievous, and totally lovable bulldog, Rollo!\"--Publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 6-7"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204454314,
+          "digitalId": "6CD43332-AB38-4F76-B8A3-64EF8029DB6D",
+          "isbns": [
+            "9781524792480"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Dogs.",
+            "Boys.",
+            "Animals.",
+            "Bulldog.",
+            "Animals Fiction.",
+            "Dogs Fiction.",
+            "Boys Fiction.",
+            "Animals Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Boys Juvenile fiction.",
+            "Beginning Reader.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For fans of Tiny, Biscuit, and Charlie the Ranch Dog comes an easy-to-read series about a rambunctious, mischievous, and totally lovable bulldog, Rollo!  Where is Rollo? Where did he go? Is he hiding? Rollo is back for another adventure in this exciting reader. Children will love following along as Rollo's owner looks for him all over the house and yard. Is Rollo up to his old tricks again, or could he be...just where his owner left him?  With easy-to-read vocabulary and lively illustrations, this book is perfect for progressing readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "330 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The soggy, foggy campout",
+      "seriesTitle": [
+        "Here's Hank ; 8"
+      ],
+      "author": "Winkler, Henry, 1945-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780448486611?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780448486611?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780448486611?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202582912,
+          "otherAuthors": [
+            "Oliver, Lin, author.",
+            "Garrett, Scott, illustrator."
+          ],
+          "isbns": [
+            "9780448486611 (hardback)",
+            "044848661X (hardback)",
+            "0448486601 (pbk)",
+            "9780448486604 (pbk)",
+            "9780448486604 (paperback)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Grosset & Dunlap, an imprint of Penguin Random House",
+            ""
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Zipzer, Hank (Fictitious character) Juvenile fiction.",
+            "Camping Juvenile fiction.",
+            "Rainstorms Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "122 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Here's Hank, the bestselling series written by Henry Winkler and Lin Oliver, is the perfect series for the transitional reader--easy-to-read font, simple and funny stories, and characters every kid would want to be friends with. \"We Love Nature Day\" is fast approaching, and everyone in Hank's class gets to write and perform a poem. One problem: Hank has no idea where to start. Luckily his mom has a great idea--the family will go camping. Out in nature, Hank will be able to find plenty of inspiration. But when a rainstorm threatens to ruin their night, it's up to Hank to make sure the night doesn't turn into a soggy, foggy failure. Can he find the words for his nature poem--and the courage to help his family survive the night? From the Trade Paperback edition\"-- Provided by publisher.",
+            "\"\"We Love Nature Day\" is fast approaching, and everyone in Hank's class gets to write and perform a poem. One problem: Hank has no idea where to start. When his mother suggests they go on a family camping trip for inspiration, Hank discovers that he's good at camping. But Dad is extremely uncomfortable and goes to spend the night in a motel, leaving Mom, Hank, Frankie, and Emily to fend for themselves. When a thunderstorm ruins their night, Hank is able to save the day. In the end, Hank comes up with a great poem to share at \"We Love Nature Day.\" In fact, his poem is so amazing that he wins first place -- and his father's respect!\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204408299,
+          "digitalId": "D5D6F75E-C3A8-4676-AE7E-1BAA6AB2B0C4",
+          "otherAuthors": [
+            "Garrett, Scott, illustrator."
+          ],
+          "isbns": [
+            "9780698183414"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Zipzer, Hank (Fictitious character) Juvenile fiction.",
+            "Juvenile Fiction.",
+            "Rainstorms Juvenile fiction.",
+            "Camping Juvenile fiction.",
+            "Beginning Reader."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Here's Hank, the bestselling series written by Henry Winkler and Lin Oliver, is the perfect series for the transitional reader-easy-to-read font, simple and funny stories, and characters every kid would want to be friends with.   \"We Love Nature Day\" is fast approaching, and everyone in Hank's class gets to write and perform a poem. One problem: Hank has no idea where to start. Luckily his mom has a great idea-the family will go camping. Out in nature, Hank will be able to find plenty of inspiration. But when a rainstorm threatens to ruin their night, it's up to Hank to make sure the night doesn't turn into a soggy, foggy failure. Can he find the words for his nature poem-and the courage to help his family survive the night?  From the Trade Paperback edition."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "LG/Lower grades (K-3rd)",
+            "570 Lexile.",
+            "3.9 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Fun, fun, fun!",
+      "seriesTitle": [
+        "Croc and Ally"
+      ],
+      "author": "Anderson, Derek, 1969-2024",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524787103?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524787103?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524787103?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204061166,
+          "variantTitles": [
+            "At the head of title: Croc and Ally"
+          ],
+          "isbns": [
+            "9781524787103",
+            "1524787108",
+            "9781524787110",
+            "1524787116",
+            "9781524790363 kf8/kindle"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York : Penguin Workshop ",
+            ""
+          ],
+          "publishDate": "2019",
+          "subjects": [
+            "Best friends Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Crocodiles Juvenile fiction.",
+            "Alligators Juvenile fiction.",
+            "Alligators.",
+            "Best friends.",
+            "Crocodiles.",
+            "Friendship."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Croc is grumpy. Ally is happy. Croc sees a problem. Ally finds a solution. The best friends overcome their differences as they go for a swim, shop for hats, and deal with a big bug\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205448446,
+          "digitalId": "3B8437DF-1E8F-4EE9-99B4-BA657D66D682",
+          "isbns": [
+            "9781524787127"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Friendship.",
+            "Crocodiles.",
+            "Best friends.",
+            "Alligators.",
+            "Alligators Juvenile fiction.",
+            "Crocodiles Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Beginning Reader.",
+            "Picture Book Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For fans of Elephant & Piggie and Frog & Toad comes an easy-to-read series about another unlikely pair: Croc and Ally. These two best friends don't always see things the same way, but one thing they do agree on-their friendship comes first!  Croc is grumpy. Ally is happy. Croc sees a problem. Ally finds a solution. In  Fun, Fun, Fun , the best friends overcome their differences as they go for a swim, shop for hats, and deal with a big bug. With three short stories, easy-to-read vocabulary, and adorable illustrations, this book is perfect for progressing readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "260 Lexile.",
+            "1.7 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Dracula .",
+      "seriesTitle": [
+        "Penguin readers."
+      ],
+      "author": "Stoker, Bram",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217136452?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217136452?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217136452?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300172869,
+          "otherAuthors": [
+            "Stoker, Bram, 1847-1912. Dracula."
+          ],
+          "isbns": [
+            "9798217136452"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[London] : Vintage Classics UK"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Dracula, Count (Fictitious character) Fiction.",
+            "Vampires Fiction.",
+            "Transylvania (Romania) Fiction."
+          ],
+          "physicalDescription": [
+            "419 pages ; 21 cm"
+          ],
+          "summary": [
+            "\"A young lawyer on an assignment finds himself imprisoned in a Transylvanian castle by his mysterious host. Back at home, his fiancée and friends are menaced by a malevolent force which seems intent on imposing suffering and destruction. Can the devil really have arrived on England's shores? And what is it that he hungers for so desperately?\"-- Provided by publisher."
+          ],
+          "notes": [
+            "This edition has marbled endpapers and sprayed edges.",
+            "\"Dracula was first published in 1897.\"-- Title page verso."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300123347,
+          "isbns": [
+            "9789811768323",
+            "9811768323",
+            "9789811768316",
+            "9811768315"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Origami Books Pte Ltd"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Dracula, Count (Fictitious character) Fiction.",
+            "Vampires Fiction.",
+            "Transylvania (Romania) Fiction.",
+            "Whitby (England) Fiction."
+          ],
+          "physicalDescription": [
+            "vii, 404 pages ; 22 cm"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300163948,
+          "isbns": [
+            "9781665963039",
+            "1665963034",
+            "9781665963046",
+            "1665963042"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Aladdin hardcover/paperback edition."
+          ],
+          "publisher": [
+            "New York : Aladdin"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Dracula, Count (Fictitious character) Fiction.",
+            "Vampires Fiction.",
+            "Young adult fiction."
+          ],
+          "physicalDescription": [
+            "vii, 614 pages ; 22 cm."
+          ],
+          "summary": [
+            "\"When Jonathan Harker visits Count Dracula in a Transylvanian castle, he soon realizes he may be a prisoner rather than a guest. Can he return alive and sane to his fiancée, Mina Murray, in England? And will Mina's dear friend, Lucy, survive the strange illness that has left her sleepwalking unpredictably with two red puncture marks on her neck? What follows is romance, horror, and a full-on vampire hunt\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300095940,
+          "isbns": [
+            "9789811756344",
+            "9811756341",
+            "9789811756337",
+            "9811756333"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Singapore] : Origami Books Pte Ltd"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Dracula, Count (Fictitious character) Fiction.",
+            "Vampires Fiction.",
+            "Transylvania (Romania) Fiction.",
+            "Whitby (England) Fiction."
+          ],
+          "physicalDescription": [
+            "vii, 404 pages ; 22 cm"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203987732,
+          "otherAuthors": [
+            "Holwill, Helen, adaptor.",
+            "Adaptation of (work) Stoker, Bram, 1847-1912. Dracula.",
+            "Alborozo, 1972- illustrator.",
+            "Pits, Sorrel, editor."
+          ],
+          "isbns": [
+            "9780241375242",
+            "024137524X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Penguin Books",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Dracula, Count (Fictitious character) Juvenile literature.",
+            "Vampires Juvenile literature."
+          ],
+          "physicalDescription": [
+            "79 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "When solicitor Jonathan Harker visits a castle in Transylvania to help his client, Count Dracula, purchase a house in England, he makes many shocking discoveries about him. As strange incidents begin to occur in England, it becomes clear that the sinister Count Dracula must be stopped. Penguin Readers is a series of the best new fiction, essential non-fiction and popular classics written for learners of English as a foreign language. Beautifully illustrated and carefully adapted, the series introduces language learners around the world to the bestselling authors and most compelling content from Penguin Random House. The eight levels of Penguin Readers follow the Common European Framework nd include language activities that help readers to develop key skills.Dracula, a Level 3 Reader, is A2 in the CEFR framework."
+          ],
+          "notes": [
+            "Includes questions, exercises and project work."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "For ages 12+ years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203513726,
+          "digitalId": "CCEEB195-A8BD-46D3-B3AB-D0A14E1ED027",
+          "isbns": [
+            "9781496501493 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Classic Literature.",
+            "Comic and Graphic Books.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "On a trip to Transylvania, Jonathan Harker stays at an eerie castle owned by Count Dracula. When strange things start to happen, and the count escapes to London, Harker realizes that he and his friends are in grave danger."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "MG/Middle grades (4th-8th)",
+            "1070 Lexile.",
+            "2.6 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203260745,
+          "digitalId": "B5308416-4B52-4617-8188-BC73FBEE3F9B",
+          "isbns": [
+            "9781412134002 (electronic bk)",
+            "9781412161497 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "La Guerche-sur-l'Aubois : eBooksLib"
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Fiction.",
+            "Classic Literature.",
+            "Horror."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "3 May.  Bistritz. -  Left Munich at 8:35 P.M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets. I feared to go very far from the station, as we had arrived late and would start as near the correct time as possible."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 7 - Text Difficulty 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205537491,
+          "digitalId": "E766EE6F-F208-46CE-A79E-9610701C4FFF",
+          "otherAuthors": [
+            "Gilbert, Tavia."
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Cleveland : Duke Classics"
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "Dracula, Count (Fictitious character) Fiction.",
+            "Dracula, Count (Fictitious character)",
+            "Fiction.",
+            "Vampires Fiction.",
+            "Classic Literature.",
+            "Horror.",
+            "Transylvania (Romania) Fiction.",
+            "Romania Transylvania.",
+            "England Whitby.",
+            "Whitby (England) Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (21 audio files) : digital"
+          ],
+          "summary": [
+            "Bram Stoker's 1897 novel,  Dracula , may not be the first vampire novel, but it is certainly the most famous.  These scenarios couldn't be more different than the conservative Victorian era during which the book was published - though critically praised from the start as being ahead of its time it was not an immediate bestseller. The story is told through a series of letters recounting a young Jonathan Harker, a lawyer who visits Count Dracula to arrange a real estate transaction and realizes before long that he has been taken hostage there. Harker escapes after a series of horrifying events, and Dracula makes it his mission to go after the young lawyer - and his lovely fiancé, Mina, and Mina's friends.  With the assistance of an old teacher, Professor Abraham Van Helsing, the tide turns against Dracula with Van Helsing chasing the Count back to his Transylvania castle, where the ultimate battle takes place."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Tavia Gilbert."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 142
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 38
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 35
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 15
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 9
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 9
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 142
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 100
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 97
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 93
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 91
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 86
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 86
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 83
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 82
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 80
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 80
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 79
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 74
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 73
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 72
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 68
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 66
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 65
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 63
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 56
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 56
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 14
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 10
+        },
+        {
+          "id": "08lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 8",
+          "count": 5
+        },
+        {
+          "id": "ru",
+          "data": "Repository Used Book Collection",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 142
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 161
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 43
+        },
+        {
+          "id": "brl",
+          "data": "Braille",
+          "count": 1
+        },
+        {
+          "id": "abc",
+          "data": "Audio Book on CD",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

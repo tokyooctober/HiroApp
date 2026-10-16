@@ -1,0 +1,356 @@
+{
+  "board books penguins for toddlers": {
+    "resultsSeen": 14,
+    "withIsbn": 14,
+    "held": 11,
+    "rows": [
+      {
+        "isbn": "0593432843",
+        "status": 200,
+        "held": true,
+        "title": "Grumpy Monkey says no!",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "9815233394",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "038538369X",
+        "status": 200,
+        "held": true,
+        "title": "P is for Potty!",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "0399226907",
+        "status": 200,
+        "held": true,
+        "title": "The very hungry caterpillar",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "0385375166",
+        "status": 200,
+        "held": true,
+        "title": "Dr. Seuss's ABC : an amazing alphabet book!",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "9815233548",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "0811826023",
+        "status": 200,
+        "held": true,
+        "title": "Peek-a-who?",
+        "juvenile": false,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "0593752546",
+        "status": 200,
+        "held": true,
+        "title": "Meet Bluey's family.",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "030797586X",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "0375805613",
+        "status": 200,
+        "held": true,
+        "title": "The monster at the end of this book : starring lovable, furry old Grover",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "9815127586",
+        "status": 200,
+        "held": true,
+        "title": "100 things that move.",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "0593123999",
+        "status": 200,
+        "held": true,
+        "title": "Grumpy monkey",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "0063212080",
+        "status": 200,
+        "held": true,
+        "title": "If you were a penguin",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "0553521098",
+        "status": 200,
+        "held": true,
+        "title": "Go, dog, go! : P.D. Eastman's book of things that go.",
+        "juvenile": false,
+        "onShelfSomewhere": false
+      }
+    ]
+  },
+  "large colourful picture book tiger for kids": {
+    "resultsSeen": 12,
+    "withIsbn": 2,
+    "held": 0,
+    "rows": [
+      {
+        "isbn": "6192640157",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1689606320",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      }
+    ]
+  },
+  "rocket space books for kids age 4-6": {
+    "resultsSeen": 12,
+    "withIsbn": 0,
+    "held": 0,
+    "rows": []
+  },
+  "easy reader books about scientists for kids": {
+    "resultsSeen": 12,
+    "withIsbn": 12,
+    "held": 4,
+    "rows": [
+      {
+        "isbn": "1426313446",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "0593435486",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1465456600",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1647390427",
+        "status": 200,
+        "held": true,
+        "title": "Snakes for kids : a junior scientist's guide to venom, scales, and life in the wild",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "1426324480",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1648760562",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1426322933",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1426319436",
+        "status": 200,
+        "held": true,
+        "title": "Meteors",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "1426317476",
+        "status": 200,
+        "held": true,
+        "title": "Mars",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "1426325428",
+        "status": 200,
+        "held": true,
+        "title": "Science encyclopedia : atom smashing, food chemistry, animals, space, and more!",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "1426324448",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1631581929",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      }
+    ]
+  },
+  "big oversized picture books for kids": {
+    "resultsSeen": 12,
+    "withIsbn": 12,
+    "held": 7,
+    "rows": [
+      {
+        "isbn": "1629798266",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1615197702",
+        "status": 200,
+        "held": true,
+        "title": "A day at school",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "1615198180",
+        "status": 200,
+        "held": true,
+        "title": "Good night",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "2745981781",
+        "status": 200,
+        "held": true,
+        "title": "Touch! : my big touch-and-feel word book",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "0805087184",
+        "status": 200,
+        "held": true,
+        "title": "Brown bear, brown bear, what do you see?",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "1499809093",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "0064433129",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1684376505",
+        "status": 200,
+        "held": true,
+        "title": "Hide-and-seek at the construction site : a hidden pictures lift-the-flap book",
+        "juvenile": true,
+        "onShelfSomewhere": false
+      },
+      {
+        "isbn": "0399169814",
+        "status": 200,
+        "held": true,
+        "title": "The mitten",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      },
+      {
+        "isbn": "0061119776",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "0064434095",
+        "status": 200,
+        "held": false,
+        "title": null,
+        "juvenile": false,
+        "onShelfSomewhere": null
+      },
+      {
+        "isbn": "1665925078",
+        "status": 200,
+        "held": true,
+        "title": "Barnyard dance!",
+        "juvenile": true,
+        "onShelfSomewhere": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,2095 @@
+{
+  "totalRecords": 91,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "The time machine.",
+      "seriesTitle": [
+        "Illustrated Classics."
+      ],
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802632149?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802632149?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802632149?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300133813,
+          "otherAuthors": [
+            "Moffatt, Nick, illustrator."
+          ],
+          "isbns": [
+            "9781802632149",
+            "180263214X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "UK : Sweet Cherry Publishing",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Science fiction Juvenile fiction.",
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "127 pages : illustrations (black and white) ; 20 cm"
+          ],
+          "summary": [
+            "\"After failing to convince his friends that time travel is possible, a nineteenth-century scientist invents a machine that takes him hundreds of years into the future. There, humans have evolved into two different species: the Eloi are kind and gentle, but the Morlocks are monsters! When the time machine is stolen, the traveller must risk death to find it - or face never returning to his own time.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "\"Adapted fro young readers, with illustrations by Nick Moffatt\"-- Cover.",
+            "\"Includes a free audiobook! QR code inside\"-- Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Age 7+."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203468080,
+          "digitalId": "E33A744B-D078-4AC1-A106-D0810D7565EF",
+          "isbns": [
+            "9781602911710"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Costa Mesa : Saddleback Educational Publishing"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Time travel",
+            "Self-experimentation in medicine",
+            "Mentally ill",
+            "Dystopias",
+            "Science fiction, English",
+            "Scientists",
+            "Science fiction",
+            "Fiction.",
+            "Comic and Graphic Books."
+          ],
+          "summary": [
+            "What would it be like to travel thousands of years into the future? How would Earth have changed? Would people have changed too? Step aboard The Time Machine and journey to the year 802,701. Learn how humankind has evolved into two races- one simple and child-like and the other strange and terrifying. The join the Time Traveler as he travels still further, revealing the final secrets of Earth's future."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grade 2 - Grade 3",
+            "620L Lexile Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203416644,
+          "digitalId": "6F5BB598-D4FB-4A3F-B1FF-AFD7B8EC0ACB",
+          "otherAuthors": [
+            "Mayes, Bernard."
+          ],
+          "isbns": [
+            "9781481541183"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Ashland : Blackstone Audio, Inc., and Buck 50 Productions, LLC"
+          ],
+          "publishDate": "2006.",
+          "subjects": [
+            "Fiction.",
+            "Self-experimentation in medicine",
+            "Animal experimentation",
+            "Science fiction, English",
+            "Scientists",
+            "Short stories",
+            "Science fiction",
+            "Time travel",
+            "Science Fiction & Fantasy."
+          ],
+          "physicalDescription": [
+            "1 online resource (3 audio files) : digital"
+          ],
+          "summary": [
+            "The Time Traveler first steps out of his magnificent time-transport machine in the year 802,700. He finds Earth populated by a race of slender pacifists and decides to study this lush land of flower people before returning to his own age. These pacifists, he discovers, have built their wealth on the backs of a slave class forced to live below ground. As the conflict between the classes surfaces, the Time Traveler finds that his only means of escape, his time machine, has been stolen.   Wells' amazing view of the future, propelled forward from his own Victorian era to the present, serves both as classic science fiction and as a parable of the chasm between the working-class suffering and the upper-class privilege of his day."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 6 - Text Difficulty 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Bernard Mayes."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The end of Orson Eerie?",
+      "seriesTitle": [
+        "Eerie Elementary ; 10"
+      ],
+      "author": "Chabert, Jack",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338318562?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338318562?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338318562?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203965993,
+          "otherAuthors": [
+            "Loveridge, Matt, illustrator.",
+            "Ricks, Sam, artist."
+          ],
+          "isbns": [
+            "9781338318562",
+            "133831856X",
+            "9781338318579",
+            "1338318578"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Branches/Scholastic Inc.",
+            ""
+          ],
+          "publishDate": "2019",
+          "subjects": [
+            "Haunted schools Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Elementary schools Juvenile fiction.",
+            "Anniversaries Juvenile fiction.",
+            "Horror tales.",
+            "Anniversaries.",
+            "Elementary schools.",
+            "Haunted schools.",
+            "Horror tales.",
+            "Scientists."
+          ],
+          "physicalDescription": [
+            "90 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Eerie Elementary is hosting a \"haunted house\" for the town's Eerie Day celebration! Sam, Antonio, and Lucy are excited about the holiday... But mad scientist Orson Eerie has his own plans. Pumpkins attack and Sam gets trapped on a haunted hayride! Can Sam and his friends find a way to save everyone? This will be their biggest battle yet!\"--Page [4] of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300204337,
+          "digitalId": "0263E64F-0D3D-46D3-AE29-F0CBFD29BC08",
+          "otherAuthors": [
+            "Loveridge, Matt, illustrator.",
+            "Ricks, Sam, artist."
+          ],
+          "isbns": [
+            "9781338318586"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Haunted schools Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Elementary schools Juvenile fiction.",
+            "Anniversaries Juvenile fiction.",
+            "Horror tales."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "New York Times bestselling author Jack Chabert knows how to keep young readers on the edge of their seats! Pick a book. Grow a Reader!This series is part of Scholastic's early chapter book line, Branches, aimed at newly independent readers. With easy-to-read text, high-interest content, fast-paced plots, and illustrations on every page, these books will boost reading confidence and stamina. Branches books help readers grow!Eerie Elementary is hosting a haunted house for the town's Eerie Day celebration! But mad scientist Orson Eerie has his own plans for this creepy holiday. Pumpkins attack and Sam gets trapped in a hayride maze! Can the hall monitors find a way to save their school and the rest of the town? Will they finally defeat this mad scientist FOR GOOD?"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "490 Lexile.",
+            "3.6 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Down the brain drain",
+      "seriesTitle": [
+        "The DATA Set."
+      ],
+      "author": "Hopper, Ada",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534411302?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534411302?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534411302?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204518854,
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator.",
+            "Glass House Graphics."
+          ],
+          "isbns": [
+            "9781534411302",
+            "1534411305",
+            "9781534411296",
+            "1534411291"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon hardcover edition."
+          ],
+          "publisher": [
+            "New York : Little Simon",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Cold (Disease) Juvenile fiction.",
+            "Bacteria Juvenile fiction.",
+            "Human body Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Scientists Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "126 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "The DATA Set enters Dr. Bunsen's body in his newest invention, a vehicle that can shrink, to gather all the cold germs that are interfering with an important presentation he has scheduled."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 5 - 9. Little Simon.",
+            "Grades K-1. Little Simon."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205309135,
+          "digitalId": "77A8479F-A667-4EE3-945D-63A567393B61",
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator.",
+            "Glass House Graphics."
+          ],
+          "isbns": [
+            "9781534411319"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Scientists Fiction.",
+            "Inventions Fiction.",
+            "Human body Fiction.",
+            "Bacteria Fiction.",
+            "Cold (Disease) Fiction.",
+            "Children's stories.",
+            "Bacteria.",
+            "Cold (Disease)",
+            "Human body.",
+            "Inventions.",
+            "Scientists.",
+            "Scientists Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Human body Juvenile fiction.",
+            "Bacteria Juvenile fiction.",
+            "Cold (Disease) Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In the eighth DATA Set adventure, the kids get lost inside Dr. Bunsen!  When Dr. Bunsen gets sick with a bad cough, he insists that he has no time to sleep! He swallowed a top-secret experiment to prove his scientific findings, but now he needs the kids' help to kick out the cold! And luckily, Bunsen has created a high-tech shuttle that can shrink down and travel inside the human body. Join the kids as they suit up and dive down the Bunsen brain drain!   With easy-to-read language and illustrations on almost every page, the DATA Set chapter books are perfect for emerging readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "S.O.S. From Outer Space",
+      "seriesTitle": [
+        "The DATA Set."
+      ],
+      "author": "Hopper, Ada",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665902960?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665902960?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665902960?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205713747,
+          "variantTitles": [
+            "SOS from outer space"
+          ],
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator."
+          ],
+          "isbns": [
+            "9781665902960",
+            "1665902965",
+            "9781665902977",
+            "1665902973",
+            "9781665902984"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Little Simon",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Extraterrestrial beings Juvenile fiction.",
+            "Interplanetary voyages Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Clubs.",
+            "Extraterrestrial beings.",
+            "Interplanetary voyages.",
+            "Scientists."
+          ],
+          "physicalDescription": [
+            "126 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Laura receives a beeping S.O.S. from the DATA Set's alien friend, Fave, so the club blast off into the unknown to fix the glitch."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 5-9. Little Simon.",
+            "Grades K-1. Little Simon."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205709868,
+          "digitalId": "D52196FB-1F0F-435E-BC2E-78D3425F005E",
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator."
+          ],
+          "isbns": [
+            "9781665902984"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Scientists.",
+            "Interplanetary voyages.",
+            "Extraterrestrial beings.",
+            "Clubs.",
+            "Clubs Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Interplanetary voyages Juvenile fiction.",
+            "Extraterrestrial beings Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Frances and the monster.",
+      "author": "Tuma, Refe",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063085763?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063085763?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063085763?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205870301,
+          "isbns": [
+            "9780063085763",
+            "0063085763"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Harper, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Monsters Juvenile fiction.",
+            "Robots Juvenile fiction.",
+            "Chimpanzees Juvenile fiction.",
+            "Secrecy Juvenile fiction.",
+            "Parent and child Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "City and town life Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "342 pages ; 22 cm"
+          ],
+          "summary": [
+            "\"Frances Stenzel was just trying to prove her scientific worth to her parents ... instead, she reawakened her great-grandfather's secret and most terrible invention. Before it can destroy the town, she sets off after it ... and she'll have to face ... angry locals and an unexpected friendship ... while the trail for the monster goes cold and time is running out before her science career, and the city itself, are doomed forever\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205864901,
+          "digitalId": "2E3CAD41-893D-4C47-8817-2609941283F9",
+          "isbns": [
+            "9780063085787"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Scientists.",
+            "Robots.",
+            "Monsters.",
+            "Inventions.",
+            "Heroes.",
+            "Robots Juvenile fiction.",
+            "Heroes Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Monsters Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "What would you do if you accidentally brought a monster to life and set him loose on your town?     Adventurous and charming, this middle grade twist on Frankenstein features a precocious main character who does just that. Perfect for fans of Serafina and the Black Cloak and the Greenglass House series.    Frances Stenzel was just trying to prove her scientific worth to her parents so they would take her with them to their scientific symposiums for once-instead, she reawakened her great-grandfather's secret and most terrible invention.  Before it can destroy the town, she sets off after it, with her pet chimp and sarcastic robot tutor by her side. But monster-hunting isn't easy, and she'll have to face a persistent constable, angry locals, and an unexpected friendship ahead-all while the trail for the monster goes cold and time is running out before her science career, and the city itself, are doomed forever.   Full of thrills and heart alike, Frances and the Monster takes readers through winding streets and over perilous rooftops, with wily monsters, unpredictable twists, and powerful friendships waiting along the way."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205864709,
+          "digitalId": "AEDF5486-EB27-48DA-BF7F-00C154A4A3AF",
+          "otherAuthors": [
+            "Wane, Esther."
+          ],
+          "isbns": [
+            "9780063085794"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : HarperCollins"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Scientists.",
+            "Robots.",
+            "Monsters.",
+            "Inventions.",
+            "Heroes.",
+            "Robots Juvenile fiction.",
+            "Heroes Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Monsters Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (7 audio files) : digital"
+          ],
+          "summary": [
+            "What would you do if you accidentally brought a monster to life and set him loose on your town?     Adventurous and charming, this middle grade twist on Frankenstein features a precocious main character who does just that. Perfect for fans of Serafina and the Black Cloak and the Greenglass House series.    Frances Stenzel was just trying to prove her scientific worth to her parents so they would take her with them to their scientific symposiums for once-instead, she reawakened her great-grandfather's secret and most terrible invention.  Before it can destroy the town, she sets off after it, with her pet chimp and sarcastic robot tutor by her side. But monster-hunting isn't easy, and she'll have to face a persistent constable, angry locals, and an unexpected friendship ahead-all while the trail for the monster goes cold and time is running out before her science career, and the city itself, are doomed forever.   Full of thrills and heart alike, Frances and the Monster takes readers through winding streets and over perilous rooftops, with wily monsters, unpredictable twists, and powerful friendships waiting along the way."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Esther Wane."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The revenge of Dr. Von Naysayer",
+      "seriesTitle": [
+        "The DATA set ; 10"
+      ],
+      "author": "Hopper, Ada",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665915946?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665915946?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665915946?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206027349,
+          "variantTitles": [
+            "Revenge of Doctor Von Naysayer"
+          ],
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator."
+          ],
+          "isbns": [
+            "9781665915946",
+            "1665915943",
+            "9781665915953",
+            "1665915951"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon paperback/hardback edition."
+          ],
+          "publisher": [
+            "New York : Little Simon"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Scientists Juvenile fiction.",
+            "Good and evil Juvenile fiction.",
+            "Technological innovations Juvenile fiction.",
+            "Vendetta Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "126 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Bunsen goes up against his ultimate nemesis, Dr. Von Naysayer, to settle their long-standing feud, once and for all."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206050932,
+          "digitalId": "E3DEE7DE-EEC5-49AA-9812-393C53D0DD3C",
+          "otherAuthors": [
+            "Kirschner, Rafael, illustrator."
+          ],
+          "isbns": [
+            "9781665915960",
+            "9781665915946"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Vendetta Juvenile fiction.",
+            "Technological innovations Juvenile fiction.",
+            "Good and evil Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In the tenth DATA Set adventure, the kids must choose sides in the battle between Dr. Bunsen and Dr. Von Naysayer!  Dr. Bunsen goes up against his ultimate nemesis, Dr. Von Naysayer to settle their long-standing feud, once and for all. May the best mad scientist win!   With easy-to-read language and illustrations on almost every page, the DATA Set chapter books are perfect for emerging readers."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Don't disturb the dinosaurs",
+      "seriesTitle": [
+        "The DATA Set ; #2"
+      ],
+      "author": "Hopper, Ada",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481457316?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481457316?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481457316?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202512230,
+          "variantTitles": [
+            "Do not disturb the dinosaurs"
+          ],
+          "otherAuthors": [
+            "Ricks, Sam, illustrator."
+          ],
+          "isbns": [
+            "9781481457316",
+            "1481457314",
+            "9781481457323",
+            "1481457322"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon paperback edition."
+          ],
+          "publisher": [
+            "New York : Little Simon"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Time travel Juvenile fiction.",
+            "Dinosaurs Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Adventure stories.",
+            "Adventure and adventurers Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "125 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Catapulted through time to the prehistoric era, the DATA Set find their efforts to avoid contaminating history challenged by flying pterosaurs, stomping stegosaurus stampedes and a sharp-toothed T-rex."
+          ],
+          "notes": [
+            "\"Danger! Action! Trouble! Adventure!\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 5-9."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204384971,
+          "digitalId": "BF08A919-218E-45FF-808F-28AA532D4FA9",
+          "isbns": [
+            "9781481457330"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Adventure and adventurers Juvenile fiction.",
+            "Adventure stories.",
+            "Scientists Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Dinosaurs Juvenile fiction.",
+            "Time travel Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The DATA Set find themselves stuck in the prehistoric era in the second adventure of the brand-new series! Thanks to Dr. Bunsen's latest wacky invention, the DATA Set are blasted back to the prehistoric era. Gabe is in heaven, but Laura warns that they shouldn't touch  anything . She's afraid they could contaminate the past and permanently change the future! But it's hard not to interfere with the locals as the crew quickly finds themselves dashing from flying pterosaurs, stomping stegosaurus stampedes, and a sharp-toothed T-rex! Will they be able to survive in the past...or have their futures been lost for good?   With easy-to-read language and illustrations on almost every page, The DATA Set chapter books are perfect for beginning readers!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "LG/Lower grades (K-3rd)",
+            "560 Lexile.",
+            "3.7 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Sam battles the machine!",
+      "seriesTitle": [
+        "Eerie Elementary ; 6"
+      ],
+      "author": "Chabert, Jack",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780545873796?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780545873796?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780545873796?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202856465,
+          "otherAuthors": [
+            "Ricks, Sam, illustrator."
+          ],
+          "isbns": [
+            "9780545873796",
+            "0545873797",
+            "9780545873789",
+            "0545873789"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Branches, Scholastic Inc."
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Substitute teachers Juvenile fiction.",
+            "Haunted schools Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Inheritance and succession Juvenile fiction.",
+            "Elementary schools Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Haunted places Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "90 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Sam, Lucy, and Antonio have a new substitute teacher, who happens to be the great-great-grandson of Orson Eerie, the evil scientist whose spirit possesses and infects their elementary school--and the friends are afraid he may be trying to bring Orson back to life."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205319271,
+          "digitalId": "91F9B342-7B5C-489C-85ED-6CA6D7A898B9",
+          "otherAuthors": [
+            "Ricks, Sam, illustrator."
+          ],
+          "isbns": [
+            "9780545873802"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Friendship Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Haunted places Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Elementary schools Juvenile fiction.",
+            "Inheritance and succession Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Haunted schools Juvenile fiction.",
+            "Substitute teachers Juvenile fiction.",
+            "Horror.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Pick a book. Grow a Reader! This series is part of Scholastic's early chapter book line, Branches, aimed at newly independent readers. With easy-to-read text, high-interest content, fast-paced plots, and illustrations on every page, these books will boost reading confidence and stamina. Branches books help readers grow! In book 6, a mysterious substitute teacher arrives at Eerie Elementary. Sam, Lucy, and Antonio think he must be up to no good! They follow him and discover he lives in mad scientist Orson Eerie's old house! And he's building a strange machine! Who is this substitute teacher? Is he trying to free Orson - to somehow bring him back to life for real?! Sam and his friends are about to find out!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "470 Lexile.",
+            "3.5 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Classes are canceled!",
+      "seriesTitle": [
+        "Eerie Elementary."
+      ],
+      "author": "Chabert, Jack",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338181838?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338181838?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338181838?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205223631,
+          "otherAuthors": [
+            "Loveridge, Matt, illustrator.",
+            "Ricks, Sam, artist."
+          ],
+          "isbns": [
+            "9781338181838",
+            "1338181831",
+            "9781338181807",
+            "1338181807"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Branches/Scholastic Inc."
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Haunted schools Juvenile fiction.",
+            "Elementary schools Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Building Design and construction Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "89 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Eerie Elementary seems to be falling down around the students and teachers, so Principal Winik decides the school must be torn down, but Sam, Lucy, and Antonio suspect that somehow this is all part of Orson Eerie's evil plan to live forever--and if it is they must find a way to prevent the demolition."
+          ],
+          "notes": [
+            "A branches book."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205318584,
+          "digitalId": "6CA06735-2A90-44BD-93E3-2E80B140181C",
+          "otherAuthors": [
+            "Ricks, Sam, artist."
+          ],
+          "isbns": [
+            "9781338181845"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Building Design and construction Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Elementary schools Juvenile fiction.",
+            "Haunted schools Juvenile fiction.",
+            "Horror.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Pick a book. Grow a Reader!This series is part of Scholastic's early chapter book line Branches, aimed at newly independent readers. With easy-to-read text, high-interest content, fast-paced plots, and illustrations on every page, these books will boost reading confidence and stamina. Branches books help readers grow!Eerie Elementary is falling apart! Floors are splitting, walls are crumbling, and students are in serious danger! Principal Winik announces that the school must be torn down. But Sam, Lucy, and Antonio are not sure that is the answer . . . Could this all be part of Orson Eerie's plan to live forever? Sam and his friends must work fast to find out!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "490 Lexile.",
+            "3.6 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Science activity lab : fantastic projects for young scientists",
+      "author": "Winston, Robert M. L",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241657027?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241657027?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241657027?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300083244,
+          "isbns": [
+            "9780241657027",
+            "0241657024"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "New edition."
+          ],
+          "publisher": [
+            "London : Dorling Kindersley Limited"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Science Experiments Juvenile literature.",
+            "Science projects Juvenile literature."
+          ],
+          "physicalDescription": [
+            "160 pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"Bring the science lab into your home with 25 experiments for budding scientists aged 9-12 to get stuck into. Children can build their own projects and experiments with Science Activity Lab, which uses easy-to-source materials and combines science with art and craft. This book of fun science experiments contains clear step-by-step instructions for each project, from racing wind-up cars to making music with a homemade guitar. These projects take young readers through each experiment, describing the science behind it and highlighting STEM facts\"--Provided by publisher."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Show me the bunny",
+      "seriesTitle": [
+        "The Questioneers."
+      ],
+      "author": "Meyer, Gabrielle",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419760792?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419760792?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419760792?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205691252,
+          "otherTitles": [
+            "Ada Twist, scientist (Television program)"
+          ],
+          "isbns": [
+            "9781419760792",
+            "1419760793"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Abrams Books for Young Readers"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Families Juvenile fiction.",
+            "Brothers and sisters Juvenile fiction.",
+            "Easter egg hunts Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : color illustrations ; 25 cm"
+          ],
+          "summary": [
+            "\"It's Easter! The eggs are decorated, the baskets are ready, and...it's time for the annual Twist Easter Egg Hunt, Ada's favorite family tradition. And this year, her parents are letting Ada hide the eggs! But Arthur, her big brother, thinks the egg hunt is going to be too easy now that he's eleven--so Ada has to do a test hiding to make sure it's super hard or else Arthur will retire from the egg hunt forever\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Ada Twist, scientist.\"",
+            "\"Make your own egg hunt! Activity inside\"--Cover.",
+            "\"Netflix, a Netflix series\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205695664,
+          "digitalId": "1060ED84-1646-45E6-8C78-960D4A64295C",
+          "isbns": [
+            "9781647006266"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Easter stories.",
+            "Easter egg hunts.",
+            "Easter stories.",
+            "Easter egg hunts Juvenile fiction.",
+            "Brothers and sisters Juvenile fiction.",
+            "Families Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Goodnight, veggies",
+      "seriesTitle": [
+        "Scientists in the field."
+      ],
+      "author": "Murray, Diana",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780358452119?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780358452119?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780358452119?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205428340,
+          "variantTitles": [
+            "Good night, veggies"
+          ],
+          "otherAuthors": [
+            "OHora, Zachariah, illustrator."
+          ],
+          "isbns": [
+            "9780358452119",
+            "0358452112"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston, MA : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Bedtime Juvenile fiction.",
+            "Vegetables Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : color illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"Every veggie needs their shuteye! Celebrate the turning of day to night in this charming bedtime story perfect for plants--and humans--everywhere!\"--Page [4] of cover."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204390102,
+          "variantTitles": [
+            "Good night, veggies"
+          ],
+          "otherAuthors": [
+            "OHora, Zachariah, illustrator."
+          ],
+          "isbns": [
+            "9781328866837",
+            "1328866831"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston ; New York : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Bedtime Juvenile fiction.",
+            "Vegetables Juvenile fiction.",
+            "Community gardens Juvenile fiction.",
+            "Gardens Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : color illustrations ; 29 cm."
+          ],
+          "summary": [
+            "\"Illustrations and easy-to-read, rhyming text invite the reader to a community garden where potatoes close their eyes, cabbages nod their heads, and corn covers its ears to go to sleep\"--Title pages verso."
+          ],
+          "notes": [
+            "Series information taken from the publisher's website."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204392537,
+          "digitalId": "D7D54345-FADC-413B-B846-ABA35A5C0886",
+          "isbns": [
+            "9780358330769"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Gardens Juvenile fiction.",
+            "Community gardens Juvenile fiction.",
+            "Vegetables Juvenile fiction.",
+            "Bedtime Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Every veggie needs their shut-eye in this restful, charming story set in the community garden, illustrated by  New York Times  bestselling artist Zachariah OHora. Perfect for fans of the Llama Llama series."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1 - Text Difficulty 2",
+            "460 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "How Benjamin Franklin became a revolutionary in seven (not-so-easy) steps",
+      "author": "Woelfle, Gretchen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635923315?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635923315?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635923315?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206158017,
+          "variantTitles": [
+            "How Benjamin Franklin became a revolutionary in 7 (not-so-easy) steps"
+          ],
+          "otherAuthors": [
+            "O'Brien, John, 1953- illustrator."
+          ],
+          "isbns": [
+            "9781635923315",
+            "163592331X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Calkins Creek, an imprint of Astra Books for Young Readers",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Franklin, Benjamin, 1706-1790 Juvenile literature.",
+            "Statesmen United States Biography Juvenile literature.",
+            "United States History Revolution, 1775-1783 Juvenile literature."
+          ],
+          "physicalDescription": [
+            "96 pages : illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"In this light, whimsical narrative, young readers learn how Franklin came to be a rebel, beginning with his childhood lesson in street smarts when he buys a whistle at an inflated price. Franklin is a defiant boy who runs away from his apprenticeship, and while he becomes a deep thinker, a brilliant scientist, and a persuasive writer when he grows up, he never loses that spark. As a community leader who tries his best to promote peace and unity both between the colonies and with Great Britain, he becomes more and more convinced that independence for the American colonies is the way forward\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Global Water Crisis",
+      "seriesTitle": [
+        "Max Axiom and the society of super scientists."
+      ],
+      "author": "Turner, Myra Faye",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781663959195?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781663959195?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781663959195?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205677784,
+          "otherAuthors": [
+            "Doescher, Erik, illustrator."
+          ],
+          "isbns": [
+            "9781663959195",
+            "1663959196",
+            "9781666322682",
+            "1666322687"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "North Mankato, Minnesota : Capstone Press",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Water-supply Juvenile literature.",
+            "Water-supply Comic books, strips, etc.",
+            "Drinking water Juvenile literature.",
+            "Drinking water Comic books, strips, etc."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"More than 70 percent of Earth is covered in water. Yet only about 3 percent of it is freshwater that people can use. Every year, parts of the world suffer through severe droughts, and millions of people don't have easy access to clean drinking water. Why is there a shortage of clean and healthy water? In this nonfiction graphic novel, Max Axion and the Society of Super Scientists travel around the world to learn the reasons behind the global water crisis. Young readers can tag along to discover what causes water scarcity and find out ways they can help preserve this precious resource\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Studying pollution : collect and share data",
+      "seriesTitle": [
+        "Citizen scientist"
+      ],
+      "author": "Howell, Izzi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781725338395?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781725338395?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781725338395?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205917325,
+          "isbns": [
+            "9781725338395",
+            "1725338394",
+            "9781725338371",
+            "1725338378"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : PowerKids Press",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Pollution Juvenile literature.",
+            "Pollution prevention Juvenile literature.",
+            "Pollution.",
+            "Pollution prevention."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 29 cm."
+          ],
+          "summary": [
+            "Pollution is easy to spot: a soda can on the side of the road, an old tire in someone's yard, or flyers that have been blown into the park by the wind. But litter is just a part of it. Air pollution and light pollution are problems too! Citizen scientists are sometimes the perfect people to observe and measure it. In this volume, readers are introduced to many kinds of pollution, how they harm Earth, and ways they can get involved in cleaning it up. Five activities show readers basic research and project strategies."
+          ],
+          "notes": [
+            "Subtitle from cover.",
+            "\"Includes hands-on projects\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Do you know quantum physics?",
+      "seriesTitle": [
+        "Brainy science readers."
+      ],
+      "author": "Ferrie, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261539?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261539?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261539?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205939296,
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261539",
+            "1728261538",
+            "9781728261553"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Naperville, Illinois : Sourcebooks eXplore",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Quantum theory Juvenile literature.",
+            "Quantum theory."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Chris Ferrie has delighted children and families around the world with his unique take on science. And now it's time for beginning readers to learn this information for themselves! From general relativity to quantum physics, from astrophysics to rocket science and from robotics to climate change, BRAINY SCIENCE will intrigue and teach young scientists a variety of subjects with simple, easy-to-read text. These beginning reader books include:easy vocabulary short sentences word repetition simple content and stories correlation between art and text."
+          ],
+          "notes": [
+            "\"Be a STEM superstar!\"-- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-7.",
+            "Grades 2-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206054360,
+          "digitalId": "A470EAD7-587F-4829-9394-95CB955B6CA0",
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261539"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Quantum theory.",
+            "Quantum theory Juvenile literature.",
+            "Language Arts.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Make science fun with this new series from the #1 science author for kids!   This scientific book for beginning readers includes:  easy vocabulary  short sentences  simple content and stories  correlation between art and text  Chris Ferrie has delighted children and families around the world with his unique take on science in the bestselling Baby University series. And now it's time for beginning readers to learn this information for themselves! With simple, easy-to-read text, Brainy Science Readers: Do You Know Quantum Physics? will teach young scientists all about atoms, electrons, energy, and much more!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "350 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Crows",
+      "seriesTitle": [
+        "Animal geniuses."
+      ],
+      "author": "Emminizer, Theresa",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781499451832?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781499451832?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781499451832?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300152838,
+          "isbns": [
+            "9781499451832",
+            "1499451830",
+            "9781499451825",
+            "1499451822"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Buffalo, New York : PowerKids Press",
+            ""
+          ],
+          "publishDate": "[2026]",
+          "subjects": [
+            "Crows Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"How clever are crows? Scientists are still discovering just how intelligent these birdbrains are! Crows are amazing problem-solvers. They drop nuts on roads to be cracked open by cars driving by! They also remember faces and use tools. In this book, beginning readers will learn about what makes crows so smart. Stunning photographs correspond to the simple, easy-to-understand text, helping readers develop reading comprehension skills while building their knowledge\"--Provided by publisher."
+          ],
+          "contents": [
+            "Clever corvids -- A Murder of crows -- Crow funerals -- Crafty crows -- Using tools -- Solving problems -- Remembering faces -- Clashing with crows."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Do you know rocket science?",
+      "seriesTitle": [
+        "Brainy science readers."
+      ],
+      "author": "Ferrie, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205939299,
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261560",
+            "1728261562",
+            "9781728261584"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Naperville, Illinois : Sourcebooks eXplore",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Rocketry Juvenile literature.",
+            "Rocketry."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Chris Ferrie has delighted children and families around the world with his unique take on science with his board book series. Now it's time for beginning readers to experience this information for themselves! From general relativity to quantum physics, from astrophysics to rocket science, Brainy Science will intrigue and teach young scientists a variety of subjects with simple, easy-to-read text. These beginning reader books include : easy vocabulary, short sentences, word repetition, simple content, and story correlation between art and text."
+          ],
+          "notes": [
+            "\"Be a STEM superstar!\"-- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-8.",
+            "Grades 2-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Mind-blowing physical science activities",
+      "seriesTitle": [
+        "First facts."
+      ],
+      "author": "Smibert, Angie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781515768876?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781515768876?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781515768876?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202977617,
+          "isbns": [
+            "9781515768876",
+            "1515768872",
+            "9781515768937",
+            "1515768937",
+            "9781515769057",
+            "1515769054"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "North Mankato, Minnesota : Capstone Press",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Physical sciences Experiments Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 27 cm."
+          ],
+          "summary": [
+            "Educational, easy-to-do physical science activities that will show young readers more about the field of physical science. Using simple, easy to find materials, these activities will help readers better understand gravity, states of matter, density, and more!"
+          ],
+          "contents": [
+            "Stay curious -- Lava lamp -- Magnetic slime -- Rubber egg drop -- Bending water -- Easy hero's engine -- Paint balloon splat -- Mini-motor -- Instant ice."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "6-9.",
+            "K to 3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Giant weta : mammoth insect",
+      "seriesTitle": [
+        "PK reader."
+      ],
+      "author": "Humphrey, Natalie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781642825558?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781642825558?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781642825558?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206107396,
+          "isbns": [
+            "9781642825558",
+            "1642825557",
+            "9781642825541",
+            "1642825549"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Buffalo, NY : PowerKids Press",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Giant wetas Juvenile literature.",
+            "Wetas Juvenile literature.",
+            "Grasshoppers Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"The giant weta is one massive bug! Weighing more than a mouse, this giant bug was once found all over New Zealand. Now, some scientists from New Zealand are trying to bring the population back! Giant wetas might look creepy, but they're a very important part of their ecosystem. Young readers will love learning about this huge bug and what makes it so special. With photographs of the giant weta up close paired with easy to read text, young biologists will discover the lives of giant wetas in their native home\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 91
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 14
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 3
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 2
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 2
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 1
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 91
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 74
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 62
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 61
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 60
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 59
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 57
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 51
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 51
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 48
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 42
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 41
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 40
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 39
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 39
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 38
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 37
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 34
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 33
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 30
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 26
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 6
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 3
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 2
+        },
+        {
+          "id": "ru",
+          "data": "Repository Used Book Collection",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 91
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 67
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1498 @@
+{
+  "totalRecords": 408,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "The amazing quantum : five awesome stories of people who made a revolution in physics",
+      "seriesTitle": [
+        "Young scientists series ; book 6."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767611,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221529",
+            "9813221526"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Physicists Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Quantum theory Juvenile literature.",
+            "Physics Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The science of humanity : five fascinating stories of people who helped us understand ourselves",
+      "seriesTitle": [
+        "Young scientists series ; book 7."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767629,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221567",
+            "9813221569"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Advances in alchemy : five startling stories of chemistry and biology",
+      "seriesTitle": [
+        "Young scientists series ; book 10."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767641,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221680",
+            "9813221682"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Chemists Juvenile literature.",
+            "Biologists Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Chemistry Juvenile literature.",
+            "Biology Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The call of the stars : five wonderful stories of people looking to the heavens",
+      "seriesTitle": [
+        "Young scientists series ; book 11."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767647,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221727",
+            "9813221720"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Astronomers Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Astronomy Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The mystery of nature's laws : five striking stories of people investigating the deepest puzzles of reality",
+      "seriesTitle": [
+        "Young scientists series ; book 12."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767650,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221765",
+            "9813221763"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Physicists Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Physics Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Fabulous physics : five amazing stories of people who solved nature's puzzles",
+      "seriesTitle": [
+        "Young scientists series ; book 2."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767597,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221369",
+            "9813221364"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Physicists Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Physics Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Breakers of barriers : five stunning stories of people demolishing walls to make history",
+      "seriesTitle": [
+        "Young scientists series ; book 4."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767605,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221444",
+            "9813221445"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "23 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Magical mathematics : five astonishing stories of people who did miracles with numbers",
+      "seriesTitle": [
+        "Young scientists series ; book 3."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767600,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221406",
+            "9813221402"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Mathematicians Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Mathematics Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "23 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Women of discovery : five super stories of fabulous females who made scientific history",
+      "seriesTitle": [
+        "Young scientists series ; book 8."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767632,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221604",
+            "9813221607"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Women scientists Juvenile literature.",
+            "Women in science Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The inventor's spark : five marvelous stories of people who helped shape the modern world",
+      "seriesTitle": [
+        "Young scientists series ; book 9."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767638,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221642",
+            "981322164X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Inventors Juvenile literature.",
+            "Science Juvenile literature.",
+            "Inventions Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Scientific pioneers : five incredible tales of people who helped develop the scientific method",
+      "seriesTitle": [
+        "Young scientists series ; book 5."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767608,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221482",
+            "9813221488"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Secrets in the rocks : five astounding tales of people solving mysteries beneath our feet",
+      "seriesTitle": [
+        "Young scientists series ; book 1."
+      ],
+      "author": "Vittachi, Nury, 1958-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813221307?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202767594,
+          "otherAuthors": [
+            "Cheung, Step, illustrator."
+          ],
+          "isbns": [
+            "9789813221307",
+            "9813221305",
+            "9789813221321",
+            "9813221321"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : WS Education",
+            ""
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Paleontologists Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Paleontology Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages: color illustrations ; 21 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The girl with a mind for math : the story of Raye Montague",
+      "seriesTitle": [
+        "Amazing scientists series ; [3]"
+      ],
+      "author": "Mosca, Julia Finley",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781943147427?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781943147427?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781943147427?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203794134,
+          "otherAuthors": [
+            "Rieley, Daniel, illustrator."
+          ],
+          "isbns": [
+            "9781943147427",
+            "1943147426",
+            "9781943147304",
+            "1943147302"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Seattle, WA : The Innovation Press",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Montague, Raye, 1935-2018 Juvenile literature.",
+            "Women marine engineers Biography Juvenile literature.",
+            "Engineers Biography Juvenile literature.",
+            "African American women Biography Juvenile literature.",
+            "Marine engineering Juvenile literature.",
+            "Shipbuilding Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 26 cm."
+          ],
+          "summary": [
+            "This is a rhyming-text picture book about Raye Montague. After touring a German submarine in the early 1940s, young Raye set her sights on becoming an engineer. Little did she know sexism and racial inequality would challenge that dream every step of the way, even keeping her greatest career accomplishment a secret for decades. Through it all, the gifted mathematician persisted-- finally gaining her well-deserved title in history: a pioneer who changed the course of ship design forever--Dust jacket."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The tornado scientist : seeing inside severe storms",
+      "seriesTitle": [
+        "Scientists in the field."
+      ],
+      "author": "Carson, Mary Kay",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544965829?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544965829?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544965829?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205601052,
+          "otherAuthors": [
+            "Uhlman, Tom, photographer."
+          ],
+          "isbns": [
+            "9780544965829",
+            "0544965825"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Tanamachi, Robin Juvenile literature.",
+            "Tornadoes Juvenile literature.",
+            "Storm chasers Biography Juvenile literature.",
+            "Meteorologists Biography Juvenile literature.",
+            "Women scientists Biography Juvenile literature.",
+            "Meteorologists",
+            "Tornadoes",
+            "Women scientists",
+            "Storm chasers"
+          ],
+          "physicalDescription": [
+            "75 pages : color illustrations, color maps ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"What if tornadoes could be stopped or slowed down? In this addition to the critically-acclaimed Scientist in the Field series, scientist Robin Tanamachi and her team are trying to come up with a way to predict tornadoes with even greater accuracy, and save countless lives across America's heartland\"--Provided by publisher."
+          ],
+          "contents": [
+            "A southern twist -- Storm chaser genesis -- Twister science 2.0 -- Scanning the skies -- A tragic year -- Setting a tornado net -- Future forecasts -- Words (and acronyms) to know."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204412547,
+          "digitalId": "E8B45799-2C1B-4AFA-BA0C-8E556CD7CFC8",
+          "otherAuthors": [
+            "Uhlman, Tom, photographer."
+          ],
+          "isbns": [
+            "9780358055921"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tanamachi, Robin Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Women scientists Biography Juvenile literature.",
+            "Meteorologists Biography Juvenile literature.",
+            "Storm chasers Biography Juvenile literature.",
+            "Tornadoes Juvenile literature.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "n this addition to the critically-acclaimed Scientist in the Field series, scientist Robin Tanamachi and her team are trying save countless lives across America's heartland, chasing one tornado at a time.   Robin Tanamachi has been captivated by tornadoes and extreme weather her entire life. When she realized people researched weather for a job, she was hooked. She now studies tornadogenesis, or how tornadoes form, and what causes them to get weaker versus strengthen. For her, driving around in a Doppler radar truck aiming towards storms is a normal day in the office. The data she collects is then modeled and studied on computers- with math, physics, and computer science working hand in hand with meteorology. At the end of the day, knowing exactly how, when, and where these violent storms happen can give more warning time for everyone involved."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 4",
+            "MG/Middle grades (4th-8th)",
+            "5.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The secret explorers and the missing scientist.",
+      "seriesTitle": [
+        "The Secret Explorers."
+      ],
+      "author": "King, SJ",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744033366?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744033366?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744033366?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205497848,
+          "variantTitles": [
+            "Missing scientist"
+          ],
+          "otherAuthors": [
+            "O'Shea, Ellie, illustrator."
+          ],
+          "isbns": [
+            "9780744033366",
+            "0744033365",
+            "9781465499899",
+            "146549989X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York, New York : DK Publishing",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Rescues Fiction.",
+            "Quests (Expeditions) Fiction.",
+            "Arctic regions Fiction.",
+            "Scientists Fiction.",
+            "Missing persons Fiction.",
+            "Scientific expeditions Arctic regions Fiction.",
+            "Arctic regions Discovery and exploration Fiction."
+          ],
+          "physicalDescription": [
+            "127 pages : illustrations ; 21 cm."
+          ],
+          "summary": [
+            "Meet the Secret Explorers - a band of brainiac kids from all around the world. Everyone in this group of young experts has a speciality, from outer space to dinosaurs, and each story follows a character who gets chosen for a \"secret exploration\". In this fun, fact-filled children's book, engineering expert Kiki and Connor the marine biologist are sent on a mission to the Arctic. There they discover a research vessel studying the effects of climate change that has become trapped in the sea ice. To make matters worse, one of the ship's scientists who went to find help at a nearby research station hasn't returned. It's up to the Secret Explorers to find the scientist, free the ship, and save the day! Kids will love turning the pages to find out if the Secret Explorers manage to succeed in their mission!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205484829,
+          "digitalId": "0EFA451F-31FA-43B2-984D-95D1CED52E23",
+          "isbns": [
+            "9780241540961"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Scientists.",
+            "Scientific expeditions.",
+            "Rescues.",
+            "Quests (Expeditions)",
+            "Missing persons.",
+            "Discoveries in geography.",
+            "Adventure stories.",
+            "Scientific expeditions Arctic regions Juvenile fiction.",
+            "Missing persons Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction.",
+            "Rescues Juvenile fiction.",
+            "Adventure stories.",
+            "Arctic regions Juvenile fiction.",
+            "Arctic regions Discovery and exploration Juvenile fiction.",
+            "Arctic Regions."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "We are the NASA scientists",
+      "seriesTitle": [
+        "Friends change the world."
+      ],
+      "author": "Tucker, Zoë",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711263857?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711263857?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711263857?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205548696,
+          "otherAuthors": [
+            "Quartey, Amanda, illustrator."
+          ],
+          "isbns": [
+            "9780711263857",
+            "071126385X",
+            "9780711263833",
+            "0711263833"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Wide Eyed Editions"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Jackson, Mary, 1921-2005 Pictorial works Juvenile literature.",
+            "Czarnecki, Kazimierz Pictorial works Juvenile literature.",
+            "United States. National Aeronautics and Space Administration Pictorial works Juvenile literature.",
+            "Women scientists Pictorial works Juvenile literature.",
+            "Friendship Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "34 unnumbered pages : color illustrations ; 26 cm."
+          ],
+          "summary": [
+            "This is the true story of a friendship that shot for the Moon. Mary solves tricky math problems to help launch astronauts into space. But as a Black woman, she faces many obstacles that her colleagues don't. When she meets Kaz, a fellow NASA scientist, he helps Mary find strength in her talent. Together, Mary, Kaz, and everyone at NASA are about to do the impossible . . ."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205739333,
+          "digitalId": "B02E0B28-BB3C-4F08-BFFF-D8AB0662CAF4",
+          "otherAuthors": [
+            "Quartey, Amanda, illustrator."
+          ],
+          "isbns": [
+            "9780711263840"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Jackson, Mary, 1921-2005 Pictorial works Juvenile literature.",
+            "Czarnecki, Kazimierz Pictorial works Juvenile literature.",
+            "United States. National Aeronautics and Space Administration Pictorial works Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Biography & Autobiography.",
+            "Science.",
+            "Women scientists",
+            "Friendship",
+            "Women scientists Pictorial works Juvenile literature.",
+            "Friendship Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This beautiful picture book tells the story of two scientists who worked together side by side to send humans into space.   Mary Jackson  was super smart. She loved math and science, and she loved to learn.  When Mary got a job at NASA , it was a dream come true! But this was a time when Black people were segregated from white people, and Mary had to fight hard for every opportunity.  In 1953, Mary started working alongside  Kaz Czarnecki . They soon realized how much they could  share and teach each other . The two were from completely  different backgrounds , but it didn't matter at all- they had so much in common .  This was the beginning of a  friendship  that lasted for decades. Together, they worked on amazing experiments and achieved incredible things, like working  to land astronauts on the moon .  Friends Change the World  is  a series of picture books  that  celebrates the power of friendship . From musical greats to sports champions, scientists and explorers to artists and activists, these are the true stories of real friends who achieved amazing things. Whether best friends since school or thrown together by a chance encounter, they supported and inspired each other to make their shared dreams come true. This charming series shows 4- to 7-year-olds how togetherness, respect, and friendship can make the world a better place."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Fantastically great women scientists and their stories",
+      "author": "Pankhurst, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526615336?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526615336?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526615336?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205349003,
+          "isbns": [
+            "9781526615336",
+            "1526615339"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Bloomsbury Childrens Books",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Women scientists Juvenile literature.",
+            "Women scientists Biography Juvenile literature.",
+            "Scientists Biography Juvenile literature.",
+            "Scientists.",
+            "Women scientists."
+          ],
+          "physicalDescription": [
+            "184 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "\"Prepare to be inspired with this fantastically great new series for young readers. In this first book, read the true stories of amazing scientists and discover things that are out of this world. Women have been responsible for many of the world's most groundbreaking scientific discoveries. Kate Pankhurst, descendent of Emmeline Pankhurst, tells the stories of some incredible female scientists whose hard work and persistence changed our understanding of science and transformed people's ideas of what women can do. As a child, Mae Jemison imagined herself reaching for the stars and that's exactly what she did: she became the first African-American woman to go into space. When Elizabeth Blackwell was told women weren't allowed to be doctors, she didn't take no for an answer. Tu Youyou spent months on a remote island during the Vietnam War to try and invent a treatment for malaria - and she did it. Including comic strips, family trees, maps and more, Fantastically Great Women Scientists and Their Stories is a celebration of women who made some of the world's most important scientific breakthroughs. Women featured: Mae Jemison, Marie Curie, Elizabeth Blackwell, Janaki Ammal, Caroline Herschel, Katia Krafft, Tu Youyou and Rosalind Franklin\" -- Publisher's description."
+          ],
+          "contents": [
+            "Women in science -- Mae Jemison -- Marie Curie -- Elizabeth Blackwell -- Janaki Ammal -- Katia Krafft -- Caroline Herschel -- Tu Youyou -- Rosalind Franklin -- Stupendously super scientists! -- Other fantastically great people."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206097853,
+          "digitalId": "FE994064-2826-48CA-9350-3733AF40222F",
+          "isbns": [
+            "9781526621412 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Biography & Autobiography.",
+            "Reference."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "'Significantly more engaging and inspiring than the rival Rebel Girls'   GUARDIAN   'It's hard to imagine any group of primary-aged children who wouldn't be inspired'   BOOKSELLER   'An absolute must-have for every young person's bookshelf'   HUFFINGTON POST      Prepare to be inspired with this fantastically great new series for young readers from bestselling author Kate Pankhurst, descendent of suffragette Emmeline Pankhurst. In this first book, read the true stories of amazing scientists and discover things that are out of this world!  Women have been responsible for many of the world's most groundbreaking scientific discoveries. These are the stories of incredible female scientists whose hard work and persistence changed our understanding of science, and transformed people's ideas of what women can do.      ·  Reach for the stars with the first African-American woman to go into space  Mae Jemison    ·  Explore volcanoes with the fearless  Katia Krafft   ·  Invent a treatment for malaria with the determined  Tu YouYou   ·  Make scientific discoveries that will change the world with  Marie Curie  Including comic strips, family trees, maps and more,  Fantastically Great Women Scientists and Their Stories  is a celebration of women who made some of the world's most important scientific breakthroughs. A fantastic gift for girls and boys alike! List of women featured: Mae Jemison, Marie Curie, Elizabeth Blackwell, Janaki Ammal, Caroline Herschel, Katia Krafft, Tu Youyou and Rosalind Franklin."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Super scientists",
+      "seriesTitle": [
+        "Curious questions and answers about . . . (Windmill Books (Firm : Rosen Publishing Group))"
+      ],
+      "author": "Snedden, Robert",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538399040?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538399040?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538399040?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300173050,
+          "variantTitles": [
+            "Curious questions and answers about... super scientists"
+          ],
+          "otherAuthors": [
+            "Di Baldo, Fabrizio, illustrator."
+          ],
+          "isbns": [
+            "9781538399040",
+            "1538399040"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Buffalo, NY : Windmill Books, and imprint of Rosen Publishing"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Science Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Discoveries in science Juvenile literature.",
+            "Children's questions and answers."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 28 cm."
+          ],
+          "summary": [
+            "\"What are things made of? What's happening to the climate? This book tackles these questions and more in an exciting format that's perfect for curious kids. Readers will love learning about scientists through a series of whimsical and informative questions and answers. Bright illustrations of groundbreaking scientists and their discoveries are paired with bite-sized text boxes to capture readers' interest. Readers will enjoy dialogue boxes, fun facts, and explanations about scientific discoveries that are both age-appropriate and entertaining. This book is sure to kick-start a love of STEM topics for young readers and inspire them to ask questions about science at work in the world around them\"--Amazon."
+          ],
+          "notes": [
+            "First published: 2023."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Girl scientists",
+      "seriesTitle": [
+        "History's yearbook"
+      ],
+      "author": "Loh-Hagan, Virginia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534147935?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534147935?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534147935?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205273821,
+          "isbns": [
+            "9781534147935",
+            "1534147934",
+            "9781534150799",
+            "153415079X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Ann Arbor, Michigan : 45th Parallel Press, an imprint of Cherry Lake Publishing",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Women scientists Biography Juvenile literature.",
+            "Women in science History Juvenile literature.",
+            "Science Biography Juvenile literature.",
+            "Science History Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : illustrations (chiefly color) ; 24 cm."
+          ],
+          "summary": [
+            "\"Who were history's smartest scientists? Who was voted \"Most Likely to Have the Best Garden?\" In the History's Yearbook series, readers will learn about the amazing and diverse women in history. In Girl Scientists, readers will discover and rediscover their favorite heroines and learn about top women scientists who have made an impact. Each book in this series is written at a higher maturity level using considerate text at a lower reading level in order to engage struggling readers. Backmatter material includes writing prompts that encourage readers to think creatively and critically. Series includes, a table of contents, educational sidebars, bibliography, glossary, index, and author biography\"--Provided by publisher."
+          ],
+          "contents": [
+            "Best all-around: Marie Curie -- Most inspired: Chien-shiung Wu -- Most likely to have the best garden: Ynes Mexia -- Most patriotic: Ruby Sakae Hirose -- Most underrated player: Lise Meitner -- Most driven: Susan La Flesche -- Most likely to aim high: Caroline Herschel -- Best collector: Mary Anning -- Best artist: Maria Merian -- Trendsetter: Annie Easley -- Best family legacy: Mary and Louis Leakey -- Best writer: Maria Agnesi -- Your turn! -- Consider this!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "I want to be a scientist",
+      "seriesTitle": [
+        "I can read book."
+      ],
+      "author": "Driscoll, Laura",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300030247,
+          "otherAuthors": [
+            "Echeverri, Catalina, 1986- illustrator."
+          ],
+          "isbns": [
+            "9780062989659",
+            "0062989650",
+            "9780062989642",
+            "0062989642"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Harper, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Scientists Juvenile literature."
+          ],
+          "physicalDescription": [
+            "31 pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "This accessible behind-the-scenes look at being a scientist takes beginning readers on a research boat to the North Pole where they can discover what type of scientist they want to be."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300045441,
+          "digitalId": "A4C8392D-DFFB-4537-BB84-763D679D6F61",
+          "isbns": [
+            "9780062989673 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : HarperCollins"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Careers.",
+            "Language Arts."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For the child who says, \"I want to be a SCIENTIST when I grow up!\" And for any child who wants a gentle behind-the-scenes look at being a scientist. This Level One Community Helper story takes readers on a research boat to the North Pole, where they learn all about the different types of scientists they can be!    When I take a trip to the North Pole with my Mom to study whales, I learn that are so many different ways to be a scientist. Did you know that there are meteorologists, zoologists, astronomers—and many more! Maybe I'll be a scientist, too!  With this story blending narrative with nonfiction, readers meet the many different kinds of scientists who do so much to support our communities.  I Want to Be a Scientist is part of an I Can Read series that introduces young readers to important community helpers. This Level One I Can Read is perfect for children learning to sound out words and sentences. Whether shared at home or in a classroom, the short sentences, familiar words, and simple concepts of Level One books support success for children eager to start reading on their own.  For anyone looking for books about community helpers for kids, the I Can Read My Community books are a great choice. The books are bright and upbeat and feature characters who are diverse in terms of gender, race, age, and body type. Kids ages 3-6 will enjoy finding out more about the people who do so much to help all of our communities."
+          ],
+          "notes": [
+            "Title from eBook information screen..",
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 408
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 49
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 36
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 26
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 22
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 18
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 408
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 304
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 288
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 276
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 276
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 261
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 245
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 242
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 239
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 236
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 235
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 229
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 218
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 217
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 206
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 206
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 201
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 196
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 194
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 183
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 176
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 57
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 32
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 25
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 408
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 356
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 64
+        }
+      ]
+    }
+  ]
+}

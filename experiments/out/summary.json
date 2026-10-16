@@ -1,0 +1,506 @@
+[
+  {
+    "name": "penguin | baseline",
+    "status": 200,
+    "totalRecords": 3471,
+    "records": 23,
+    "onTopic": 23,
+    "boardOrPictureSubject": 4,
+    "juvenileSubject": 20,
+    "tall": 4,
+    "withHeight": 19,
+    "withSeries": 19,
+    "withAudienceField": 0,
+    "bandShare": 0.6453471622010948,
+    "params": {
+      "Keywords": "penguin",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin | picture book",
+    "status": 200,
+    "totalRecords": 1355,
+    "records": 37,
+    "onTopic": 32,
+    "boardOrPictureSubject": 22,
+    "juvenileSubject": 34,
+    "tall": 8,
+    "withHeight": 26,
+    "withSeries": 11,
+    "withAudienceField": 8,
+    "bandShare": 0.3992619926199262,
+    "params": {
+      "Keywords": "penguin picture book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin | easy reader",
+    "status": 200,
+    "totalRecords": 142,
+    "records": 76,
+    "onTopic": 16,
+    "boardOrPictureSubject": 3,
+    "juvenileSubject": 45,
+    "tall": 2,
+    "withHeight": 38,
+    "withSeries": 71,
+    "withAudienceField": 29,
+    "bandShare": 0.6408450704225352,
+    "params": {
+      "Keywords": "penguin easy reader",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin | series",
+    "status": 200,
+    "totalRecords": 782,
+    "records": 31,
+    "onTopic": 31,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 30,
+    "tall": 1,
+    "withHeight": 20,
+    "withSeries": 27,
+    "withAudienceField": 5,
+    "bandShare": 0.7122762148337596,
+    "params": {
+      "Keywords": "penguin series",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "penguin | Fiction=true",
+    "status": 501,
+    "totalRecords": 0,
+    "records": 0,
+    "onTopic": 0,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 0,
+    "tall": 0,
+    "withHeight": 0,
+    "withSeries": 0,
+    "withAudienceField": 0,
+    "bandShare": null,
+    "params": {
+      "Keywords": "penguin",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Fiction": "true"
+    }
+  },
+  {
+    "name": "tiger | baseline",
+    "status": 200,
+    "totalRecords": 1760,
+    "records": 22,
+    "onTopic": 21,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 20,
+    "tall": 4,
+    "withHeight": 20,
+    "withSeries": 18,
+    "withAudienceField": 3,
+    "bandShare": 0.2778409090909091,
+    "params": {
+      "Keywords": "tiger",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger | picture book",
+    "status": 200,
+    "totalRecords": 547,
+    "records": 27,
+    "onTopic": 22,
+    "boardOrPictureSubject": 13,
+    "juvenileSubject": 23,
+    "tall": 8,
+    "withHeight": 22,
+    "withSeries": 5,
+    "withAudienceField": 8,
+    "bandShare": 0.2943327239488117,
+    "params": {
+      "Keywords": "tiger picture book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger | easy reader",
+    "status": 200,
+    "totalRecords": 13,
+    "records": 19,
+    "onTopic": 15,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 17,
+    "tall": 4,
+    "withHeight": 15,
+    "withSeries": 14,
+    "withAudienceField": 6,
+    "bandShare": 0.23076923076923078,
+    "params": {
+      "Keywords": "tiger easy reader",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger | series",
+    "status": 200,
+    "totalRecords": 186,
+    "records": 26,
+    "onTopic": 26,
+    "boardOrPictureSubject": 3,
+    "juvenileSubject": 26,
+    "tall": 2,
+    "withHeight": 22,
+    "withSeries": 25,
+    "withAudienceField": 5,
+    "bandShare": 0.3279569892473118,
+    "params": {
+      "Keywords": "tiger series",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "tiger | Fiction=true",
+    "status": 501,
+    "totalRecords": 0,
+    "records": 0,
+    "onTopic": 0,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 0,
+    "tall": 0,
+    "withHeight": 0,
+    "withSeries": 0,
+    "withAudienceField": 0,
+    "bandShare": null,
+    "params": {
+      "Keywords": "tiger",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Fiction": "true"
+    }
+  },
+  {
+    "name": "rocket | baseline",
+    "status": 200,
+    "totalRecords": 576,
+    "records": 25,
+    "onTopic": 25,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 25,
+    "tall": 5,
+    "withHeight": 22,
+    "withSeries": 18,
+    "withAudienceField": 3,
+    "bandShare": 0.265625,
+    "params": {
+      "Keywords": "rocket",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "rocket | picture book",
+    "status": 200,
+    "totalRecords": 126,
+    "records": 33,
+    "onTopic": 33,
+    "boardOrPictureSubject": 7,
+    "juvenileSubject": 33,
+    "tall": 8,
+    "withHeight": 22,
+    "withSeries": 17,
+    "withAudienceField": 6,
+    "bandShare": 0.3968253968253968,
+    "params": {
+      "Keywords": "rocket picture book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "rocket | easy reader",
+    "status": 200,
+    "totalRecords": 22,
+    "records": 38,
+    "onTopic": 28,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 36,
+    "tall": 0,
+    "withHeight": 24,
+    "withSeries": 34,
+    "withAudienceField": 15,
+    "bandShare": 0.45454545454545453,
+    "params": {
+      "Keywords": "rocket easy reader",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "rocket | series",
+    "status": 200,
+    "totalRecords": 82,
+    "records": 37,
+    "onTopic": 37,
+    "boardOrPictureSubject": 2,
+    "juvenileSubject": 35,
+    "tall": 2,
+    "withHeight": 22,
+    "withSeries": 32,
+    "withAudienceField": 7,
+    "bandShare": 0.3902439024390244,
+    "params": {
+      "Keywords": "rocket series",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "rocket | Fiction=true",
+    "status": 501,
+    "totalRecords": 0,
+    "records": 0,
+    "onTopic": 0,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 0,
+    "tall": 0,
+    "withHeight": 0,
+    "withSeries": 0,
+    "withAudienceField": 0,
+    "bandShare": null,
+    "params": {
+      "Keywords": "rocket",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Fiction": "true"
+    }
+  },
+  {
+    "name": "scientist | baseline",
+    "status": 200,
+    "totalRecords": 2271,
+    "records": 28,
+    "onTopic": 28,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 26,
+    "tall": 6,
+    "withHeight": 21,
+    "withSeries": 23,
+    "withAudienceField": 6,
+    "bandShare": 0.23469837076177896,
+    "params": {
+      "Keywords": "scientist",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "scientist | picture book",
+    "status": 200,
+    "totalRecords": 315,
+    "records": 40,
+    "onTopic": 38,
+    "boardOrPictureSubject": 6,
+    "juvenileSubject": 36,
+    "tall": 7,
+    "withHeight": 24,
+    "withSeries": 22,
+    "withAudienceField": 10,
+    "bandShare": 0.18095238095238095,
+    "params": {
+      "Keywords": "scientist picture book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "scientist | easy reader",
+    "status": 200,
+    "totalRecords": 91,
+    "records": 35,
+    "onTopic": 31,
+    "boardOrPictureSubject": 1,
+    "juvenileSubject": 33,
+    "tall": 3,
+    "withHeight": 21,
+    "withSeries": 30,
+    "withAudienceField": 15,
+    "bandShare": 0.2087912087912088,
+    "params": {
+      "Keywords": "scientist easy reader",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "scientist | series",
+    "status": 200,
+    "totalRecords": 408,
+    "records": 25,
+    "onTopic": 24,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 24,
+    "tall": 2,
+    "withHeight": 20,
+    "withSeries": 23,
+    "withAudienceField": 1,
+    "bandShare": 0.28921568627450983,
+    "params": {
+      "Keywords": "scientist series",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "scientist | Fiction=true",
+    "status": 501,
+    "totalRecords": 0,
+    "records": 0,
+    "onTopic": 0,
+    "boardOrPictureSubject": 0,
+    "juvenileSubject": 0,
+    "tall": 0,
+    "withHeight": 0,
+    "withSeries": 0,
+    "withAudienceField": 0,
+    "bandShare": null,
+    "params": {
+      "Keywords": "scientist",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile",
+      "Fiction": "true"
+    }
+  },
+  {
+    "name": "format | board book",
+    "status": 200,
+    "totalRecords": 11115,
+    "records": 29,
+    "onTopic": null,
+    "boardOrPictureSubject": 14,
+    "juvenileSubject": 28,
+    "tall": 0,
+    "withHeight": 22,
+    "withSeries": 9,
+    "withAudienceField": 6,
+    "bandShare": 0.3792172739541161,
+    "params": {
+      "Keywords": "board book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "format | big book",
+    "status": 200,
+    "totalRecords": 7377,
+    "records": 23,
+    "onTopic": null,
+    "boardOrPictureSubject": 1,
+    "juvenileSubject": 22,
+    "tall": 15,
+    "withHeight": 22,
+    "withSeries": 14,
+    "withAudienceField": 5,
+    "bandShare": 0.327911074962722,
+    "params": {
+      "Keywords": "big book",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "format | oversized",
+    "status": 200,
+    "totalRecords": 72,
+    "records": 49,
+    "onTopic": null,
+    "boardOrPictureSubject": 13,
+    "juvenileSubject": 48,
+    "tall": 11,
+    "withHeight": 35,
+    "withSeries": 29,
+    "withAudienceField": 9,
+    "bandShare": 0.3611111111111111,
+    "params": {
+      "Keywords": "oversized",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "format | lift the flap",
+    "status": 200,
+    "totalRecords": 2334,
+    "records": 24,
+    "onTopic": null,
+    "boardOrPictureSubject": 17,
+    "juvenileSubject": 21,
+    "tall": 3,
+    "withHeight": 24,
+    "withSeries": 9,
+    "withAudienceField": 6,
+    "bandShare": 0.27292202227934875,
+    "params": {
+      "Keywords": "lift the flap",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  },
+  {
+    "name": "format | large format",
+    "status": 200,
+    "totalRecords": 53,
+    "records": 38,
+    "onTopic": null,
+    "boardOrPictureSubject": 6,
+    "juvenileSubject": 34,
+    "tall": 12,
+    "withHeight": 31,
+    "withSeries": 23,
+    "withAudienceField": 4,
+    "bandShare": 0.39622641509433965,
+    "params": {
+      "Keywords": "large format",
+      "Limit": "20",
+      "MaterialTypes": "bks",
+      "IntendedAudiences": "juvenile"
+    }
+  }
+]

@@ -1,0 +1,2180 @@
+{
+  "totalRecords": 22,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Rockets",
+      "seriesTitle": [
+        "All about space (Lightbox Learning (Firm))"
+      ],
+      "author": "Baker, David, 1944-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510566347?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510566347?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510566347?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300037335,
+          "otherAuthors": [
+            "Kissock, Heather, author."
+          ],
+          "isbns": [
+            "9781510566347",
+            "1510566341"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Lightbox Learning Inc.",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 23 x 25 cm."
+          ],
+          "summary": [
+            "\"Go on an exciting adventure beyond planet Earth in the All about Space series. Discover more about our solar system and the way we explore it with easy-to-read titles that are sure to engage even the most reluctant readers\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Rocket's very fine day.",
+      "seriesTitle": [
+        "Rocket."
+      ],
+      "author": "Hills, Tad",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525644934?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525644934?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780525644934?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203942802,
+          "isbns": [
+            "9780525644934",
+            "0525644938",
+            "9780525644958",
+            "0525644954",
+            "9780525644941",
+            "0525644946"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Rain and rainfall Juvenile fiction.",
+            "Play Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Squirrels Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Rocket and his friend Bella plan to spend the day outside, but their perfect day is nearly ruined by the rain."
+          ],
+          "notes": [
+            "\"Have fun & learn with Rocket!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204454965,
+          "digitalId": "9B553C71-2202-4DB1-B954-B86712925CC4",
+          "isbns": [
+            "9780525644965"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Dogs.",
+            "Play.",
+            "Rain and rainfall.",
+            "Squirrels.",
+            "Squirrels Fiction.",
+            "Dogs Fiction.",
+            "Play Fiction.",
+            "Rain and rainfall Fiction.",
+            "Squirrels Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Play Juvenile fiction.",
+            "Rain and rainfall Juvenile fiction.",
+            "Beginning Reader."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Kids are learning to read with Rocket! Tad Hills, the #1    New York Times    bestselling author is back with another Level 1 Step into Reading story about the beloved dog Rocket, this time about making the most of a rainy day.    Rocket, the star of the  New York Times  bestselling picture books  How Rocket Learned to Read  and  Rocket Writes a Story , returns in an all-new Step 1 Step into Reading leveled reader. It's a beautiful sunny day and Rocket and Bella have big plans for fun in the sun. That is until a drop of rain falls and the clouds roll in. With predictable patterns, simple words, lots of repetition, and bright, colorful illustrations, young readers will love this new Rocket book, which they can read all by themselves! Step 1 Readers feature big type and easy words. Rhymes and rhythmic text paired with picture clues help children decode the story. Perfect for early readers of  Rocket the Brave  and  Drop it, Rocket!  and children who know the alphabet and are eager to begin reading"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "330 Lexile.",
+            "1.5 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rocket rivals",
+      "seriesTitle": [
+        "Makers make it work."
+      ],
+      "author": "Harkrader, Lisa",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635921182?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635921182?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635921182?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204473939,
+          "otherAuthors": [
+            "Lyon, Tammie, illustrator."
+          ],
+          "isbns": [
+            "9781635921182",
+            "163592118X",
+            "9781635921199",
+            "1635921198",
+            "9781635921205"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Kane Press",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Competition (Psychology) Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Competition (Psychology) Fiction.",
+            "Rockets (Aeronautics) Fiction.",
+            "Clubs Fiction.",
+            "Schools Fiction.",
+            "Clubs.",
+            "Competition (Psychology)",
+            "Rockets (Aeronautics)",
+            "Schools."
+          ],
+          "physicalDescription": [
+            "30 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Emma is excited about the new Rocket Club at school, until she is paired with Lily, whose projects are always bright and glittery, for the final launch."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grades K-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205837080,
+          "digitalId": "519E3A8A-D7D2-4490-8691-B5718A04FB69",
+          "otherAuthors": [
+            "Lyon, Tammie, illustrator."
+          ],
+          "isbns": [
+            "9781635927283"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Schools.",
+            "Rockets (Aeronautics)",
+            "Competition (Psychology)",
+            "Clubs.",
+            "Schools Fiction.",
+            "Clubs Fiction.",
+            "Rockets (Aeronautics) Fiction.",
+            "Competition (Psychology) Fiction.",
+            "Schools Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Competition (Psychology) Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Tying into the popular Makers Movement,  Makers Make it Work  is a series of fun easy-to-read stories that focus on problem-solving and hands-on action. With bright, eye-catching art and explanatory sidebars with additional information on the topic, these books show kids how to use their hands, their heads, their creativity, and their problem-solving skills to overcome every challenge facing them.     Rocket Club is Erin's kind of club. All rockets. No glitter. Then she's paired with Lily, the glitteriest girl in the grade. Will their rocket go bust? With the  Makers Make It Work  series, any kid can be a Maker! Each book also includes an activity for young makers to try themselves. (Topic: Rockets)"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rocket loves hide-and-seek!.",
+      "seriesTitle": [
+        "Step into Reading."
+      ],
+      "author": "Stephens, Elle",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593177907?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593177907?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593177907?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205289235,
+          "otherAuthors": [
+            "Hills, Tad, creator.",
+            "Mills, Grace, illustrator."
+          ],
+          "isbns": [
+            "9780593177907",
+            "0593177908",
+            "9780593177891",
+            "0593177894"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Rocket (Fictitious character from Hills) Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Owls Juvenile fiction.",
+            "Squirrels Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Rocket, Bella, and Owl play hide-and-seek, but Rocket gets found first every time, leading to hurt feelings, so Bella and Owl come up with a plan to make the game fun again."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300041129,
+          "otherAuthors": [
+            "Hills, Tad, creator.",
+            "Mills, Grace, illustrator."
+          ],
+          "isbns": [
+            "9780593177921",
+            "0593177924"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Schwartz & Wade Books",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Rocket (Fictitious character from Hills) Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Owls Juvenile fiction.",
+            "Squirrels Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 24 cm"
+          ],
+          "summary": [
+            "Rocket has fun playing hide-and-seek with his friends. That is, until it is his turn to hide."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205349799,
+          "digitalId": "C38B58F8-6B1C-48E3-AA66-140A4976A92E",
+          "otherAuthors": [
+            "Mills, Grace, illustrator."
+          ],
+          "isbns": [
+            "9780593177914"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Rocket (Fictitious character from Hills) Juvenile fiction.",
+            "Juvenile Fiction.",
+            "Friendship Juvenile fiction.",
+            "Hide-and-seek Juvenile fiction.",
+            "Squirrels Juvenile fiction.",
+            "Owls Juvenile fiction.",
+            "Dogs Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Kids are learning to read with Rocket! Rocket, the star of Tad Hills's    New York Times    bestselling picture books, returns in an all-new, easy-to-read book about a game of hide and seek that he just can't seem to win.   Rocket, Bella, and Owl are playing hide and seek! Game after game, Rocket gets found first, which makes for hurt feelings. Seeing as their friend is down, Bella and Owl come up with a plan to make the game fun again! With its simple words, lots of repetition, and bright, colorful illustrations, young readers will love this Rocket book about solving problems, which they can ready all by themselves!  Want more easy-to-read fun with Rocket? Don't miss    Rocket and the Perfect Pumpkin   !"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "280 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rockets and other space machines",
+      "seriesTitle": [
+        "Hello, world!"
+      ],
+      "author": "McDonald, Jill (Jill McDonald-Gomez)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593813546?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593813546?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593813546?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300130615,
+          "isbns": [
+            "9780593813546",
+            "0593813545"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Doubleday, an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Space vehicles Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"Blast off! Young astronauts can explore rockets, rovers, space shuttles, and more...\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300136442,
+          "digitalId": "538C594B-4B02-44B9-A57D-43AF9B199EAD",
+          "isbns": [
+            "9780593813553"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "History.",
+            "Science.",
+            "Technology.",
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Space vehicles Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Blast off! Young astronauts can explore rockets, rovers, space shuttles, and more in this nonfiction book from the bestselling series Hello, World! Preschoolers and toddlers can learn all about the wide world of spacecraft in this cheerful and informative book—with colorful art and super-simple facts. (\"A rocket flies by burning fuel and turning it into hot gas.\") Told in easy-to-understand terms alongside bright illustrations of space machines and vehicles, this book makes learning easy for little ones and offers useful prompts to help adults engage with the reader on each page. It's a perfect way to bring science into the busy world of babies, toddlers, and preschoolers, where learning never stops. Look for all the books in the Hello, World! series: Solar System • Weather • Backyard Bugs • Birds • Dinosaurs • My Body • How Do Apples Grow? • Ocean Life • Moon Landing • Pets • Arctic Animals • Construction Site • Rainforest Animals • Planet Earth • Reptiles • Cars and Trucks • Music • Baby Animals • On the Farm • Garden Time • Planes and Other Flying Machines • Rocks and Minerals • Snow • Let's Go Camping • School Day • Bedtime • From Seed to Pumpkin • Rockets and Other Space Machines • Baking"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "How rockets reach space",
+      "seriesTitle": [
+        "Engineering answers."
+      ],
+      "author": "Ringstad, Arnold",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781098295882?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781098295882?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781098295882?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095446,
+          "isbns": [
+            "9781098295882",
+            "1098295889"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Kids Core, an imprint of Abdo Publishing",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Astronautics Juvenile literature.",
+            "Outer space Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 26 cm."
+          ],
+          "summary": [
+            "\"Rockets blast off carrying astronauts, satellites, and science equipment. How Rockets Reach Space introduces the parts of a rocket and explores the forces rockets must overcome to leave Earth. Easy-to-read text, vivid images, and helpful back matter give readers a clear look at this subject. Features include a table of contents, infographics, a glossary, additional resources, and an index\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Rocket the brave!",
+      "seriesTitle": [
+        "Step into reading."
+      ],
+      "author": "Hills, Tad",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524773472?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524773472?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524773472?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203174951,
+          "isbns": [
+            "9781524773472",
+            "1524773476",
+            "9781524773489",
+            "1524773484"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Random House Children's Books",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Courage Juvenile fiction.",
+            "Butterflies Juvenile fiction.",
+            "Dogs Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "\"Rocket loves chasing butterflies, but when one flies into the dark forest, will Rocket follow?\"--Page [4] of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Preschool-Kindergarten"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204399832,
+          "digitalId": "2045ACB5-FE00-48C6-9B14-A5F7C2FEFB64",
+          "isbns": [
+            "9781524773496"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Dogs Juvenile fiction.",
+            "Butterflies Juvenile fiction.",
+            "Courage Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Kids are learning to read with Rocket! Tad Hills the #1    New York Times    bestselling author is back with another Level 1 Step into Reading story about the beloved dog Rocket, this time about overcoming fear and being brave.    Rocket, the star of the  New York Times  bestselling picture books  How Rocket Learned to Read  and  Rocket Writes a Story , returns in an all-new Step 1 Step into Reading leveled reader. Rocket is happily chasing a butterfly through the meadow when she disappears into the woods. As much as Rocket wants to follow the butterfly, the woods look dark and scary. Can Rocket overcome his fear? With predictable patterns, simple words, lots of repetition, and bright, colorful illustrations, young readers will love this new Rocket book, which they can read all by themselves! Step 1 Readers feature big type and easy words. Rhymes and rhythmic text paired with picture clues help children decode the story. Perfect for children who know the alphabet and are eager to begin reading."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 1",
+            "LG/Lower grades (K-3rd)",
+            "230 Lexile.",
+            "1.3 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Do you know rocket science?",
+      "seriesTitle": [
+        "Brainy science readers."
+      ],
+      "author": "Ferrie, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205939299,
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261560",
+            "1728261562",
+            "9781728261584"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Naperville, Illinois : Sourcebooks eXplore",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Rocketry Juvenile literature.",
+            "Rocketry."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Chris Ferrie has delighted children and families around the world with his unique take on science with his board book series. Now it's time for beginning readers to experience this information for themselves! From general relativity to quantum physics, from astrophysics to rocket science, Brainy Science will intrigue and teach young scientists a variety of subjects with simple, easy-to-read text. These beginning reader books include : easy vocabulary, short sentences, word repetition, simple content, and story correlation between art and text."
+          ],
+          "notes": [
+            "\"Be a STEM superstar!\"-- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-8.",
+            "Grades 2-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Do you know quantum physics?",
+      "seriesTitle": [
+        "Brainy science readers."
+      ],
+      "author": "Ferrie, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261539?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261539?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261539?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205939296,
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261539",
+            "1728261538",
+            "9781728261553"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Naperville, Illinois : Sourcebooks eXplore",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Quantum theory Juvenile literature.",
+            "Quantum theory."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Chris Ferrie has delighted children and families around the world with his unique take on science. And now it's time for beginning readers to learn this information for themselves! From general relativity to quantum physics, from astrophysics to rocket science and from robotics to climate change, BRAINY SCIENCE will intrigue and teach young scientists a variety of subjects with simple, easy-to-read text. These beginning reader books include:easy vocabulary short sentences word repetition simple content and stories correlation between art and text."
+          ],
+          "notes": [
+            "\"Be a STEM superstar!\"-- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-7.",
+            "Grades 2-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206054360,
+          "digitalId": "A470EAD7-587F-4829-9394-95CB955B6CA0",
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261539"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Quantum theory.",
+            "Quantum theory Juvenile literature.",
+            "Language Arts.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Make science fun with this new series from the #1 science author for kids!   This scientific book for beginning readers includes:  easy vocabulary  short sentences  simple content and stories  correlation between art and text  Chris Ferrie has delighted children and families around the world with his unique take on science in the bestselling Baby University series. And now it's time for beginning readers to learn this information for themselves! With simple, easy-to-read text, Brainy Science Readers: Do You Know Quantum Physics? will teach young scientists all about atoms, electrons, energy, and much more!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "350 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "American moonshot : John F. Kennedy and the great space race",
+      "author": "Brinkley, Douglas",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062660282?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062660282?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062660282?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205612518,
+          "variantTitles": [
+            "John F. Kennedy and the great space race"
+          ],
+          "otherAuthors": [
+            "Conkling, Winifred, author."
+          ],
+          "isbns": [
+            "9780062660282",
+            "0062660284",
+            "1982625120",
+            "9781982625122"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Young readers' edition.",
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Harper, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Kennedy, John F. (John Fitzgerald), 1917-1963 Influence Juvenile literature.",
+            "Kennedy, John F. (John Fitzgerald), 1917-1963.",
+            "United States. National Aeronautics and Space Administration History 20th century Juvenile literature.",
+            "United States. National Aeronautics and Space Administration.",
+            "1900-1999",
+            "Astronautics United States History 20th century Juvenile literature.",
+            "Space race United States Juvenile literature.",
+            "Space flight to the moon History 20th century Juvenile literature.",
+            "Astronautics and state United States Juvenile literature.",
+            "Astronautics.",
+            "Astronautics and state.",
+            "Influence (Literary, artistic, etc.)",
+            "Space flight to the moon.",
+            "Space race.",
+            "Moon Exploration Government policy United States Juvenile literature.",
+            "Moon.",
+            "United States."
+          ],
+          "physicalDescription": [
+            "260 pages, 8 unnumbered pages of plates : illustrations (some color) ; 22 cm"
+          ],
+          "summary": [
+            "July 20, 1969. It's a day that has earned a spot in history. It's the day that America was the first nation to succeed in sending two astronauts--Buzz Aldrin and Neil Armstrong--to the moon. But what led to this unforgettable event? What were the stakes riding on the Apollo 11's safe landing? In acclaimed author Douglas Brinkley's first young readers' edition, space fans will get the riveting and factual backstory of arguably the most significant achievement of the 20th century."
+          ],
+          "contents": [
+            "Rockets -- Generation Sputnik -- Moonbound -- Projects Gemini and Apollo."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "008-012."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203877859,
+          "isbns": [
+            "9780062655066",
+            "006265506X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Harper, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Kennedy, John F. (John Fitzgerald), 1917-1963 Influence.",
+            "United States. National Aeronautics and Space Administration History 20th century.",
+            "Space flight to the moon History 20th century.",
+            "Space race United States.",
+            "Astronautics and state United States.",
+            "Manned space flight History 20th century.",
+            "Astronautics Political aspects United States History 20th century.",
+            "Moon Exploration Government policy United States."
+          ],
+          "physicalDescription": [
+            "xxv, 548  pages, 16 unnumbered pages of plates : illustrations (some color), portraits (some color) ; 24 cm"
+          ],
+          "summary": [
+            "On May 25, 1961, JFK made an astonishing announcement: his goal of putting a man on the moon by the end of the decade. Douglas Brinkley brings together the extraordinary political, cultural, and scientific factors that fueled the birth and development of NASA and the Mercury, Gemini, and Apollo projects, which shot the United States to victory in the space race against the Soviet Union at the height of the Cold War. Drawing on new primary source material and major interviews with many of the surviving figures who were key to America's success, American Moonshot is a portrait of the brilliant men and women who made this giant leap possible, the technology that enabled us to propel men beyond earth's orbit to the moon and return them safely, and the geopolitical tensions that spurred Kennedy to commit himself fully to this audacious dream. Brinkley's ensemble cast of New Frontier characters include rocketeer Wernher von Braun, astronaut John Glenn, and space booster Lyndon Johnson. A chronicle of one of the most thrilling, hopeful, and turbulent eras in the nation's history, American Moonshot is an homage to scientific ingenuity, human curiosity, and the boundless American spirit."
+          ],
+          "contents": [
+            "Preface: Kennedy's new ocean -- Rockets. Dr. Robert Goddard meets Buck Rogers ; Kennedy, von Braun, and the crucible of World War II ; Surviving a savage war ; Who's afraid of the V-2? -- Generation Sputnik. Spooked into the space race ; Sputnik revolution ; Missile gaps and the creation of NASA ; Mercury Seven to the rescue ; Kennedy for President -- Moonbound. Skyward with James Webb ; Yuri Gagarin and Alan Shepard ; \"\"Going to the moon\": Washington, DC, May 25, 1961 ; Searching for moonlight in Tulsa and Vienna ; Moon momentum with television and Gus Grissom ; Godspeed, John Glenn ; Scott Carpenter, Telstar, and presidential space touring -- Projects Gemini and Apollo. \"We choose to go to the moon\": Rice University, September 12, 1962 ; Gemini Nine and Wally Schirra ; State of space exploration ; \"The space effort must go on\" ; Cape Kennedy -- Epilogue: The triumph of Apollo 11."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203996831,
+          "digitalId": "DB41B860-133C-4ACE-9E71-EBF4408E4FE5",
+          "otherAuthors": [
+            "Conkling, Winifred, author."
+          ],
+          "isbns": [
+            "9780062655080"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Kennedy, John F. (John Fitzgerald), 1917-1963 Influence.",
+            "Kennedy, John F. (John Fitzgerald), 1917-1963.",
+            "Kennedy, John F. (John Fitzgerald), 1917-1963 Influence Juvenile literature.",
+            "United States. National Aeronautics and Space Administration History 20th century.",
+            "United States. National Aeronautics and Space Administration.",
+            "United States. National Aeronautics and Space Administration History 20th century Juvenile literature.",
+            "Nonfiction.",
+            "Space race.",
+            "Space flight to the moon.",
+            "Influence (Literary, artistic, etc.)",
+            "Astronautics and state.",
+            "Astronautics.",
+            "Astronautics and state United States Juvenile literature.",
+            "Space flight to the moon History 20th century Juvenile literature.",
+            "Space race United States Juvenile literature.",
+            "Astronautics United States History 20th century Juvenile literature.",
+            "Astronautics Political aspects United States History 20th century.",
+            "Manned space flight History 20th century.",
+            "Astronautics and state United States.",
+            "Space race United States.",
+            "Space flight to the moon History 20th century.",
+            "Biography & Autobiography.",
+            "History.",
+            "Moon Exploration Government policy United States.",
+            "United States.",
+            "Moon.",
+            "Moon Exploration Government policy United States Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Instant New York Times BestsellerAs the fiftieth anniversary of the first lunar landing approaches, the award winning historian and perennial New York Times bestselling author takes a fresh look at the space program, President John F. Kennedy's inspiring challenge, and America's race to the moon.\"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win.\"-President John F. KennedyOn May 25, 1961, JFK made an astonishing announcement: his goal of putting a man on the moon by the end of the decade. In this engrossing, fast-paced epic, Douglas Brinkley returns to the 1960s to recreate one of the most exciting and ambitious achievements in the history of humankind. American Moonshot brings together the extraordinary political, cultural, and scientific factors that fueled the birth and development of NASA and the Mercury, Gemini and Apollo projects, which shot the United States to victory in the space race against the Soviet Union at the height of the Cold War. Drawing on new primary source material and major interviews with many of the surviving figures who were key to America's success, Brinkley brings this fascinating history to life as never before. American Moonshot is a portrait of the brilliant men and women who made this giant leap possible, the technology that enabled us to propel men beyond earth's orbit to the moon and return them safely, and the geopolitical tensions that spurred Kennedy to commit himself fully to this audacious dream. Brinkley's ensemble cast of New Frontier characters include rocketeer Wernher von Braun, astronaut John Glenn and space booster Lyndon Johnson.A vivid and enthralling chronicle of one of the most thrilling, hopeful, and turbulent eras in the nation's history, American Moonshot is an homage to scientific ingenuity, human curiosity, and the boundless American spirit."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300159517,
+          "digitalId": "242E0157-4C9A-42B5-ACF0-F6FF2F1A5345",
+          "otherAuthors": [
+            "Graybill, Stephen, narrator."
+          ],
+          "isbns": [
+            "9780062865878"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Kennedy, John F. (John Fitzgerald), 1917-1963 Influence.",
+            "United States. National Aeronautics and Space Administration History 20th century.",
+            "Nonfiction.",
+            "Biography & Autobiography.",
+            "History.",
+            "Astronautics United States History 20th century.",
+            "Space race United States.",
+            "Space flight to the moon History 20th century.",
+            "Astronautics and state United States."
+          ],
+          "physicalDescription": [
+            "1 online resource (18 audio files) : digital"
+          ],
+          "summary": [
+            "2020 Audie Awards® WINNER - History/Biography As the fiftieth anniversary of the first lunar landing approaches, the award winning historian and perennial New York Times bestselling author takes a fresh look at the space program, President John F. Kennedy's inspiring challenge, and America's race to the moon. \"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win.\"—President John F. Kennedy On May 25, 1961, JFK made an astonishing announcement: his goal of putting a man on the moon by the end of the decade. In this engrossing, fast-paced epic, Douglas Brinkley returns to the 1960s to recreate one of the most exciting and ambitious achievements in the history of humankind. American Moonshot brings together the extraordinary political, cultural, and scientific factors that fueled the birth and development of NASA and the Mercury, Gemini and Apollo projects, which shot the United States to victory in the space race against the Soviet Union at the height of the Cold War. Drawing on new primary source material and major interviews with many of the surviving figures who were key to America's success, Brinkley brings this fascinating history to life as never before. American Moonshot is a portrait of the brilliant men and women who made this giant leap possible, the technology that enabled us to propel men beyond earth's orbit to the moon and return them safely, and the geopolitical tensions that spurred Kennedy to commit himself fully to this audacious dream. Brinkley's ensemble cast of New Frontier characters include rocketeer Wernher von Braun, astronaut John Glenn and space booster Lyndon Johnson. A vivid and enthralling chronicle of one of the most thrilling, hopeful, and turbulent eras in the nation's history, American Moonshot is an homage to scientific ingenuity, human curiosity, and the boundless American spirit."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Stephen Graybill."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Soccer",
+      "seriesTitle": [
+        "Hello, world!"
+      ],
+      "author": "McDonald, Jill (Jill McDonald-Gomez)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593518977?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593518977?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593518977?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300192440,
+          "isbns": [
+            "9780593518977",
+            "0593518977"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Doubleday Books for Young Readers",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Soccer Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Cheer for the 2026 World Cup--hosted in the US, Canada, and Mexico--with a board book that teaches the littlest readers about soccer. From Hello, World!, a bestselling nonfiction series for babies, toddlers, and preschoolers. Kids can learn all about the popular sport of soccer in this cheerful and informative board book--with colors, shapes, sizes, and super-simple facts. Told in easy-to-understand terms alongside bright illustrations of soccer positions, moves, equipment, and gameplay, this sturdy book makes learning easy for little ones and offers useful prompts to help adults engage with the reader on each page.\" -- Provided by publisher."
+          ],
+          "notes": [
+            "On board pages.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "0-3 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300192122,
+          "digitalId": "CFA4CAC1-28B8-4628-B4E6-41EA86B2FE51",
+          "variantTitles": [
+            "Hello, world! soccer"
+          ],
+          "isbns": [
+            "9780593518984"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Health & Fitness.",
+            "Sports & Recreations.",
+            "Soccer Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Cheer for the 2026 World Cup-hosted in the US, Canada, and Mexico-with a book that teaches the littlest readers about soccer. From Hello, World!, a bestselling nonfiction series for babies, toddlers, and preschoolers. Kids can learn all about the popular sport of soccer in this cheerful and informative book-with colors, shapes, sizes, and super-simple facts. (\"The forwards play closest to the other team's net.\") Told in easy-to-understand terms alongside bright illustrations of soccer positions, moves, equipment, and gameplay, this book makes learning easy for little ones and offers useful prompts to help adults engage with the reader on each page. It's a perfect way to share your love of soccer with your little ones while watching the game together. Look for all the books in the Hello, World! series: Solar System • Weather • Backyard Bugs • Birds • Dinosaurs • My Body • How Do Apples Grow? • Ocean Life • Moon Landing • Pets • Arctic Animals • Construction Site • Rainforest Animals • Planet Earth • Reptiles • Cars and Trucks • Music • Baby Animals • On the Farm • Garden Time • Planes and Other Flying Machines • Rocks and Minerals • Snow • Let's Go Camping • School Day • Bedtime • From Seed to Pumpkin • Rockets and Other Space Machines • Baking • Soccer • USA"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Pug blasts off",
+      "seriesTitle": [
+        "Branches (Scholastic Inc.)"
+      ],
+      "author": "May, Kyla",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338530032?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338530032?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338530032?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204006864,
+          "isbns": [
+            "9781338530032",
+            "1338530038",
+            "9781338530049",
+            "1338530046",
+            "9781338500349",
+            "1338500341"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Branches/Scholastic Inc.",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Pug Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Squirrels Juvenile fiction.",
+            "Diaries Juvenile fiction.",
+            "Humorous stories."
+          ],
+          "physicalDescription": [
+            "72 pages : color illustrations ; 20 cm."
+          ],
+          "summary": [
+            "Baron von Bubbles (Bub) is a pug who wants nothing more than to help his human Bella in her craft projects for school, though he is a little apprehensive about the rocket she is making for the Inventor Challenge--so when he ruins the rocket while trying to get at Nutz the squirrel he needs to find a way to make it up to Bella."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204048416,
+          "digitalId": "C238AAFF-EF7C-4E72-B1F0-6D56D48D2B18",
+          "isbns": [
+            "9781338530056"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humorous stories.",
+            "Diaries Juvenile fiction.",
+            "Squirrels Juvenile fiction.",
+            "Inventions Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Pug Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Pick a book. Grow a Reader! This series is part of Scholastic's early chapter book line, Branches, aimed at newly independent readers. With easy-to-read text, high-interest content, fast-paced plots, and illustrations on every page, these books will boost reading confidence and stamina. Branches books help readers grow! Baron von Bubbles, aka \"Bub,\" is the self-proclaimed cutest pug on the planet! Things he loves: fashion, peanut butter, and his human, Bella. Things he does NOT love: Nutz the squirrel, baths, and the rain. When Bella enters the Spirit of the Inventor Challenge, Bub helps her craft the best project ever. But what happens when Nutz gets on Bub's nerves and makes him ruin Bella's project? If Bub wants to make it up to his girl, he'll have to stand up to Nutz - and the rain - once and for all. With four-color artwork throughout, this funny and charming diary-format chapter book is perfect for anyone who believes a furry pal is the best kind of friend."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "2.9 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "I am curious!",
+      "seriesTitle": [
+        "Acorn (Scholastic Inc.)"
+      ],
+      "author": "Greenawalt, Kelly",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813507371?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813507371?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813507371?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300162617,
+          "otherAuthors": [
+            "Rauscher, Amariah, illustrator."
+          ],
+          "isbns": [
+            "9789813507371",
+            "9813507373",
+            "9789813507494 (set)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Scholastic Singapore",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Princesses Juvenile fiction.",
+            "African Americans Juvenile fiction.",
+            "African American girls Juvenile fiction.",
+            "Curiosity Juvenile fiction.",
+            "Siblings Juvenile fiction.",
+            "Science museums Juvenile fiction.",
+            "Outer space Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 18 cm."
+          ],
+          "notes": [
+            "\"Acorn.\"",
+            "\"This edition is for distribution in China only and not authorized to be distributed outside of China\"--Colophon.",
+            "\"Learn on-the-go! Play audio on Scholastic Buddy+ now\"--Back cover."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206036666,
+          "otherAuthors": [
+            "Rauscher, Amariah, illustrator."
+          ],
+          "isbns": [
+            "9781338818857",
+            "1338818856",
+            "9781338818864",
+            "1338818864"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Acorn/Scholastic Inc."
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Princesses Juvenile fiction.",
+            "African American girls Juvenile fiction.",
+            "African Americans Juvenile fiction.",
+            "Curiosity Juvenile fiction.",
+            "Siblings Juvenile fiction.",
+            "Science museums Juvenile fiction.",
+            "Outer space Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 19 cm."
+          ],
+          "summary": [
+            "In rhyming text, Princess Truly visits the science museum with her brother, solves the mystery of her missing snack, and uses her magic curls to take a trip to outer space with her pug, Sir Noodles."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206169987,
+          "digitalId": "52845E98-F044-4B0C-A425-B9AC88344AFF",
+          "otherAuthors": [
+            "Rauscher, Amariah, illustrator."
+          ],
+          "isbns": [
+            "9781338818871 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Princesses Juvenile fiction.",
+            "Outer space Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Princess Truly is curious to learn about the world around her, in these rhyming stories perfect for beginning readers!    Pick a book. Grow a Reader!  This series is part of Scholastic's early reader line, Acorn, aimed at children who are learning to read. With easy-to-read text, a short-story format, plenty of humor, and full-color artwork on every page, these books will boost reading confidence and fluency. Acorn books plant a love of reading and help readers grow!  Princess Truly is very curious! In these three rhyming stories, Princess Truly visits a museum and learns about dinosaurs and butterflies, she solves a mystery when her snack goes missing, and she takes a trip to outer space in a rocket ship with her pug, Sir Noodles.  These funny and empowering short stories promote believing in yourself, building confidence, and having a positive self-image. Perfect for the fans of  Ada Twist , this series fosters imagination and curiosity. With full-color artwork and easy-to-read rhyming text throughout,  Princess Truly  is just-right for new readers!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "400 Lexile.",
+            "1.9 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "I am a super girl!",
+      "seriesTitle": [
+        "Princess Truly."
+      ],
+      "author": "Greenawalt, Kelly",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813507135?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813507135?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789813507135?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300162623,
+          "otherAuthors": [
+            "Rauscher, Amariah, illustrator."
+          ],
+          "isbns": [
+            "9789813507135",
+            "9813507136",
+            "9789813507494 (set)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Scholastic Singapore",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Princesses Juvenile fiction.",
+            "African Americans Juvenile fiction.",
+            "African American girls Juvenile fiction.",
+            "Superheroes Juvenile fiction.",
+            "Birthday parties Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "44 pages : colour illustrations ; 18 cm."
+          ],
+          "notes": [
+            "\"Acorn.\"",
+            "\"This edition is for distribution in China only and not authorized to be distributed outside of China\"--Colophon.",
+            "\"Learn on-the-go! Play audio on Scholastic Buddy+ now\"--Back cover."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204002633,
+          "otherAuthors": [
+            "Rauscher, Amariah, illustrator."
+          ],
+          "isbns": [
+            "9781338339987",
+            "1338339982",
+            "9781338339994",
+            "1338339990"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Acorn/Scholastic Inc."
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Princesses Juvenile fiction.",
+            "Superheroes Juvenile fiction.",
+            "Birthday parties Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Stories in rhyme."
+          ],
+          "physicalDescription": [
+            "44 pages : color illustrations ; 18 cm."
+          ],
+          "summary": [
+            "In rhyming text Princess Truly, super girl, uses her super powers to help her friend Lizzie celebrate her cat's first birthday, and when things go a little wrong, she gives Lizzie the confidence to believe that she too is a super girl."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-7."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204423884,
+          "digitalId": "B3C7CE3D-18CB-4204-A9C7-7F08C1D47A4E",
+          "otherAuthors": [
+            "Rauscher, Amariah, illustrator."
+          ],
+          "isbns": [
+            "9781338340006"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Stories in rhyme.",
+            "Friendship Juvenile fiction.",
+            "Birthday parties Juvenile fiction.",
+            "Superheroes Juvenile fiction.",
+            "Princesses Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Pick a book. Grow a Reader!    This series is part of Scholastic's early reader line, Acorn, aimed at children who are learning to read. With easy-to-read text, a short-story format, plenty of humor, and full-color artwork on every page, these books will boost reading confidence and fluency. Acorn books plant a love of reading and help readers grow!    Meet Princess Truly! With the help of her rocket boots and her magical, sparkly curls, she becomes a  super girl  and uses her smarts and strength to save the day. But when her friend Lizzie has a rescue mission of her own, Lizzie doesn't feel so super. Can Truly help her friend believe in herself and find her confidence? These rhyming, funny, and empowering stories with full-color artwork and easy-to-read text throughout are perfect for new readers!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "430 Lexile.",
+            "2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Fantastic Superman crafts and projects",
+      "seriesTitle": [
+        "DC super heroes crafts and projects."
+      ],
+      "author": "Halvorsen, Layne",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798875216008?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798875216008?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798875216008?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300151861,
+          "otherAuthors": [
+            "Rusick, Jessica, author."
+          ],
+          "isbns": [
+            "9798875216008"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "North Mankato, Minnesota : Capstone Press",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Superman (Fictitious character) Juvenile literature.",
+            "Handicraft Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 26 cm."
+          ],
+          "summary": [
+            "\"Calling all Super Heroes! Unleash your crafting powers to bring the world of Superman to life! Grow a colorful crystal to create your own Fortress of Solitude. Stir up an energizing snack mix in Superman's colors. Fashion a fuzzy mini Krypto the Superdog to bring on crime-fighting escapades. And more! Clear step-by-step instructions and vibrant photos guide readers through a variety of exciting projects, making it easy for Man of Steel fans of all skill levels to soar into a creative crafting adventure\"--Provided by publisher."
+          ],
+          "contents": [
+            "Super hero symbol sketch -- Mini Krypto the super-dog -- Super splatter art -- Supergirl's stomp rocket -- S-shield suncatcher -- Fortress of solitude crystal -- Streaky's paw print cookies -- Wham! Bam! Pow! Pins -- Daily planet reporter bag -- Galaxy soap -- Justice snack mix -- Super suit reveal shirt."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Super Rabbit Boy blasts off!",
+      "seriesTitle": [
+        "Press Start!."
+      ],
+      "author": "Flintham, Thomas",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338239706?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338239706?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781338239706?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203194716,
+          "isbns": [
+            "9781338239706",
+            "1338239708",
+            "9781338239621",
+            "1338239627"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Branches/Scholastic Inc.",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Superheroes Juvenile fiction.",
+            "Supervillains Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Space ships Juvenile fiction.",
+            "Video games Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "72 pages : chiefly color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"King Viking decides to find another planet where he can carry out his evil plans without interference, and everyone in Animal Town is delighted; then an alien appeals to Super Rabbit Boy for help and he blasts off to once again confront his enemy--but his level one rocket may not be up to the task.\" --(Source of summary not specified)"
+          ],
+          "notes": [
+            "Paperback edition with ISBN 9781805131243 published by Nosy Crow, 2024."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204423991,
+          "digitalId": "D04E8A3E-AF1E-467A-8B0E-86BEB839B51B",
+          "isbns": [
+            "9781338239768"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Video games Juvenile fiction.",
+            "Space ships Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Supervillains Juvenile fiction.",
+            "Superheroes Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Pick a book. Grow a Reader! This series is part of Scholastic's early chapter book line, Branches, aimed at newly independent readers. With easy-to-read text, high-interest content, fast-paced plots, and illustrations on every page, these books will boost reading confidence and stamina. Branches books help readers grow! Help! Meanie King Viking is causing trouble in space! Super Rabbit Boy knows he can stop him. But can he fly a wobbly Level 1 rocketship, stop an army of space robots, and find King Viking? This latest  Press Start!  adventure is simply  out of this world ! With full-color art by Thomas Flintham!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty K - Text Difficulty 2",
+            "LG/Lower grades (K-3rd)",
+            "510 Lexile.",
+            "2.6 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "USA",
+      "seriesTitle": [
+        "Hello, World!"
+      ],
+      "author": "McDonald, Jill (Jill McDonald-Gomez)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217223145?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217223145?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217223145?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300203234,
+          "variantTitles": [
+            "United States of America"
+          ],
+          "isbns": [
+            "9798217223145",
+            "9798217223152"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Doubleday Book for Young Readers , an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "[2026]",
+          "subjects": [
+            "Board books.",
+            "United States Juvenile literature"
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"Kids can learn all about the USA in this cheerful and informative board book--with super-simple facts about the history, geography, and government of our country.\"-- Publisher description."
+          ],
+          "notes": [
+            "Cover title.",
+            "Statement of responsibility from back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300191278,
+          "digitalId": "D8CE4ED8-83CD-4C93-9569-E5D00DA501CD",
+          "variantTitles": [
+            "Hello, world! USA"
+          ],
+          "isbns": [
+            "9798217223152"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Geography.",
+            "History.",
+            "Reference.",
+            "United States Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Celebrate America's 250th birthday with a book to teach the littlest readers about the United States and its origins. From Hello, World!, a bestselling nonfiction series for babies, toddlers, and preschoolers. Kids can learn all about the USA in this cheerful and informative book-with super-simple facts about the history, geography, and government of our country. (\"The president's house is called the White House.\") Told in easy-to-understand terms alongside bright illustrations of the flag, the Declaration of Independence, the Constitution, voting day, a US map, and a landscape of mountains, deserts, prairies, forests, and oceans, this book makes learning easy for little ones and offers useful prompts to help adults engage with the reader on each page. It's a perfect way to share America's past and present with your little ones during this important 250th anniversary year. Look for all the books in the Hello, World! series: Solar System • Weather • Backyard Bugs • Birds • Dinosaurs • My Body • How Do Apples Grow? • Ocean Life • Moon Landing • Pets • Arctic Animals • Construction Site • Rainforest Animals • Planet Earth • Reptiles • Cars and Trucks • Music • Baby Animals • On the Farm • Garden Time • Planes and Other Flying Machines • Rocks and Minerals • Snow • Let's Go Camping • School Day • Bedtime • From Seed to Pumpkin • Rockets and Other Space Machines • Baking • Soccer • USA"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Design and build it to play",
+      "seriesTitle": [
+        "Discovery library jr."
+      ],
+      "author": "Bethea, Nikole Brooks",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638523?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638523?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638523?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205599556,
+          "isbns": [
+            "1731638523",
+            "9781731638526",
+            "1731639295",
+            "9781731639295"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Vero Beach, FL] : Rourke Educational Media",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Engineering Juvenile literature.",
+            "Engineering"
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "People love to play! From zooming down roller coasters to riding bikes, we like to be in motion. In My Engineering Library: Design and Build It to Play, you'll learn about how engineers use science to increase safety and fun for roller coasters, zip lines, helmets, and more. The My Engineering Library series provides an introduction to a variety of engineering and design topics for beginning readers based on the Next Generation Science Standards (NGSS). From learning about how engineers design rockets to how they build structures underwater, these informative books present complicated information in easy-to-understand language with kid-friendly examples and diagrams. Each book includes an activity to support further comprehension."
+          ],
+          "contents": [
+            "The problem of motion -- The problem of friction -- The problem of safety -- Photo glossary -- Engineering design activity -- Index -- After reading activity -- About the author."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Design and build it to go",
+      "seriesTitle": [
+        "My engineering library."
+      ],
+      "author": "Bethea, Nikole Brooks",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638507?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638507?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638507?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205599053,
+          "isbns": [
+            "1731638507",
+            "9781731638502"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Vero Beach, FL] : Rourke Educational Media",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Engineering Juvenile literature.",
+            "Transportation engineering Juvenile literature.",
+            "Mechanical engineering Juvenile literature.",
+            "Vehicles Design and construction Juvenile literature.",
+            "Mechanical engineering",
+            "Vehicles Design and construction",
+            "Transportation engineering",
+            "Engineering"
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "From down on the ground to way up in the sky, we like to be on the go! But what makes cars drive and airplanes fly? In My Engineering Library: Design and Build It to Go, you'll learn about what engineers think about to build vehicles that go. The My Engineering Library series provides an introduction to a variety of engineering and design topics for beginning readers based on the Next Generation Science Standards (NGSS). From learning about how engineers design rockets to how they build structures underwater, these informative books present complicated information in easy-to-understand language with kid-friendly examples and diagrams. Each book includes an activity to support further comprehension."
+          ],
+          "contents": [
+            "The problem of air -- The problem of gravity -- The problem of pollution -- Photo glossary -- Engineering design activity -- Index -- After reading activity -- About the author."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Design and build it higher",
+      "seriesTitle": [
+        "My engineering library."
+      ],
+      "author": "Bethea, Nikole Brooks",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638485?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638485?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1731638485?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205599565,
+          "isbns": [
+            "1731638485",
+            "9781731638489",
+            "9781731639257",
+            "1731639252"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Vero Beach, FL] : Rourke Educational Media",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Engineering Juvenile literature.",
+            "Earthquake resistant design Juvenile literature.",
+            "Tall buildings Juvenile literature.",
+            "Wind resistant design Juvenile literature.",
+            "Tall buildings",
+            "Wind resistant design",
+            "Earthquake resistant design",
+            "Engineering"
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "Look up! Structures stretch high into the sky. But what happens during strong winds or earthquakes? In My Engineering Library: Design and Build It Higher, you'll learn about the methods engineers use to prevent tall structures from failing. The My Engineering Library series provides an introduction to a variety of engineering and design topics for beginning readers based on the Next Generation Science Standards (NGSS). From learning about how engineers design rockets to how they build structures underwater, these informative books present complicated information in easy-to-understand language with kid-friendly examples and diagrams. Each book includes a photo glossary, an engineering design activity, and an after reading activity to support further comprehension."
+          ],
+          "contents": [
+            "The problem of wind -- The problem of weight -- The problem of earthquakes -- Photo glossary -- Engineering design activity -- Index -- After reading activity -- About the author."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 22
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 8
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 1
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 20
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 17
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 16
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 16
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 16
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 15
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 15
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 15
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 14
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 14
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 14
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 13
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 13
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 13
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 13
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 12
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 11
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 11
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 10
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 9
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 3
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 2
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 22
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 35
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

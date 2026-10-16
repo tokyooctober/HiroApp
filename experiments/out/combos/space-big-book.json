@@ -1,0 +1,1688 @@
+{
+  "totalRecords": 294,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Little kids first big book of space",
+      "seriesTitle": [
+        "National Geographic kids."
+      ],
+      "author": "Hughes, Catherine D",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825300?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825300?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825300?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300194955,
+          "variantTitles": [
+            "First big book of space"
+          ],
+          "otherAuthors": [
+            "Aguilar, David A., illustrator."
+          ],
+          "isbns": [
+            "9780008825300",
+            "0008825300"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Glasgow : Collins"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Astronomy Juvenile literature.",
+            "Outer space Juvenile literature.",
+            "Outer space"
+          ],
+          "physicalDescription": [
+            "127 pages : colour illustrations ; 26 cm."
+          ],
+          "summary": [
+            "\"Learn about planets, dwarf planets, the sun, moon, faraway galaxies and more, and launch into a lifetime of space exploration\"--Amazon."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The big book of knowledge",
+      "author": "Philip, Claire",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398833470?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398833470?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398833470?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300083041,
+          "otherAuthors": [
+            "Cheeseman, Polly, author.",
+            "Claude, Jean, illustrator."
+          ],
+          "isbns": [
+            "9781398833470",
+            "1398833479"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Arcturus Publishing Limited"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Curiosities and wonders Juvenile literature.",
+            "Animals Juvenile literature.",
+            "Earth sciences Juvenile literature.",
+            "Ocean Juvenile literature.",
+            "Outer space Juvenile literature."
+          ],
+          "physicalDescription": [
+            "256 pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"From the animal kingdom to outer space, this beautiful hardback guide invites children to ask big questions about and think big thoughts. Readers can find out what makes a bicycle go, why it rains, how dolphins communicate, and much more, covering essential topics from science, mathematics, geography and ecology\"--Amazon."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Find out about wild animals, space, the oceans, planet Earth, and more!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Big book of things to know",
+      "author": "Hull, Sarah (Usborne children's author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781805074113?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781805074113?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781805074113?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300001686,
+          "otherAuthors": [
+            "Cowan, Laura (Children's author), author.",
+            "Maclaine, James, author.",
+            "Rumiz, Susanna, illustrator.",
+            "Gonzalez, Alyssa M., illustrator.",
+            "Búzio, Carolina, illustrator.",
+            "Boston, Paul (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781805074113",
+            "1805074113"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing Limited"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Human anatomy Juvenile literature.",
+            "Human physiology Juvenile literature.",
+            "Space Juvenile literature.",
+            "Animals Juvenile literature.",
+            "Dinosaurs Juvenile literature."
+          ],
+          "physicalDescription": [
+            "256 pages : colour illustrations ; 26 cm"
+          ],
+          "summary": [
+            "\"Open this book to find incredible facts about your body, to explore the wonders of the animal world, to set off on a journey into space and to walk with the dinosaurs. You'll be amazed by what you'll discover\" -- Publisher's description."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "巨型航天器 | Ju xing hang tian qi",
+      "seriesTitle": [
+        "大块头科普图画书. | Da kuai tou ke pu tu hua shu."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787544868914?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787544868914?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787544868914?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205456680,
+          "variantTitles": [
+            "Original title: Big book of rockets and spacecraft"
+          ],
+          "otherAuthors": [
+            "Ji, Yuanyuan, translator.",
+            "Usborne Publishing Ltd., editor, author."
+          ],
+          "nativeOtherAuthors": [
+            "纪园园, translator.",
+            "英国尤斯伯恩出版公司, editor, author."
+          ],
+          "isbns": [
+            "9787544868914",
+            "7544868915"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Nanning Shi : Jie li chu ban she"
+          ],
+          "nativePublisher": [
+            "南宁市 : 接力出版社"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Space vehicles Juvenile literature.",
+            "Astronautics Juvenile literature.",
+            "Rockets (Aeronautics) Juvenile literature."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 30 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The big book of planes.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241461815?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241461815?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241461815?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204520048,
+          "variantTitles": [
+            "Subtitle on cover: Discover the biggest, fastest and best flying machines"
+          ],
+          "isbns": [
+            "9780241461815",
+            "0241461812"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Revised edition."
+          ],
+          "publisher": [
+            "London : Dorling Kindersley"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Airplanes Juvenile literature.",
+            "Airplanes, Military Juvenile literature.",
+            "Helicopters Juvenile literature.",
+            "Space vehicles Juvenile literature.",
+            "Airplanes.",
+            "Airplanes, Military.",
+            "Helicopters.",
+            "Space vehicles."
+          ],
+          "physicalDescription": [
+            "48 pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "The big book of planes is a colourful compendium of spectacular flying machines that will entertain and inform young readers for hours. Find out how big a jumbo jet is, how fast a fighter plane can go, and much more. Featuring fabulous images of all sorts of flying machines and packed with fun facts, The big book of planes is the ultimate first aircraft book."
+          ],
+          "contents": [
+            "The first aeroplane -- Gee Bee -- Experimental planes -- Jumbo jet -- Biplane -- Agricultural aeroplane -- Kit aeroplane -- Stunt planes -- Flying laboratory -- Spitfire -- Microlight -- Concorde -- Blackbird -- Jump jet -- Solar Impulse -- Chinook helicopter -- Flying at sea -- F-16 -- Seaplane -- Stealth fighter -- Space flight -- Record breakers."
+          ],
+          "notes": [
+            "Includes index.",
+            "First published in Great Britain in 2004."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The Usborne big book of big stars and planets",
+      "author": "Bone, Emily",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836040200?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836040200?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836040200?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300154572,
+          "variantTitles": [
+            "Big book of big stars and planets"
+          ],
+          "otherAuthors": [
+            "Fiorin, Fabiano, illustrator."
+          ],
+          "isbns": [
+            "9781836040200",
+            "1836040202"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing Limited",
+            ""
+          ],
+          "publishDate": "[2025?]",
+          "subjects": [
+            "Planets Juvenile literature.",
+            "Stars Juvenile literature."
+          ],
+          "physicalDescription": [
+            "20 unnumbered pages (some folded) : colour illustrations ; 30 cm"
+          ],
+          "summary": [
+            "\"Children can explore the wonders of space in this incredible picture book with giant fold-out pages full of fascinating facts. From the Sun and the planets in the solar system to MASSIVE stars and VAST galaxies and lots, lots more. Ideal for helping kids learn to identify and name all the planets and many moons and stars as well. There's a whole universe to discover\"--Amazon."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Little kids first big book of science",
+      "seriesTitle": [
+        "National geographic little kids."
+      ],
+      "author": "Zoehfeld, Kathleen Weidner",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825164?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825164?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008825164?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300193621,
+          "variantTitles": [
+            "Science"
+          ],
+          "isbns": [
+            "9780008825164",
+            "0008825165"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Collins",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Science Methodology Pictorial works Juvenile literature.",
+            "Science Miscellanea Pictorial works Juvenile literature.",
+            "Science Methodology",
+            "Science"
+          ],
+          "physicalDescription": [
+            "127 pages : illustrations (colour) ; 27 cm"
+          ],
+          "summary": [
+            "\"Fun activities, games, and simple experiments encourage interactive learning, showing kids that anyone can use scientific observation and experimentation to be a scientist and discover new things.\"-- Amazon.com."
+          ],
+          "notes": [
+            "Originally published: 2019."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205622953,
+          "variantTitles": [
+            "National Geographic little kids first big book of science",
+            "First big book of science"
+          ],
+          "otherAuthors": [
+            "National Geographic Kids (Firm), publisher.",
+            "National Geographic Society (U.S.)"
+          ],
+          "isbns": [
+            "9781426333187",
+            "1426333188",
+            "9781426333200"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Washington, DC : National Geographic Kids"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Science Miscellanea Juvenile literature.",
+            "Science Methodology Juvenile literature.",
+            "Science.",
+            "Science Methodology."
+          ],
+          "physicalDescription": [
+            "128 pages : color illustrations ; 26 cm"
+          ],
+          "summary": [
+            "\"Information and photographs of scientific theories and facts, for young children\"-- Provided by publisher."
+          ],
+          "contents": [
+            "What is science? Kinds/Branches of science -- Life science (human body, animals, insects, habitats) -- Earth and space (rocks, paleantology, volcanoes, weather, outer space) -- Physical science (matter, sound, light, movement, electricity) -- Inventions (engineers, problem-solving) -- Parent tips."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-8.",
+            "K to grade 3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204406936,
+          "digitalId": "2FE2BCE8-1C4E-46E7-B3DC-AB340EECAEFD",
+          "otherAuthors": [
+            "National Geographic Society (U.S.)"
+          ],
+          "isbns": [
+            "9781426333200"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Science Methodology.",
+            "Science.",
+            "Science Methodology Juvenile literature.",
+            "Science Miscellanea Juvenile literature.",
+            "Nature.",
+            "Reference.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This lively introduction to the fascinating world of science explores the different kinds of science, what scientists do, and the amazing things that scientists study: animals and plants; oceans and space; earthquakes and volcanoes; sound and light; inventions and more!  Make sure kids' first experience of the wonders of science is a thrilling eye-opener with this fun reference book. Fun activities, games, and simple experiments encourage interactive learning, showing kids that anyone can use scientific observation and experimentation to be a scientist and discover new things. With bright images and age-appropriate text, this book inspires kids to be curious, ask questions, and explore the world around them and maybe even grow up to be a scientist one day, too! Topics include astronomy, botany, paleontology, malacology (that's the science of clams, snails, and other animals with shells!), zoology, and more."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 3 - Text Difficulty 4",
+            "760 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The big book of jobs",
+      "author": "Hanáčková, Pavla",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788000067988?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788000067988?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788000067988?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206059096,
+          "otherAuthors": [
+            "Mokrošová, Hana, author.",
+            "Haraštová, Helena, author.",
+            "Pokaleva, Elena, illustrator.",
+            "Oakland, Andrew, 1966- translator."
+          ],
+          "isbns": [
+            "9788000067988",
+            "8000067986"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Prague : Albatros"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Occupations Juvenile literature."
+          ],
+          "physicalDescription": [
+            "64 pages : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Have you ever tried counting how many occupations there are? Impossible, isn't it? These endless choices are wonderful, though, since they allow everyone to find the right job for them. Whether your interests lie in computers, dance, music, history, math, transportation, space, or the ocean deep, you can find a use for them in adulthood - by building your work around what you love! Come with us to learn about the little-known occupations that move today's world. As you discover what the people who do them need to know and what they love about their work, you might also learn how to make your own dream come true!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "First big book of how",
+      "author": "Symes, Sally",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781804661185?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781804661185?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781804661185?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300088272,
+          "otherAuthors": [
+            "Taylor, Saranne, author.",
+            "Slater, Kate, 1986- illustrator."
+          ],
+          "isbns": [
+            "9781804661185",
+            "180466118X",
+            "9781804661192",
+            "1804661198qhardback"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Tonbridge, Kent ; Greenbelt, Maryland : What On Earth!"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Children's questions and answers."
+          ],
+          "physicalDescription": [
+            "255 pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"How do scientists see into space? How do polar bears keep warm? How do keys open locks? How do fireworks explode? Featuring more than 150 compelling questions about space, Earth, machines, buildings, animals and the human body, this magnificent book by the author-and-illustrator team behind the bestselling First Big Book of Why provides answers for every inquisitive child. And these are answers you can trust, as they have all been thoroughly fact-checked and reviewed by subject experts, who are proudly profiled in the book\"--Amazon."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Britannica first big book of why",
+      "seriesTitle": [
+        "Britannica Books."
+      ],
+      "author": "Symes, Sally",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781913750411?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781913750411?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781913750411?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205541350,
+          "variantTitles": [
+            "First big book of why"
+          ],
+          "otherAuthors": [
+            "Drimmer, Stephanie Warren, author.",
+            "Slater, Kate, 1986- illustrator."
+          ],
+          "isbns": [
+            "9781913750411",
+            "1913750418",
+            "9781913750428",
+            "1913750426"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Maidstone, Kent : Britannica Books"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Children's questions and answers.",
+            "Children's questions and answers."
+          ],
+          "physicalDescription": [
+            "271 pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "Why do elephants have trunks? Why are clouds different shapes? Why does popcorn pop? Why does my tummy rumble? Why do we flush the toilet? This book features chapters on bugs, pets, wild animals, the body, food, machines, and space and also includes some of the mysteries which experts are still trying to solve!"
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The Week Junior big book of knowledge.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1801995222?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1801995222?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1801995222?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300081056,
+          "variantTitles": [
+            "Big book of knowledge"
+          ],
+          "otherAuthors": [
+            "Week Junior (Magazine), associated with work."
+          ],
+          "isbns": [
+            "1801995222",
+            "9781801995221"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Bloomsbury Education"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Curiosities and wonders Juvenile literature.",
+            "Children's questions and answers."
+          ],
+          "physicalDescription": [
+            "240 pages : colour illustrations ; 31 cm"
+          ],
+          "summary": [
+            "\"Let your imagination run wild with The Week Junior Big Book of Knowledge! Packed to the brim with brain-expanding facts and mind-blowing information, this book from multi-award-winning children's magazine The Week Junior is the perfect gift for curious children. How much would someone pay for a painting done by a pig? Why did a Japanese company send a hamster to space? What do Star Wars and King Charles III have in common? And how can poo save your life?! This fun-packed book is stuffed with facts - everything from the unbelievable to the essential! Whether you want to know about science or sport, inventions or art, amazing life on earth or what's up there in space, this is the book for you. With incredible true stories, and the world's most astonishing facts, The Week Junior Big Book of Knowledge has everything children love about the UK's most popular children's magazine The Week Junior - in book form. With brilliant photos, easy explanations and colourful design throughout, this book will boost your brain and help you astonish your friends! Ideal as a Christmas or birthday gift or just as a way to inspire young minds, this large-format, full-colour hardback is a must-have for every child's bookshelf\"--Amazon."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Over 500 incredible true stories and astonishing facts!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Big book of knowledge.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781465480415?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781465480415?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781465480415?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203869208,
+          "variantTitles": [
+            "DK big book of knowledge"
+          ],
+          "isbns": [
+            "9781465480415",
+            "1465480412"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Second American edition."
+          ],
+          "publisher": [
+            "New York, NY : DK Publishing"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Curiosities and wonders Juvenile literature.",
+            "World history Juvenile literature."
+          ],
+          "physicalDescription": [
+            "480 pages : color illustrations ; 17 cm"
+          ],
+          "summary": [
+            "The perfect encyclopedia for any information-hungry kid who wants to boost their general knowledge, this pocket-sized book is packed full of facts. From earthquakes to Marco Polo, magnets to how the brain works, this fully updated 600-page book of knowledge covers just about every topic that a curious child will want to learn about. The perfect resource for school-aged children, this book will be a reference point for years' worth of homework, research, and school projects. Updated photography and illustration are combined to show what others only tell you. Annotation points out the details that you might miss at first and gives you a detailed overview of every subject you can think of. A whole world of discovery awaits in the Big Book of Knowledge, and it will keep curious kids endlessly entertained and captivated."
+          ],
+          "contents": [
+            "Chapter 1. Earth and space -- Chapter 2. The natural world -- Chapter 3. Our world -- Chapter 4. Science and technology."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "国家地理经典百科全书. 宇宙百科 = National geographic kids | Guo jia di li jing dian bai ke quan shu. Yu zhou bai ke = National geographic kids",
+      "author": "休斯, 凯瑟琳·D | Hughes, Catherine D",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787572808616?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787572808616?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787572808616?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300038323,
+          "otherTitles": [
+            "Little kids first big book of space. Chinese"
+          ],
+          "variantTitles": [
+            "National geographic kids",
+            "Yu zhou bai ke"
+          ],
+          "nativeVariantTitles": [
+            "宇宙百科"
+          ],
+          "otherAuthors": [
+            "Aguilar, David A., illustrator.",
+            "Wu, Jing, translator."
+          ],
+          "nativeOtherAuthors": [
+            "阿基拉, 大卫·A., illustrator.",
+            "吴婧, translator."
+          ],
+          "isbns": [
+            "9787572808616",
+            "7572808611"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Chengdu : Sichuan shao nian er tong chu ban she"
+          ],
+          "nativePublisher": [
+            "成都 : 四川少年儿童出版社"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Astronomy Juvenile literature.",
+            "Children's encyclopedias and dictionaries."
+          ],
+          "physicalDescription": [
+            "119 pages : colour illustrations ; 23 cm"
+          ],
+          "notes": [
+            "Parallel text in Chinese and Hanyu Pinyin.",
+            "Translation of: Little kids first big book of space."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The big book of barf : a spewnami of sick science, hurled history, and body oddities",
+      "author": "Lorencen, Vicky",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593707913?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593707913?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593707913?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300105272,
+          "otherAuthors": [
+            "Simard, Rémy, illustrator."
+          ],
+          "isbns": [
+            "9780593707913",
+            "0593707915",
+            "9780593707937",
+            "0593707931",
+            "9780593707920"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Bright Matter Books",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Vomiting Juvenile literature.",
+            "Nausea Juvenile literature.",
+            "Gastrointestinal system Juvenile literature."
+          ],
+          "physicalDescription": [
+            "vii, 279 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "\"Did you know that there are glasses to prevent motion sickness...Or that astronauts can get \"space sick?\" This hilarious and wacky illustrated book is jam-packed with silly facts, crazy activities, and even recipes (Barf-day cake, anyone?) that will have you learning all about the fascinating world of barf, our bodies, and beyond. Presented in alphabetical order.\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 10 & Up Bright Matter Books.",
+            "Grades 4-6 Bright Matter Books."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300129514,
+          "digitalId": "48451B90-34E5-42CE-84C2-E449DC4FA303",
+          "isbns": [
+            "9780593707920"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Nausea.",
+            "Vomiting.",
+            "Nausea Juvenile literature.",
+            "Vomiting Juvenile literature.",
+            "Health & Fitness.",
+            "Humor (Nonfiction).",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Did you know that there are glasses to prevent motion sickness...Or that astronauts can get \"space sick\"...This hilarious and wacky illustrated book is jam-packed with silly facts, crazy activities, and even recipes (Barf-day cake, anyone?) that will have you learning all about the fascinating world of barf, our bodies, and beyond. Yes, barf is gross. But...it also kind of tells us a lot about how our bodies work? Whether it's that saliva protects your teeth from vomit or that your stomach can hold 4 quarts of food and liquid...Vomit is the revolting, disgusting, slimy, gooey but also hurl-arious fabric that holds us together! The Big Book of Barf is perfect the curious science-loving kids who love to digest (and then regurgitate) cool and crazy facts. This colorful and engaging book is filled with myths and history about vomit, humorous health hacks to keep your food down, facts about your digestive system, activities for home, jokes, and more! All this gastronomic gargle-gravy goodness will entertain and inform young readers whether at home, in school, or especially [cough, gag, heave] in the bathroom."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Outer space on the big screen",
+      "seriesTitle": [
+        "Dash! Leveled readers."
+      ],
+      "author": "Murray, Julie, 1969-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098226275?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098226275?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098226275?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205523748,
+          "isbns": [
+            "1098226275",
+            "9781098226275"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Abdo Zoom",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Outer space in motion pictures Juvenile literature.",
+            "Astronautics Juvenile literature.",
+            "Motion picture industry Juvenile literature.",
+            "Outer space in motion pictures",
+            "Motion picture industry",
+            "Outer space Juvenile literature.",
+            "Outer space Exploration Juvenile literature.",
+            "Outer space",
+            "Exploration of outer space",
+            "Astronautics"
+          ],
+          "physicalDescription": [
+            "24 pages : illustrations (chiefly color) ; 24 cm."
+          ],
+          "summary": [
+            "This unique title looks at how outer space has been depicted on the big screen over the years. Readers will learn about some of the most famous movies, both fact and fiction. Cool Hollywood photos complete the book. This title is at a Level 3 and is written specifically for transitional readers. Aligned to Common Core standards & correlated to state standards. Dash! is an imprint of Abdo Zoom, a division of ABDO."
+          ],
+          "notes": [
+            "Includes online resources and index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Space",
+      "seriesTitle": [
+        "My big book of answers"
+      ],
+      "author": "Alistarillustrations",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1953344879?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1953344879?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1953344879?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206092227,
+          "isbns": [
+            "1953344879",
+            "9781953344878"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Livingston, NJ : Little Genius Books"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Lift-the-flap books.",
+            "Board books.",
+            "Outer space Exploration Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 29 cm."
+          ],
+          "summary": [
+            "\"Was the universe born in a Big Bang? Has anyone ever landed on an asteroid? Lift the flaps to find the answers to these and many more fascinating questions. Explore the far reaches of space one answer at a time, with this big book of fun facts and explanations\" -- Page [4] of cover."
+          ],
+          "contents": [
+            "Space -- The Big Bang -- The solar system -- The life of stars -- Space rocks -- Exploring space."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The big beyond : the story of space travel",
+      "author": "Carter, James, 1959-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838910341?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838910341?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781838910341?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205608390,
+          "otherAuthors": [
+            "Cushley, Aaron, illustrator."
+          ],
+          "isbns": [
+            "9781838910341",
+            "1838910344"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Caterpillar Books"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Space flight Pictorial works Juvenile poetry.",
+            "Children's poetry, English.",
+            "Space flight",
+            "Children's poetry, English"
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Get ready for blast-off with this fast-paced poem that's all about space travel. From the early humans who dreamt of wings to the Moon landing, and from spacecraft exploring Mars to the future beyond... Climb on board for an adventure into outer space!"
+          ],
+          "notes": [
+            "Originally published: 2019."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203862046,
+          "otherAuthors": [
+            "Cushley, Aaron, illustrator."
+          ],
+          "isbns": [
+            "9781848577978",
+            "1848577974"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Caterpillar Books"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Space flight Juvenile poetry.",
+            "Children's poetry, English.",
+            "Children's poetry, English.",
+            "Space flight."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "notes": [
+            "Paperback edition with ISBN 9781838910341 published by Little Tiger in 2020."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Kind of a big deal",
+      "author": "Hale, Shannon",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781250206237?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781250206237?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781250206237?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204517802,
+          "otherAuthors": [
+            "Richardson, Samantha (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781250206237",
+            "1250206235"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Roaring Brook Press",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "High school dropouts Fiction.",
+            "Theater Fiction.",
+            "Nannies Fiction.",
+            "Books and reading Fiction.",
+            "Interpersonal relations Fiction.",
+            "Imaginary places in literature Fiction.",
+            "Characters and characteristics in literature Fiction.",
+            "Space and time Fiction.",
+            "High school dropouts Juvenile fiction.",
+            "Theater Juvenile fiction.",
+            "Nannies Juvenile fiction.",
+            "Books and reading Juvenile fiction.",
+            "Interpersonal relations Juvenile fiction.",
+            "Imaginary places in literature Juvenile fiction.",
+            "Characters and characteristics in literature Juvenile fiction.",
+            "Space and time Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "391 pages : illustrations ; 22 cm"
+          ],
+          "summary": [
+            "Dropping out of high school to pursue her Broadway ambitions, a talented performer lands in a directionless job before a visit to the library catapults her into the plotlines of the books she reads."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206025495,
+          "digitalId": "9C35155F-7F90-40A2-AD21-AC088E86FCD2",
+          "otherAuthors": [
+            "Richardson, Samantha (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781250206244"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Space and time Juvenile fiction.",
+            "Characters and characteristics in literature Juvenile fiction.",
+            "Imaginary places in literature Juvenile fiction.",
+            "Interpersonal relations Juvenile fiction.",
+            "Books and reading Juvenile fiction.",
+            "Nannies Juvenile fiction.",
+            "Theater Juvenile fiction.",
+            "High school dropouts Juvenile fiction.",
+            "Space and time Fiction.",
+            "Characters and characteristics in literature Fiction.",
+            "Imaginary places in literature Fiction.",
+            "Interpersonal relations Fiction.",
+            "Books and reading Fiction.",
+            "Nannies Fiction.",
+            "Theater Fiction.",
+            "High school dropouts Fiction.",
+            "Humor (Fiction).",
+            "Romance.",
+            "Young Adult Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "From Shannon Hale, bestselling author of  Austenland , comes  Kind of a Big Deal : a story that will suck you in-literally. \"So many strange and wonderful things happen at every twist and turn, you'll be happy to wander with Josie . . . Each book she descends into seems to teach her something, and even if it's not obvious where the story is going, we're in it for the long haul.\" - NPR   There's nothing worse than peaking in high school. Nobody knows that better than Josie Pie. She was kind of a big deal-she dropped out of high school to be a star! But the bigger you are, the harder you fall. And Josie fell. Hard. Ouch. Broadway dream: dead.  Meanwhile, her life keeps imploding. Best friend: distant. Boyfriend: busy. Mom: not playing with a full deck? Desperate to escape, Josie gets into reading. Literally. She reads a book and suddenly she's  inside  it. And with each book, she's a different character: a post-apocalyptic heroine, the lead in a YA rom-com, a 17th century wench in a corset. It's alarming. But also . . . kind of amazing?  It's the perfect way to live out her fantasies. Book after book, Josie the failed star finds a new way to shine. But the longer she stays in a story, the harder it becomes to escape. Will Josie find a story so good that she just stays forever?"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 4",
+            "UG/Upper grades (9th-12)",
+            "5.2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 206002643,
+          "digitalId": "274402B7-D15E-46EF-AF76-13D2EEAA6059",
+          "otherAuthors": [
+            "Dolan, Amanda."
+          ],
+          "isbns": [
+            "9781250759177"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Macmillan Young Listeners"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Young Adult Fiction.",
+            "Teenage girls.",
+            "High school dropouts.",
+            "Characters and characteristics in literature.",
+            "Books and reading.",
+            "High school dropouts Fiction.",
+            "Characters and characteristics in literature Fiction.",
+            "Books and reading Fiction.",
+            "Teenage girls Fiction.",
+            "Humor (Fiction).",
+            "Romance.",
+            "Young Adult Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (9 audio files) : digital"
+          ],
+          "summary": [
+            "From   Shannon Hale,   bestselling author of  Austenland , comes  Kind of a Big Deal : a hilarious, madcap story that will suck you in-literally.  There's nothing worse than peaking in high school. Nobody knows that better than Josie Pie. She was kind of a big deal-she dropped out of high school to be a star! But the bigger you are, the harder you fall. And Josie fell. Hard. Ouch. Broadway dream: dead. Meanwhile, her life keeps imploding. Best friend: distant. Boyfriend: busy. Mom: not playing with a full deck? Desperate to escape, Josie gets into reading. Literally. She reads a book and suddenly she's  inside  it. And with each book, she's a different character: a post-apocalyptic heroine, the lead in a YA rom-com, a 17th century wench in a corset. It's alarming. But also . . . kind of amazing? It's the perfect way to live out her fantasies. Book after book, Josie the failed star finds a new way to shine. But the longer she stays in a story, the harder it becomes to escape. Will Josie find a story so good that she just stays forever?    A Macmillan Audio production from Roaring Brook Press"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Amanda Dolan."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The Big Stink",
+      "seriesTitle": [
+        "Postman Planet ; 2"
+      ],
+      "author": "Davis, Ben",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398545922?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398545922?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781398545922?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300205044,
+          "otherAuthors": [
+            "Sheikh, Yasmin, illustrator."
+          ],
+          "isbns": [
+            "9781398545922",
+            "1398545929"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Gallery",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Heroes Juvenile fiction.",
+            "Villains Juvenile fiction.",
+            "Space flight Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "141 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "When the evil Dr. Stankenstein poisons Nicetopia's water supply with a foul Stink Potion, the planet's famously polite citizens descend into chaos. With only twelve space-hours to deliver the antidote, the fearless Postman Planet must race across the galaxy to save the day."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300204312,
+          "digitalId": "18A77A5A-B070-4664-B684-DB497DC0DBC0",
+          "variantTitles": [
+            "The big stink : The hilarious young fiction series to get kids reading!"
+          ],
+          "isbns": [
+            "9781398545946"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "POSTMAN PLANET IS BACK AND SMELLIER THAN EVER IN THIS HILARIOUS YOUNG FICTION SERIES FOR KIDS, BY AWARD-WINNING AUTHOR AND EVERYDAY POSTMAN, BEN DAVIS! PERFECT FOR FANS OF BUNNY VS MONKEY. The planet of Nicetopia is the politest corner of the galaxy. Nothing could ever spoil their ideal society . . . UNTIL evil super-genius Dr Stankenstein dumps HUGE quantities of his Stink Potion into their water supply. Everyone on the planet is farting uncontrollably, ruining their polite paradise. There are only twelve space-hours left before the atmosphere becomes irrevocably farty, and the planet of Nicetopia becomes RUDETOPIA. The only hope? The antitdote. And there is only one person in the galaxy intrepid enough to deliver it. You've guessed it . . . POSTMAN PLANET! Laugh-out-loud funny, short chapters and full of illustrations Great for readers aged 6+ and reluctant readers With themes of friendship, sharing and teamwork Praise for the series \"It's fun, silly and, in this National Year of Reading, precisely the kind of gateway entertainment that will show a six-year-old that books can give you a good time [...] Consider the daftest story of the new year successfully delivered.\" - The Times, Children's Book of the Week \"A laugh-out-loud, highly illustrated interstellar caper\" - The Guardian \"The silliest books you'll re."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Big questions about the universe",
+      "author": "Frith, Alex (Children's author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474989879?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474989879?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474989879?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205922922,
+          "otherAuthors": [
+            "James, Alice (Editor), author.",
+            "Plant, David J., illustrator.",
+            "Royal Observatory, Greenwich, associated with work."
+          ],
+          "isbns": [
+            "9781474989879",
+            "147498987X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing Ltd."
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Universe Juvenile literature.",
+            "Space sciences Juvenile literature.",
+            "Space flight Juvenile literature.",
+            "Solar system Juvenile literature."
+          ],
+          "physicalDescription": [
+            "96 pages : colour illustrations ; 25 cm"
+          ],
+          "summary": [
+            "The questions in this book were curated by the staff at London's Royal Observatory, to address all the most common - and a few uncommon - things that children want to know about space. Planets, moons, exploration and even some really BIG questions such as 'How do Black Holes work', 'Is it worth going to space?' and 'What's going to happen at the end of time?'."
+          ],
+          "notes": [
+            "\"Royal Observatory Greenwich\"--Cover.",
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 294
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 28
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 27
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 21
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 19
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 19
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 290
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 3
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 228
+        },
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 226
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 201
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 195
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 195
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 191
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 187
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 184
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 175
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 169
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 169
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 164
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 162
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 156
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 155
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 153
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 144
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 143
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 141
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 135
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 43
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 38
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 4
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 294
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 239
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 37
+        },
+        {
+          "id": "abc",
+          "data": "Audio Book on CD",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

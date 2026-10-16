@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node src/server.mjs",
     "record-fixtures": "node scripts/record-fixtures.mjs",
+    "probe-voice-search": "node scripts/probe-voice-search.mjs",
     "test": "node --test \"test/*.test.mjs\""
   }
 }

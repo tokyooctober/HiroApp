@@ -1,0 +1,2275 @@
+{
+  "totalRecords": 315,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Charlotte the scientist finds a cure",
+      "seriesTitle": [
+        "Charlotte the Scientist."
+      ],
+      "author": "Andros, Camille",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544813762?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544813762?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544813762?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203867803,
+          "otherAuthors": [
+            "Farley, Brianne, illustrator."
+          ],
+          "isbns": [
+            "9780544813762",
+            "0544813766"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York ; Boston : Clarion Books",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Sick Juvenile fiction.",
+            "Rabbits Juvenile fiction.",
+            "Picture books for children."
+          ],
+          "physicalDescription": [
+            "40 unnumbered pages : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"Charlotte, a budding bunny scientist, ignores the doubters and confidently finds a cure to the mysterious malady affecting the forest\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204411657,
+          "digitalId": "8A232BFE-7A86-4533-BDE6-5A5AEA425105",
+          "otherAuthors": [
+            "Farley, Brianne, illustrator."
+          ],
+          "isbns": [
+            "9780358063438"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Sick.",
+            "Rabbits.",
+            "Picture books for children.",
+            "Rabbits Fiction.",
+            "Self-confidence Fiction.",
+            "Science Experiments Fiction.",
+            "Science Methodology Fiction.",
+            "Sick Fiction.",
+            "Picture books for children.",
+            "Rabbits Juvenile fiction.",
+            "Sick Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In this empowering picture book with a STEM focus, Charlotte, a budding bunny scientist, ignores the doubters and confidently finds a cure to the mysterious malady affecting the forest."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Computer decoder : Dorothy vaughan, computer scientist.",
+      "seriesTitle": [
+        "Picture Book Biography."
+      ],
+      "author": "Diehn, Andi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781619305564?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781619305564?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781619305564?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205813859,
+          "variantTitles": [
+            "Dorothy Vaughan, computer scientist"
+          ],
+          "otherAuthors": [
+            "Mazeika, Katie, illustrator."
+          ],
+          "isbns": [
+            "9781619305564",
+            "1619305569",
+            "9781619307650",
+            "1619307650"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "White River Junction, VT : Nomad Press",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Vaughan, Dorothy, 1910-2008 Juvenile literature.",
+            "African American women mathematicians Biography Juvenile literature.",
+            "Women computer scientists Biography Juvenile literature.",
+            "United States. National Aeronautics and Space Administration Biography Juvenile literature.",
+            "Picture books for children.",
+            "United States. National Aeronautics and Space Administration.",
+            "African American women mathematicians.",
+            "Women computer scientists."
+          ],
+          "physicalDescription": [
+            "30 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Follows Dorothy Vaughan's path from math teacher to \"human computer\" as well as her success as first African American supervisor at her company."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204479574,
+          "digitalId": "4880FA75-DBA0-4261-BCFA-6570D52DC8D7",
+          "isbns": [
+            "9781619307643",
+            "9781619306684"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Vaughan, Dorothy, 1910-2008 Juvenile literature.",
+            "United States. National Aeronautics and Space Administration Biography Juvenile literature.",
+            "United States. National Aeronautics and Space Administration",
+            "Juvenile Nonfiction.",
+            "Women computer scientists",
+            "African American women mathematicians",
+            "Women computer scientists Biography Juvenile literature.",
+            "African American women mathematicians Biography Juvenile literature.",
+            "Biography & Autobiography.",
+            "Computer Technology.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "620 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Ghost busted",
+      "seriesTitle": [
+        "The Questioneers."
+      ],
+      "author": "Meyer, Gabrielle (Screenwriter)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419760808?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419760808?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419760808?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205848798,
+          "otherTitles": [
+            "Ada Twist, scientist (Television program)"
+          ],
+          "variantTitles": [
+            "At head of title: Ada Twist, scientist"
+          ],
+          "isbns": [
+            "9781419760808",
+            "1419760807"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Abrams Books for Young Readers"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Sleepovers Juvenile fiction.",
+            "Haunted places Juvenile fiction.",
+            "Science Methodology Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : colour illustrations ; 25 cm"
+          ],
+          "summary": [
+            "When Ada, Iggy, and Rosie have a sleepover at Iggy's house, they want to start with a game of ping-pong in the basement, but Iggy warns that the basement may be haunted."
+          ],
+          "notes": [
+            "\"Netflix, a Netflix series\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205897180,
+          "digitalId": "925B1769-1D45-466D-BE53-42FEA831185B",
+          "otherTitles": [
+            "Ada Twist, scientist (Television program)"
+          ],
+          "variantTitles": [
+            "At head of title: Ada Twist, scientist"
+          ],
+          "isbns": [
+            "9781647006273"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Picture Book Fiction.",
+            "Science Fiction.",
+            "Sleepovers Juvenile fiction.",
+            "Haunted places Juvenile fiction.",
+            "Science Methodology Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A charming Halloween adventure based on the Netflix show starring Ada Twist   Ada, Iggy, and Rosie are ready for the most super sleepover ever: They've got their sleeping bags, pajamas, a moon nightlight, and a dino-snore machine (well, that last one may not be perfect for the sleeping part of the sleepover!). This willÂ be Iggy's first sleepover at his house, so his dad helps brainstorm ideas for what to do at the sleepover. They can play games like ping-pong, eat yummy popcorn, and even tell spooky stories! They want to start with a game of ping-pong, but the ping-pong table is in the basementâ��and Iggy warns them that the basement is HAUNTED . . . Or at least, he thinks it is. But he's never actually gone down there, because it's too spooky. It's up to the Questioneers to get to the bottom of if the basement is actually haunted by ghosts by using the scientific method, their bravery, and a whole lot of teamwork."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A day in the life of a scientist",
+      "seriesTitle": [
+        "DK super readers."
+      ],
+      "author": "Musgrave, Ruth A., 1960-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593962473?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593962473?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593962473?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300118422,
+          "variantTitles": [
+            "Scientist"
+          ],
+          "isbns": [
+            "9780593962473",
+            "0593962478",
+            "9780593962480",
+            "0593962486"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edtion."
+          ],
+          "publisher": [
+            "New York, NY : DK Publishing",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Laboratories Juvenile literature.",
+            "Science Experiments Juvenile literature.",
+            "Vocational guidance Juvenile literature.",
+            "Occupations Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 23 cm."
+          ],
+          "summary": [
+            "\"DK Super Readers Level 1: A Day in the Life of a Scientist will help kids learn about a scientist's important work and includes fun facts and a quiz to support development\"--Provided by publisher."
+          ],
+          "contents": [
+            "What does a scientist do? -- Where does a scientist work? -- What does a scientist need? -- Let's get to work! -- Life on earth -- Weather watch -- Down to earth -- In the lab -- Space out -- Scientists matter -- Glossary -- Index -- Quiz."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Reading is my superpower\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Scientists",
+      "seriesTitle": [
+        "My first heroes."
+      ],
+      "author": "Aye, Nila",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035035717?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035035717?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035035717?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095296,
+          "isbns": [
+            "9781035035717",
+            "1035035715"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Campbell Books"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Zhang, Heng, 78-139 Juvenile literature.",
+            "Newton, Isaac, 1642-1727 Juvenile literature.",
+            "Curie, Marie, 1867-1934 Juvenile literature.",
+            "Franklin, Rosalind, 1920-1958 Juvenile literature.",
+            "Scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "8 unnumbered pages : colour illustrations ; 19 cm."
+          ],
+          "summary": [
+            "\"Push, pull, and slide the scenes to find out about Zhang Heng, Isaac Newton, Marie Curie and Rosalind Franklin, and be inspired by their incredible work\"--Amazon."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Discover amazing people!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204444187,
+          "otherAuthors": [
+            "Taylor, Barbara, contributor."
+          ],
+          "isbns": [
+            "9781529035407",
+            "1529035406"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Campbell Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Scientists Pictorial works Juvenile literature.",
+            "Children's stories.",
+            "Children's stories.",
+            "Scientists."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "Discover the scientists who changed our world. Push, pull and slide the scenes to find out about Zhang Heng, Isaac Newton, Marie Curie and Rosalind Franklin, and be inspired by their incredible work."
+          ],
+          "notes": [
+            "Board book.",
+            "Cover title.",
+            "\"Rosalind Franklin, Zhang Heng, Isaac Newton, Marie Curie\" -- cover.",
+            "\"Discover amazing people!\" -- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Secrets of the sea : The story of jeanne power, revolutionary marine scientist.",
+      "author": "Griffith, Evan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0358244323?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0358244323?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0358244323?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205732356,
+          "variantTitles": [
+            "Story of Jeanne Power, revolutionary marine scientist"
+          ],
+          "otherAuthors": [
+            "Stone, Joanie, illustrator."
+          ],
+          "isbns": [
+            "0358244323",
+            "9780358244325"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York : Clarion Books, Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Villepreux-Power, Jeanne, 1794-1871 Juvenile literature.",
+            "Women marine scientists Biography Juvenile literature.",
+            "Women marine biologists Biography Juvenile literature.",
+            "Marine scientists Biography Juvenile literature.",
+            "Marine biologists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : illustrations (chiefly colour) ; 27 cm"
+          ],
+          "summary": [
+            "\"How did a nineteenth-century dressmaker revolutionize science? Jeanne Power was creative: she wanted to learn about the creatures that swim beneath the ocean waves, so she built glass tanks and changed the way we study underwater life forever. Jeanne Power was groundbreaking: she solved mysteries of sea animals and published her findings at a time when few of women's contributions to science were acknowledged. Jeanne Power was persistent: when records of her research were lost, she set to work repeating her studies. And when men tried to take credit for her achievements, she stood firm and insisted on the recognition due to her\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205510284,
+          "digitalId": "A1125BEA-3E0E-4A5B-82DC-441161F6F542",
+          "isbns": [
+            "9780358531821"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Villepreux-Power, Jeanne, 1794-1871 Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Women marine scientists.",
+            "Women marine biologists.",
+            "Marine scientists.",
+            "Marine biologists.",
+            "Women marine scientists Biography.",
+            "Marine biologists Biography Juvenile literature.",
+            "Marine scientists Biography Juvenile literature.",
+            "Women marine biologists Biography Juvenile literature.",
+            "Women marine scientists Biography Juvenile literature.",
+            "Biography & Autobiography.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The curiosity, drive, and perseverance of the nineteenth-century woman scientist who pioneered the use of aquariums to study ocean life are celebrated in this gorgeous, empowering picture book.  How did a nineteenth-century dressmaker revolutionize science?  Jeanne Power was creative:  she wanted to learn about the creatures that swim beneath the ocean waves, so she built glass tanks and changed the way we study underwater life forever.  Jeanne Power was groundbreaking:  she solved mysteries of sea animals and published her findings at a time when few of women's contributions to science were acknowledged.  Jeanne Power was persistent:  when records of her research were lost, she set to work repeating her studies. And when men tried to take credit for her achievements, she stood firm and insisted on the recognition due to her.  Jeanne Power was inspiring,  and the legacy of this pioneering marine scientist lives on in every aquarium."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "We are the NASA scientists",
+      "seriesTitle": [
+        "Friends change the world."
+      ],
+      "author": "Tucker, Zoë",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711263857?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711263857?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711263857?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205548696,
+          "otherAuthors": [
+            "Quartey, Amanda, illustrator."
+          ],
+          "isbns": [
+            "9780711263857",
+            "071126385X",
+            "9780711263833",
+            "0711263833"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Wide Eyed Editions"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Jackson, Mary, 1921-2005 Pictorial works Juvenile literature.",
+            "Czarnecki, Kazimierz Pictorial works Juvenile literature.",
+            "United States. National Aeronautics and Space Administration Pictorial works Juvenile literature.",
+            "Women scientists Pictorial works Juvenile literature.",
+            "Friendship Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "34 unnumbered pages : color illustrations ; 26 cm."
+          ],
+          "summary": [
+            "This is the true story of a friendship that shot for the Moon. Mary solves tricky math problems to help launch astronauts into space. But as a Black woman, she faces many obstacles that her colleagues don't. When she meets Kaz, a fellow NASA scientist, he helps Mary find strength in her talent. Together, Mary, Kaz, and everyone at NASA are about to do the impossible . . ."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205739333,
+          "digitalId": "B02E0B28-BB3C-4F08-BFFF-D8AB0662CAF4",
+          "otherAuthors": [
+            "Quartey, Amanda, illustrator."
+          ],
+          "isbns": [
+            "9780711263840"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Jackson, Mary, 1921-2005 Pictorial works Juvenile literature.",
+            "Czarnecki, Kazimierz Pictorial works Juvenile literature.",
+            "United States. National Aeronautics and Space Administration Pictorial works Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Biography & Autobiography.",
+            "Science.",
+            "Women scientists",
+            "Friendship",
+            "Women scientists Pictorial works Juvenile literature.",
+            "Friendship Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This beautiful picture book tells the story of two scientists who worked together side by side to send humans into space.   Mary Jackson  was super smart. She loved math and science, and she loved to learn.  When Mary got a job at NASA , it was a dream come true! But this was a time when Black people were segregated from white people, and Mary had to fight hard for every opportunity.  In 1953, Mary started working alongside  Kaz Czarnecki . They soon realized how much they could  share and teach each other . The two were from completely  different backgrounds , but it didn't matter at all- they had so much in common .  This was the beginning of a  friendship  that lasted for decades. Together, they worked on amazing experiments and achieved incredible things, like working  to land astronauts on the moon .  Friends Change the World  is  a series of picture books  that  celebrates the power of friendship . From musical greats to sports champions, scientists and explorers to artists and activists, these are the true stories of real friends who achieved amazing things. Whether best friends since school or thrown together by a chance encounter, they supported and inspired each other to make their shared dreams come true. This charming series shows 4- to 7-year-olds how togetherness, respect, and friendship can make the world a better place."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Change is in the air : the hidden discoveries of Eunice Newton Foote, the first climate scientist",
+      "author": "Donnelly, Rebecca",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781250828538?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781250828538?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781250828538?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300188642,
+          "variantTitles": [
+            "Hidden discoveries of Eunice Newton Foote, the first climate scientist"
+          ],
+          "otherAuthors": [
+            "López, Mercè, 1979- illustrator."
+          ],
+          "isbns": [
+            "9781250828538",
+            "1250828538"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition"
+          ],
+          "publisher": [
+            "New York, NY : Henry Holt and Company",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Foote, Eunice, 1819-1888 Juvenile literature.",
+            "Climatic changes Research Juvenile literature.",
+            "Global warming Research Juvenile literature.",
+            "Women scientists Biography Juvenile literature.",
+            "Scientists Biography Juvenile literature.",
+            "Climatologists Biography Juvenile literature.",
+            "Climatologists",
+            "Scientists",
+            "Women scientists",
+            "United States"
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"In an era when few women practiced science, Eunice Newton Foote dared to search for answers to a mystery that no one else had solved. A visionary scientist, suffragist, and mother, Eunice conducted a groundbreaking experiment that uncovered the first clues about global warming. Defying the limitations society placed on her, she boldly pursued her hypothesis, paving the way for our modern understanding of climate change. With captivating text and vibrant illustrations, this gorgeous biography sheds light on the long-overlooked story of a revolutionary woman in STEM.\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages: 4-8.",
+            "Grades: PreS-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300186392,
+          "digitalId": "3680FA22-4AF8-41E0-B6F9-F5B03DD9E6BC",
+          "otherAuthors": [
+            "López, Mercè, 1979- illustrator."
+          ],
+          "isbns": [
+            "9781250468444"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Foote, Eunice, 1819-1888 Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Biography & Autobiography.",
+            "Science.",
+            "Climatic changes Research Juvenile literature.",
+            "Global warming Research Juvenile literature.",
+            "Women scientists Biography Juvenile literature.",
+            "Scientists Biography Juvenile literature.",
+            "Climatologists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "THREE STARRED REVIEWS!   \"A nuanced portrait \" - Kirkus, starred review  \"Engaging account\" - Publishers Weekly, starred review  \"Young scientists, feminists, and historians will be inspired\" - Booklist, starred review This fascinating picture book biography tells the story of the trailblazing woman who first discovered our climate was changing. In an era when few women practiced science, Eunice Newton Foote dared to search for answers to a mystery that no one else had solved. A visionary scientist, suffragist, and mother, Eunice conducted a groundbreaking experiment that uncovered the first clues about global warming. Defying the limitations society placed on her, she boldly pursued her hypothesis, paving the way for our modern understanding of climate change. With captivating text and vibrant illustrations, this gorgeous biography sheds light on the long-overlooked story of a revolutionary woman in STEM."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The vast wonder of the world : biologist Ernest Everett Just",
+      "author": "Mangal, Mélina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781512483758?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781512483758?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781512483758?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205601632,
+          "variantTitles": [
+            "Life of scientist Ernest Everett Just"
+          ],
+          "otherAuthors": [
+            "Uribe, Luisa, illustrator."
+          ],
+          "isbns": [
+            "9781512483758",
+            "1512483753",
+            "9781541524712"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis : Millbrook Press",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Just, Ernest Everett, 1883-1941 Juvenile literature.",
+            "African American biologists Biography Juvenile literature.",
+            "Biologists United States Biography Juvenile literature.",
+            "African American scientists Biography Juvenile literature.",
+            "Scientists United States Biography Juvenile literature.",
+            "African Americans Biography Juvenile literature.",
+            "Just, Ernest Everett, 1883-1941.",
+            "African Americans.",
+            "African American biologists.",
+            "African American scientists.",
+            "Biologists.",
+            "Scientists.",
+            "United States."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "Presents the life and accomplishments of the African American scientist, whose keen observations of sea creatures revealed new insights about egg cells and the origins of life.",
+            "Extraordinary illustrations and lyrical text present pioneering African American scientist Ernest Everett Just. Ernest Everett Just was not like other scientists of his time. He saw the whole, where others saw only parts. He noticed details others failed to see. He persisted in his research despite the discrimination and limitations imposed on him as an African American. His keen observations of sea creatures revealed new insights about egg cells and the origins of life. Through stunning illustrations and lyrical prose, this picture book presents the life and accomplishments of this long overlooked scientific pioneer. -- ‡c From publisher's description."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204475961,
+          "digitalId": "C717530D-1D80-4C4F-87B5-1667E7F61D98",
+          "otherAuthors": [
+            "Uribe, Luisa, illustrator.",
+            "Book Buddy Digital Media."
+          ],
+          "isbns": [
+            "9781541584716"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Just, Ernest Everett, 1883-1941 Juvenile literature.",
+            "Just, Ernest Everett, 1883-1941.",
+            "Juvenile Nonfiction.",
+            "Scientists.",
+            "Biologists.",
+            "African American scientists.",
+            "African American biologists.",
+            "African Americans.",
+            "African Americans Biography Juvenile literature.",
+            "Scientists United States Biography Juvenile literature.",
+            "African American scientists Biography Juvenile literature.",
+            "Biologists United States Biography Juvenile literature.",
+            "African American biologists Biography Juvenile literature.",
+            "Biography & Autobiography.",
+            "Science.",
+            "Sociology.",
+            "United States."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "notes": [
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 4 - Text Difficulty 5",
+            "LG/Lower grades (K-3rd)",
+            "890 Lexile.",
+            "5.2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Book Buddy Digital Media."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 204446866,
+          "digitalId": "853616A4-F95E-4AA3-B818-DC98DF3652CD",
+          "otherAuthors": [
+            "Book Buddy Digital Media."
+          ],
+          "isbns": [
+            "9781541584723"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "subjects": [
+            "Just, Ernest Everett, 1883-1941 Juvenile literature.",
+            "Just, Ernest Everett, 1883-1941.",
+            "Just, Ernest Everett, 1883-1941.",
+            "Juvenile Nonfiction.",
+            "African Americans.",
+            "African Americans Biography.",
+            "Scientists.",
+            "African American scientists.",
+            "Biologists.",
+            "African American biologists.",
+            "African Americans Biography Juvenile literature.",
+            "Sociology.",
+            "Science.",
+            "Biography & Autobiography.",
+            "Juvenile Nonfiction.",
+            "Scientists.",
+            "Biologists.",
+            "African American scientists.",
+            "African American biologists.",
+            "Scientists United States Biography Juvenile literature.",
+            "African American scientists Biography Juvenile literature.",
+            "Biologists United States Biography Juvenile literature.",
+            "African American biologists Biography Juvenile literature.",
+            "Biography & Autobiography.",
+            "Science.",
+            "Sociology.",
+            "United States."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "\"A must-purchase picture book biography of a figure sure to inspire awe and admiration among readers.\"-School Library Journal (starred review)   Extraordinary illustrations and lyrical text present pioneering African American scientist Ernest Everett Just.    Ernest Everett Just was not like other scientists of his time. He saw the whole, where others saw only parts. He noticed details others failed to see. He persisted in his research despite the discrimination and limitations imposed on him as an African American. His keen observations of sea creatures revealed new insights about egg cells and the origins of life.  Through stunning illustrations and lyrical prose, this picture book presents the life and accomplishments of this long overlooked scientific pioneer."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 4 - Text Difficulty 5",
+            "LG/Lower grades (K-3rd)",
+            "890 Lexile.",
+            "5.2 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Book Buddy Digital Media."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "I want to be a scientist",
+      "seriesTitle": [
+        "I can read book."
+      ],
+      "author": "Driscoll, Laura",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300030247,
+          "otherAuthors": [
+            "Echeverri, Catalina, 1986- illustrator."
+          ],
+          "isbns": [
+            "9780062989659",
+            "0062989650",
+            "9780062989642",
+            "0062989642"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Harper, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Scientists Juvenile literature."
+          ],
+          "physicalDescription": [
+            "31 pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "This accessible behind-the-scenes look at being a scientist takes beginning readers on a research boat to the North Pole where they can discover what type of scientist they want to be."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300045441,
+          "digitalId": "A4C8392D-DFFB-4537-BB84-763D679D6F61",
+          "isbns": [
+            "9780062989673 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : HarperCollins"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Careers.",
+            "Language Arts."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For the child who says, \"I want to be a SCIENTIST when I grow up!\" And for any child who wants a gentle behind-the-scenes look at being a scientist. This Level One Community Helper story takes readers on a research boat to the North Pole, where they learn all about the different types of scientists they can be!    When I take a trip to the North Pole with my Mom to study whales, I learn that are so many different ways to be a scientist. Did you know that there are meteorologists, zoologists, astronomers—and many more! Maybe I'll be a scientist, too!  With this story blending narrative with nonfiction, readers meet the many different kinds of scientists who do so much to support our communities.  I Want to Be a Scientist is part of an I Can Read series that introduces young readers to important community helpers. This Level One I Can Read is perfect for children learning to sound out words and sentences. Whether shared at home or in a classroom, the short sentences, familiar words, and simple concepts of Level One books support success for children eager to start reading on their own.  For anyone looking for books about community helpers for kids, the I Can Read My Community books are a great choice. The books are bright and upbeat and feature characters who are diverse in terms of gender, race, age, and body type. Kids ages 3-6 will enjoy finding out more about the people who do so much to help all of our communities."
+          ],
+          "notes": [
+            "Title from eBook information screen..",
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The next scientist : the unexpected beginnings and unwritten future of the world's great scientists",
+      "author": "Messner, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781452176963?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781452176963?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781452176963?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300076469,
+          "variantTitles": [
+            "Unexpected beginnings and unwritten future of the world's great scientists"
+          ],
+          "otherAuthors": [
+            "Kuo, Julia, illustrator."
+          ],
+          "isbns": [
+            "9781452176963",
+            "1452176965"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "San Francisco, California : Chronicle Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "51 pages : colour illustrations ; 25 x 32 cm"
+          ],
+          "summary": [
+            "\"This fascinating exploration of what scientists did before they were scientists -- whether they were starting small as tinkerers or gazing up at the night sky -- powerfully brings across that the scientists of the future could be practically anyone . . . including you\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300075680,
+          "digitalId": "3D09CDA7-47BE-4207-B92C-E473983D3513",
+          "variantTitles": [
+            "Unexpected beginnings and unwritten future of the world's great scientists"
+          ],
+          "otherAuthors": [
+            "Kuo, Julia, illustrator."
+          ],
+          "isbns": [
+            "9781797223810 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "How does a kid grow up to become a scientist? This enthralling nonfiction picture book   from  New York Times  bestselling author Kate Messner   explores the unexpected beginnings behind some of the most fascinating discoveries in scientific history.  Before the world's great scientists were scientists, they were, in fact, doing all the things kids do:   Taking things apart, putting things together, gazing up at the night sky, drawing, imagining, building, and exploring.   Things that scientists do, too.   This book of unexpected beginnings powerfully shows that the great scientists of the future could be practically anyone . . . including you. Written by Kate Messner, bestselling author of the acclaimed Over and Under nature book series and more than fifty books for young readers, and beautifully illustrated by Julia Kuo, this is a book to gift to any curious kid interested in STEM topics, fascinated by scientific discoveries, and inspired by biographies of people whose work has had an impact on the world. CALLING FUTURE SCIENTISTS: Where are today's future scientists? As this book shows, they could be practically anyone doing anything, including the kids reading this book! CURRICULAR CONNECTION: Students discover all kinds of science in elementary school, from astronomy to zoology. This fun-to-read educational book for kids introduces young learners to the scientists behind some of the world's most fascinating scientific discoveries. ACCLAIMED AUTHOR: Kate Messner is an award-winning children's author of 50+ tremendously popular children's books, and her science-themed picture books have earned especially high acclaim. Her informative, lyrical text has made her nonfiction a fan-favorite among teachers and parents. Perfect for: Teachers and librarians looking for STEM-themed picture books  Parents, grandparents, and caregivers seeking engaging nonfiction picture books  A distinctive gift for a science-loving child  Fans of Kate Messner books, the Who Is/Who Was biography series, and books about scientific discoveries"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300105751,
+          "digitalId": "B0462863-584D-42F5-82D4-C1CBF1BBDDD6",
+          "otherAuthors": [
+            "Meskimen, Taylor."
+          ],
+          "isbns": [
+            "9798894861319 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Prince Frederick : Recorded Books"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "How does a kid grow up to become a scientist? This enthralling nonfiction picture book from New York Times  bestselling author Kate Messner explores the unexpected beginnings behind some of the most fascinating  discoveries in scientific history. Before the world's great scientists were scientists, they were, in fact, doing all the things kids do: Taking things apart, putting things together, gazing up at the night sky, drawing, imagining, building, and exploring. Things that scientists do, too. This book of unexpected beginnings powerfully shows that the great scientists of the future could be practically  anyone . . . including you. Written by Kate Messner, bestselling author of the acclaimed Over and Under nature  book series and more than fifty books for young readers, and beautifully illustrated by Julia Kuo, this is a  book to gift to any curious kid interested in STEM topics, fascinated by scientific discoveries, and inspired by  biographies of people whose work has had an impact on the world. CALLING FUTURE SCIENTISTS: Where are today's future scientists? As this book shows, they could be  practically anyone doing anything, including the kids reading this book! CURRICULAR CONNECTION: Students discover all kinds of science in elementary school, from astronomy  to zoology. This fun-to-read educational book for kids introduces young learners to the scientists behind some  of the world's most fascinating scientific discoveries. ACCLAIMED AUTHOR: Kate Messner is an award-winning children's author of 50+ tremendously popular  children's books, and her science-themed picture books have earned especially high acclaim. Her informative,  lyrical text has made her nonfiction a fan-favorite among teachers and parents."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Taylor Meskimen."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "This book can read your mind",
+      "author": "Lloyd, Susannah",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711241442?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711241442?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780711241442?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205610031,
+          "otherAuthors": [
+            "Grant, Jacob, 1984- illustrator."
+          ],
+          "isbns": [
+            "9780711241442",
+            "0711241449"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Frances Lincoln Children's Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Scientists Juvenile fiction.",
+            "Elephants Juvenile fiction.",
+            "Imagination Juvenile fiction.",
+            "Elephants.",
+            "Scientists."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 24 x 28 cm"
+          ],
+          "summary": [
+            "You have opened a very special book. This book can do something that has never been achieved before. This book can read your mind. I will just need you to think of something, but whatever you do, don't think of anything silly. You know, like a pink elephant. When the page is turned, sure enough, a pink elephant appears! This funny interactive book plays on the idea that when you're told not to think of something, somehow it is all you can think about. As the book continues, and more and more silliness ensues, the scientist is distraught but there is plenty of fun in store for the reader!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Preschool."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204498470,
+          "digitalId": "824FFE0D-200D-4C68-9B56-72C22D6CD170",
+          "otherAuthors": [
+            "Grant, Jacob, 1984- illustrator."
+          ],
+          "isbns": [
+            "9780711241466"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "edition": [
+            "Illustrated."
+          ],
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Scientists.",
+            "Elephants.",
+            "Imagination Juvenile fiction.",
+            "Elephants Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Games.",
+            "Humor (Nonfiction).",
+            "Reference."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Frankenstein",
+      "seriesTitle": [
+        "Easier classics."
+      ],
+      "author": "Shelley, Mary Wollstonecraft, 1797-1851",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802633542?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802633542?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781802633542?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300087279,
+          "otherAuthors": [
+            "Barder, Gemma, adapter.",
+            "Moffat, Nick, illustrator."
+          ],
+          "isbns": [
+            "9781802633542",
+            "1802633545"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Leicester : Sweet Cherry Publishing Limited"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Frankenstein's Monster (Fictitious character) Juvenile fiction.",
+            "Frankenstein, Victor (Fictitious character) Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "143 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"Enjoy Every Cherry's new adaptation of Easier Classics' Frankenstein featuring illustrations, sensory features, and glossary descriptions to aid in reading comprehension and accessibility. Our shorter versions of the text allow for the same great stories to be delivered in a condensed but still equally fun and entertaining edition of Mary Shelley's spooky book. This story follows Victor Frankenstein as he finds out what will happen when he pushes the limits of science too far. After trying to create a human, he creates a frightening monster that will change his life forever...\" -- From Amazon.ca."
+          ],
+          "notes": [
+            "\"Every Cherry.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300124542,
+          "isbns": [
+            "9780192789129",
+            "0192789120"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Oxford : Oxford University Press",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Frankenstein, Victor (Fictitious character) Juvenile fiction.",
+            "Frankenstein's Monster (Fictitious character) Juvenile fiction.",
+            "Children's stories."
+          ],
+          "physicalDescription": [
+            "249 pages ; 20 cm"
+          ],
+          "summary": [
+            "\"This Oxford Children's Classic features an introduction by Kiran Millwood Hargrave and other bonus material including insights for readers, facts, activities, and more . . . Victor Frankenstein is obsessed with creating life using electricity. He stitches together a collection of stolen body parts and shocks it into being. Horrified by his own creation, he rejects the monster. Isolated and shunned by society, it becomes set on revenge.\"-- Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300163953,
+          "isbns": [
+            "9781665963060",
+            "1665963069",
+            "9781665963053",
+            "1665963050"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Aladdin hardcover/paperback edition."
+          ],
+          "publisher": [
+            "New York : Aladdin"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Frankenstein's Monster (Fictitious character) Fiction.",
+            "Frankenstein, Victor (Fictitious character) Fiction.",
+            "Regeneration (Biology) Fiction.",
+            "Scientists Fiction.",
+            "Monsters Fiction.",
+            "Young adult fiction."
+          ],
+          "physicalDescription": [
+            "324 pages ; 22 cm."
+          ],
+          "summary": [
+            "A monster assembled by a scientist from parts of dead bodies develops a mind of his own as he learns to loathe himself and hate his creator."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203067213,
+          "isbns": [
+            "9781847493507",
+            "1847493505"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "New edition."
+          ],
+          "publisher": [
+            "Richmond, Surrey : Alma Classics"
+          ],
+          "publishDate": "2013.",
+          "subjects": [
+            "Frankenstein, Victor (Fictitious character) Fiction.",
+            "Frankenstein's Monster (Fictitious character) Fiction."
+          ],
+          "physicalDescription": [
+            "207 pages : illustrations ; 20 cm"
+          ],
+          "summary": [
+            "Horror fiction. Part of Alma Classics Evergreens series, this new edition of Frankenstein contains pictures and an extensive section on Shelley's life and works."
+          ],
+          "notes": [
+            "First published: 1881."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203467809,
+          "digitalId": "4B9A5D83-6560-422F-A08C-4C9AC9D77109",
+          "isbns": [
+            "9781602911482"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "Costa Mesa : Saddleback Educational Publishing"
+          ],
+          "publishDate": "2011.",
+          "subjects": [
+            "Monsters",
+            "Horror tales, English",
+            "Horror tales",
+            "Scientists",
+            "Fiction.",
+            "Comic and Graphic Books.",
+            "Switzerland Geneva"
+          ],
+          "summary": [
+            "When Victor Frankenstein, a brilliant scientist, tries to create life in his laboratory, the result is an ugly monster. Instantly feared by all who see him, the hated monster is driven into the countryside. Never given a chance at friendship or human companionship, the monster plots a terrible revenge!"
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Kindergarten",
+            "140L Lexile Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 203242578,
+          "digitalId": "FC979E28-965C-4766-AC54-4ADD06C1439C",
+          "isbns": [
+            "0594083230 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Barnes & Noble World Digital Library"
+          ],
+          "publishDate": "2002.",
+          "subjects": [
+            "Fiction.",
+            "Classic Literature.",
+            "Horror.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The legacy of  Frankenstein  or  The Modern Prometheus , one of the most famous of the English Gothic novels of the eighteenth and nineteenth centuries, lives on through the modern cultural icons of the mad scientist and the demonic creation that always seem to threaten to destroy humankind. Through Victor Frankenstein, Shelley addresses the triumph of scientific knowledge in eighteenth-century England over the superstitions and bigotry of religious vanity in the understanding of nature, a process that began a century earlier with the Age of the Enlightenment."
+          ],
+          "notes": [
+            "Title from eBook information screen.."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 9 - Text Difficulty 12"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The orca scientists",
+      "seriesTitle": [
+        "Scientists In the Field."
+      ],
+      "author": "Perez Valice, Kim",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544898264?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544898264?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544898264?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203180718,
+          "otherAuthors": [
+            "Comins, Andy, illustrator, photographer.",
+            "Center for Whale Research."
+          ],
+          "isbns": [
+            "9780544898264",
+            "0544898265"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Killer whale Juvenile literature.",
+            "Killer whale Conservation Juvenile literature.",
+            "Marine biologists United States Juvenile literature.",
+            "Illustrated books."
+          ],
+          "physicalDescription": [
+            "79 pages : illustrations (chiefly color), color maps, portraits ; 24 x 29 cm"
+          ],
+          "summary": [
+            "\"Follow the scientists working in the Pacific Northwest to learn about the orca whale population there, as they race to save these remarkable mammals from extinction. Perfect for fans of The Great White Shark Scientist and readers looking for excellent nonfiction on this high-interest animal.\"-- Provided by publisher."
+          ],
+          "contents": [
+            "Prologue -- Beyond black and white -- Best catch of the day -- Pump up the volume -- It makes perfect scents -- Mission Mobley soars -- What the future holds -- How to get involved and stay informed."
+          ],
+          "notes": [
+            "\"Pacific Northwest, Where science meets adventure\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Middle School",
+            "Ages 10-12.",
+            "Grades 4 to 6."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204380643,
+          "digitalId": "1EEB3F02-32F4-4285-BA10-C4B627B26BB1",
+          "otherAuthors": [
+            "Comins, Andy, illustrator, photographer.",
+            "Center for Whale Research."
+          ],
+          "isbns": [
+            "9781328476746"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Illustrated books.",
+            "Marine biologists United States Juvenile literature.",
+            "Killer whale Conservation Juvenile literature.",
+            "Killer whale Juvenile literature.",
+            "Biography & Autobiography.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Follow the scientists working in the Pacific Northwest as they race to save these remarkable whales from extinction. Includes amazing photographs     Orcas have a reputation for being bloodthirsty, but that myth is being debunked as scientists learn more about these \"killer\" animals. In this book, readers of all ages can follow scientists in the Pacific Northwest who study the nuanced communication patterns, family structure, and socialization of orca whales, from marine biologists to specialists in the study of sound.    With stunning photography and attention to field-based detail,  The Orca Scientists  paints a vivid picture of the individuals who have made it their life's work to better understand orcas, as well as the whales they are helping to save.    \"Fans of these popular marine mammals will be intrigued.\"- Kirkus Reviews"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 6",
+            "MG/Middle grades (4th-8th)",
+            "7.5 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Little dreamers : Visionary women around the world.",
+      "author": "Harrison, Vashti",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316475174?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316475174?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780316475174?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203796425,
+          "variantTitles": [
+            "Visionary women around the world"
+          ],
+          "isbns": [
+            "9780316475174",
+            "0316475173"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Little, Brown and Company",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Women Biography Juvenile literature.",
+            "Women artists Biography Juvenile literature.",
+            "Women scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "89 pages : color illustrations ; 23 cm"
+          ],
+          "summary": [
+            "Featuring the true stories of women creators and thinkers from around the world, throughout history, this book shows that sometimes seeing things a little differently can lead to big changes. Some names are well known, some are not, but all the women had a lasting effect on the fields they workd in. Whether they were breaking ground for innovative structures or breaking rules and creating new ones, the women profiled here not only made a place for themselves in the world but made the world a better place to live."
+          ],
+          "contents": [
+            "Fatima al-Fihri -- Wang Zhenyi -- Ada Lovelace -- Marie Curie -- Edith Head -- Peggy Guggenheim -- Grace Hopper -- Frida Kahlo -- Gyo Fujikawa -- Katherine Dunham -- Mary Blair -- Chien-Shiung Wu -- Bessie Blount Griffin -- Hedy Lamarr -- Claudia Jones -- Sister Rosetta Tharpe -- Asima Chatterjee -- Maya Deren -- Amalia Hernández -- Violeta Para -- Sister Corita Kent -- Esther Afua Ocloo -- Monir Shahroudy -- Farmanfarmaian -- Mahasweta Devi -- Vera Rubin -- Yayoi Kusama -- Toni Morrison -- Esther Mahlangu -- Thancoupie Gloria Fletcher -- Eiko Ishioka -- Wangari Maathai -- Calypso Rose -- Flossie Wong-Stahl -- Zaha Hadid -- Maya Lin -- More little dreamers."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 8-12."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204407020,
+          "digitalId": "BBC690D2-806B-4A4B-9F12-B520BEA3B034",
+          "isbns": [
+            "9780316417617"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Women scientists.",
+            "Women artists.",
+            "Board books.",
+            "Women scientists.",
+            "Women artists.",
+            "Women Biography.",
+            "Board books.",
+            "Women scientists Juvenile literature.",
+            "Women artists Juvenile literature.",
+            "Biography & Autobiography.",
+            "History.",
+            "Reference."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "From the New York Times bestselling author of  Little Leaders: Bold Women in Black History  comes the highly anticipated follow-up, a beautifully illustrated collectible detailing the lives of women creators around the world.  Featuring the true stories of 40 women creators, ranging from writers to inventors, artists to scientists,  Little Dreamers: Visionary Women Around the World  inspires as it educates. Readers will meet trailblazing women like Mary Blair, an American modernist painter who had a major influence on how color was used in early animated films, actor/inventor Hedy Lamar, environmental activist Wangari Maathai, architect Zaha Hadid, filmmaker Maya Deren, and physicist Chien-Shiung Wu. Some names are known, some are not, but all of the women had a lasting effect on the fields they worked inches The charming, information-filled full-color spreads show the Dreamers as both accessible and aspirational so reader knows they, too, can grow up to do something amazing."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "This little scientist : a discovery primer",
+      "author": "Holub, Joan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534401082?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534401082?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534401082?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204001601,
+          "otherAuthors": [
+            "Roode, Daniel, illustrator."
+          ],
+          "isbns": [
+            "9781534401082",
+            "1534401083"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon board book edition."
+          ],
+          "publisher": [
+            "New York, New York : Little Simon, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Board books.",
+            "Scientists.",
+            "Board books.",
+            "Newton, Isaac, 1642-1727 Juvenile literature.",
+            "Merian, Maria Sibylla, 1647-1717 Juvenile literature.",
+            "Curie, Marie, 1867-1934 Juvenile literature.",
+            "Einstein, Albert, 1879-1955 Juvenile literature.",
+            "Hopper, Grace Murray Juvenile literature.",
+            "Johnson, Katherine G. Juvenile literature.",
+            "Goodall, Jane, 1934- Juvenile literature.",
+            "Wu, Sau Lan, Juvenile literature.",
+            "Hawking, Stephen, 1942-2018 Juvenile literature.",
+            "Tyson, Neil deGrasse Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : color illustrations ; 16 cm"
+          ],
+          "summary": [
+            "\"Learn all about scientists who changed history in this engaging and colorful board book perfect for inventors-in-training!\"--Amazon.com."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Scientists for a day : first science words",
+      "seriesTitle": [
+        "STEAM stories"
+      ],
+      "author": "Harper, MacKenzie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781953344519?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781953344519?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781953344519?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205803333,
+          "otherAuthors": [
+            "Lewis, Liza, illustrator."
+          ],
+          "isbns": [
+            "9781953344519",
+            "1953344518"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Livingston, NJ : Little Genius Books",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Scientists Juvenile fiction.",
+            "Vocabulary Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "Containing first science STEAM words for preschoolers, this hands-on board book follows Ella and her friend as they spend the day with Ella's mom, a real scientist who has them do a fun experiment."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Foote was first! : how one curious woman connected carbon dioxide and climate change",
+      "author": "Bryant, Jen, 1960-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062957061?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062957061?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062957061?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300175458,
+          "variantTitles": [
+            "How one curious woman connected carbon dioxide and climate change"
+          ],
+          "otherAuthors": [
+            "Bates, Amy June, illustrator."
+          ],
+          "isbns": [
+            "9780062957061",
+            "0062957066"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Quill Tree Books"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Foote, Eunice, 1819-1888 Juvenile literature.",
+            "Scientists United States Biography Juvenile literature.",
+            "Women scientists United States Biography Juvenile literature.",
+            "Women inventors United States Biography Juvenile literature.",
+            "Scientists United States Biography Pictorial works Juvenile literature.",
+            "Scientists",
+            "Women scientists",
+            "United States"
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 27 cm."
+          ],
+          "summary": [
+            "From award-winning author Jen Bryant and bestselling illustrator Amy June Bates comes the incredible true story of STEMinist Eunice Foote, the woman who discovered the science behind global warming.From a young age, Eunice Foote's natural curiosity led her to learn more about how the world worked. What makes milk turn to butter? Why can I see my breath when it's cold? Why are there different kinds of clouds? By the time she grew up, scientists announced that the Earth was much hotter in the past, and that the warmer temperatures must mean the Earth's core was the cause. But Eunice thought something else could be at work. Through experiments and tests, Eunice's curiosity helped her make an important breakthrough: the greenhouse effect.Jen Bryant and Amy June Bates have created a remarkable biography about Eunice Foote, the first person to discover that trapped carbon dioxide warms the Earth's surface--a process that causes climate change, which impacts the world to this day."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The girl who tested the waters : Ellen Swallow, environmental scientist",
+      "author": "Daniele, Patricia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781536230055?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781536230055?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781536230055?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300109121,
+          "variantTitles": [
+            "Ellen Swallow, environmental scientist"
+          ],
+          "otherAuthors": [
+            "Wu, Junyi (Graphic designer), illustrator."
+          ],
+          "isbns": [
+            "9781536230055",
+            "1536230057"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Somerville, Massachusetts : MIT Kids Press",
+            ""
+          ],
+          "publishDate": "2025",
+          "subjects": [
+            "Richards, Ellen H. (Ellen Henrietta), 1842-1911 Juvenile literature.",
+            "Home economists United States Biography Juvenile literature.",
+            "Women scientists United States Biography Juvenile literature.",
+            "Women chemists United States Biography Juvenile literature.",
+            "Women ecologists United States Biography Juvenile literature.",
+            "Home economists United States Biography."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 27 cm"
+          ],
+          "summary": [
+            "Ellen Swallow found a friend in nature and a lifelong love of science as a child exploring the woods around her family's home. She was a voracious learner with an interest in chemistry, and continuing her education at the newly established Massachusetts Institute of Technology seemed a good fit. But in 1871, many believed that women belonged in the home, not in schools dedicated to the study of science. Ellen thought, why not both? She believed science could help solve the problems of everyday life, including the pollution she observed in Boston, so when offered the chance to study the city's water systems, she seized it. What she found would change the way we think about clean water. In her lifetime, Ellen pioneered science education for women, advocated for a healthier environment, and helped develop the field of ecology. The Girl Who Tested the Waters, with engaging text and soft, inviting illustrations, portrays a woman ahead of her time and her tireless efforts to bring about change for good. Curious readers can find more in the back matter, including a time line, an author's note, source notes, and a bibliography."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Scientists are saving the world! : so who is working on time travel?",
+      "author": "Gwinn, Saskia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781913520540?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781913520540?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781913520540?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205817873,
+          "otherAuthors": [
+            "Albero, Ana, illustrator."
+          ],
+          "isbns": [
+            "9781913520540",
+            "1913520544",
+            "9781913520892",
+            "1913520897"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Magic Cat Publishing"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "If all scientists are saving the world... who is working on time travel? Scientists who are zooming through space, protecting the planet, singing with whales... and even learning how things travel through time. Get ready to meet more than 20 inspiring, real-life scientists - who are also superheroes - and discover how they started asking questions... just like you!"
+          ],
+          "notes": [
+            "Paperback edition published in 2024 with ISBN 9781913520892."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 315
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 32
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 22
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 8
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 6
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 2
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 315
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 266
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 262
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 245
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 239
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 237
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 232
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 227
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 219
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 208
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 206
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 202
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 195
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 189
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 175
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 168
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 167
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 163
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 162
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 157
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 141
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 35
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 14
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 11
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 315
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 238
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 18
+        }
+      ]
+    }
+  ]
+}

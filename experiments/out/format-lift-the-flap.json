@@ -1,0 +1,1515 @@
+{
+  "totalRecords": 2334,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "揭秘世界地图 = Lift-the-flap : picture atlas | Jie mi shi jie di tu = Lift-the-flap : picture atlas",
+      "seriesTitle": [
+        "乐乐趣科普翻翻书. | Le le qu ke pu fan fan shu."
+      ],
+      "author": "弗里斯, 埃里克斯 (Children's author) | Frith, Alex (Children's author)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787541765308?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787541765308?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787541765308?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203773285,
+          "variantTitles": [
+            "Lift-the-flap : picture atlas"
+          ],
+          "otherAuthors": [
+            "Leake, Kate, illustrator.",
+            "Lei, Ting, translator."
+          ],
+          "nativeOtherAuthors": [
+            "利克, 凯特, illustrator.",
+            "雷婷, translator."
+          ],
+          "isbns": [
+            "9787541765308",
+            "7541765309"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Xi'an : Shanxi xin hua chu ban chuan mei ji tuan wei lai chu ban she"
+          ],
+          "nativePublisher": [
+            "西安 : 陕西新华出版传媒集团未来出版社"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Children's atlases Juvenile literature.",
+            "World maps, Pictorial Juvenile literature.",
+            "Lift-the-flap books Juvenile literature."
+          ],
+          "physicalDescription": [
+            "15 unnumbered pages : color illustrations ; 27 cm. + 1 folded map."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Whose nest is best? : a lift-the-flap book",
+      "author": "Stemple, Heidi E. Y",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665917087?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665917087?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665917087?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205822011,
+          "variantTitles": [
+            "Lift-the-flap book"
+          ],
+          "otherAuthors": [
+            "Lucas, Gareth, illustrator."
+          ],
+          "isbns": [
+            "9781665917087",
+            "1665917083"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon edition."
+          ],
+          "publisher": [
+            "New York : Little Simon, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Birds Nests Juvenile literature.",
+            "Birds Infancy Juvenile literature.",
+            "Toy and movable books.",
+            "Board books.",
+            "Board books.",
+            "Lift-the-flap books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm"
+          ],
+          "summary": [
+            "Birdwatching has never been easier in this delightful novelty board book with lift-the-flaps that reveal which bird belongs in each unique nest. From robins to owls to orioles and more, birdwatchers of all ages can learn about egg colors, nest building, and the joyful quirks of the avian world that takes flight right outside our windows."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Engineering",
+      "seriesTitle": [
+        "Usborne lift-the-flap book."
+      ],
+      "author": "Hall, Rose",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474943659?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474943659?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474943659?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203204836,
+          "variantTitles": [
+            "Usborne lift the flap engineering"
+          ],
+          "otherAuthors": [
+            "Cosgrove, Lee, illustrator."
+          ],
+          "isbns": [
+            "9781474943659",
+            "1474943659"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Engineering Juvenile literature.",
+            "Lift-the-flap books.",
+            "Toy and movable books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : color illustrations ; 31 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Scared unicorn : a lift-the-flap book",
+      "seriesTitle": [
+        "First feelings"
+      ],
+      "author": "Hardy, Samara",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781954738959?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781954738959?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781954738959?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206088965,
+          "isbns": [
+            "9781954738959",
+            "1954738951"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Clever Publishing",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Fear Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Unicorns Juvenile fiction.",
+            "Lift-the-flap books Specimens.",
+            "Toy and movable books Specimens.",
+            "Emotions.",
+            "Fear.",
+            "Lift-the-flap books.",
+            "Toy and movable books.",
+            "Unicorns."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 17 cm."
+          ],
+          "summary": [
+            "\"This adorable book is the perfect way to introduce children to emotions. Toddlers can lift the flaps to see all of the things that make Unicorn and her friends feel scared, such as a visit to the doctor or a loud thunderstorm -- and what will help them overcome their fears!\"--Back cover."
+          ],
+          "notes": [
+            "\"14 flaps!\"--Cover.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "2+ years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Lift-the-flap numbers",
+      "author": "Channing, Margot",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1911242970?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1911242970?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1911242970?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202831663,
+          "otherAuthors": [
+            "Exelby, Ilana, illustrator."
+          ],
+          "isbns": [
+            "1911242970",
+            "9781911242970",
+            "9781911242956"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Brighton : Scribblers"
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Counting Juvenile literature.",
+            "Lift-the-flap books Specimens.",
+            "Board books.",
+            "Toy and movable books Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "Simple text and illustrations invite readers to count the objects in the pictures and then lift the flaps to find the correct answer."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "ABC zoo : a lift-the-flap book",
+      "author": "Campbell, Rod, 1945-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035057610?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035057610?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035057610?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300170258,
+          "isbns": [
+            "9781035057610",
+            "1035057611"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Macmillan Children's Books"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "English language Alphabet Pictorial works Juvenile literature.",
+            "Zoo animals Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "18 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "Originally published: 1996."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 203866998,
+          "variantTitles": [
+            "A B C zoo : a lift-the-flap book"
+          ],
+          "isbns": [
+            "9781509898367",
+            "1509898360"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Macmillan Children's Books",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Alphabet Pictorial works Juvenile literature.",
+            "Lift-the-flap books.",
+            "Zoo animals Pictorial works Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "18 unnumbered pages : color illustrations ; 18 cm"
+          ],
+          "summary": [
+            "Rod Campbell's classic alphabet and numbers board books FARM 123 and ABC ZOO can now be enjoyed as large paperback editions. In ABC ZOO you can make all sorts of animal friends as you read through the alphabet all the way to Z for zebras. With bright, bold illustrations and a simple, engaging text, plus lots of flaps to lift, learning your ABCs has never been so much fun. The perfect first alphabet book."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages.",
+            "First published in 1996 by Campbell Books.",
+            "2 yrs+"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Human body : lift the flap",
+      "author": "Soroldoni, Enrica",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788854416604?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788854416604?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9788854416604?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205289412,
+          "otherAuthors": [
+            "Pagliari, Emanuela, author.",
+            "Mattarelli, Diego, author.",
+            "Trionfetti, Rossella, illustrator.",
+            "Sempel, Inga, translator.",
+            "Suchomel-Casey, Michele, editor."
+          ],
+          "isbns": [
+            "9788854416604",
+            "8854416606"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Milan, Italy : White Star Kids",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Human body Miscellanea Juvenile literature.",
+            "Human physiology Miscellanea Juvenile literature.",
+            "Lift-the-flap books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "19 pages : color illustrations ; 31 cm"
+          ],
+          "notes": [
+            "Lift-the-flap board book."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Animal rhymes : a lift-the-flap book",
+      "author": "Campbell, Rod, 1945-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781509805488?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781509805488?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781509805488?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202496523,
+          "isbns": [
+            "9781509805488",
+            "1509805486"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London Macmillan Children's",
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Animals Pictorial works.",
+            "Children's poetry, English.",
+            "Lift-the-flap books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly colour illustrations ; 18 cm"
+          ],
+          "notes": [
+            "Originally published: London: Campbell, 1991."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Alphablocks fun phonics : a lift-the-flap book",
+      "author": "Cotton, Tori",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781782269953?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781782269953?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781782269953?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206041673,
+          "isbns": [
+            "9781782269953",
+            "1782269959"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Leicester : Sweet Cherry Publishing",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "English language Alphabet Pictorial works Juvenile literature.",
+            "Vocabulary Pictorial works Juvenile literature.",
+            "Board books.",
+            "Lift-the-flap books.",
+            "Toy and movable books.",
+            "Board books.",
+            "English language Alphabet.",
+            "Lift-the-flap books.",
+            "Vocabulary."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : chiefly colour illustrations ; 26 cm"
+          ],
+          "summary": [
+            "\"Learn and play with the Alphablocks. This fun lift-the-flap book helps young children to recognise letters A to Z, use phonics skills to read and build words, and match words to pictures. All with the help of their Alphablock friends!\" -- Back cover."
+          ],
+          "notes": [
+            "\"As seen on Cbeebies BBC\"--Cover.",
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Masks : a lift-the-flap book",
+      "author": "Hill, A. H",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781946000668?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781946000668?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781946000668?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205718814,
+          "otherAuthors": [
+            "Bianda, Junissa, illustrator."
+          ],
+          "isbns": [
+            "9781946000668",
+            "1946000663"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "2021 edition."
+          ],
+          "publisher": [
+            "New York, NY : Starry Forest Books, Inc."
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Masks Juvenile fiction.",
+            "Lift-the-flap books.",
+            "Board books.",
+            "Lift-the-flap books.",
+            "Masks."
+          ],
+          "physicalDescription": [
+            "14 unnumbered pages : color illustrations ; 23 cm"
+          ],
+          "summary": [
+            "Lift the flaps to see the friendly faces."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "The Obamas : a lift-the-flap book",
+      "author": "Lemay, Violet",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781947458826?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781947458826?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781947458826?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204069693,
+          "isbns": [
+            "9781947458826",
+            "1947458825"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Baltimore, MD : Duo Press",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Obama, Barack Family Juvenile literature.",
+            "Obama family Juvenile literature.",
+            "Presidents United States Family Juvenile literature.",
+            "Lift-the-flap books Specimens.",
+            "Board books Specimens.",
+            "Obama, Barack.",
+            "Obama family.",
+            "Families.",
+            "Lift-the-flap books.",
+            "Presidents Family.",
+            "United States."
+          ],
+          "physicalDescription": [
+            "22 unnumbered pages : color illustrations ; 19 cm"
+          ],
+          "summary": [
+            "This lift-the-flap board book introduces young readers to the inspiring lives of Barack and Michelle Obama."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 0-10."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Lift-the-flap biology",
+      "seriesTitle": [
+        "Usborne STEM."
+      ],
+      "author": "James, Alice (Editor)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474969154?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474969154?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474969154?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206103105,
+          "variantTitles": [
+            "Usbrone lift-the-flap biology"
+          ],
+          "otherAuthors": [
+            "Hernández, Mar (Illustrator), illustrator."
+          ],
+          "isbns": [
+            "9781474969154",
+            "1474969151"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing Ltd."
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Biology Juvenile literature."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : illustrations (chiefly colour) ; 29 cm."
+          ],
+          "summary": [
+            "An exciting introduction to biology, from tiny bacteria to whole ecosystems, and all the living things in between. The book has an awe-inspiring, general knowledge feel and beautiful illustrations. An engaging, accessible introduction to biology as a subject of its own. Interactive, with lots of flaps to lift and discover."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Rabbit's nap : a lift-the-flap book",
+      "seriesTitle": [
+        "Tales from Acorn Wood"
+      ],
+      "author": "Donaldson, Julia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529023527?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529023527?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529023527?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204121098,
+          "otherAuthors": [
+            "Scheffler, Axel, illustrator."
+          ],
+          "isbns": [
+            "9781529023527",
+            "1529023521"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Macmillan Children's Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Rabbits Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : colour illustrations ; 17 x 21 cm."
+          ],
+          "summary": [
+            "Rabbit is trying to get to sleep, but everyone is being so noisy. Lift the flaps and find out who is keeping Rabbit awake! Will she ever have her nap? With sturdy flaps on every spread and rhyming stories that are a joy to read aloud, the TALES FROM ACORN WOOD have been delighting both parents and toddlers for twenty years."
+          ],
+          "notes": [
+            "Originally published: London : Campbell Books, 2000.",
+            "Cover title.",
+            "On board pages.",
+            "\"Celebrating 20 years\" --cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Preschool."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 201239265,
+          "otherAuthors": [
+            "Scheffler, Axel, illustrator."
+          ],
+          "isbns": [
+            "9781447273417 (board bk.)",
+            "1447273419 (board bk.)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "15th anniversary edition."
+          ],
+          "publisher": [
+            "London : Macmillan Children's Books"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Rabbits Juvenile fiction.",
+            "Stories in rhyme.",
+            "Board books.",
+            "Lift-the-flap books Specimens."
+          ],
+          "physicalDescription": [
+            "12 unnumbered pages : color illustrations ; 17 x 21 cm."
+          ],
+          "notes": [
+            "Originally published: London : Campbell Books, 2000.",
+            "Title from cover.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Peekaboo presents : a lift-the-flap book",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780763675677?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780763675677?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780763675677?s=LG"
+      },
+      "records": [
+        {
+          "brn": 201684270,
+          "otherAuthors": [
+            "Lunn, Corey A., illustrator."
+          ],
+          "isbns": [
+            "9780763675677",
+            "0763675679"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Somerville, Massachusetts : Candlewick Entertainment"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Lift-the-flap books Specimens Juvenile fiction.",
+            "Board books Juvenile fiction.",
+            "Christmas Juvenile fiction.",
+            "Gifts Juvenile fiction.",
+            "Lift-the-flap books Juvenile fiction.",
+            "Toy and movable books Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 18 cm"
+          ],
+          "summary": [
+            "A variety of presents are hiding underneath the Christmas tree, in a book that encourages readers to lift flaps to find each gift."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "I love you more than... : a lift-the-flap book.",
+      "seriesTitle": [
+        "Lovey-Dovey"
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781914011085?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781914011085?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781914011085?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205924946,
+          "isbns": [
+            "9781914011085",
+            "1914011082"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Tunbridge Wells : Tiny and Tim Ltd",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Animals Juvenile fiction.",
+            "Love Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 19 cm."
+          ],
+          "summary": [
+            "\"Lift the flaps to reveal super-cute animals and warm messages of love and affection. An adorable book to share with family and friends\"--Back cover."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205558271,
+          "variantTitles": [
+            "I love you more than"
+          ],
+          "otherAuthors": [
+            "Little Genius Books, publisher."
+          ],
+          "isbns": [
+            "1953344127",
+            "9781953344120"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Place of publication not identified] : Little Genius Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Parent and child Juvenile fiction.",
+            "Lift-the-flap books Specimens.",
+            "Toy and movable books Specimens.",
+            "Lift-the-flap books.",
+            "Parent and child.",
+            "Toy and movable books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 19 x 19 cm."
+          ],
+          "summary": [
+            "Humorous and adorable animal photographs and colorful illustrations combine to create this endearing book for parents to read to their little ones. Each spread begins \"I Love you more than...\" and in order to find just how much, the child lifts the full page flap for the reveal. I love you more than lions love to...\" ROAR! It's a year-round valentine children will love to snuggle up with as they are reminded of just how much they are loved."
+          ],
+          "notes": [
+            "\"Lovey-Dovey\"--Back cover.",
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "0-3 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaur adventure",
+      "author": "Green, Willow",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835443064?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835443064?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781835443064?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300109126,
+          "variantTitles": [
+            "Lift-the-flap : dinosaur adventure."
+          ],
+          "otherAuthors": [
+            "Deming, Susan, illustrator."
+          ],
+          "isbns": [
+            "9781835443064",
+            "1835443060"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Cottage Farm, UK : Autumn Publishing"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Lift-the-flap books.",
+            "Toy and movable books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : illustrations (colour) ; 23 cm"
+          ],
+          "summary": [
+            "It's time to adventure amongst the dinosaurs! Follow Dr Gella on a voyage across ancient lands to meet the most exciting creatures that once ruled the world! Lift the flaps to discover tons of interesting facts about how they lived, who they ate and more, in a prehistoric expedition like no other."
+          ],
+          "notes": [
+            "\"Over 50 flaps\"--Cover.",
+            "\"Lift-the-flap.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dinosaurs : lift-the-flap.",
+      "seriesTitle": [
+        "Fun flaps (Taffy Tales Press)"
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781738998098?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781738998098?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781738998098?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300200573,
+          "isbns": [
+            "9781738998098",
+            "1738998096"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Mono, ON : Taffy Tales Press",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Dinosaurs Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"Embark on a prehistoric adventure with Dinosaurs, a roar-some interactive board book packed with flaps, die-cuts, and vibrant illustrations! Young paleontologists will lift flaps to discover dinosaur friends, learn fun facts, and explore the lives of these ancient giants. Dinosaurs is a roar-some new title in Taffy Tales' best-selling Fun Flaps series! This chunky, interactive board book features vibrant illustrations, sturdy flaps, and playful die-cuts that invite little hands to explore the world of dinosaurs like never before. From the towering T. rex to the swift Velociraptor, each page introduces a new dinosaur friend with fun facts and engaging visuals that spark imagination and curiosity. Lift the flaps to uncover hidden surprises, explore dino habitats, and learn cool details about these ancient giants--where they lived, what they ate, and how they roamed the Earth millions of years ago\"--Amazon."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "For children."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Miss Bunny's shapes : a fun lift-the-flap book",
+      "author": "Baur, Becky",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781471145445?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781471145445?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781471145445?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202757481,
+          "variantTitles": [
+            "Shapes"
+          ],
+          "isbns": [
+            "9781471145445",
+            "1471145441"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Simon and Schuster"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Shapes Pictorial works Juvenile literature.",
+            "Rabbits Pictorial works Juvenile literature.",
+            "Toy and movable books Specimens.",
+            "Lift-the-flap books.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly colour illustrations ; 18 cm"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Lift-the-flap fairy tales",
+      "author": "Jennings, Emma (Designer)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780312520595?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780312520595?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780312520595?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202660267,
+          "otherAuthors": [
+            "Worms, Penny, author.",
+            "Oliver, Amy, author.",
+            "Ball, Victoria, illustrator."
+          ],
+          "isbns": [
+            "9780312520595",
+            "031252059X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Priddy Books"
+          ],
+          "publishDate": "[2016]",
+          "subjects": [
+            "Fairy tales.",
+            "Lift-the-flap books Specimens.",
+            "Board books.",
+            "Toy and movable books Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm"
+          ],
+          "summary": [
+            "Offers young readers the chance to find the hidden characters from seven classic fairy tales."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Priddy Books big ideas for little people\"--Page 4 of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "First rhymes : a lift-the-flap book",
+      "author": "Campbell, Rod, 1945-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529011999?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529011999?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529011999?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204445712,
+          "isbns": [
+            "9781529011999",
+            "152901199X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Macmillan Children's Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Children's poetry, English.",
+            "Nursery rhymes, English.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "A collection of traditional and brand new rhymes with a flap to lift on every page."
+          ],
+          "notes": [
+            "First published 1993 by Campbell Books.",
+            "Revised edition published 2006 by Campbell Book.",
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Preschool."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 202496526,
+          "isbns": [
+            "9781509805471",
+            "1509805478"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Macmillans Children's Books",
+            ""
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Children's poetry, English.",
+            "Nursery rhymes, English.",
+            "Lift-the-flap books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly colour illustrations ; 18 cm"
+          ],
+          "notes": [
+            "Title from cover.",
+            "Originally published: London: Campbell Books, 1993."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 2334
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 574
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 60
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 2
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 2
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 2
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 1424
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 901
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 6
+        },
+        {
+          "id": "hin",
+          "data": "Hindi",
+          "count": 4
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 3
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 1573
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 1478
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 1470
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 1311
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 1263
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 1255
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 1247
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 1211
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 1207
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 1205
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 1204
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 1192
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 1183
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 1180
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 1163
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 1142
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 1061
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 1030
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 1007
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 967
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 348
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 60
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 10
+        },
+        {
+          "id": "ru",
+          "data": "Repository Used Book Collection",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 2334
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 84
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 6
+        }
+      ]
+    }
+  ]
+}

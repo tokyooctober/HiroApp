@@ -1,0 +1,1803 @@
+{
+  "totalRecords": 1166,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "A tiger for breakfast",
+      "seriesTitle": [
+        "White wolves"
+      ],
+      "author": "Dhami, Narinder",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781472959584?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781472959584?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781472959584?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204005671,
+          "otherAuthors": [
+            "Corr, Christopher, illustrator."
+          ],
+          "isbns": [
+            "9781472959584",
+            "1472959582"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Bloomsbury Education",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Readers (Primary)",
+            "Farmers Juvenile fiction.",
+            "Tricksters Juvenile fiction.",
+            "Folklore India Juvenile fiction.",
+            "Farmers.",
+            "Folklore.",
+            "Readers (Primary)",
+            "Tiger.",
+            "Tricksters.",
+            "India."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Ram the farmer is in trouble. Bali the tiger has threatened to eat him, his wife and their children, unless Ram gives up his pretty white cow. But Reeta, Ram's clever wife, has a plan to outwit the hungry tiger..."
+          ],
+          "notes": [
+            "Originally published in 2011 by A & C Black."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Primary."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 13692109,
+          "isbns": [
+            "1408126524",
+            "9781408126523"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : A. & C. Black"
+          ],
+          "publishDate": "2010.",
+          "subjects": [
+            "Farmers Juvenile fiction.",
+            "Tigers Juvenile fiction.",
+            "Farmers' spouses Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 22 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger wild",
+      "author": "Millward, Gwen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593118153?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205585681,
+          "otherTitles": [
+            "Tiger Lily"
+          ],
+          "isbns": [
+            "9780593118153",
+            "0593118154"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Girls Conduct of life Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Human-animal relationships Juvenile fiction.",
+            "Runaway children Juvenile fiction.",
+            "Imaginary companions Juvenile fiction.",
+            "Emotions Juvenile fiction.",
+            "Human behavior Juvenile fiction.",
+            "Tiger",
+            "Human-animal relationships",
+            "Imaginary companions",
+            "Runaway children",
+            "Emotions",
+            "Girls Conduct of life",
+            "Human behavior",
+            "Girls"
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : color illustrations ; 28 cm"
+          ],
+          "summary": [
+            "Struggling to keep her emotions in check whenever they get very big, a little girl attempts to resist the naughty impulses of a disruptive imaginary best friend who convinces her to run away on an adventure of endless stomping, jumping, and wild fun."
+          ],
+          "notes": [
+            "\"First published as Tiger Lily in the UK by Egmont UK Ltd. in 2018\"--Page before title page."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "A busy day in the neighborhood : a busy book with flaps to lift, textures to touch, and tons of grr-ific fun!",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Spinner, Cala",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665933384?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665933384?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665933384?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205973682,
+          "otherTitles": [
+            "Adaptation of (expression): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781665933384",
+            "1665933380"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Deluxe edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Neighborhoods Juvenile fiction.",
+            "Community life Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 28 cm."
+          ],
+          "summary": [
+            "Encourages young readers to follow along as Daniel visits several places in his neighborhood, including the school, the bakery, and the library."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Inspired by the classic series Mister Rogers' Neighborhood\"--Page 4 of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 202745693,
+          "otherTitles": [
+            "Daniel Tiger's neighborhood (Television program)."
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781481485838",
+            "1481485830"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Simon Spotlight, an imprint of Simon & Schuster Children's Publishing Division"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Board books.",
+            "Lift-the-flap books Specimens.",
+            "Textured books Specimens.",
+            "Tiger Juvenile fiction.",
+            "Neighborhoods Juvenile fiction.",
+            "Toy and movable books Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 27 cm."
+          ],
+          "summary": [
+            "Encourages young readers to follow along as Daniel visits several places in his neighborhood, including the school, the bakery, and the library."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Inspired by the classic series Mister Rogers' Neighborhood\"--Page 4 of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Daniel Tiger's delightful tales",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Santomero, Angela C",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665973748?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665973748?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665973748?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095732,
+          "otherTitles": [
+            "Adaptation of (expression): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "variantTitles": [
+            "At head of title: Daniel Tiger's neighborhood"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781665973748",
+            "1665973749"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Talent shows Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "58 pages : colour illustrations ; 27 cm."
+          ],
+          "summary": [
+            "\"Join Daniel Tiger in three terrific tales in one padded, hardcover bind-up with a textured cover that looks and feels like Daniel's sweater! There's nothing little fans can't learn with their friend Daniel Tiger! At a school talent show, see what makes everyone special. Plus, find out how to be a good friend, and then say goodnight after a busy day!\"--Amazon.com"
+          ],
+          "contents": [
+            "You are special, Daniel Tiger! -- I will always be your friend! -- Goodnight, Daniel Tiger."
+          ],
+          "notes": [
+            "\"The stories in this book were adapted from previously published books\"--Back cover.",
+            "\"Inspired by the classic series Mister Rogers' Neighborhood\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 1,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Daniel has an allergy",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Santomero, Angela C",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534409057?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534409057?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534409057?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203911457,
+          "otherTitles": [
+            "Adaptation of (expression): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "variantTitles": [
+            "Daniel Tiger's neighborhood. Daniel has an allergy"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781534409057",
+            "153440905X",
+            "9781544409064"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight paperback edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight, an imprint of Simon & Schuster Children's Publishing Division",
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Food allergy in children Juvenile fiction.",
+            "Physicians Juvenile fiction.",
+            "Food allergy in children.",
+            "Physicians.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 x 21 cm."
+          ],
+          "summary": [
+            "Daniel Tiger learns how to manage a food allergy."
+          ],
+          "notes": [
+            "At head of title: Daniel Tiger's neighborhood.",
+            "\"Based on the screenplay \"Daniel's Allergy\" written by Angela C. Santomero.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 2-5."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Calm at the restaurant",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Schwartz, Alexandra Cassel",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1534451935?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1534451935?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1534451935?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205615344,
+          "otherTitles": [
+            "Adaptation (of work): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator.",
+            "Jacobson, Mary, screenwriter."
+          ],
+          "isbns": [
+            "1534451935",
+            "9781534451933"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Simon Spotlight"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Dinners and dining Juvenile fiction.",
+            "Restaurants Juvenile fiction.",
+            "Restaurants",
+            "Tiger",
+            "Dinners and dining"
+          ],
+          "physicalDescription": [
+            "15 unnumbered pages : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"Daniel Tiger and Jodi Platypus are going to a restaurant with their families. How will they stay calm?\"--Page [4] of cover."
+          ],
+          "notes": [
+            "\"Based on the screenplay written by Mary Jacobson.\"",
+            "\"Includes a tic-tac-toe game!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger hunt",
+      "seriesTitle": [
+        "Xtinct! ; 2."
+      ],
+      "author": "Stone, Ash",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781408365717?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781408365717?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781408365717?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206087841,
+          "isbns": [
+            "9781408365717",
+            "1408365715",
+            "9781408365724"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Orchard Books",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Dodo Juvenile fiction.",
+            "Extinct animals Juvenile fiction.",
+            "Animal rescue Juvenile fiction.",
+            "Neanderthals Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Genetic engineering Juvenile fiction.",
+            "Biotechnology laboratories Juvenile fiction.",
+            "Saber-toothed tigers Juvenile fiction.",
+            "Hunters Juvenile fiction.",
+            "Blizzards Juvenile fiction.",
+            "Survival Juvenile fiction.",
+            "Animal rescue.",
+            "Biotechnology laboratories.",
+            "Blizzards.",
+            "Extinct animals.",
+            "Friendship.",
+            "Genetic engineering.",
+            "Hunters.",
+            "Neanderthals.",
+            "Saber-toothed tigers.",
+            "Survival."
+          ],
+          "physicalDescription": [
+            "164 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "After Jeevan saved a T-Rex from dangerous hunters in the summer, he thinks his biggest adventure is behind him. Winter is here, and with it there's snowball fights and snowboarding races with his Neanderthal friend, Toe. It would be the perfect winter, if Barron Fox's new hunting lodge wasn't progressing so quickly, and if his mum wasn't so obsessed with recreating his earlier accident at the lab. When she tries to bring another harmless fossil of an extinct passenger pigeon back to life, she's sure nothing could go wrong..."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 6+."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger tiger",
+      "author": "Lambert, Jonny",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848694439?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848694439?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781848694439?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202834566,
+          "isbns": [
+            "9781848694439",
+            "1848694431",
+            "9781848694446",
+            "184869444X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Little Tiger Press"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Children's stories Pictorial works."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 28 cm"
+          ],
+          "summary": [
+            "Old tiger just wants to relax, snooze and do very little. But little tiger cub really wants to play! He soon gets old tiger to join him and see things through younger eyes."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The last tiger",
+      "author": "Horáček, Petr",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781910959718?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781910959718?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781910959718?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205609354,
+          "isbns": [
+            "9781910959718",
+            "1910959715"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Burley Gate, Herefordshire : Otter-Barry Books"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Captivity Juvenile fiction.",
+            "Liberty Juvenile fiction.",
+            "Hunting stories.",
+            "Zoos Juvenile fiction.",
+            "Escapes Juvenile fiction.",
+            "Picture books.",
+            "Children's stories.",
+            "Tiger",
+            "Liberty",
+            "Picture books for children",
+            "Pride and vanity",
+            "Picture books",
+            "Zoos",
+            "Captivity",
+            "Children's stories"
+          ],
+          "physicalDescription": [
+            "28 unnumbered pages : color illustrations ; 29 cm"
+          ],
+          "summary": [
+            "Strong and proud, the tiger is lord of the jungle. But when he's captured by human hunters he realises that what really matters is not strength or power... but freedom. Will the tiger be able to escape and be free again?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Don't think of tigers",
+      "author": "Latimer, Alex",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781839133268?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781839133268?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781839133268?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300083652,
+          "variantTitles": [
+            "Do not think of tigers"
+          ],
+          "isbns": [
+            "9781839133268",
+            "1839133260"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Andersen Press+",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Imagination Juvenile fiction.",
+            "Drawing Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "25 unnumbered pages : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "The narrator of this book will draw anything you want, but he can't draw tigers! Except trying to draw them might be the only way to get better... This book is magical. Whatever you think of, the narrator will draw it on the next page. There's just one problem: they're really bad at drawing tigers. Hilariously bad. So please, don't think of tigers! But of course, soon all you'll be able to think of is tigers, so the narrator will draw them, more and more ridiculous as they go: a tiger in a mermaid outfit, one carrying a coffee and a briefcase, some just plain awful. But with practice, will they get better?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Preschool."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300100033,
+          "digitalId": "1D5D3716-0C60-4298-9880-A2D0D410EF5C",
+          "isbns": [
+            "9780593810972 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Dream up anything you like, dear reader, and watch it come to life on the next page—just no tigers! This fun read-aloud about creativity and perspeverance will have your reader giggling and inspired, all while our hero learns that with a bit of practice, even the wildest challenges can be tamed.  This book is MAGIC! Imagine anything you like, and the illustrator will draw it on the next page. There's only one rule: DON'T THINK OF TIGERS! Ready? Oh dear. You thought of tigers, didn't you? Please, think of anything else. A cow doing ballet? No problem! Just no tigers. Our illustrator really,  really  can't draw tigers... Or can he? As his hilariously silly and irresistibly charming drawings of tigers improve, Alex Latimer delivers a subtle but important message about practice, creativity, and embracing imperfection.  A fun read-aloud that's sure to delight time and time again, this is the perfect book for kids who love to draw—and for those who don't (but might soon!)."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "When you trap a tiger",
+      "author": "Keller, Tae",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524715731?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524715731?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781524715731?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300135733,
+          "isbns": [
+            "9781524715731",
+            "1524715735"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Yearling edition."
+          ],
+          "publisher": [
+            "New York : Yearling, an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Sisters Juvenile fiction.",
+            "Grandmothers Juvenile fiction.",
+            "Storytelling Juvenile fiction.",
+            "Sick Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Korean Americans Juvenile fiction.",
+            "Tiger",
+            "Storytelling",
+            "Sisters",
+            "Sick",
+            "Korean Americans",
+            "Grandmothers"
+          ],
+          "physicalDescription": [
+            "297 pages ; 20 cm"
+          ],
+          "summary": [
+            "When Lily, her sister, Sam, and their mother move in with her sick grandmother, Lily traps a tiger and makes a deal with her to heal Halmoni."
+          ],
+          "notes": [
+            "\"A Yearling Book\"--Title page.",
+            "Originally published in hardcover in the United States by Random House Children's Books, New York, in 2020.",
+            "With sneak peek of: Jennifer Chan is not alone & The science of breakable things."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 204151355,
+          "isbns": [
+            "9780593175347",
+            "0593175344"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition"
+          ],
+          "publisher": [
+            "New York : Random House"
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Sisters Juvenile fiction.",
+            "Grandmothers Juvenile fiction.",
+            "Storytelling Juvenile fiction.",
+            "Sick Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Korean Americans Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "297 pages ; 21 cm"
+          ],
+          "summary": [
+            "When Lily, her sister Sam, and their mother move in with her sick grandmother, Lily traps a tiger and makes a deal with him to heal Halmoni."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 1,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        },
+        {
+          "brn": 204380277,
+          "digitalId": "97C4D2E6-8E86-48D1-ADA1-6D767818362F",
+          "isbns": [
+            "9781524715724"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Mythology."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Would you make a deal with a magical tiger? This uplifting story brings brings Korean folklore to life as a girl goes on a quest to unlock the power of stories and save her grandmother.   Some stories refuse to stay bottled up...  When Lily and her family move in with her sick grandmother, a magical tiger straight out of her halmoni's Korean folktales arrives, prompting Lily to unravel a secret family history. Long, long ago, Halmoni stole something from the tigers. Now they want it back. And when one of the tigers approaches Lily with a deal-return what her grandmother stole in exchange for Halmoni's health-Lily is tempted to agree. But deals with tigers are never what they seem! With the help of her sister and her new friend Ricky, Lily must find her voice...and the courage to face a tiger. Tae Keller, the award-winning author of  The Science of Breakable Things , shares a sparkling tale about the power of stories and the magic of family. Think  Walk Two Moons  meets  Where the Mountain Meets the Moon ! \"If stories were written in the stars ... this wondrous tale would be one of the brightest.\"  -Booklist , Starred Review"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "590 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205355780,
+          "digitalId": "4BC056B7-72AF-48AA-96E6-4744C1E398F4",
+          "otherAuthors": [
+            "Jung, Greta."
+          ],
+          "isbns": [
+            "9780593155462"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Mythology."
+          ],
+          "physicalDescription": [
+            "1 online resource (6 audio files) : digital"
+          ],
+          "summary": [
+            "Would you make a deal with a magical tiger? This uplifting story brings brings Korean folklore to life as a girl goes on a quest to unlock the power of stories and save her grandmother.   Some stories refuse to stay bottled up...  When Lily and her family move in with her sick grandmother, a magical tiger straight out of her halmoni's Korean folktales arrives, prompting Lily to unravel a secret family history. Long, long ago, Halmoni stole something from the tigers. Now they want it back. And when one of the tigers approaches Lily with a deal-return what her grandmother stole in exchange for Halmoni's health-Lily is tempted to agree. But deals with tigers are never what they seem! With the help of her sister and her new friend Ricky, Lily must find her voice...and the courage to face a tiger. Tae Keller, the award-winning author of  The Science of Breakable Things , shares a sparkling tale about the power of stories and the magic of family. Think  Walk Two Moons  meets  Where the Mountain Meets the Moon ! \"If stories were written in the stars ... this wondrous tale would be one of the brightest.\"  -Booklist , Starred Review"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 2 - Text Difficulty 3",
+            "590 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Greta Jung."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Tiger, it's snowing!",
+      "author": "Ma, Daishu",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836270065?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836270065?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781836270065?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300084000,
+          "variantTitles": [
+            "Tiger, it is snowing!"
+          ],
+          "isbns": [
+            "9781836270065",
+            "1836270062"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Post Wave Children's Books"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Girls Juvenile fiction.",
+            "Snow Juvenile fiction.",
+            "Children's stories, Chinese Translations into English."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"Mei's exuberant Tiger wants to play in the snow, but Mei isn't so sure. It's cold and it's wet! But Mei soon changes her mind when she tastes delicate snowflakes for the first time, makes fresh footprints in the pristine snow and enjoys a snowball fight. As the day draws to a close, the duo return to the warm embrace of home - a perfect conclusion to a day filled with wonder and delight.\"--Publisher's webpage."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Daniel plays in a gentle way",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Schwartz, Alexandra Cassel",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534464483?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534464483?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534464483?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205252487,
+          "otherTitles": [
+            "Adaptation of (expression) : Daniel Tiger's neighborhood (Television program)"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781534464483",
+            "1534464484"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight paperback edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Brothers and sisters Juvenile fiction.",
+            "Play Juvenile fiction.",
+            "Brothers and sisters.",
+            "Play.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "While playing on a homemade obstacle course, Daniel Tiger learns to play gently with his baby sister, Margaret."
+          ],
+          "notes": [
+            "\"Based on the screenplay 'Daniel's obstacle course' written by Jill Cozza-Turner.\""
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The Kingdom of Tigers",
+      "author": "Yeoh, Felicity",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008768539?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008768539?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780008768539?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300199564,
+          "otherAuthors": [
+            "Snyders, Megan, illustrator.",
+            "Yeoh, Michelle, 1962- writer of afterword."
+          ],
+          "isbns": [
+            "9780008768539",
+            "0008768536",
+            "9780008768546"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Kumusha Books"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Endangered species Juvenile fiction.",
+            "Deforestation Juvenile fiction.",
+            "Forest animals Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 28 cm"
+          ],
+          "notes": [
+            "With an afterword from United Nations Goodwill Ambassador and award-winning actor Michelle Yeoh."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300201729,
+          "digitalId": "6DA3C44D-1354-4845-9979-D705436182FA",
+          "otherAuthors": [
+            "Snyders, Megan, artist."
+          ],
+          "isbns": [
+            "9780008768546"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Yeoh, Felicity, author.",
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The stunning new picture book, with afterword from United Nations Goodwill Ambassador and award-winning actor Michelle Yeoh Hari and his mother live in the jungle. As deforestation threatens their survival, they dream of roaming the Kingdom of Tigers, a place where they can be free and have room to roar. Can they find their home in the wild? The Kingdom of Tigers weaves a poignant tale of survival and hope. As deforestation threatens their home, a tiger and her cub embark on a perilous journey to find safety. When they become separated, the cub must brave the wild with the friends he meets along the way, to return to his mother and find the sanctuary he dreams of. This incredible new picture book, written by Felicity Yeoh and illustrated by Megan Snyders, carries an important message about Malaysia's endangered harimau tigers, as well as beautifully exploring themes of family, friendship and home."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Hamra and the jungle of memories",
+      "author": "Hanna Alkaf",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063207950?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063207950?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063207950?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206020570,
+          "isbns": [
+            "9780063207950",
+            "0063207958"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Harper, an imprint of HarperCollinsPublishers"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Magic Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Grandmothers Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "390 pages ; 22 cm"
+          ],
+          "summary": [
+            "\"When Hamra steals a magical fruit from a tiger hoping to cure her grandmother, she must repay her debt to the tiger by going on an extraordinary journey with him to make him human again\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206051573,
+          "digitalId": "3F520BC0-EF29-418A-B6F3-AF84FECEFFA7",
+          "isbns": [
+            "9780063207974",
+            "9780063207950"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Fantasy.",
+            "Grandmothers Fiction.",
+            "Friendship Fiction.",
+            "Magic Fiction.",
+            "Tigers Fiction.",
+            "Tigers Juvenile fiction.",
+            "Tiger.",
+            "Magic.",
+            "Grandmothers.",
+            "Friendship.",
+            "Grandmothers Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Magic Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Fantasy.",
+            "Folklore."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A Malaysian spin on Little Red Riding Hood from the critically acclaimed author of The Girl and the Ghost, Hanna Alkaf.   Courage is the strongest magic there is.  On Hamra's thirteenth birthday, she receives nothing but endless nagging and yet another errand to run in the Langkawi jungle that looms behind her home.  No one has remembered her special day.  And so, stifled and angry, Hamra ignores something she shouldn't: the rules of the jungle.  Always ask permission before you enter. Hamra walks boldly in.  Never take what isn't yours. Hamra finds the most perfect jambu and picks it.  Of course, rules exist for a reason, and soon an enormous weretiger is stalking her dreams, demanding payment for her crimes-and Hamra embarks on a quest deep into the jungle to set things right.   For fans of Ikegna and A Tale Dark and Grimm comes a story of a brave heroine, a beguiling villain, fantastical worlds, magical adventures, and a journey that will remind you that hope, friendship, and love endures all."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 4",
+            "MG/Middle grades (4th-8th)",
+            "5.5 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The tigers in the tower.",
+      "author": "Golding, Julia",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781782643173?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781782643173?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781782643173?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205261417,
+          "isbns": [
+            "9781782643173",
+            "1782643176"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Oxford : Lion Fiction",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Orphans Juvenile fiction.",
+            "Tiger Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "219 pages ; 20 cm"
+          ],
+          "summary": [
+            "Sahira's family is traveling to England to deliver two majestic Indian tigers to the menagerie in the Tower of London. But tragedy strikes and sickness steals Sahira's parents from her on the journey. Left alone in London, Sahira finds herself confined to a miserable and dangerous orphanage. Despite her heartache and the threats she faces, Sahira is determined to carry out her father's last request - to protect God's beautiful creatures: her tigers. To do so, Sahira must set out on an adventure and use all her powers of persuasion to engage the help of some new friends along the way. Can the quest to find her tigers a safe home lead Sahira to find her own place of hope and belonging in this strange and foreign land?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205335614,
+          "digitalId": "4451D7E0-339C-4CCE-8622-AEDBF9CF2DD4",
+          "isbns": [
+            "9781782643180"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Tiger Juvenile fiction.",
+            "Orphans Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "\"A Little Princess - with tigers! O rphan and outcast Sahira Clive is a brave and plucky heroine with a brightly burning heart. I was rooting for her all the way to the end of this thrilling - and thought-provoking - adventure.\"  Ally Sherrick, award-winning author of Black Powder   Sahira's family are travelling to England to deliver two majestic Indian tigers to the menagerie in the tower of London.  But tragedy strikes and sickness steals Sahira's parents from her on the journey. Left alone in London, Sarhira finds herself confined to a miserable and dangerous orphanage. Despite her heartache and the threats she faces, Sahira is determined to carry out her father's last request - to protect God's beautiful creatures: her tigers. To do so, Sahira must set out on an adventure and use all her powers of persuasion to engage the help of some new friends along the way.  Can the quest to find her tigers a safe home, lead Sahira to find her own place of hope and belonging in this strange and foreign land?"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Tiger cleans up",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Shaw, Natalie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665966078?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665966078?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665966078?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095730,
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781665966078",
+            "1665966076"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Helping behavior Juvenile fiction.",
+            "Orderliness Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"Daniel Tiger is cleaning up his toys and his room! Readers can help put everything away by sliding the items on tracks in the book--and maybe even get inspired to clean up their toys or room, too!\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"With sliding pieces so you can help!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Daniel's new friend",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Friedman, Becky",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481435437?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481435437?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781481435437?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205387309,
+          "otherTitles": [
+            "Daniel Tiger's neighborhood (Television program)"
+          ],
+          "otherAuthors": [
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781481435437",
+            "1481435434",
+            "9781480679085",
+            "1480679089",
+            "9780606371438",
+            "0606371435",
+            "9781481435444"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon spotlight paperback edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight",
+            ""
+          ],
+          "publishDate": "[2015]",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Neighbors Juvenile fiction.",
+            "Friendship.",
+            "Neighbors.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm"
+          ],
+          "summary": [
+            "\"Daniel meets Prince Wednesday's cousin, Chrissie! Chrissie and Daniel love to play pretend, and they both love the color red! In some ways they are different, but in so many ways they are the same. Making new friends is fun!--Page [4] of cover."
+          ],
+          "notes": [
+            "\"Based on the screenplay written by Becky Friedman.\"",
+            "\"Inspired by the classic series Mister Rogers' Neighborhood\"--Page 4 of cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Daniel and Max play together",
+      "seriesTitle": [
+        "Daniel Tiger's neighborhood."
+      ],
+      "author": "Rosenfeld-Kass, Amy",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534497009?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534497009?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534497009?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205611038,
+          "otherTitles": [
+            "Adaptation of (expression): Daniel Tiger's neighborhood (Television program)"
+          ],
+          "otherAuthors": [
+            "Friedman, Becky, screenwriter.",
+            "Fruchter, Jason, illustrator."
+          ],
+          "isbns": [
+            "9781534497009",
+            "1534497005"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Simon Spotlight"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Autistic children Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Tiger",
+            "Autistic children",
+            "Friendship"
+          ],
+          "physicalDescription": [
+            "22 unnumbered pages : color illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"Daniel has a new friend at school! His name is Max, and he loves buses. Max is autistic, so sometimes he needs different things. Max and Daniel might be different in some ways, but they always have fun playing together!\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Tiger in trouble",
+      "seriesTitle": [
+        "The Adventure Club"
+      ],
+      "author": "Butterworth, Jess",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510107984?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510107984?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510107984?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205679571,
+          "isbns": [
+            "9781510107984",
+            "1510107983"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Orion Children's Books"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Tiger Juvenile fiction.",
+            "Wildlife rescue Juvenile fiction.",
+            "Animal sanctuaries Juvenile fiction.",
+            "Wildlife conservation Juvenile fiction.",
+            "India Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "153 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "\"It's time for another Adventure Club trip! When Tilly learns that the monsoon rains in India are late and the tigers in a local sanctuary have disappeared searching for water, Tilly is worried. The sanctuary is surrounded by busy roads and cities. It's not safe for tigers. She decides that this is a job for The Adventure Club\"--Publisher's description."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 1166
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 193
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 118
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 49
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 23
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 1097
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 60
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 4
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 3
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 2
+        },
+        {
+          "id": "ger",
+          "data": "German",
+          "count": 1
+        },
+        {
+          "id": "pol",
+          "data": "Polish",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 813
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 712
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 704
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 688
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 666
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 644
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 630
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 624
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 609
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 601
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 588
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 578
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 567
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 550
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 531
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 519
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 514
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 512
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 438
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 436
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 125
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 51
+        },
+        {
+          "id": "09lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 9",
+          "count": 33
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 1166
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 408
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 66
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 17
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 1
+        },
+        {
+          "id": "abt",
+          "data": "Audio Book on Cassette",
+          "count": 1
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

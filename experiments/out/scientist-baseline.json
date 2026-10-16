@@ -1,0 +1,1805 @@
+{
+  "totalRecords": 2271,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Scientist",
+      "seriesTitle": [
+        "PK reader."
+      ],
+      "author": "Bradley, Doug, 1954-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781725339910?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781725339910?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781725339910?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205900742,
+          "isbns": [
+            "9781725339910",
+            "1725339919",
+            "9781725339897",
+            "1725339897"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : PowerKids Press",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Science Vocational guidance Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 22 cm."
+          ],
+          "summary": [
+            "\"Scientists work in all different fields, but they have one thing in common: they ask lots of questions. Readers will learn about different kinds of scientists, from geologists to marine biologists. They'll learn how scientists ask questions, make guesses, test them, and share what they've learned. This book shows scientists working in the field and in the lab. Readers will learn how to become a scientist and how scientists make a difference. Photographs and accessible text are paired to give readers a comprehensive look at this exciting career\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "科学家在做什么? = How to be a scientist | Ke xue jia zai zuo shen me? = How to be a scientist",
+      "seriesTitle": [
+        "DK职业探秘百科系列. | DK zhi ye tan mi bai ke xi lie."
+      ],
+      "author": "莫尔德, 史蒂夫, 1978- | Mould, Steve, 1978-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559619273?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559619273?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787559619273?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203227452,
+          "variantTitles": [
+            "How to be a scientist"
+          ],
+          "otherAuthors": [
+            "Liu, Xuangu, translator."
+          ],
+          "nativeOtherAuthors": [
+            "刘宣谷, translator."
+          ],
+          "isbns": [
+            "9787559619273",
+            "7559619274"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Beijing Shi : Beijing lian he chu ban gong si"
+          ],
+          "nativePublisher": [
+            "北京市 : 北京联合出版公司"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Science Experiments Juvenile literature.",
+            "Scientists Juvenile literature."
+          ],
+          "physicalDescription": [
+            "144 pages : color illustrations ; 29 cm."
+          ],
+          "notes": [
+            "Includes index: pages 140-143."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "The elephant scientist",
+      "seriesTitle": [
+        "Scientists in the field (Clarion Books)."
+      ],
+      "author": "O'Connell, Caitlin, 1965-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544668300?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544668300?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544668300?s=LG"
+      },
+      "records": [
+        {
+          "brn": 14018484,
+          "otherAuthors": [
+            "Jackson, Donna M., 1959- author.",
+            "Rodwell, T. C., photographer."
+          ],
+          "isbns": [
+            "9780544668300",
+            "0544668308",
+            "9780547053448",
+            "0547053444"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston ; New York : Clarion Books, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2011]",
+          "subjects": [
+            "O'Connell, Caitlin, 1965- Juvenile literature.",
+            "Women scientists Biography Juvenile literature.",
+            "Women scientists Africa Juvenile literature.",
+            "African elephant Namibia Juvenile literature.",
+            "African elephant Behavior Research Juvenile literature.",
+            "Elephants Juvenile literature.",
+            "Natural history Juvenile literature.",
+            "Scientists Juvenile literature.",
+            "Deserts Juvenile literature.",
+            "O'Connell, Caitlin, 1965-",
+            "African elephant.",
+            "Namibia."
+          ],
+          "physicalDescription": [
+            "70 pages : colour illustrations, colour map ; 23 x 28 cm."
+          ],
+          "notes": [
+            "\"African savannah ; Where science meets adventure\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "A day in the life of a scientist",
+      "seriesTitle": [
+        "DK super readers."
+      ],
+      "author": "Musgrave, Ruth A., 1960-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593962473?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593962473?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593962473?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300118422,
+          "variantTitles": [
+            "Scientist"
+          ],
+          "isbns": [
+            "9780593962473",
+            "0593962478",
+            "9780593962480",
+            "0593962486"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edtion."
+          ],
+          "publisher": [
+            "New York, NY : DK Publishing",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Laboratories Juvenile literature.",
+            "Science Experiments Juvenile literature.",
+            "Vocational guidance Juvenile literature.",
+            "Occupations Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : colour illustrations ; 23 cm."
+          ],
+          "summary": [
+            "\"DK Super Readers Level 1: A Day in the Life of a Scientist will help kids learn about a scientist's important work and includes fun facts and a quiz to support development\"--Provided by publisher."
+          ],
+          "contents": [
+            "What does a scientist do? -- Where does a scientist work? -- What does a scientist need? -- Let's get to work! -- Life on earth -- Weather watch -- Down to earth -- In the lab -- Space out -- Scientists matter -- Glossary -- Index -- Quiz."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Reading is my superpower\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The secret explorers and the missing scientist.",
+      "seriesTitle": [
+        "The Secret Explorers."
+      ],
+      "author": "King, SJ",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744033366?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744033366?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744033366?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205497848,
+          "variantTitles": [
+            "Missing scientist"
+          ],
+          "otherAuthors": [
+            "O'Shea, Ellie, illustrator."
+          ],
+          "isbns": [
+            "9780744033366",
+            "0744033365",
+            "9781465499899",
+            "146549989X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York, New York : DK Publishing",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Rescues Fiction.",
+            "Quests (Expeditions) Fiction.",
+            "Arctic regions Fiction.",
+            "Scientists Fiction.",
+            "Missing persons Fiction.",
+            "Scientific expeditions Arctic regions Fiction.",
+            "Arctic regions Discovery and exploration Fiction."
+          ],
+          "physicalDescription": [
+            "127 pages : illustrations ; 21 cm."
+          ],
+          "summary": [
+            "Meet the Secret Explorers - a band of brainiac kids from all around the world. Everyone in this group of young experts has a speciality, from outer space to dinosaurs, and each story follows a character who gets chosen for a \"secret exploration\". In this fun, fact-filled children's book, engineering expert Kiki and Connor the marine biologist are sent on a mission to the Arctic. There they discover a research vessel studying the effects of climate change that has become trapped in the sea ice. To make matters worse, one of the ship's scientists who went to find help at a nearby research station hasn't returned. It's up to the Secret Explorers to find the scientist, free the ship, and save the day! Kids will love turning the pages to find out if the Secret Explorers manage to succeed in their mission!"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205484829,
+          "digitalId": "0EFA451F-31FA-43B2-984D-95D1CED52E23",
+          "isbns": [
+            "9780241540961"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Scientists.",
+            "Scientific expeditions.",
+            "Rescues.",
+            "Quests (Expeditions)",
+            "Missing persons.",
+            "Discoveries in geography.",
+            "Adventure stories.",
+            "Scientific expeditions Arctic regions Juvenile fiction.",
+            "Missing persons Juvenile fiction.",
+            "Scientists Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction.",
+            "Rescues Juvenile fiction.",
+            "Adventure stories.",
+            "Arctic regions Juvenile fiction.",
+            "Arctic regions Discovery and exploration Juvenile fiction.",
+            "Arctic Regions."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Who is a scientist?",
+      "author": "Gehl, Laura",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781541597990?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781541597990?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781541597990?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205605352,
+          "isbns": [
+            "9781541597990",
+            "1541597990",
+            "9781728419060"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, MN : Millbrook Press",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Scientists."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 26 cm"
+          ],
+          "summary": [
+            "Scientists work hard in the lab and in the field to make important discoveries. But that's not all. They also love to dance, fly drones, eat french fries, and more! Meet fourteen phenomenal scientists."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "A kids book about being a scientist",
+      "seriesTitle": [
+        "Kids book about--."
+      ],
+      "author": "Reddy, Christopher M",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241743133?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241743133?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241743133?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300106560,
+          "variantTitles": [
+            "Being a scientist"
+          ],
+          "isbns": [
+            "9780241743133",
+            "0241743133"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York, NY : DK Publishing"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 27 cm."
+          ],
+          "summary": [
+            "\"Are you a curious person? Do you ask 'Why?' a lot? Do you like discovering new things? Then I have a secret for you... you may be a scientist! Learn from this author (a fellow scientist) about what being a scientist is all about. Celebrate the scientist in you--keep wondering, keeping asking questions, and never stop learning!\"--Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300107885,
+          "digitalId": "27D56BD4-7EBD-424B-A5C3-165851D1B56D",
+          "variantTitles": [
+            "Being a scientist"
+          ],
+          "isbns": [
+            "9780241747933 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Scientists Juvenile literature.",
+            "Science Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Are you a curious person? Do you ask \"why\" a lot? Do you like discovering new things? Then I have a secret for you...you may be a scientist! Learn from this author (a fellow scientist) about what being a scientist is all about. Celebrate the scientist in you—keep wondering, keep asking questions, and never stop learning!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The tornado scientist : seeing inside severe storms",
+      "seriesTitle": [
+        "Scientists in the field."
+      ],
+      "author": "Carson, Mary Kay",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544965829?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544965829?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544965829?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205601052,
+          "otherAuthors": [
+            "Uhlman, Tom, photographer."
+          ],
+          "isbns": [
+            "9780544965829",
+            "0544965825"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Tanamachi, Robin Juvenile literature.",
+            "Tornadoes Juvenile literature.",
+            "Storm chasers Biography Juvenile literature.",
+            "Meteorologists Biography Juvenile literature.",
+            "Women scientists Biography Juvenile literature.",
+            "Meteorologists",
+            "Tornadoes",
+            "Women scientists",
+            "Storm chasers"
+          ],
+          "physicalDescription": [
+            "75 pages : color illustrations, color maps ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"What if tornadoes could be stopped or slowed down? In this addition to the critically-acclaimed Scientist in the Field series, scientist Robin Tanamachi and her team are trying to come up with a way to predict tornadoes with even greater accuracy, and save countless lives across America's heartland\"--Provided by publisher."
+          ],
+          "contents": [
+            "A southern twist -- Storm chaser genesis -- Twister science 2.0 -- Scanning the skies -- A tragic year -- Setting a tornado net -- Future forecasts -- Words (and acronyms) to know."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204412547,
+          "digitalId": "E8B45799-2C1B-4AFA-BA0C-8E556CD7CFC8",
+          "otherAuthors": [
+            "Uhlman, Tom, photographer."
+          ],
+          "isbns": [
+            "9780358055921"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Tanamachi, Robin Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Women scientists Biography Juvenile literature.",
+            "Meteorologists Biography Juvenile literature.",
+            "Storm chasers Biography Juvenile literature.",
+            "Tornadoes Juvenile literature.",
+            "Nature.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "n this addition to the critically-acclaimed Scientist in the Field series, scientist Robin Tanamachi and her team are trying save countless lives across America's heartland, chasing one tornado at a time.   Robin Tanamachi has been captivated by tornadoes and extreme weather her entire life. When she realized people researched weather for a job, she was hooked. She now studies tornadogenesis, or how tornadoes form, and what causes them to get weaker versus strengthen. For her, driving around in a Doppler radar truck aiming towards storms is a normal day in the office. The data she collects is then modeled and studied on computers- with math, physics, and computer science working hand in hand with meteorology. At the end of the day, knowing exactly how, when, and where these violent storms happen can give more warning time for everyone involved."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 4",
+            "MG/Middle grades (4th-8th)",
+            "5.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "小小科学家 =  the young scientists. | Xiao xiao ke xue jia=  the young scientists.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/2010-4677(Vol 1),2010-4669(Vol 2),2010-4650(Vol 3)?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/2010-4677(Vol 1),2010-4669(Vol 2),2010-4650(Vol 3)?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/2010-4677(Vol 1),2010-4669(Vol 2),2010-4650(Vol 3)?s=LG"
+      },
+      "records": [
+        {
+          "brn": 200189180,
+          "variantTitles": [
+            "Young scientistsr"
+          ],
+          "issns": [
+            "2010-4677(Vol 1),2010-4669(Vol 2),2010-4650(Vol 3)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Singapore : Young scientists Pte Ltd"
+          ],
+          "publishDate": "",
+          "physicalDescription": [
+            "volumes : color illustrations.; 26 cm"
+          ],
+          "contents": [
+            "第一级 适合５岁以上 -- 第二级 适合８岁以上 -- 第三级 适合１０岁以上."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true,
+          "volumes": [
+            "[issue], [v.]1 no 33",
+            "[issue], [v.]2 no 33",
+            "[issue], [v.]3 no 33",
+            "V 1 iss 14",
+            "V 1 iss 15",
+            "V 1 iss 16",
+            "V 1 iss 17",
+            "V 1 iss 18",
+            "V 1 iss 19",
+            "V 1 iss 20",
+            "V 1 iss 21",
+            "V 1 iss 22",
+            "V 1 iss 23",
+            "V 1 iss 24",
+            "V 1 iss 25",
+            "v 1 iss 26",
+            "V 2  iss 14",
+            "V 2  iss 15",
+            "V 2  iss 16",
+            "V 2  iss 17",
+            "V 2  iss 18",
+            "V 2  iss 19",
+            "V 2  iss 20",
+            "V 2 iss 21",
+            "V 2 iss 22",
+            "V 2 iss 23",
+            "V 2 iss 24",
+            "V 2 iss 25",
+            "v 2 iss 26",
+            "V 3  iss 14",
+            "V 3  iss 15",
+            "V 3  iss 16",
+            "V 3  iss 17",
+            "V 3  iss 18",
+            "V 3  iss 19",
+            "V 3  iss 20",
+            "V 3 iss 21",
+            "V 3 iss 22",
+            "V 3 iss 23",
+            "V 3 iss 24",
+            "V 3 iss 25",
+            "v 3 iss 26",
+            "[lev.]1 iss 27",
+            "[lev.]1 iss. 27",
+            "[lev.]1 iss. 28",
+            "[lev.]2 iss. 27",
+            "[lev.]2 iss. 28",
+            "[lev.]3 iss 27",
+            "[lev.]3 iss. 27",
+            "[lev.]3 iss. 28",
+            "n. 1.",
+            "n. 1. 2010",
+            "n. 10.",
+            "n. 11.",
+            "n. 12.",
+            "n. 13.",
+            "n. 14.",
+            "n. 3.",
+            "n. 3. 2010",
+            "n. 4.",
+            "n. 4. 2010",
+            "n. 5.",
+            "n. 5. Apr-15",
+            "n. 6.",
+            "n. 7.",
+            "n. 8.",
+            "n. 9."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Be a computer scientist",
+      "seriesTitle": [
+        "Be a scientist."
+      ],
+      "author": "Bard, Jonathan E",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538229958?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538229958?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538229958?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203941068,
+          "isbns": [
+            "9781538229958",
+            "1538229951",
+            "9781538231173",
+            "1538231174"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Gareth Stevens Publishing"
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Computer science Vocational guidance Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 29 cm."
+          ],
+          "summary": [
+            "From the fast-paced world of social media and data security, to the cutting-edge research on cancer and other complex diseases, computer scientists are hard at work writing programs to collect, store, protect, and analyze huge amounts of data. Readers will be introduced to the incredibly diverse and in-demand career options available to people with computer science expertise. Projected to be one of the fastest-growing industries over the next 10 years, there's no better time to learning about becoming a computer scientist!--Provided by publisher."
+          ],
+          "contents": [
+            "The world of computers -- Learning to code -- Choosing a path -- Keeping things running: system administrators -- Writing code: computer programmers -- Storing information: database administrators -- Pushing the limits: hardware engineers -- Helping computers talk: network engineers -- Keeping data safe: security analysts -- Creating content: web developers -- Studying biology: bioinformaticians -- Making time for fun: game developers -- The future of computers: artificial intelligence."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Write like a scientist",
+      "seriesTitle": [
+        "Think like a scientist."
+      ],
+      "author": "Wolny, Philip",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538302347?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538302347?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781538302347?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203787475,
+          "isbns": [
+            "9781538302347",
+            "1538302349",
+            "9781538302354",
+            "1538302357",
+            "9781538302361",
+            "1538302365"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Britannica Educational Publishing, in Association with Rosen Educational Services",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Science Methodology Juvenile literature.",
+            "Technical writing Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations, color map ; 22 cm."
+          ],
+          "summary": [
+            "\"A book for young readers about how to write like a scientist.\"-- Provided by publisher."
+          ],
+          "contents": [
+            "The scientific method -- Experiment like a scientist -- Writing like a scientist -- Writing up an experiment."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grades 3 to 6."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "5-minute Ada Twist : scientist stories",
+      "author": "Meyer, Gabrielle (Screenwriter)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419762789?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419762789?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781419762789?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205933105,
+          "otherTitles": [
+            "Ada Twist, scientist (Television program)"
+          ],
+          "variantTitles": [
+            "Five-minute Ada Twist",
+            "Scientist stories"
+          ],
+          "isbns": [
+            "9781419762789",
+            "1419762788"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Abrams Books for Young Readers",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Scientists Juvenile fiction.",
+            "Science Experiments Juvenile fiction.",
+            "African American girls Juvenile fiction.",
+            "Women scientists Juvenile fiction.",
+            "Children's stories, American."
+          ],
+          "physicalDescription": [
+            "168 pages : colour illustrations ; 27 cm"
+          ],
+          "summary": [
+            "\"A charming storybook collection of sweet tales based on the Netflix series starring Ada Twist--perfect for read-alouds or bedtime! Revisit some of your favorite episodes of the Netflix series, in print for the first time, with this gifty storybook collection. Each of the 12 stories retells a beloved episode from the show, making it perfect for group read-alouds or when it's time to settle down for bed\"--Amazon.com."
+          ],
+          "contents": [
+            "Cake twist -- Twelve angry birds -- The banana peel problem -- Movie night -- Mind over muscle -- Garden party -- Bird's- eye view -- The great stink -- Bend it like Arthur -- Rosie's rockin' pet -- Ada Twist, magicianist -- Dadbot."
+          ],
+          "notes": [
+            "TV tie-in."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The hyena scientist",
+      "seriesTitle": [
+        "Scientists in the field"
+      ],
+      "author": "Montgomery, Sy",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544635111?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544635111?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780544635111?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203137391,
+          "otherAuthors": [
+            "Bishop, Nic, 1955- illustrator."
+          ],
+          "isbns": [
+            "9780544635111",
+            "0544635116"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Boston : Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2018]",
+          "subjects": [
+            "Hyenas Research Juvenile literature.",
+            "Mammalogists Juvenile literature."
+          ],
+          "physicalDescription": [
+            "71 pages : color illustrations ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"Travel to the African bush with Sibert medal winning team Sy Montgomery and Nic Bishop in this myth-busting new addition to the Scientists in the Field series as they join the internationally acclaimed woman researcher conducting one of the longest and most important studies of African mammals in the history of science.\"-- Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Age 10-12.",
+            "Grade 4 to 6."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204413931,
+          "digitalId": "B783D333-54C8-49B4-B9BD-E6FB1ACF7664",
+          "isbns": [
+            "9781328476623"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Mammalogists.",
+            "Mammalogists.",
+            "Hyenas.",
+            "Mammalogists Juvenile literature.",
+            "Hyenas Research Juvenile literature.",
+            "Nature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This myth-busting new addition to the critically acclaimed Scientists in the Field series by Sibert medal winning team Sy Montgomery and Nic Bishop is perfect for nonfiction readers looking for more female scientist narratives, or a fresh perspective on an underrepresented animal-Hyenas!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 5",
+            "MG/Middle grades (4th-8th)",
+            "6.8 ATOS Level"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "I am a scientist",
+      "seriesTitle": [
+        "Read with you ; Level 1."
+      ],
+      "author": "Read With You (Firm). Center for Language Research and Development",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646162444?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646162444?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646162444?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300089069,
+          "otherAuthors": [
+            "Clifford, Jack, illustrator."
+          ],
+          "isbns": [
+            "9781646162444",
+            "1646162447"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Second edition."
+          ],
+          "publisher": [
+            "[Chicago, IL] : Read With You Publishing",
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Scientists Juvenile fiction.",
+            "Hippopotamidae Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "35 pages : colour illustrations ; 23 cm."
+          ],
+          "notes": [
+            "Includes extended reading questions."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The snowy owl scientist",
+      "seriesTitle": [
+        "Scientists in the Field."
+      ],
+      "author": "Wilson, Mark Chester, 1959-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780358329596?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780358329596?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780358329596?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205814046,
+          "isbns": [
+            "9780358329596",
+            "0358329590"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition"
+          ],
+          "publisher": [
+            "Boston : Clarion Books, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Snowy owl Juvenile literature.",
+            "Snowy owl Behavior Juvenile literature.",
+            "Snowy owl Habitat Juvenile literature.",
+            "Owls Juvenile literature.",
+            "Wildlife conservation Alaska Juvenile literature.",
+            "Wildlife rescue Alaska Juvenile literature.",
+            "Alaska Juvenile literature."
+          ],
+          "physicalDescription": [
+            "87 pages : illustrations (chiefly colour), colour maps ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"It's July on Alaska's North Slope, and scientist Denver Holt is in Utqiagvik surveying nests. Denver has been coming here since 1992, and the snowy owls he studies have been coming here much longer: thousands of years.  With its mix of coastal, low-elevation tundra and a rich presence of lemmings, the North Slope is the only area in Alaska where snowy owls regularly nest. How do snowy owls decide where they will nest? How do they manage to arrive at locations where food will be abundant? What drives the success of these delicate tundra ecosystems? These are the mysteries Denver is trying to solve to help ensure a bright future for these elegant hunters\"--Amazon.com."
+          ],
+          "contents": [
+            "Gear up! -- The nomads arrive -- Who's nesting? -- Counting avinnaq -- Checking on chicks -- Photography quitly, using a long lens -- The owl chick heist -- Strike up the bands -- Tracking owls -- The nomads depart -- A warming Arctic -- What you can do -- Glossary."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205730393,
+          "digitalId": "06458DCA-3314-4B85-80F5-BFE9251E5620",
+          "isbns": [
+            "9780358326601"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Wildlife rescue Alaska Juvenile literature.",
+            "Wildlife conservation Alaska Juvenile literature.",
+            "Owls Juvenile literature.",
+            "Snowy owl Habitat Juvenile literature.",
+            "Snowy owl Behavior Juvenile literature.",
+            "Snowy owl Juvenile literature.",
+            "Nature.",
+            "Alaska Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Are the snowy owls in trouble? Venture into the Alaskan arctic and the summer realm of these predator birds to find out. Discover the diverse species necessary to owl survival, how climate change is affecting the landscape of their nesting site of past millennia, and what it takes to do field research in this action-packed addition to the award-winning Scientists in the Field series.  It's July on Alaska's North Slope, and scientist Denver Holt is in Utqiagvik surveying nests. Denver has been coming here since 1992, and the snowy owls he studies have been coming here much longer: thousands of years. With its mix of coastal, low-elevation tundra and a rich presence of lemmings, the North Slope is the only area in Alaska where snowy owls regularly nest. How do snowy owls decide where they will nest? How do they manage to arrive at locations where food will be abundant? What drives the success of these delicate tundra ecosystems? These are the mysteries Denver is trying to solve to help ensure a bright future for these elegant hunters."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Secrets of the sea : The story of jeanne power, revolutionary marine scientist.",
+      "author": "Griffith, Evan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0358244323?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0358244323?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/0358244323?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205732356,
+          "variantTitles": [
+            "Story of Jeanne Power, revolutionary marine scientist"
+          ],
+          "otherAuthors": [
+            "Stone, Joanie, illustrator."
+          ],
+          "isbns": [
+            "0358244323",
+            "9780358244325"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, New York : Clarion Books, Houghton Mifflin Harcourt",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Villepreux-Power, Jeanne, 1794-1871 Juvenile literature.",
+            "Women marine scientists Biography Juvenile literature.",
+            "Women marine biologists Biography Juvenile literature.",
+            "Marine scientists Biography Juvenile literature.",
+            "Marine biologists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : illustrations (chiefly colour) ; 27 cm"
+          ],
+          "summary": [
+            "\"How did a nineteenth-century dressmaker revolutionize science? Jeanne Power was creative: she wanted to learn about the creatures that swim beneath the ocean waves, so she built glass tanks and changed the way we study underwater life forever. Jeanne Power was groundbreaking: she solved mysteries of sea animals and published her findings at a time when few of women's contributions to science were acknowledged. Jeanne Power was persistent: when records of her research were lost, she set to work repeating her studies. And when men tried to take credit for her achievements, she stood firm and insisted on the recognition due to her\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205510284,
+          "digitalId": "A1125BEA-3E0E-4A5B-82DC-441161F6F542",
+          "isbns": [
+            "9780358531821"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Villepreux-Power, Jeanne, 1794-1871 Juvenile literature.",
+            "Juvenile Nonfiction.",
+            "Women marine scientists.",
+            "Women marine biologists.",
+            "Marine scientists.",
+            "Marine biologists.",
+            "Women marine scientists Biography.",
+            "Marine biologists Biography Juvenile literature.",
+            "Marine scientists Biography Juvenile literature.",
+            "Women marine biologists Biography Juvenile literature.",
+            "Women marine scientists Biography Juvenile literature.",
+            "Biography & Autobiography.",
+            "Science."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The curiosity, drive, and perseverance of the nineteenth-century woman scientist who pioneered the use of aquariums to study ocean life are celebrated in this gorgeous, empowering picture book.  How did a nineteenth-century dressmaker revolutionize science?  Jeanne Power was creative:  she wanted to learn about the creatures that swim beneath the ocean waves, so she built glass tanks and changed the way we study underwater life forever.  Jeanne Power was groundbreaking:  she solved mysteries of sea animals and published her findings at a time when few of women's contributions to science were acknowledged.  Jeanne Power was persistent:  when records of her research were lost, she set to work repeating her studies. And when men tried to take credit for her achievements, she stood firm and insisted on the recognition due to her.  Jeanne Power was inspiring,  and the legacy of this pioneering marine scientist lives on in every aquarium."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Scientists",
+      "seriesTitle": [
+        "My first heroes."
+      ],
+      "author": "Aye, Nila",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035035717?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035035717?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781035035717?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095296,
+          "isbns": [
+            "9781035035717",
+            "1035035715"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Campbell Books"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Zhang, Heng, 78-139 Juvenile literature.",
+            "Newton, Isaac, 1642-1727 Juvenile literature.",
+            "Curie, Marie, 1867-1934 Juvenile literature.",
+            "Franklin, Rosalind, 1920-1958 Juvenile literature.",
+            "Scientists Biography Juvenile literature."
+          ],
+          "physicalDescription": [
+            "8 unnumbered pages : colour illustrations ; 19 cm."
+          ],
+          "summary": [
+            "\"Push, pull, and slide the scenes to find out about Zhang Heng, Isaac Newton, Marie Curie and Rosalind Franklin, and be inspired by their incredible work\"--Amazon."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"Discover amazing people!\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 204444187,
+          "otherAuthors": [
+            "Taylor, Barbara, contributor."
+          ],
+          "isbns": [
+            "9781529035407",
+            "1529035406"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Campbell Books",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Scientists Pictorial works Juvenile literature.",
+            "Children's stories.",
+            "Children's stories.",
+            "Scientists."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "Discover the scientists who changed our world. Push, pull and slide the scenes to find out about Zhang Heng, Isaac Newton, Marie Curie and Rosalind Franklin, and be inspired by their incredible work."
+          ],
+          "notes": [
+            "Board book.",
+            "Cover title.",
+            "\"Rosalind Franklin, Zhang Heng, Isaac Newton, Marie Curie\" -- cover.",
+            "\"Discover amazing people!\" -- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Food scientist",
+      "seriesTitle": [
+        "STEM careers (Pogo (Firm))"
+      ],
+      "author": "Kenney, Karen Latchana",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641281843?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641281843?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641281843?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203908415,
+          "isbns": [
+            "9781641281843",
+            "1641281847"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, MN : Jump!",
+            ""
+          ],
+          "publishDate": "[2019]",
+          "subjects": [
+            "Food Research Vocational guidance Juvenile literature.",
+            "Food industry and trade Vocational guidance Juvenile literature.",
+            "Food engineers Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"In Food Scientist, carefully leveled text and vibrant, full-color photographs take early fluent readers on an informational interview with a life scientist. Readers learn about the day-to-day responsibilities and challenges of this career and the things they can do now to prepare for work as a food scientist\"--Provided by publisher."
+          ],
+          "contents": [
+            "Studying food -- What do they do? -- Becoming a food scientist -- Activities & tools -- Try this!."
+          ],
+          "notes": [
+            "\"Pogo Books\".",
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 7-10."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "I want to be a scientist",
+      "seriesTitle": [
+        "I can read book."
+      ],
+      "author": "Driscoll, Laura",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062989659?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300030247,
+          "otherAuthors": [
+            "Echeverri, Catalina, 1986- illustrator."
+          ],
+          "isbns": [
+            "9780062989659",
+            "0062989650",
+            "9780062989642",
+            "0062989642"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Harper, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Scientists Juvenile literature."
+          ],
+          "physicalDescription": [
+            "31 pages : colour illustrations ; 24 cm."
+          ],
+          "summary": [
+            "This accessible behind-the-scenes look at being a scientist takes beginning readers on a research boat to the North Pole where they can discover what type of scientist they want to be."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300045441,
+          "digitalId": "A4C8392D-DFFB-4537-BB84-763D679D6F61",
+          "isbns": [
+            "9780062989673 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : HarperCollins"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Careers.",
+            "Language Arts."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "For the child who says, \"I want to be a SCIENTIST when I grow up!\" And for any child who wants a gentle behind-the-scenes look at being a scientist. This Level One Community Helper story takes readers on a research boat to the North Pole, where they learn all about the different types of scientists they can be!    When I take a trip to the North Pole with my Mom to study whales, I learn that are so many different ways to be a scientist. Did you know that there are meteorologists, zoologists, astronomers—and many more! Maybe I'll be a scientist, too!  With this story blending narrative with nonfiction, readers meet the many different kinds of scientists who do so much to support our communities.  I Want to Be a Scientist is part of an I Can Read series that introduces young readers to important community helpers. This Level One I Can Read is perfect for children learning to sound out words and sentences. Whether shared at home or in a classroom, the short sentences, familiar words, and simple concepts of Level One books support success for children eager to start reading on their own.  For anyone looking for books about community helpers for kids, the I Can Read My Community books are a great choice. The books are bright and upbeat and feature characters who are diverse in terms of gender, race, age, and body type. Kids ages 3-6 will enjoy finding out more about the people who do so much to help all of our communities."
+          ],
+          "notes": [
+            "Title from eBook information screen..",
+            "Embedded sound file."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Alan Finkel : Australia's Chief Scientist : 2016-2020",
+      "seriesTitle": [
+        "Aussie STEM stars."
+      ],
+      "author": "Doherty, Kim",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781925893434?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781925893434?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781925893434?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205824534,
+          "variantTitles": [
+            "Alan Finkel : Australia's Chief Scientist : twenty sixteen to twenty twenty",
+            "Australia's Chief Scientist : 2016-2020"
+          ],
+          "isbns": [
+            "9781925893434",
+            "192589343X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Melbourne, Australia : Wild Dingo Press"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Finkel, Alan Juvenile literature.",
+            "Australia. Office of the Chief Scientist Biography.",
+            "Science Australia.",
+            "Scientists Australia Biography.",
+            "Australia. Office of the Chief Scientist.",
+            "Science.",
+            "Scientists.",
+            "Australia."
+          ],
+          "physicalDescription": [
+            "147 pages : illustrations ; 20 cm."
+          ],
+          "summary": [
+            "As Australia's Chief Scientist, our country has turned to Alan Finkel for advice on everything from the climate, to AI, to the pandemic. But at a time when scientists have never been so important, Alan nearly didn't become one at all. Growing up in Melbourne as the son of immigrants who fled the Holocaust, Alan had to find the courage to make his own choices - even when they weren't quite what his family had in mind. Alan's story is one of being brave, loving your family and always aiming for excellence. Dr Finkel commenced as Australia's Chief Scientist on 25 January 2016. This followed an extensive science background as an entrepreneur, engineer, neuroscientist and educator, and an industrial career producing breakthrough scientific instruments for academic neurosciences and pharmaceutical drug discovery. He served as President of the Australian Academy of Technology and Engineering (ATSE), and for eight years as Chancellor of Monash University. He has been Chair of multiple companies dedicated to scientific research and was named the 2016 Victorian of the Year. Alan is committed to science education and has founded numerous magazines and education programs for schools and organisations. His career is defined by creative leadership, initiatives, philanthropy and innovative scientific publishing. He has been a strong and effective advocate for governmental and industrial support of innovation and research in science and engineering."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 10-13."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 2271
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 310
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 163
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 151
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 98
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 87
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 38
+        },
+        {
+          "id": "specialized",
+          "data": "specialized",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 2192
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 53
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 14
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 1633
+        },
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 1550
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 1541
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 1410
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 1351
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 1308
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 1263
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 1183
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 1176
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 1112
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 1098
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 1049
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 981
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 980
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 971
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 901
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 882
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 863
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 844
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 783
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 165
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 153
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 75
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 2271
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 1049
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 140
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 5
+        },
+        {
+          "id": "mss",
+          "data": "Manuscript Material",
+          "count": 1
+        },
+        {
+          "id": "brl",
+          "data": "Braille",
+          "count": 1
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

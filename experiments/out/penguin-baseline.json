@@ -1,0 +1,1477 @@
+{
+  "totalRecords": 3471,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Penguin",
+      "seriesTitle": [
+        "Blastoff! readers."
+      ],
+      "author": "Sabelko, Rebecca",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781644874110?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781644874110?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781644874110?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205684693,
+          "isbns": [
+            "9781644874110",
+            "1644874113"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, MN : Bellwether Media"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Life cycles Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"Relevant images match informative text in this introduction to the life cycle of a penguin. Intended for students in kindergarten through third grade\"--Provided by publisher."
+          ],
+          "contents": [
+            "What are penguins? -- Life cycle of a penguin -- Life at sea."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin",
+      "seriesTitle": [
+        "What do animals do all day?"
+      ],
+      "author": "Galloway, Fhiona",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526383150?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526383150?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781526383150?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205816967,
+          "isbns": [
+            "9781526383150",
+            "1526383152"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Pat-a-Cake"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Penguins Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 19 cm."
+          ],
+          "summary": [
+            "What does a penguin do all day? Join the busy penguin as it goes about its daily life. Turn the wheel to waggle its feet and learn about why penguins can't fly, then join the penguins for a swim and find out where they live. With a lift-the-flap game at the end and a fun 'Did You Know?' fact on every page, this bright, interactive book will teach little ones what penguins do all day."
+          ],
+          "notes": [
+            "\"Turn the wheel and lift the flaps!\"--Cover.",
+            "Cover title.",
+            "On board pages with die-cut hole in cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin",
+      "author": "Dunbar, Polly",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406373318?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406373318?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406373318?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202804284,
+          "isbns": [
+            "9781406373318",
+            "1406373311"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "10th anniversary edition."
+          ],
+          "publisher": [
+            "London : Walker Books and Subsidiaries",
+            ""
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Penguins Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly illustrations (colour) ; 26 cm"
+          ],
+          "summary": [
+            "A stunning 10th anniversary edition of a modern classic from Polly Dunbar, the creator of Hello Tilly. This is the story of Ben, who couldn't be more delighted to find a penguin friend inside his present. \"Hello, Penguin!\" he says. Penguin says nothing. Ben tickles Penguin, pulls his funniest face, puts on a happy hat, sings a silly song and does a dizzy dance ... but still Penguin says nothing. It isn't until a passing lion intervenes that Penguin finally speaks - and, when he does, Ben discovers that some things are worth the wait. Shortlisted for the Kate Greenaway Medal and the winner of numerous other awards, this is a beautiful edition to share and treasure with a foreword and gorgeous gold foil on the cover and spine. Ages 0+"
+          ],
+          "notes": [
+            "Originally published: 2007."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin",
+      "seriesTitle": [
+        "Animal diaries"
+      ],
+      "author": "Parker, Steve, 1952-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781609925024?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781609925024?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781609925024?s=LG"
+      },
+      "records": [
+        {
+          "brn": 200689465,
+          "isbns": [
+            "9781609925024",
+            "1609925025"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Irvine, CA : QEB"
+          ],
+          "publishDate": "2014.",
+          "subjects": [
+            "Emperor penguin Juvenile literature.",
+            "Penguins Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 28 cm."
+          ],
+          "summary": [
+            "From the perspective of an Emperor penguin, describes how these penguins spend their summers feeding and swimming in the ocean, travel long distances to the rookery where they breed, huddle together to survive the winter, and take turns caring for their young."
+          ],
+          "notes": [
+            "\"The life and times of a young penguin\"--Cover.",
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "title": "Penguin",
+      "seriesTitle": [
+        "Siri kenali haiwan comel."
+      ],
+      "author": "Nikhila Kilambi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789673644360?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789673644360?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789673644360?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203804217,
+          "otherAuthors": [
+            "Haslinda Hasim, translator."
+          ],
+          "isbns": [
+            "9789673644360",
+            "9673644365",
+            "9789673644377",
+            "9673644373"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Cetakan semula."
+          ],
+          "publisher": [
+            "Kuala Lumpur : Edukid Publication",
+            "Selangor : Edukid Distributors."
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Animals Fiction."
+          ],
+          "physicalDescription": [
+            "16 pages : colour illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Anak-anak pintar.",
+            "Cover title.",
+            "\"Berfokus suku kata\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Malay"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin : si lucu yang saling melindungi",
+      "seriesTitle": [
+        "Aneka satwa unik."
+      ],
+      "author": "Alfayyad, Arfan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789790638419?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789790638419?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9789790638419?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203988105,
+          "otherAuthors": [
+            "Wulan, Suryaning, editor.",
+            "Arrahmanrendi, illustrator."
+          ],
+          "isbns": [
+            "9789790638419",
+            "9790638418"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Cetakan 6."
+          ],
+          "publisher": [
+            "Jakarta Timur : Lini Gurita, Penerbit Zikrul Hakim",
+            ""
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Picture books for children Indonesia.",
+            "Picture books for children.",
+            "Indonesia."
+          ],
+          "physicalDescription": [
+            "1 volume : colour illustrations ; 21 x 24 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Indonesian"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Galapagos penguin",
+      "seriesTitle": [
+        "Perfect penguins."
+      ],
+      "author": "Latham, Bethany",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781978547414?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781978547414?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781978547414?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300184574,
+          "isbns": [
+            "9781978547414",
+            "1978547412",
+            "9781978547407",
+            "1978547404"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Buffalo, NY : Enslow Publishing",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Galapagos penguin Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustratrions ; 21 cm."
+          ],
+          "summary": [
+            "\"Readers may be surprised to learn that not all penguins live in the icy cold of Antarctica! In fact, Galapagos penguins make their homes on the Galapagos Islands, which are near Ecuador. One of the smallest kinds of penguin, these birds are fascinating to learn about! One fun fact is that they live in caves that were made by lava! In this volume, readers learn other essential information such as the Galapagos penguin's habitat, body adaptations, diet, and life cycle. Full-color photographs keep readers engaged with these incredible birds!\"--Publisher's website."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "小企鹅想妈妈 = Penguin misses Mom | Xiao qi e xiang ma ma = Penguin misses Mom",
+      "seriesTitle": [
+        "宝宝情绪管理书. | Bao bao qing xu guan li shu."
+      ],
+      "author": "达尔, 迈克尔 | Dahl, Michael",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787548434535?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787548434535?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787548434535?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203181360,
+          "variantTitles": [
+            "Penguin misses Mom"
+          ],
+          "otherAuthors": [
+            "Vidal, Oriol, 1977- illustrator.",
+            "Wu, Jing, translator."
+          ],
+          "nativeOtherAuthors": [
+            "维达尔, 1977- illustrator.",
+            "吴靖, translator."
+          ],
+          "isbns": [
+            "9787548434535",
+            "7548434537"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Haerbin Shi : Haerbin chu ban she"
+          ],
+          "nativePublisher": [
+            "哈尔滨市 : 哈尔滨出版社"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Mother and child Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "小企鹅和大雪人 = Penguin small | Xiao qi e he da xue ren = Penguin small",
+      "seriesTitle": [
+        "森林鱼. | Sen lin yu."
+      ],
+      "author": "英克潘, 米克 | Inkpen, Mick",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787564939489?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787564939489?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787564939489?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205397325,
+          "variantTitles": [
+            "Penguin small"
+          ],
+          "otherAuthors": [
+            "Xue, Yan, translator."
+          ],
+          "nativeOtherAuthors": [
+            "雪雁, translator."
+          ],
+          "isbns": [
+            "9787564939489 (set)",
+            "7564939486 (set)"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Zhengzhou Shi : Henan da xue chu ban she"
+          ],
+          "nativePublisher": [
+            "郑州市 : 河南大学出版社"
+          ],
+          "publishDate": "2020.",
+          "physicalDescription": [
+            "48 pages (some folded) : color illustrations ; 26 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "企鹅遇险记 = Penguin in peril | Qi e yu xian ji = Penguin in peril",
+      "seriesTitle": [
+        "麦田精选图画书. | Mai tian jing xuan tu hua shu."
+      ],
+      "author": "汉考克, 海伦 | Hancocks, Helen",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532499380?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532499380?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9787532499380?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202895492,
+          "variantTitles": [
+            "Penguin in peril"
+          ],
+          "otherAuthors": [
+            "Zhou, Ran, translator."
+          ],
+          "nativeOtherAuthors": [
+            "周冉, translator."
+          ],
+          "isbns": [
+            "9787532499380",
+            "7532499383"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Di 1 ban."
+          ],
+          "nativeEdition": [
+            "第1版."
+          ],
+          "publisher": [
+            "Shanghai : Shao nian er tong chu ban she"
+          ],
+          "nativePublisher": [
+            "上海 : 少年儿童出版社"
+          ],
+          "publishDate": "2017.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Cats Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "31 unnumbered pages : color illustrations ; 27 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Chinese"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Adelie penguin",
+      "seriesTitle": [
+        "Antarctic animals"
+      ],
+      "author": "Hansen, Grace",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209370?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209370?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1098209370?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205657336,
+          "isbns": [
+            "1098209370",
+            "9781098209377"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Abdo Kids Jumbo, an imprint of Abdo Kids",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Adélie penguin Juvenile literature.",
+            "Penguins Behavior Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 24 x 29 cm."
+          ],
+          "summary": [
+            "This title will introduce readers to the adorable and tough Adélie penguin. Complete with awesome photographs and more facts! Aligned to Common Core Standards and correlated to state standards."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin huddle",
+      "author": "Montgomery, Ross",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406389838?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406389838?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781406389838?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205932697,
+          "otherAuthors": [
+            "Warburton, Sarah, illustrator."
+          ],
+          "isbns": [
+            "9781406389838",
+            "1406389838",
+            "9781529512830"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Walker Books Ltd "
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Penguins Pictorial works Juvenile fiction.",
+            "Cold Pictorial works Juvenile fiction.",
+            "Hugging Pictorial works Juvenile fiction.",
+            "Friendship Pictorial works Juvenile fiction.",
+            "Animals Pictorial works Juvenile fiction.",
+            "Helping behavior Pictorial works Juvenile fiction.",
+            "Problem solving Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : colour illustrations ; 28 cm"
+          ],
+          "summary": [
+            "A charming and playful picture book told with humour and heart from the brilliant team behind Ten Delicious Teachers. The penguin pack play all day long. And when the sun goes down, and the night grows cold and dark... Penguin Huddle! The penguins squeeze and squish together to stay warm and cosy. But one night, there is a freezing gale. And the next morning ... the penguins are stuck! They are frozen together like a giant penguin ice pop. What a penguin MUDDLE! Nobody in the Antarctic can figure out how to unstick them. But Pipsqueak, the smallest penguin of them all, has a brilliant idea... They must adventure out of their snowy home to a vibrant city across the great, gleaming ocean to solve their penguin puzzle. This light-hearted tale of jolly penguins big and small is a celebration of friendship, community spirit and helping those in trouble."
+          ],
+          "notes": [
+            "Paperback edition published in 2023 with ISBN 9781529512830."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "King penguin",
+      "seriesTitle": [
+        "Royal animals"
+      ],
+      "author": "Murray, Julie, 1969-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798384902980?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798384902980?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798384902980?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300095737,
+          "isbns": [
+            "9798384902980"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Abdo Kids Jumbo, an imprint of Abdo Kids",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "King penguin Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations, colour map ; 24 x 29 cm."
+          ],
+          "summary": [
+            "\"The King Penguin earned its royal name for its size. Scientist once thought it was the largest penguin species, until the Emperor Penguin came around! Readers will learn this fact and more, including where King Penguins are found, what they look like, what they eat, and their young\"--Amazon."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Kid penguin",
+      "seriesTitle": [
+        "Reggie."
+      ],
+      "author": "Oliveira, Jen de",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557550?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557550?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557550?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206068911,
+          "isbns": [
+            "9780759557550",
+            "0759557551",
+            "9780759557567",
+            "075955756X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Little Brown Ink"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Penguins Comic books, strips, etc. Juvenile fiction.",
+            "Play Comic books, strips, etc. Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "79 pages : chiefly colour illustrations ; 22 cm."
+          ],
+          "summary": [
+            "\"Reginald \"Reggie\" Guinn is a kid penguin who is equal parts playful, curious and cantankerous, and gets into everyday adventures at school, home, and his neighborhood\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 206078404,
+          "digitalId": "18360582-571D-4F2D-8F04-0A0972DC5AD6",
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Play Comic books, strips, etc. Juvenile fiction.",
+            "Penguins Comic books, strips, etc. Juvenile fiction.",
+            "Comic and Graphic Books.",
+            "Humor (Fiction).",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Fans of Babymouse and Owly will love this early graphic novel series about the everyday adventures and high jinks of Reginald \"Reggie\" Guinn, a little kid penguin with a big personality!       Reggie is just like any other kid: always looking for fun and adventure! But Reggie's curious, playful side sometimes gets him into trouble. Like when he tries to give himself a haircut before picture day...and ends up gluing his feathers back on his head! Or when he sneaks a mouthful of cookie dough from the kitchen...then feels the sun baking cookies in his tummy! Or when his babysitter puts him on a kid leash while they walk to the park...and he rebels by acting like a dog!  Reggie: Kid Penguin  is a collection of six silly stories that explore kid-friendly themes, all through the eyes of a lovable, spunky penguin."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin parade",
+      "seriesTitle": [
+        "Ready-to-read."
+      ],
+      "author": "Stemple, Heidi E. Y",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665952125?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665952125?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781665952125?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300078296,
+          "otherAuthors": [
+            "Byrne, Eva, illustrator.",
+            "Simon Spotlight (Firm), publisher.",
+            "Simon and Schuster, Inc. Children's Publishing Division."
+          ],
+          "isbns": [
+            "9781665952125",
+            "1665952121",
+            "9781665952118",
+            "1665952113"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "Simon Spotlight edition."
+          ],
+          "publisher": [
+            "New York : Simon Spotlight",
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Parades Juvenile fiction.",
+            "Parade floats Juvenile fiction.",
+            "Penguins Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Hip, hip, hooray--it's a penguin parade! Who will win the Best Float vote? And does one of the penguins have a surprise trick up his sleeve?"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penny Penguin",
+      "seriesTitle": [
+        "Raffi songs to read"
+      ],
+      "author": "Raffi",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217116324?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217116324?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217116324?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300151214,
+          "otherAuthors": [
+            "Tavis, Dan, illustrator."
+          ],
+          "isbns": [
+            "9798217116324"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Alfred A. Knopf",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Animals Polar regions Juvenile fiction.",
+            "Children's songs, English Texts.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "26 unnumbered pages : colour illustrations, music ; 14 x 17 cm."
+          ],
+          "summary": [
+            "\"An illustrated song that follows a penguin and her friends as they spend the day together in the snow\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Bye, penguin!",
+      "author": "Lee, Seou",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646140213?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646140213?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781646140213?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205263421,
+          "isbns": [
+            "9781646140213",
+            "1646140214"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Levine Querido",
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction.",
+            "Ocean travel Juvenile fiction.",
+            "Global warming Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "32 unnumbered pages : color illustrations ; 22 x 26 cm"
+          ],
+          "summary": [
+            "You'd think that a penguin stranded on an ever-smaller block of ice, on a trip around the world wouldn't be so. FUN! But it is! There's our fearless penguin passing the gondolas of Venice. There's penguin floating by the Sydney Opera House! From the Aurora Borealis to a hilarious encounter with a surfer in Hawaii, this is a wordless journey that truly FROLICKS. In fact, the adventures are so amusing that most readers will barely register the nod to global warming until it's slipped right in on the breath of a laugh."
+          ],
+          "notes": [
+            "Originally published in Korea by BookGoodCome."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205444525,
+          "digitalId": "C4592038-F418-4B8B-8747-B3A2C690E40C",
+          "isbns": [
+            "9781646140626"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Global warming Juvenile fiction.",
+            "Ocean travel Juvenile fiction.",
+            "Quests (Expeditions) Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature.",
+            "Picture Book Fiction.",
+            "Travel Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "You'd think that a penguin stranded on an ever-smaller block of ice, on a trip around the world wouldn't be so...FUN! But it is! There's our fearless penguin passing the gondolas of Venice...there's penguin floating by the Sydney Opera House! From the Aurora Borealis to a hilarious encounter with a surfer in Hawaii, this is a wordless journey that truly FROLICKS. In fact, the adventures are so amusing that most readers will barely register the nod to global warming until it's slipped right in on the breath of a laugh."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Penguin in charge",
+      "seriesTitle": [
+        "Reggie ; 2"
+      ],
+      "author": "Oliveira, Jen de",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557574?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557574?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780759557574?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300152407,
+          "isbns": [
+            "9780759557574",
+            "0759557578",
+            "9780759557581",
+            "0759557586"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Little, Brown Ink"
+          ],
+          "publishDate": "2024",
+          "subjects": [
+            "Penguins Comic books, strips, etc.",
+            "Play Comic books, strips, etc.",
+            "Penguins Juvenile fiction.",
+            "Play Juvenile fiction.",
+            "Graphic novels."
+          ],
+          "physicalDescription": [
+            "78 pages : chiefly colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "Reginald \"Reggie\" Guinn is a playful kid penguin who gets into everyday adventures at school, home, and his neighborhood."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin dan unggas lainnya",
+      "seriesTitle": [
+        "Anatomi hewan"
+      ],
+      "author": "West, David, 1956-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230404382?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230404382?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230404382?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205600696,
+          "isbns": [
+            "9786230404382",
+            "6230404389"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Jakarta, Indonesia : Bhuana Ilmu Populer"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Penguins Juvenile literature.",
+            "Birds Juvenile literature."
+          ],
+          "physicalDescription": [
+            "[1 volume] : illustrations"
+          ],
+          "summary": [
+            "\"Kenapa, ya, penguin bisa hidup dan berenang di suhu sedingin es?\" -- petikan dari Google Books"
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "Indonesian"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Penguin and Ollie",
+      "seriesTitle": [
+        "Penguin."
+      ],
+      "author": "Yoon, Salina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781681193502?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206135001,
+          "isbns": [
+            "9781681193502",
+            "1681193507"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Bloomsbury Children's Books"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Penguins Juvenile fiction.",
+            "Octopuses Juvenile fiction.",
+            "Fear Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 27 cm"
+          ],
+          "summary": [
+            "Worried about his new friend, a shy octopus named Ollie, Penguin recruits the other animals to help look for him, and discovers something more precious than treasure."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300031706,
+          "digitalId": "7B5B479B-860A-44B7-877B-ECC59633B9A1",
+          "isbns": [
+            "9781547612697"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Penguins",
+            "Octopuses",
+            "Friendship",
+            "Fear",
+            "Buried treasure Fiction.",
+            "Friendship Fiction.",
+            "Octopuses Fiction.",
+            "Penguins Fiction.",
+            "Friendship Juvenile fiction.",
+            "Fear Juvenile fiction.",
+            "Octopuses Juvenile fiction.",
+            "Penguins Juvenile fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 3471
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 1134
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 538
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 495
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 489
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 365
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 252
+        },
+        {
+          "id": "specialized",
+          "data": "specialized",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 3352
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 108
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 6
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 3
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 3
+        },
+        {
+          "id": "english (2016)",
+          "data": "english (2016)",
+          "count": 1
+        },
+        {
+          "id": "english.",
+          "data": "english.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 2410
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 2262
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 2103
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 2064
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 2063
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 2026
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 1999
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 1969
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 1940
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 1846
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 1827
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 1791
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 1741
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 1739
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 1572
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 1565
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 1565
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 1546
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 1448
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 1376
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 360
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 113
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 68
+        },
+        {
+          "id": "08lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 8",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 3471
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 2734
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 609
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 9
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 5
+        },
+        {
+          "id": "abc",
+          "data": "Audio Book on CD",
+          "count": 5
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 5
+        },
+        {
+          "id": "brl",
+          "data": "Braille",
+          "count": 4
+        },
+        {
+          "id": "mss",
+          "data": "Manuscript Material",
+          "count": 3
+        },
+        {
+          "id": "mic",
+          "data": "Microform",
+          "count": 1
+        },
+        {
+          "id": "bcd",
+          "data": "Book + CD",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

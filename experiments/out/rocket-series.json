@@ -1,0 +1,2138 @@
+{
+  "totalRecords": 82,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Rocket Beams, Lunar Dreams",
+      "seriesTitle": [
+        "The Rocket Ship Series."
+      ],
+      "author": "Colombi, Chiara",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217042081?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217042081?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217042081?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300197355,
+          "otherAuthors": [
+            "Magoon, Scott, illustrator."
+          ],
+          "isbns": [
+            "9798217042081"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First board book edition."
+          ],
+          "publisher": [
+            "New York : Viking",
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Space vehicles Juvenile fiction.",
+            "Disappointment Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Outer space Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 20 cm"
+          ],
+          "summary": [
+            "\"Now published as a board book, the follow-up to Rocket Ship, Solo Trip is sure to delight fans of Goodnight, Goodnight, Construction Site while exploring the complicated emotions around building friendships and overcoming disappointment; featuring art from New York Times bestselling illustrator Scott Magoon! Rocket ship. Lunar trip. Such excitement on the strip. Launchpad's ready. Clouds, at bay. She's going to the moon today! After embarking on her first solo mission to place a satellite into orbit, Rocket is back, and she's headed on a lunar expedition! But this time she's not going alone. Instead of exploring, Rocket's mission is to drop off a spacecraft, Lander, and then return to Earth while Lander investigates the Moon's surface. Rocket can't seem to muster up any friendly words on their journey into orbit--the Moon is big! Why can't they share?! But when she learns that Lander is afraid of heights and needs a helping hand, Rocket decides to put aside her disappointment and help Lander accomplish his goal. With delightful rhyming stanzas, and pictures by New York Times bestselling illustrator Scott Magoon, Rocket Beams, Lunar Dreams explores the complicated emotions around overcoming fears, forging friendships, and making peace with the fact that things don't always turn out as expected.\"-- Goodreads."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "0-3 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300109312,
+          "otherAuthors": [
+            "Magoon, Scott, illustrator."
+          ],
+          "isbns": [
+            "9780593526064",
+            "0593526066"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Space vehicles Juvenile fiction.",
+            "Disappointment Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Outer space Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"Rocket and Lander are headed to the Moon for an expedition, but Rocket must drop Lander off and then return to Earth, instead of staying to explore the Moon's surface\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300129382,
+          "digitalId": "58218503-0CD8-45FB-A1A8-B8AD1326AC4F",
+          "otherAuthors": [
+            "Magoon, Scott, illustrator."
+          ],
+          "isbns": [
+            "9780593526088"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Science Fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Space vehicles Juvenile fiction.",
+            "Disappointment Juvenile fiction.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The follow-up to Rocket Ship, Solo Trip that is sure to delight fans of Goodnight, Goodnight, Construction Site and explores the complicated emotions around building friendships and overcoming disappointment; featuring art from New York Times bestselling illustrator Scott Magoon! \"Rocket ship. Lunar trip. Such excitement on the strip. Launchpad's ready. Clouds, at bay. She's going to the moon today!\" After embarking on her first solo mission to place a satellite into orbit, Rocket is back, and she's headed on a lunar expedition! But this time she's not going alone. Instead of exploring, Rocket's mission is to drop off the spacecraft, Lander, and then return to Earth while Lander investigates the Moon's surface. Rocket can't seem to muster up any friendly words on their journey into orbit-the Moon is big! Why can't they share?! But when she learns that Lander is afraid of heights and needs a helping hand, Rocket decides to put aside her disappointment and help Lander accomplish his goal. With delightful rhyming stanzas and pictures by New York Times bestselling illustrator Scott Magoon, Rocket Beams, Lunar Dreams explores the complicated emotions around overcoming fears, forging friendships, and making peace with the fact that things don't always turn out as expected."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rockets",
+      "seriesTitle": [
+        "Flying the sky."
+      ],
+      "author": "Lanier, Wendy Hinote",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791118723?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791118723?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781791118723?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205589246,
+          "isbns": [
+            "9781791118723",
+            "1791118720"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : AV2",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Rocket engines Juvenile literature.",
+            "Rocket engines",
+            "Rockets (Aeronautics)",
+            "Outer space Exploration Juvenile literature.",
+            "Outer space",
+            "Exploration of outer space"
+          ],
+          "physicalDescription": [
+            "32 pages : illustrations (chiefly color) ; 26 cm."
+          ],
+          "summary": [
+            "\"The first rockets were fireworks. Today, rockets can carry people and cargo into space. Private companies are starting to design rockets to take tourists into space. Discover the history, design, and features of these exceptional flying machines in Rockets, part of the Flying the Sky series\"--Provided by publisher."
+          ],
+          "contents": [
+            "Blasting off -- Into space -- Made for flight -- The future of rockets -- How it works: rocket engines."
+          ],
+          "notes": [
+            "Includes index.",
+            "First published by North Star Editions in 2019."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Spaceships and rockets",
+      "seriesTitle": [
+        "Dorling Kindersley readers."
+      ],
+      "author": "Lock, Deborah",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744075410?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744075410?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780744075410?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206141753,
+          "variantTitles": [
+            "Spaceships & rockets"
+          ],
+          "isbns": [
+            "9780744075410",
+            "0744075416",
+            "9780744075434",
+            "0744075432"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : DK Publishing",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Space ships Juvenile literature.",
+            "Space vehicles Juvenile literature.",
+            "Space flight Juvenile literature."
+          ],
+          "physicalDescription": [
+            "32 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "\"Blast off! Read about the past, present, and future plans for crewed and uncrewed misisons into space.\"--Page [4] of cover."
+          ],
+          "contents": [
+            "The launch -- Crewed missions -- Uncrewed missions -- Future missions -- Glossary."
+          ],
+          "notes": [
+            "Includes index.",
+            "\"Reading is my superpower\"--Cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 202599744,
+          "isbns": [
+            "9781465445117",
+            "1465445110",
+            "9781465445124",
+            "1465445129"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American edition."
+          ],
+          "publisher": [
+            "New York : DK Publishing"
+          ],
+          "publishDate": "2016.",
+          "subjects": [
+            "Space ships Juvenile literature.",
+            "Rocketry Juvenile literature.",
+            "Space flight Juvenile literature.",
+            "Outer space Exploration Juvenile literature."
+          ],
+          "physicalDescription": [
+            "48 pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "Read about rockets and spacecraft that have zoomed into space! 5, 4, 3, 2, 1. Blastoff! Discover the manned and unmanned missions, and find out about space travel planned for the future."
+          ],
+          "contents": [
+            "Parts of a rocket -- The launch -- Launch sites -- Manned missions -- Visit the international space station -- Unmanned missions -- Voyager -- Future missions -- Spaceship gallery -- Rockets quiz."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300210935,
+          "digitalId": "1FF484B3-16E9-479B-BC5E-109DAC0C8060",
+          "isbns": [
+            "9780241603420"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Language Arts.",
+            "Technology.",
+            "Readers Space ships.",
+            "Space ships Juvenile literature.",
+            "Rockets Juvenile literature.",
+            "Readers (Elementary)"
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Help your child power up their reading skills and learn all about travel in space with this fun-filled non-fiction reader carefully levelled to help children progress. DK Super Readers Level 2: Spaceships and Rockets will assist kids in their learning about early space missions and the future of space exploration - including fun facts about the parts of a rocket and today's space stations and probes - and is a motivating introduction to using essential non-fiction reading skills, proving ideal for children ready to enter the riveting world of reading. DK Super Readers take children on a journey through the wonderful world of non-fiction: travelling back to the time of dinosaurs, learning more about animals, exploring natural wonders and more, all while developing vital non-fiction reading skills and progressing from first words to reading confidently. The DK Super Readers series can help your child practice reading by: - Covering engaging, motivating, curriculum-aligned topics. - Building knowledge while progressing key Years 3 and 4 reading skills. - Developing subject vocabulary on topics such as astronauts, space, and space exploration. - Boosting understanding and retention through comprehension quizzes. Each title, which has been levelled using MetaMetrics®: The Lexile Framework for Reading, integrates science, geography, history, and nature topics so there's something for all children's interests. The books and online content perfectly supplement core literacy programs and are mapped to the National Curriculum standards. Children will love powering up their non-fiction reading skills and becoming reading heroes. DK Super Readers Level 2 are visually engaging and expand subject knowledge and vocabulary for young readers who want to learn more about the world around them. Perfect to help children ages 7 to 9 (Year 3 and 4) beginning to read independently."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Superfast rockets",
+      "seriesTitle": [
+        "Speed zone"
+      ],
+      "author": "Klepeis, Alicia, 1971-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781645279679?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781645279679?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781645279679?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205523590,
+          "isbns": [
+            "9781645279679",
+            "1645279677",
+            "9781645279686",
+            "1645279685"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, MN : Jump!",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Rockets (Aeronautics)"
+          ],
+          "physicalDescription": [
+            "24 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "\"In Superfast Rockets, early fluent readers will learn about the mechanics, design, engines, and aerodynamics that make rockets superfast. Infographics and sidebars present interesting, supplementary information, and an activity offers readers an opportunity to extend discovery. Children can learn more about STEM and rockets using our safe search engine that provides relevant, age-appropriate websites. Superfast Rockets also features reading tips for teachers and parents, a table of contents, a glossary, and an index. Superfast Rockets is part of Jump!'s Speed Zone series\"--Provided by publisher."
+          ],
+          "notes": [
+            "\"Pogo.\"",
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Rockets",
+      "seriesTitle": [
+        "All about space (Lightbox Learning (Firm))"
+      ],
+      "author": "Baker, David, 1944-",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510566347?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510566347?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781510566347?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300037335,
+          "otherAuthors": [
+            "Kissock, Heather, author."
+          ],
+          "isbns": [
+            "9781510566347",
+            "1510566341"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Lightbox Learning Inc.",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 pages : colour illustrations ; 23 x 25 cm."
+          ],
+          "summary": [
+            "\"Go on an exciting adventure beyond planet Earth in the All about Space series. Discover more about our solar system and the way we explore it with easy-to-read titles that are sure to engage even the most reluctant readers\"--Amazon.com."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Maisy's rocket",
+      "seriesTitle": [
+        "Maisy shaped board books."
+      ],
+      "author": "Cousins, Lucy",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529520712?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529520712?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781529520712?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300083417,
+          "isbns": [
+            "9781529520712",
+            "1529520711"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Walker Books Ltd"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Maisy (Fictitious character from Cousins) Pictorial works Juvenile fiction.",
+            "Rockets (Aeronautics) Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"Fly to space in Maisy''s rocket in this exciting shaped board book. Three, two, one - blast off! Maisy is going to space in her rocket! Join Maisy as she puts on her space suit, delivers food to the astronauts and carries out essential repairs in this latest addition to the ever-popular Maisy shaped board book series\"--Amazon.com."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Rocket rivals",
+      "seriesTitle": [
+        "Makers make it work."
+      ],
+      "author": "Harkrader, Lisa",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635921182?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635921182?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781635921182?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204473939,
+          "otherAuthors": [
+            "Lyon, Tammie, illustrator."
+          ],
+          "isbns": [
+            "9781635921182",
+            "163592118X",
+            "9781635921199",
+            "1635921198",
+            "9781635921205"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Kane Press",
+            ""
+          ],
+          "publishDate": "2019.",
+          "subjects": [
+            "Competition (Psychology) Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Competition (Psychology) Fiction.",
+            "Rockets (Aeronautics) Fiction.",
+            "Clubs Fiction.",
+            "Schools Fiction.",
+            "Clubs.",
+            "Competition (Psychology)",
+            "Rockets (Aeronautics)",
+            "Schools."
+          ],
+          "physicalDescription": [
+            "30 pages : color illustrations ; 24 cm."
+          ],
+          "summary": [
+            "Emma is excited about the new Rocket Club at school, until she is paired with Lily, whose projects are always bright and glittery, for the final launch."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Grades K-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205837080,
+          "digitalId": "519E3A8A-D7D2-4490-8691-B5718A04FB69",
+          "otherAuthors": [
+            "Lyon, Tammie, illustrator."
+          ],
+          "isbns": [
+            "9781635927283"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Schools.",
+            "Rockets (Aeronautics)",
+            "Competition (Psychology)",
+            "Clubs.",
+            "Schools Fiction.",
+            "Clubs Fiction.",
+            "Rockets (Aeronautics) Fiction.",
+            "Competition (Psychology) Fiction.",
+            "Schools Juvenile fiction.",
+            "Clubs Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Competition (Psychology) Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Tying into the popular Makers Movement,  Makers Make it Work  is a series of fun easy-to-read stories that focus on problem-solving and hands-on action. With bright, eye-catching art and explanatory sidebars with additional information on the topic, these books show kids how to use their hands, their heads, their creativity, and their problem-solving skills to overcome every challenge facing them.     Rocket Club is Erin's kind of club. All rockets. No glitter. Then she's paired with Lily, the glitteriest girl in the grade. Will their rocket go bust? With the  Makers Make It Work  series, any kid can be a Maker! Each book also includes an activity for young makers to try themselves. (Topic: Rockets)"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rocket ship, solo trip",
+      "seriesTitle": [
+        "The Rocket Ship Series."
+      ],
+      "author": "Colombi, Chiara",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593326930?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593326930?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593326930?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300029774,
+          "otherAuthors": [
+            "Magoon, Scott, illustrator."
+          ],
+          "isbns": [
+            "9780593326930",
+            "0593326938"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Viking"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Space ships Juvenile fiction.",
+            "Confidence Juvenile fiction.",
+            "Outer space Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "30 unnumbered pages : colour illustrations ; 29 cm"
+          ],
+          "summary": [
+            "\"Rocket is embarking on her first solo mission. Her goal? Place a satellite into orbit to take pictures of the beautiful unknown. With a few words of encouragement from Ground Control, Rocket sparks ignition and blasts off to discover all the beauty of outer space. But when it's time for reentry, she wonders if she can do it alone. With Ground Control's parting words in mind, Rocket trusts that she knows exactly what to do. She returns home at hypersonic speed and excited for her future expeditions.maybe next time, to the moon\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300045548,
+          "digitalId": "ED5A316E-7A76-451C-91C9-D7AA3C9F9B0E",
+          "isbns": [
+            "9780593326954 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A delightful, rhyming picture book that is perfect for fans of  Goodnight, Goodnight, Construction Site  and captures all the excitement and nervousness of life's big firsts; art by  New York Times  bestselling illustrator, Scott Magoon!  “First time jitters? That’s okay. Find one small step to lead the way.” Rocket is embarking on her first solo mission. Her goal? Place a satellite into orbit to take pictures of the beautiful unknown. With a few words of encouragement from Ground Control, Rocket sparks ignition and blasts off to discover all the beauty of outer space. But when it’s time for reentry, she wonders if she can do it alone. With Ground Control’s parting words in mind, Rocket trusts that she knows exactly what to do. She returns home at hypersonic speed and excited for her future expeditions…maybe next time, to the moon. With delightful rhyming stanzas, and pictures by  New York Times  bestselling illustrator Scott Magoon,  Rocket Ship, Solo Trip  explores all the complicated emotions of big firsts and reminds readers that no matter how far they go, the ones they love are always close by."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300130124,
+          "digitalId": "34CAA32A-915B-49F2-990F-DE8FB5DFD2EA",
+          "otherAuthors": [
+            "Colombi, Chiara."
+          ],
+          "isbns": [
+            "9780593460788"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Listening Library"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Stories in rhyme.",
+            "Confidence Fiction.",
+            "Space ships Fiction.",
+            "Confidence Juvenile fiction.",
+            "Space ships Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction.",
+            "Outer space Juvenile fiction.",
+            "Outer space Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (4 audio files) : digital"
+          ],
+          "summary": [
+            "A delightful, rhyming audiobook that is perfect for fans of Goodnight, Goodnight, Construction Site and captures all the excitement and nervousness of life's big firsts. \"First time jitters? That's okay. Find one small step to lead the way.\" Rocket is embarking on her first solo mission. Her goal? Place a satellite into orbit to take pictures of the beautiful unknown. With a few words of encouragement from Ground Control, Rocket sparks ignition and blasts off to discover all the beauty of outer space. But when it's time for reentry, she wonders if she can do it alone. With Ground Control's parting words in mind, Rocket trusts that she knows exactly what to do. She returns home at hypersonic speed and excited for her future expeditions...maybe next time, to the moon. With delightful rhyming stanzas, Rocket Ship, Solo Trip explores all the complicated emotions of big firsts and reminds listeners that no matter how far they go, the ones they love are always close by."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Chiara Colombi."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rockets and other space machines",
+      "seriesTitle": [
+        "Hello, world!"
+      ],
+      "author": "McDonald, Jill (Jill McDonald-Gomez)",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593813546?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593813546?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593813546?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300130615,
+          "isbns": [
+            "9780593813546",
+            "0593813545"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Doubleday, an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Space vehicles Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"Blast off! Young astronauts can explore rockets, rovers, space shuttles, and more...\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300136442,
+          "digitalId": "538C594B-4B02-44B9-A57D-43AF9B199EAD",
+          "isbns": [
+            "9780593813553"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "History.",
+            "Science.",
+            "Technology.",
+            "Rockets (Aeronautics) Juvenile literature.",
+            "Space vehicles Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Blast off! Young astronauts can explore rockets, rovers, space shuttles, and more in this nonfiction book from the bestselling series Hello, World! Preschoolers and toddlers can learn all about the wide world of spacecraft in this cheerful and informative book—with colorful art and super-simple facts. (\"A rocket flies by burning fuel and turning it into hot gas.\") Told in easy-to-understand terms alongside bright illustrations of space machines and vehicles, this book makes learning easy for little ones and offers useful prompts to help adults engage with the reader on each page. It's a perfect way to bring science into the busy world of babies, toddlers, and preschoolers, where learning never stops. Look for all the books in the Hello, World! series: Solar System • Weather • Backyard Bugs • Birds • Dinosaurs • My Body • How Do Apples Grow? • Ocean Life • Moon Landing • Pets • Arctic Animals • Construction Site • Rainforest Animals • Planet Earth • Reptiles • Cars and Trucks • Music • Baby Animals • On the Farm • Garden Time • Planes and Other Flying Machines • Rocks and Minerals • Snow • Let's Go Camping • School Day • Bedtime • From Seed to Pumpkin • Rockets and Other Space Machines • Baking"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Full blast!",
+      "seriesTitle": [
+        "Pluto Rocket ; 3"
+      ],
+      "author": "Gilligan, Paul",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781774885413?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781774885413?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781774885413?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300124987,
+          "isbns": [
+            "9781774885413",
+            "9781774885437",
+            "1774885417",
+            "1774885433"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Toronto] : Tundra",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Extraterrestrial beings Comic books, strips, etc.",
+            "Pigeons Comic books, strips, etc.",
+            "Friendship Comic books, strips, etc.",
+            "Extraterrestrial beings Juvenile fiction.",
+            "Pigeons Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Graphic novels."
+          ],
+          "physicalDescription": [
+            "95 pages : chiefly colour illustrations ; 21 cm."
+          ],
+          "summary": [
+            "\"Pluto Rocket and Joe Pidge return with a blast in the third book of this hilarious new early graphic novel series, for fans of Narwhal and Jelly and Pizza and Taco! Joe Pidge, king of the neighborhood, and Pluto Rocket, an alien who's new in town, have left the safety of Joe's neighborhood to discover other places on Earth for Pluto's secret mission -- to explore the planet and prove that Earthlings are nice. But Joe is way out of his comfort zone! What starts as a casual walk into a new town turns into a high-speed chase as Joe is convinced the duo is being pursued by a wolf (it's really a poodle). Later, Pluto's habit of helping people leads to the two being celebrated as heroes! But when their publicity makes its way back to Pluto's home planet, Joe and Pluto have to find a way to escape to the moon . . . and fast\"--Provided by publisher."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300185601,
+          "digitalId": "E9FD9751-FDC4-40FA-802B-93C64A9F79BC",
+          "variantTitles": [
+            "Pluto rocket : Full blast! (pluto rocket #3)"
+          ],
+          "otherAuthors": [
+            "Sylvain, Torren, narrator."
+          ],
+          "isbns": [
+            "9781770492899"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Humor (Fiction).",
+            "Juvenile Literature.",
+            "Science Fiction.",
+            "Extraterrestrial beings Comic books, strips, etc.",
+            "Extraterrestrial beings Juvenile fiction.",
+            "Pigeons Juvenile fiction.",
+            "Pigeons Comic books, strips, etc.",
+            "Friendship Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (6 audio files) : digital"
+          ],
+          "summary": [
+            "Pluto Rocket and Joe Pidge return with a blast in the third book of this hilarious new series, for fans of Narwhal and Jelly and Pizza and Taco! Joe Pidge, king of the neighborhood, and Pluto Rocket, an alien who's new in town, have left the safety of Joe's neighborhood to discover other places on Earth for Pluto's secret mission - to explore the planet and prove that Earthlings are nice. But Joe is way out of his comfort zone! What starts as a casual walk into a new town turns into a high-speed chase as Joe is convinced the duo is being pursued by a wolf (it's really a poodle). Later, Pluto's habit of helping people leads to the two being celebrated as heroes! But when their publicity makes its way back to Pluto's home planet, Joe and Pluto have to find a way to escape to the moon . . . and fast, in the third book of this hilarious series from Paul Gilligan, creator of the syndicated comic strip Pooch Café !"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Torren Sylvain."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Planes, rockets, spacecraft!",
+      "author": "Holub, Joan",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1665917873?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1665917873?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/1665917873?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205829292,
+          "variantTitles": [
+            "At head of title: Big stuff"
+          ],
+          "otherAuthors": [
+            "Little Friends of Printmaking, illustrator."
+          ],
+          "isbns": [
+            "1665917873",
+            "9781665917872"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Little Simon edition."
+          ],
+          "publisher": [
+            "New York, NY : Little Simon"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Aeronautics Pictorial works Juvenile literature.",
+            "Airplanes Pictorial works Juvenile literature.",
+            "Rockets (Aeronautics) Pictorial works Juvenile literature.",
+            "Space vehicles Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 22 cm"
+          ],
+          "summary": [
+            "\"Show little ones how big vehicles work and introduce the inventors behind them through simple rhyming text and vibrant illustrations with this engaging board book. From hot air balloons to airplanes to spacecrafts and beyond, Big Stuff Planes, Rockets, Spacecraft! connects the dots between people and the technology they create and gives age-appropriate explanations of scientific concepts like rocket propulsion and power hydraulics!\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205836576,
+          "digitalId": "D4632557-72C2-44AC-8BA9-5F84A3E44F8C",
+          "variantTitles": [
+            "At head of title: Big stuff"
+          ],
+          "otherAuthors": [
+            "Little Friends of Printmaking, illustrator."
+          ],
+          "isbns": [
+            "9781665917889 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "History.",
+            "Technology.",
+            "Aeronautics Pictorial works Juvenile literature.",
+            "Airplanes Pictorial works Juvenile literature.",
+            "Rockets (Aeronautics) Pictorial works Juvenile literature.",
+            "Space vehicles Pictorial works Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "From the author of the bestselling This Little series comes the first in a new line of board books about the science behind everyday things—this one about things that fly!  Show little ones how big vehicles work and introduce the inventors behind them through simple rhyming text and vibrant illustrations with this engaging board book. From hot air balloons to airplanes to spacecrafts and beyond,  Big Stuff Planes, Rockets, Spacecraft!  connects the dots between people and the technology they create and gives age-appropriate explanations of scientific concepts like rocket propulsion and power hydraulics!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "That's not my rocket... : its boosters are too rough",
+      "seriesTitle": [
+        "Usborne touchy-feely."
+      ],
+      "author": "Watt, Fiona",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474996037?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474996037?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781474996037?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206065137,
+          "variantTitles": [
+            "That is not my rocket"
+          ],
+          "otherAuthors": [
+            "Wells, Rachel, illustrator."
+          ],
+          "isbns": [
+            "9781474996037",
+            "1474996035"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Usborne Publishing Ltd"
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Rockets (Aeronautics) Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "10 unnumbered pages : colour illustrations ; 17 cm."
+          ],
+          "summary": [
+            "\"Zoom into space in this exciting new 'That's not my...' book. Babies and toddlers will love exploring the textured patches in this delightful addition to the best-selling touchy-feely series. The bold illustrations and tactile patches are specially designed to develop sensory and language development.\" -- Publisher's description."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Rocket Raccoon. #6, Misfit mechs",
+      "seriesTitle": [
+        "Guardians of the Galaxy."
+      ],
+      "author": "Young, Skottie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781532140891?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781532140891?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781532140891?s=LG"
+      },
+      "records": [
+        {
+          "brn": 203022175,
+          "variantTitles": [
+            "Misfit mechs"
+          ],
+          "otherAuthors": [
+            "Parker, Jake, 1977- illustrator.",
+            "Beaulieu, Jean-François, colorist.",
+            "Eckleberry, Jeff, letterer."
+          ],
+          "isbns": [
+            "9781532140891",
+            "1532140894"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Minneapolis, Minnesota : Spotlight, a division of ABDO"
+          ],
+          "publishDate": "2018.",
+          "subjects": [
+            "Rocket Raccoon (Fictitious character) Comic books, strips, etc.",
+            "Superheroes Comic books, strips, etc.",
+            "Restitution Comic books, strips, etc.",
+            "Kidnapping Comic books, strips, etc.",
+            "Robots Comic books, strips, etc."
+          ],
+          "physicalDescription": [
+            "20 unnumbered pages : chiefly color illustrations ; 27 cm."
+          ],
+          "summary": [
+            "When the Intergalactic Council of Justice orders Rocket to pay back the money he stole from his ex-girlfriends, he takes on a series of jobs and including helping a mech robot find its kidnapped friends."
+          ],
+          "notes": [
+            "Based on material from Marvel Kids."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The birthday blastoff",
+      "seriesTitle": [
+        "Kate the Chemist."
+      ],
+      "author": "Biberdorf, Kate",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593116647?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593116647?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593116647?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205535796,
+          "otherAuthors": [
+            "Homzie, Hillary, author."
+          ],
+          "isbns": [
+            "9780593116647",
+            "059311664X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York : Philomel Books"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Chemistry Juvenile fiction.",
+            "Science projects Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Birthdays Juvenile fiction.",
+            "Birthday parties Juvenile fiction.",
+            "Rockets (Aeronautics)",
+            "Science projects",
+            "Birthdays",
+            "Chemistry",
+            "Birthday parties"
+          ],
+          "physicalDescription": [
+            "129 pages : illustrations ; 22 cm."
+          ],
+          "summary": [
+            "Fifth-grader Kate tries to do it all when she promises a cake for her brother's birthday party and stages a rocket launch for her chemistry club."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205510670,
+          "digitalId": "FE7F8BF0-3DF3-4DA0-B0C4-A9D907F7DA9F",
+          "otherAuthors": [
+            "Homzie, Hillary, author."
+          ],
+          "isbns": [
+            "9780593116654"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Birthday parties Juvenile fiction.",
+            "Birthdays Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction.",
+            "Science projects Juvenile fiction.",
+            "Chemistry Juvenile fiction.",
+            "Juvenile Literature.",
+            "Mystery.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "\"Will appeal to fans of other ­STEM-infused series like Emily ­Calandrelli's 'Ada Lace' and Asia Citro's 'Zoey and Sassafras.'\"- School Library Journal      The fourth installment of the Kate the Chemist fiction series that shows kids that everyone can be a scientist! Perfect for fans of the Girls Who Code series.   When Kate's brother Liam is having a science-themed birthday party the very same day that the science club in Kate's school is planning a special rocket launch experiment, Kate isn't sure how she'll manage to do it all: be a great big sister AND a great science club member. But with a little help from chemistry-and her friends-Kate figures out a way to be in two places at once. That is, until she is late to pick up the ice cream cake, which means Liam won't have a birthday cake for his party! Will science be able to save the day? From Kate the Chemist, chemistry professor and science entertainer as seen on  The Late Show with Stephen Colbert ,  The Wendy Williams Show , and  The Today Show,  comes a clever and fun middle grade series that is the perfect introduction to STEM for young readers!  Make Your Own Rocket! Experiment Inside!     Praise for    Dragons vs. Unicorns   :  \"Proves that science and fun go together like molecules in a polymer.\"-  School Library Journal   \"It's a great introduction to the basics of Chemistry that is readily accessible to a variety of ages . . . . The way the everyday chemistry is blended in is done seamlessly, and has [me and my ten-year-old son] noticing how we are all doing a little bit of science every day.\" -  GeekMom.com"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Clues to the universe.",
+      "author": "Li, Christina",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063008885?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063008885?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780063008885?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205368715,
+          "isbns": [
+            "9780063008885",
+            "0063008882"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York : Quill Tree Books, an imprint of HarperCollins Publishers",
+            ""
+          ],
+          "publishDate": "[2021]",
+          "subjects": [
+            "Middle school students Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Father and child Juvenile fiction.",
+            "Fathers Death Juvenile fiction.",
+            "Fatherless families Juvenile fiction.",
+            "Absentee fathers Juvenile fiction.",
+            "Rockets (Aeronautics) Models Juvenile fiction.",
+            "Grief Juvenile fiction.",
+            "Bullying Juvenile fiction.",
+            "Middle schools Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Absentee fathers.",
+            "Best friends.",
+            "Bullying.",
+            "Father and child.",
+            "Fatherless families.",
+            "Fathers Death.",
+            "Friendship.",
+            "Grief.",
+            "Middle school students.",
+            "Middle schools.",
+            "Rockets (Aeronautics) Models.",
+            "Schools."
+          ],
+          "physicalDescription": [
+            "292 pages ; 22 cm"
+          ],
+          "summary": [
+            "The only thing Rosalind Ling Geraghty loves more than watching NASA launches with her dad is building rockets with him. When he dies unexpectedly, all Ro has left of him is an unfinished model rocket they had been working on together. Benjamin Burns doesn't like science, but he can't get enough of Spacebound, a popular comic book series. When he finds a sketch that suggests that his dad created the comics, he's thrilled. Too bad his dad walked out years ago, and Benji has no way to contact him. Though Ro and Benji were only supposed to be science class partners, the pair become unlikely friends: Benji helps Ro finish her rocket, and Ro figures out a way to reunite Benji and his dad. But Benji hesitates, which infuriates Ro. Doesn't he realize how much Ro wishes she could be in his place? As the two face bullying, grief, and their own differences, Benji and Ro must try to piece together clues to some of the biggest questions in the universe."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 8-12."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205361788,
+          "digitalId": "88F9B676-1D05-48B4-AD9C-33961AAB48DC",
+          "isbns": [
+            "9780063008908"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Schools.",
+            "Rockets (Aeronautics) Models.",
+            "Middle schools.",
+            "Middle school students.",
+            "Grief.",
+            "Friendship.",
+            "Fathers Death.",
+            "Fatherless families.",
+            "Father and child.",
+            "Bullying.",
+            "Best friends.",
+            "Absentee fathers.",
+            "Schools Juvenile fiction.",
+            "Middle schools Juvenile fiction.",
+            "Bullying Juvenile fiction.",
+            "Grief Juvenile fiction.",
+            "Rockets (Aeronautics) Models Juvenile fiction.",
+            "Absentee fathers Juvenile fiction.",
+            "Fatherless families Juvenile fiction.",
+            "Fathers Death Juvenile fiction.",
+            "Father and child Juvenile fiction.",
+            "Best friends Juvenile fiction.",
+            "Friendship Juvenile fiction.",
+            "Middle school students Juvenile fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "This #ownvoices debut about losing and finding family, forging unlikely friendships, and searching for answers to big questions will resonate with fans of Erin Entrada Kelly and Rebecca Stead.      The only thing Rosalind Ling Geraghty loves more than watching NASA launches with her dad is building rockets with him. When he dies unexpectedly, all Ro has left of him is an unfinished model rocket they had been working on together.   Benjamin Burns doesn't like science, but he can't get enough of Spacebound, a popular comic book series. When he finds a sketch that suggests that his dad created the comics, he's thrilled. Too bad his dad walked out years ago, and Benji has no way to contact him.   Though Ro and Benji were only supposed to be science class partners, the pair become unlikely friends: Benji helps Ro finish her rocket, and Ro figures out a way to reunite Benji and his dad. But Benji hesitates, which infuriates Ro. Doesn't he realize how much Ro wishes she could be in his place?   As the two face bullying, grief, and their own differences, Benji and Ro must try to piece together clues to some of the biggest questions in the universe."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 205360992,
+          "digitalId": "C17F7E09-7DF4-44DF-9D0D-71BA11669B26",
+          "otherAuthors": [
+            "Chang, Mimi."
+          ],
+          "isbns": [
+            "9780063008915"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "New York : Quill Tree Books"
+          ],
+          "publishDate": "2021.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (6 audio files) : digital"
+          ],
+          "summary": [
+            "This #ownvoices debut about losing and finding family, forging unlikely friendships, and searching for answers to big questions will resonate with fans of Erin Entrada Kelly and Rebecca Stead.      The only thing Rosalind Ling Geraghty loves more than watching NASA launches with her dad is building rockets with him. When he dies unexpectedly, all Ro has left of him is an unfinished model rocket they had been working on together.   Benjamin Burns doesn't like science, but he can't get enough of Spacebound, a popular comic book series. When he finds a sketch that suggests that his dad created the comics, he's thrilled. Too bad his dad walked out years ago, and Benji has no way to contact him.   Though Ro and Benji were only supposed to be science class partners, the pair become unlikely friends: Benji helps Ro finish her rocket, and Ro figures out a way to reunite Benji and his dad. But Benji hesitates, which infuriates Ro. Doesn't he realize how much Ro wishes she could be in his place?   As the two face bullying, grief, and their own differences, Benji and Ro must try to piece together clues to some of the biggest questions in the universe."
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: MiMi Chang."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "A child's introduction to space exploration : an explorer's guide to rockets, astronauts, and life in zero gravity",
+      "seriesTitle": [
+        "A Child's Introduction."
+      ],
+      "author": "Bakich, Michael E",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780762478842?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780762478842?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780762478842?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205873456,
+          "variantTitles": [
+            "Explorer's guide to rockets, astronauts, and life in zero gravity"
+          ],
+          "otherAuthors": [
+            "Eicher, David J., 1961- author.",
+            "Écija, Chelen, illustrator."
+          ],
+          "isbns": [
+            "9780762478842",
+            "0762478845",
+            "9780762478941"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "New York, NY : Black Dog & Leventhal Publishers",
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Manned space flight Juvenile literature.",
+            "Space race Juvenile literature.",
+            "Life support systems (Space environment) Juvenile literature.",
+            "Outer space Exploration Juvenile literature.",
+            "Exploration of outer space.",
+            "Life support systems (Space environment)",
+            "Manned space flight.",
+            "Space race.",
+            "Outer space."
+          ],
+          "physicalDescription": [
+            "95 pages : color illustrations, color map ; 27 cm"
+          ],
+          "summary": [
+            "\"Get ready for takeoff with A Child's Introduction to Space Exploration, in this journey that takes young readers above the clouds and into the universe beyond, accompanied with stunning photographs and curated STEM experiments for students in and out of the classroom\"-- Provided by publisher."
+          ],
+          "contents": [
+            "Early space questions -- The space race -- Exploring the universe -- The future of space travel."
+          ],
+          "notes": [
+            "Includes index."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 8-12 Black Dog & Leventhal."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205891360,
+          "digitalId": "9262A253-499E-4EBD-9CC5-D5197111C68C",
+          "variantTitles": [
+            "Explorer's guide to rockets, astronauts, and life in zero gravity"
+          ],
+          "otherAuthors": [
+            "Eicher, David J., 1961- author.",
+            "Écija, Chelen, illustrator."
+          ],
+          "isbns": [
+            "9780762478941 (electronic bk)"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Science.",
+            "Technology.",
+            "Manned space flight Juvenile literature.",
+            "Space race Juvenile literature.",
+            "Life support systems (Space environment) Juvenile literature.",
+            "Exploration of outer space.",
+            "Life support systems (Space environment)",
+            "Manned space flight.",
+            "Space race.",
+            "Outer space Exploration Juvenile literature.",
+            "Outer space."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Get ready to blast off into the space! This interactive, fact-filled book by two space experts takes kids aged 8-12 on a journey through the universe with answers to all their questions on space exploration—from what the first rockets looked like and the first animal in space to what space food tastes like and what it’s like to live in zero gravity.    We are living in a golden age of astronomy and space exploration, with more discoveries about the universe every day. With so many possibilities now open to us, revered science writers Michael E. Bakich and David J. Eicher will take young readers on a journey to the throughout the universe in this latest edition of  A Child’s Introduction  series. Perfect for budding explorers aged 8-12, Bakich and Eicher explore the history of space exploration from the very first rocket in China, to the moon landing, to the latest missions to Mars (and beyond). They also include profiles of noteworthy scientists, engineers, and astronauts including Isaac Newton, Neil Armstrong, Mae Carol Jemison; fun sections on space food, UFOs, a timeline of space suits, and how to go to the bathroom in space; and STEM experiments like how to build your own rocket and how to tell time using the sun.   Packed with dozens of NASA photos and charming original illustrations, and a pull-out poster, this fascinating book reveals the wonders of space exploration—past, present and future!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The rocket papers",
+      "seriesTitle": [
+        "Mawar science fiction series."
+      ],
+      "author": "Kumara Velu",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9838754374?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9838754374?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9838754374?s=LG"
+      },
+      "records": [
+        {
+          "brn": 12536763,
+          "isbns": [
+            "9838754374",
+            "9838754307"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Selangor Darul Ehsan : Pustaka Mawar"
+          ],
+          "publishDate": "2005.",
+          "subjects": [
+            "Science fiction, English Malaysia.",
+            "Children's stories, English Malaysia."
+          ],
+          "physicalDescription": [
+            "95 pages: illustrations; 19 cm."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Do you know rocket science?",
+      "seriesTitle": [
+        "Brainy science readers."
+      ],
+      "author": "Ferrie, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781728261560?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205939299,
+          "otherAuthors": [
+            "Dale-Scott, Lindsay, 1991- illustrator."
+          ],
+          "isbns": [
+            "9781728261560",
+            "1728261562",
+            "9781728261584"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Naperville, Illinois : Sourcebooks eXplore",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Rocketry Juvenile literature.",
+            "Rocketry."
+          ],
+          "physicalDescription": [
+            "29 pages : color illustrations ; 23 cm."
+          ],
+          "summary": [
+            "Chris Ferrie has delighted children and families around the world with his unique take on science with his board book series. Now it's time for beginning readers to experience this information for themselves! From general relativity to quantum physics, from astrophysics to rocket science, Brainy Science will intrigue and teach young scientists a variety of subjects with simple, easy-to-read text. These beginning reader books include : easy vocabulary, short sentences, word repetition, simple content, and story correlation between art and text."
+          ],
+          "notes": [
+            "\"Be a STEM superstar!\"-- cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 4-8.",
+            "Grades 2-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The unlucky launch",
+      "seriesTitle": [
+        "Astrid the astronaut ; 2"
+      ],
+      "author": "Neal, Rie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534481510?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534481510?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781534481510?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205857925,
+          "otherAuthors": [
+            "Shipman, Talitha, illustrator."
+          ],
+          "isbns": [
+            "9781534481510",
+            "1534481516",
+            "9781534481503",
+            "1534481508"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First Aladdin hardcover/paperback edition."
+          ],
+          "publisher": [
+            "New York : Aladdin"
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Middle schools Juvenile fiction.",
+            "Schools Juvenile fiction.",
+            "Cooperativeness Juvenile fiction.",
+            "Rockets (Aeronautics) Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "93 pages : illustrations ; 22 cm."
+          ],
+          "summary": [
+            "When Astrid and her fellow Shooting Stars build a rocket, Astrid is hoping to impress guest helper, Leah, to score a tour of Space-E headquarters, but when she and her classmates discover Leah does not know much about rockets, Astrid is unsure if she should speak up."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205846950,
+          "digitalId": "C712EC1D-94BA-4DC7-8C58-3BAFCCEC9D26",
+          "isbns": [
+            "9781534481527"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2022.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "In this second book of a brand new-chapter book series, aspiring astronaut Astrid designs a rocket!  After seeing the big Space-E rocket launch, Astrid just knows she's going to be exploring space in a rocket of her own someday! And in honor of the big launch, Astrid and her fellow Shooting Stars will be building rockets of their very own. What's more exciting is the guest helper, Luke, who actually worked on the Space-E team!    The Shooting Stars are working towards more points on the Astro Board and Astrid is hoping she can impress Luke enough to score a tour of Space-E headquarters. But it turns out that Luke's design might not be the best-and Astrid isn't sure if she should speak up. Can Astrid use her voice to show there is more than one solution for a perfect take-off?"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        },
+        {
+          "brn": 300101178,
+          "digitalId": "316A6857-5B83-4836-9A72-D322CC2BCC86",
+          "otherAuthors": [
+            "Hartsough, Eevin."
+          ],
+          "isbns": [
+            "9798892742634 (sound recording)"
+          ],
+          "format": {
+            "code": "41",
+            "name": "Eaudiobook"
+          },
+          "edition": [
+            "Unabridged."
+          ],
+          "publisher": [
+            "Prince Frederick : Recorded Books"
+          ],
+          "publishDate": "2024.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Science Fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource (1 audio file) : digital"
+          ],
+          "summary": [
+            "After seeing the big Space-E rocket launch, Astrid just knows she's going to be  exploring space in a rocket of her own someday! And in honor of the big launch,  Astrid and her fellow Shooting Stars will be building rockets of their very own.  Even more exciting? The Shooting Stars will be getting a hand from interns from  the actual Space-E team! Astrid definitely wants more points on the Astro Board and is hoping she can  impress Lana, one of the interns, enough to score a tour of Space-E headquarters.  But it turns out that Lana's design might not work best. Can Astrid learn to use her  voice to speak up for science—and her team—to make sure they have a perfect  launch? A Junior Library Guild Selection"
+          ],
+          "notes": [
+            "Unabridged."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "performers": [
+            "Narrator: Eevin Hartsough."
+          ],
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Rocket science for babies",
+      "seriesTitle": [
+        "Baby University"
+      ],
+      "author": "Ferrie, Chris",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781492656258?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781492656258?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781492656258?s=LG"
+      },
+      "records": [
+        {
+          "brn": 202827853,
+          "isbns": [
+            "9781492656258",
+            "1492656259"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "[Naperville, IL] : Sourcebooks Jabberwocky"
+          ],
+          "publishDate": "[2017]",
+          "subjects": [
+            "Astronautics Juvenile literature.",
+            "Rocketry Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : color illustrations ; 21 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Ages 0-3."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205564639,
+          "digitalId": "BF988377-9014-4231-BBB7-C6BF39C7751D",
+          "isbns": [
+            "9781492656401",
+            "9781492670292"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Rocketry.",
+            "Astronautics.",
+            "Board books.",
+            "Rocketry.",
+            "Astronautics.",
+            "Rocketry Juvenile literature.",
+            "Astronautics Juvenile literature.",
+            "Reference.",
+            "Technology."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "Fans of Chris Ferrie's   ABCs of Biology  ,   ABCs of Space  , and   Quantum Physics for Babies   will love this introduction to aerospace engineering for babies and toddlers!   Help your future genius become the smartest baby in the room! It only takes a small spark to ignite a child's mind.  Written by an expert, Rocket Science for Babies is a colorfully simple introduction to aerospace engineering. Babies (and grownups!) will learn about the basics of how lift and thrust make things fly. With a tongue-in-cheek approach that adults will love, this installment of the Baby University board book series is the perfect way to introduce basic concepts to even the youngest scientists. After all, it's never too early to become a rocket scientist!  If you're looking for engineer board books, infant science books, or more Baby University board books to surprise your little one, look no further! Rocket Science for Babies offers fun early learning for your little scientist!"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "Text Difficulty 1",
+            "350 Lexile."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 82
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 12
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 10
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 9
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 7
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 1
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 82
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 60
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 51
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 49
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 45
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 45
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 43
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 42
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 41
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 41
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 40
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 39
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 38
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 37
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 35
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 34
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 34
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 33
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 30
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 30
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 28
+        },
+        {
+          "id": "gngscifi",
+          "data": "Sci-Fi Pop-Up Library",
+          "count": 9
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 8
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 3
+        },
+        {
+          "id": "gngcmcbg",
+          "data": "Comics & Games Library",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 82
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 104
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 14
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 3
+        }
+      ]
+    }
+  ]
+}

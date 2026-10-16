@@ -1,0 +1,1758 @@
+{
+  "totalRecords": 11115,
+  "count": 20,
+  "hasMoreRecords": true,
+  "nextRecordsOffset": 20,
+  "titles": [
+    {
+      "title": "Bugs : a peek-through board book",
+      "author": "Hegarty,Patricia,ǂeauthor.ǂ1https://id.oclc.org/worldcat/entity/E39PBJh4tPg4vgdhq4mGfbXKh3",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217121403?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217121403?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9798217121403?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300197280,
+          "variantTitles": [
+            "Peek through board board book"
+          ],
+          "otherAuthors": [
+            "Teckentrup, Britta, illustrator."
+          ],
+          "isbns": [
+            "9798217121403"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Doubleday, an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Insects Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "Take an up-close look at the world of insects in this beautiful book with peek-through holes. Young children will enjoy peeking through holes in each page and seeing new bugs appear and disappear in this engaging and educational nonfiction book. Readers can spot bugs chomping, creeping, flying, and spinning while learning about insect species and habitats. Whether your young reader is an insect fan or is hesitantly curious about them, this is a perfect way for families to share a love of science and nature."
+          ],
+          "notes": [
+            "Cover title.",
+            "On die-cut board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "00-03."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Match the colour : a colour-sorting board book",
+      "author": "Hammer, Susie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781800788572?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781800788572?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781800788572?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300171457,
+          "isbns": [
+            "9781800788572",
+            "1800788576"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Templar Books"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Color Juvenile literature.",
+            "Shapes Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "8 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Match the colours to the slots in this chunky colour-sorting book! With three shapes, securely attached by colourful ribbons\"--Back cover."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Match the shape : a shape-sorting board book",
+      "author": "Hammer, Susie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781800788589?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781800788589?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781800788589?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300111485,
+          "isbns": [
+            "9781800788589",
+            "1800788584"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Templar Books",
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Shapes Juvenile literature.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "8 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "Matching the shapes aids children in their fine motor skills, hand-eye co-ordination and problem-solving skills. Each spread also introduces popular first words, making this the ideal book to learn from while having fun."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The weekend.",
+      "seriesTitle": [
+        "Bluey series."
+      ],
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241780657?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241780657?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780241780657?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300171112,
+          "isbns": [
+            "9780241780657",
+            "0241780659"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Ladybird Books"
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Bluey (Fictitious character) Pictorial works Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly colour illustrations ; 18 cm."
+          ],
+          "summary": [
+            "\"It's the weekend! What games will Bluey and Bingo play? And will everyone get to meet Bingo's new friend?\"--Back cover."
+          ],
+          "notes": [
+            "Cover title.",
+            "\"BBC Studios\"--Back cover.",
+            "\"Based on the episode 'The weekend' written by Joe Brumm -- Back cover."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300189271,
+          "digitalId": "EF1D1D4E-C5E5-4E0A-B0B1-A3E6CBED4E6A",
+          "variantTitles": [
+            "Bluey : The weekend: a fun-filled board book"
+          ],
+          "isbns": [
+            "9780241780664"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2026.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "It's the weekend! What games will Bluey and Bingo play? Join them and discover what happens when Dad buys a statue that is definitely not a magic statue and meet Bingo's new bug friend! \"You sold me a magic statue!\" \"Give me back my dollar-ee-doos!\" This board book will keep little ones entertained at the weekend! Don't miss these other awesome Bluey books: Bluey: Granny Mobile Bluey: BBQ Bluey: Daddy Robot Bluey is an Emmy award-winning Australian children's television programme following the adventures of a loveable six-year-old Blue Heeler Puppy, Bluey and her family. It's currently showing on Disney+, BBC iPlayer and CBeebies in the UK. Bluey enjoys exploring the world and using her imagination to turn everyday life into an amazing adventure. Join Bluey in this fun collection of story, activity and novelty books that celebrate play."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Moon : a peek-through board book",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593372395?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593372395?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593372395?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205735323,
+          "otherAuthors": [
+            "Hegarty, Patricia, author."
+          ],
+          "isbns": [
+            "9780593372395",
+            "0593372395"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American board book edition."
+          ],
+          "publisher": [
+            "New York : Doubleday Books for Young Readers",
+            ""
+          ],
+          "publishDate": "[2022]",
+          "subjects": [
+            "Night Juvenile fiction.",
+            "Animals Juvenile fiction.",
+            "Moon Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"Die-cut pages show the phases of the moon as it shines on animals all over the world, from sea turtles laying eggs on the beach to frogs in the jungle and mice in the fields.--Publisher's description.\"--Publisher's description."
+          ],
+          "notes": [
+            "Cover title.",
+            "Originally published in hardcover in the United Kingdom by Little Tiger Press, London in 2017, and in hardcover by Random House Children's Books, New York, in 2018."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Bee : a peek-through board book",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593648896?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593648896?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593648896?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206061639,
+          "otherAuthors": [
+            "Hegarty, Patricia, author."
+          ],
+          "isbns": [
+            "9780593648896",
+            "0593648897"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American board book edition."
+          ],
+          "publisher": [
+            "New York : Doubleday, an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Bees Pictorial works Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "Rhyming text invites readers to follow along as bees work together to pollinate the environment."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Dog loves baby",
+      "seriesTitle": [
+        "Dog and Cat's First, 5."
+      ],
+      "author": "Nelson, Natalie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/168369452X?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/168369452X?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/168369452X?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300170409,
+          "isbns": [
+            "168369452X",
+            "9781683694526"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Philadelphia, PA : Quirk Books",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Dogs Juvenile fiction.",
+            "Infants Juvenile fiction.",
+            "Valentine's Day Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : chiefly color illustrations ; 18 x 18 cm"
+          ],
+          "summary": [
+            "\"Love is in the air! In the days leading up to Valentine's Day, Dog sniffs out the meaning of love and tries to figure out why there are so many paper hearts to chew. Of course, Baby is on the case, too--and they just might discover that love is all around them...even if they aren't allowed to eat the chocolate they find.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300172082,
+          "digitalId": "15FD58AA-567F-49A7-A03A-20EAD1FD4A2D",
+          "variantTitles": [
+            "Dog loves baby : A board book"
+          ],
+          "isbns": [
+            "9781683694533"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Dogs Juvenile fiction.",
+            "Infants Juvenile fiction.",
+            "Valentine's Day Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A USA Today Best Seller In the next board book in the beloved series from Natalie Nelson, Dog and Baby are back with a sweet ode to Valentine's Day and what it means to love someone all year long! Simple rhyming text and bright illustrations make Dog Loves Baby an ideal gift for the youngest readers. Is love something to sniff? Is it something to bounce or pounce? Love is in the air! As Valentine's Day approaches, Dog sniffs out the meaning of love and tries to figure out why there are so many paper hearts to chew. Of course, Baby is on the case, too-and they just might discover that love is all around them. For more in this beloved series, delight in new experiences all year long with Dog's First Baby and Cat's First Baby , and celebrate the winter holiday spirit with Dog's First Christmas !"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Ocean : a peek-through board book",
+      "author": "Teckentrup, Britta",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593806722?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593806722?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780593806722?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300056478,
+          "otherTitles": [
+            "Sea."
+          ],
+          "otherAuthors": [
+            "Hegarty, Patricia, author."
+          ],
+          "isbns": [
+            "9780593806722",
+            "0593806727"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First American board book edition."
+          ],
+          "publisher": [
+            "New York : Doubleday, an imprint of Random House Children's Books",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Ocean Juvenile fiction.",
+            "Marine animals Juvenile fiction.",
+            "Sea stories."
+          ],
+          "physicalDescription": [
+            "24 unnumbered pages : colour illustrations ; 19 cm"
+          ],
+          "summary": [
+            "\"The bestselling series that began with Tree: A Peek-Through Picture Book now adds an elaborate and beautiful board book with peek-through holes that show the amazing life in the world's oceans. Discover a world teeming with life beneath the waves, with graceful sea horses, darting tropical fish, electric eels, and humpback whales. A colorful array of sea creatures is brought to life by award-winning illustrator Britta Teckentrup in this innovative board book, with peek-through holes that reveal details of life in the ocean with each turn of the page. It's the perfect light nonfiction book for young readers curious about the world around them. And it will spark conversations about the importance of keeping our oceans clean and protecting the amazing creatures who live there\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title.",
+            "Originally published under title Sea by Little Tiger Press, London, in 2019."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The poky little puppy's first Easter : a lift-the-flap board book",
+      "author": "Posner-Sanchez, Andrea",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984892508?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984892508?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781984892508?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300028713,
+          "variantTitles": [
+            "Lift the flap board book"
+          ],
+          "otherAuthors": [
+            "DiCicco, Sue, illustrator."
+          ],
+          "isbns": [
+            "9781984892508",
+            "1984892509"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "New York, NY : Golden Books, an imprint of Random House Children's Books, a division of Penguin Random House LLC",
+            ""
+          ],
+          "publishDate": "[2024]",
+          "subjects": [
+            "Hide-and-seek visual adventures.",
+            "Easter stories.",
+            "Easter eggs Juvenile fiction.",
+            "Farms Juvenile fiction.",
+            "Domestic animals Juvenile literature.",
+            "Dogs Juvenile fiction.",
+            "Domestic animals Juvenile fiction.",
+            "Dogs",
+            "Domestic animals",
+            "Easter eggs",
+            "Easter stories",
+            "Farms"
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 16 cm"
+          ],
+          "summary": [
+            "Little ones can join Poky as he celebrates Easter with all of his friends on the farm, in this adorable board book filled with lift-the-flap fun!"
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "0-3 years."
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Kitten's first full moon",
+      "author": "Henkes, Kevin",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062417107?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062417107?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780062417107?s=LG"
+      },
+      "records": [
+        {
+          "brn": 201903287,
+          "isbns": [
+            "9780062417107",
+            "006241710X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First board book edition."
+          ],
+          "publisher": [
+            "New York, NY : Greenwillow Books, an imprint of HarperCollinsPublishers"
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Board books.",
+            "Cats Juvenile fiction.",
+            "Animals Infancy Juvenile fiction.",
+            "Moon Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : illustrations ; 19 cm"
+          ],
+          "summary": [
+            "When Kitten mistakes the full moon for a bowl of milk, she ends up tired, wet, and hungry trying to reach it."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 205259747,
+          "isbns": [
+            "9780062417107"
+          ],
+          "format": {
+            "code": "28",
+            "name": "Braille"
+          },
+          "edition": [
+            "First board book edition."
+          ],
+          "publisher": [
+            "New York, NY : Greenwillow Books, an imprint of HarperCollinsPublishers",
+            ""
+          ],
+          "publishDate": "2015.",
+          "subjects": [
+            "Cats Juvenile fiction.",
+            "Animals Infancy Juvenile fiction.",
+            "Moon Juvenile fiction.",
+            "Board books.",
+            "Braille books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) of print and braille : illustrations ; 19 x 19 cm"
+          ],
+          "summary": [
+            "When Kitten mistakes the full moon for a bowl of milk, she ends up tired, wet, and hungry trying to reach it."
+          ],
+          "notes": [
+            "On board pages with braille.",
+            "\"The Caldecott Medal\"--Cover.",
+            "Text in print and braille.",
+            "Print version originally published in 2015.",
+            "This book is the original print version with affixed braille text transcribed on embossables."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 12460391,
+          "isbns": [
+            "0060588292",
+            "9780060588298",
+            "9780060588281",
+            "0060588284"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "1st edition."
+          ],
+          "publisher": [
+            "[New York] : Greenwillow Books",
+            ""
+          ],
+          "publishDate": "2004.",
+          "subjects": [
+            "Cats Fiction.",
+            "Animals Infancy Fiction.",
+            "Cats Juvenile fiction.",
+            "Animals Infancy Juvenile fiction.",
+            "Moon Fiction.",
+            "Moon Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "[32] pages: illustrations; 27 cm"
+          ],
+          "summary": [
+            "When Kitten mistakes the full moon for a bowl of milk, she ends up tired, wet, and hungry trying to reach it."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Brothers Are Brothers Forever",
+      "author": "Jorden, Brooke",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641708661?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641708661?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641708661?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300125110,
+          "otherAuthors": [
+            "Kim, Sejung, illustrator."
+          ],
+          "isbns": [
+            "9781641708661",
+            "1641708662"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "[Sanger, California] : Familius LLC",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Brothers Juvenile fiction.",
+            "Siblings Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"There's something special about brothers\"--Back cover."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300126012,
+          "digitalId": "BBA09A45-B9F3-4C50-9870-67DA6485FCA5",
+          "variantTitles": [
+            "Brothers are brothers forever : A board book about sibling love"
+          ],
+          "otherAuthors": [
+            "Kim, Sejung, illustrator."
+          ],
+          "isbns": [
+            "9798893965056"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Familius"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Brothers Juvenile fiction.",
+            "Siblings Juvenile fiction.",
+            "Sibling rivalry Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A CHILDREN'S BOOK COUNCIL HOT OFF THE PRESS PICK A board book about sibling adventures, squabbles, and reconnection, following three different pairs of brothers There's something special about brothers. When brothers play together, magic happens! A brother is a friend for life, but that doesn't mean there won't be disagreements sometimes. Follow three cute sets of brothers as they play and explore together, argue, and ultimately reconnect. For anyone with boys who need a little nudge to get along, Brothers Are Brothers Forever is a sweet reminder that arguments happen, but sincere apologies can mend any rift. With simple text from author Brooke Jorden and gentle illustrations by Sejung Kim, this adorable board book is the perfect gift for siblings."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Sisters are sisters forever",
+      "author": "Jorden, Brooke",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641708678?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641708678?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781641708678?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300125117,
+          "otherAuthors": [
+            "Kim, Sejung, illustrator."
+          ],
+          "isbns": [
+            "9781641708678",
+            "1641708670"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "[Sanger, California] : Familius LLC",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Sisters Juvenile fiction.",
+            "Siblings Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"There's something special about sisters\"--Back cover."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300125924,
+          "digitalId": "707F38F4-77D5-444E-AF78-13ECB530FB0F",
+          "variantTitles": [
+            "Sisters are sisters forever : A board book about sibling love"
+          ],
+          "otherAuthors": [
+            "Kim, Sejung, illustrator."
+          ],
+          "isbns": [
+            "9798893965063"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            "New York : Familius"
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Sisters Juvenile fiction.",
+            "Siblings Juvenile fiction.",
+            "Sibling rivalry Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A board book about sibling adventures, squabbles, and reconnection, following three different pairs of sisters There's something special about sisters. When sisters play together, magic happens! A sister is a friend for life, but that doesn't mean there won't be disagreements sometimes. Follow three cute sets of sisters as they play and explore together, argue, and ultimately reconnect. For anyone with girls who need a little nudge to get along, Sisters Are Sisters Forever is a sweet reminder that arguments happen, but sincere apologies can mend any rift. With simple text from author Brooke Jorden and gentle illustrations by Sejung Kim, this adorable board book is the perfect gift for siblings."
+          ],
+          "notes": [
+            "Title from eBook information screen."
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Kancil dan harimau",
+      "seriesTitle": [
+        "Board Book Fabel Nusantara."
+      ],
+      "author": "Isnaeni",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018244?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018244?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018244?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205287955,
+          "isbns": [
+            "9786230018244",
+            "6230018241"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Jakarta : PT Elex Media Komputindo"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Chevrotains Juvenile fiction.",
+            "Tiger Juvenile fiction.",
+            "Problem solving Juvenile fiction.",
+            "Chevrotains.",
+            "Problem solving.",
+            "Tiger."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 16 x 16 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "3+."
+          ],
+          "language": [
+            "Indonesian"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Singa dan tikus",
+      "seriesTitle": [
+        "Board Book Fabel Nusantara."
+      ],
+      "author": "Isnaeni",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018206?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018206?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018206?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205287972,
+          "isbns": [
+            "9786230018206",
+            "6230018209"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Jakarta : PT Elex Media Komputindo"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Lion Juvenile fiction.",
+            "Mice Juvenile fiction.",
+            "Respect Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 16 x 16 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "3+."
+          ],
+          "language": [
+            "Indonesian"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Kancil dan buaya",
+      "seriesTitle": [
+        "Board Book Fabel Nusantara."
+      ],
+      "author": "Isnaeni",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018183?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018183?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9786230018183?s=LG"
+      },
+      "records": [
+        {
+          "brn": 205287958,
+          "isbns": [
+            "9786230018183",
+            "6230018187"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Jakarta : PT Elex Media Komputindo"
+          ],
+          "publishDate": "2020.",
+          "subjects": [
+            "Chevrotains Juvenile fiction.",
+            "Crocodiles Juvenile fiction.",
+            "Problem solving Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 16 x 16 cm."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "3+."
+          ],
+          "language": [
+            "Indonesian"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "Cat's First Halloween",
+      "seriesTitle": [
+        "[Dog and cat's first series]"
+      ],
+      "author": "Nelson, Natalie",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781683694502?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781683694502?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781683694502?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300142945,
+          "isbns": [
+            "9781683694502",
+            "1683694503"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "Philadelphia, Pennsylvania : Quirk Books",
+            ""
+          ],
+          "publishDate": "[2025]",
+          "subjects": [
+            "Halloween Juvenile fiction.",
+            "Infants Juvenile fiction.",
+            "Cats Juvenile fiction.",
+            "Pets Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"It's spooky season, and Cat is ready to show Baby everything he knows about it. Pumpkins are smiling, treats are everywhere--and curiously, a ladybug and a dinosaur show up at the door. Celebrate Halloween with Cat, tricks, and treats as Baby discovers what makes the season so special.\"-- Provided by publisher."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "audience": [
+            "2-5 years"
+          ],
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300164472,
+          "digitalId": "61B61047-B55F-4218-A080-D94443788426",
+          "variantTitles": [
+            "Cat's first halloween : A board book"
+          ],
+          "isbns": [
+            "9781683694519"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2025.",
+          "subjects": [
+            "Juvenile Fiction.",
+            "Juvenile Literature.",
+            "Halloween Juvenile fiction.",
+            "Infants Juvenile fiction.",
+            "Cats Juvenile fiction.",
+            "Pets Juvenile fiction."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "The next board book in the beloved series finds Cat and Baby celebrating a new holiday season: Halloween! Simple rhyming text and bright illustrations make Cat's First Halloween an ideal gift for the youngest readers. We sneak. We peek. We prowl . . . and we yowl! It's spooky season, and Cat is ready to show Baby everything he knows about it. Pumpkins are smiling, treats are everywhere . . . and curiously, a ladybug and a dinosaur show up at the door. Celebrate Halloween with Cat, tricks, and treats as Baby discovers what makes the season so special! Don't miss the rest of the series-delight in new experiences all year long with Dog's First Baby and Cat's First Baby , and celebrate the holiday spirit with Dog's First Christmas !"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Ghee happy gods : a little board book of Hindu deities",
+      "author": "Patel, Sanjay",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781797224978?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781797224978?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781797224978?s=LG"
+      },
+      "records": [
+        {
+          "brn": 206172136,
+          "otherTitles": [
+            "Ghee happy (Television series)"
+          ],
+          "isbns": [
+            "9781797224978",
+            "1797224972"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "San Francisco : Chronicle Books",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Hindu gods Juvenile literature."
+          ],
+          "physicalDescription": [
+            "16 unnumbered pages : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Who is pointing a shiny arrow at the sky? Where is that flute music coming from? And who has been eating all the tasty sweets?! Meet the many faces (and arms) of the mighty Hindu gods! Get them together, and anything is possible\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300184768,
+          "digitalId": "E286F953-47A6-493E-91B3-D3E20E6AB618",
+          "otherTitles": [
+            "Ghee happy (Television series)"
+          ],
+          "isbns": [
+            "9781797225005"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Geography.",
+            "Multi-Cultural.",
+            "Religion & Spirituality.",
+            "Hindu gods Juvenile literature.",
+            "Picture books for children.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A vibrantly illustrated board book inspired by Sanjay Patel's animated Netflix show, Ghee Happy, featuring Hindu deities as toddlers! In the world of Sanjay Patel, creator of the Oscar-nominated Pixar short Sanjay's Super Team, the bold, bright colors of India leap off the page and screen. In his new children's book, drawn from Indian mythology, you'll meet the many faces (and arms) of the mighty Hindu gods! With dynamic illustrations and colorful tabs for each god, this eye-catching board book introduces the youngest readers to Hindu gods Ganesha, Shiva, Brahma, Vishnu, Rama, and Krishna. Get them together, and anything is possible. INSPIRED BY THE NETFLIX SHOW: The same deities in this book are featured in Sanjay Patel's Netflix show, which stars the Hindu gods and goddesses as tiny toddlers in preschool! NOTABLE CREATOR: Patel produced a short based on his life, Sanjay's Super Team, with Pixar, and Netflix's Ghee Happy series. His brand, Ghee Happy, has reached an eager audience with books, museum exhibitions, and merchandise. He is also the author of the popular picture book Ramayana, a twenty-first century retelling of a classic 2500-year-old story. VIBRANT & GIFTABLE: Ghee Happy Gods and companion volume Ghee Happy Goddesses are perfect for baby showers and first birthdays, as families welcome their own little gods and goddesses to the world and introduce them to the Hindu deities. DIVERSE CHILDRENS BOOKS: Featuring lovable characters and a light narrative, this book provides a fresh and accessible way for families who practice Hinduism to see themselves and celebrate. It's also a wonderful resource for Hindu parents, caregivers, and educators to introduce young readers to their own religious beliefs and promote religious literacy for all. PERFECT FOR LITTLE HANDS: With sturdy tabs, rounded corners, and simple profiles, this book provides a fun approach to learning and identifying each Hindu deity. Perfect for: Parents and grandparents looking for entertaining board books for toddlers Readers who love Hindu mythology and adventure tales Educational material for classroom or homeschool curriculum Anyone looking for children's literature featuring Indian mythology Gift giving for Diwali, baby shower, birthday, or any special occasion Fans of Ganesha's Sweet Tooth, Pixar's Sanjay's Super Team, and Netflix's Ghee Happy"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "Ghee happy goddesses : a little board book of Hindu deities",
+      "author": "Patel, Sanjay",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781797224930?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781797224930?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781797224930?s=LG"
+      },
+      "records": [
+        {
+          "brn": 300000668,
+          "otherTitles": [
+            "Ghee happy (Television series)"
+          ],
+          "variantTitles": [
+            "Goddesses"
+          ],
+          "isbns": [
+            "9781797224930",
+            "179722493X"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "San Francisco : Chronicle Books",
+            ""
+          ],
+          "publishDate": "[2023]",
+          "subjects": [
+            "Hindu goddesses Juvenile literature."
+          ],
+          "physicalDescription": [
+            "1 volume (unpaged) : colour illustrations ; 18 cm"
+          ],
+          "summary": [
+            "\"Who is that warrior with her shield raised up high? Who is that playing a beautiful song for all to hear? And who is that waving a skull around and sticking her tongue out at everyone? Meet the many faces (and arms) of the mighty Hindu goddesses! Get them together, and anything is possible\"--Provided by publisher."
+          ],
+          "notes": [
+            "Cover title."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        },
+        {
+          "brn": 300184767,
+          "digitalId": "022C28C2-4D5B-4D58-B5C1-4E0E3A075D9E",
+          "otherTitles": [
+            "Ghee happy (Television series)"
+          ],
+          "isbns": [
+            "9781797224961"
+          ],
+          "format": {
+            "code": "36",
+            "name": "Ebook"
+          },
+          "publisher": [
+            ""
+          ],
+          "publishDate": "2023.",
+          "subjects": [
+            "Juvenile Nonfiction.",
+            "Geography.",
+            "Multi-Cultural.",
+            "Religion & Spirituality.",
+            "Hindu goddesses Juvenile literature.",
+            "Picture books for children.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "1 online resource"
+          ],
+          "summary": [
+            "A vibrantly illustrated board book inspired by Sanjay Patel's animated Netflix show, Ghee Happy, featuring Hindu deities as toddlers! In the world of Sanjay Patel, creator of the Oscar-nominated Pixar short Sanjay's Super Team, the bold, bright colors of India leap off the page and screen. In his new children's book, drawn from Indian mythology, you'll meet the many faces (and arms) of the mighty Hindu goddesses! With dynamic illustrations and colorful tabs for each goddess, this eye-catching board book introduces the youngest readers to Hindu goddesses Durga, Saraswati, Lakshmi, Ganga, Parvati, and Kali. Get them together, and anything is possible. INSPIRED BY THE NETFLIX SHOW: The same deities in this book are featured in Sanjay Patel's Netflix show, which stars the Hindu gods and goddesses as tiny toddlers in preschool! NOTABLE CREATOR: Patel produced a short based on his life, Sanjay's Super Team, with Pixar, and Netflix's Ghee Happy series. His brand, Ghee Happy, has reached an eager audience with books, museum exhibitions, and merchandise. He is also the author of the popular picture book Ramayana, a twenty-first century retelling of a classic 2500-year-old story. VIBRANT & GIFTABLE: Ghee Happy Goddesses and companion volume Ghee Happy Gods are perfect for baby showers and first birthdays, as families welcome their own little goddesses and gods to the world and introduce them to the Hindu deities. DIVERSE CHILDRENS BOOKS: Featuring lovable characters and a light narrative, this book provides a fresh and accessible way for families who practice Hinduism to see themselves and celebrate. It's also a wonderful resource for Hindu parents, caregivers, and educators to introduce young readers to their own religious beliefs and promote religious literacy for all. PERFECT FOR LITTLE HANDS: With sturdy tabs, rounded corners, and simple profiles, this book provides a fun approach to learning and identifying each Hindu deity. Perfect for: Parents and grandparents looking for entertaining board books for toddlers Readers who love Hindu goddess mythology and adventure tales Educational material for classroom or homeschool curriculum Anyone looking for children's literature featuring Indian mythology Gift giving for Diwali, baby shower, birthday, or any special occasion Fans of Ganesha's Sweet Tooth, Pixar's Sanjay's Super Team, and Netflix's Ghee Happy"
+          ],
+          "allowReservation": false,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false,
+          "source": "Overdrive"
+        }
+      ]
+    },
+    {
+      "title": "The classic tale of Peter Rabbit : a touch-and feel, lift-the-flap board book",
+      "author": "Potter, Beatrix, 1866-1943",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781604339444?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781604339444?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9781604339444?s=LG"
+      },
+      "records": [
+        {
+          "brn": 204273007,
+          "otherAuthors": [
+            "Santore, Charles, illustrator."
+          ],
+          "isbns": [
+            "9781604339444",
+            "1604339446"
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "edition": [
+            "First edition."
+          ],
+          "publisher": [
+            "Kennebunkport, Maine : Applesauce Press",
+            ""
+          ],
+          "publishDate": "[2020]",
+          "subjects": [
+            "Gardens Juvenile fiction.",
+            "Rabbits Juvenile fiction.",
+            "Board books."
+          ],
+          "physicalDescription": [
+            "14 unnumbered pages : color illustrations ; 24 cm"
+          ],
+          "summary": [
+            "From a frightening journey out of Mr. McGregor s garden to his fir-tree home with Flopsy, Mopsy and Cotton-tail, Peter Rabbit leads the most risky and adventurous life of the bunnies. After losing his shoes and new blue jacket with brass buttons, he narrowly escapes his demise and makes it home sickly, but safely."
+          ],
+          "notes": [
+            "Cover title.",
+            "On board pages with textured illustrations. Includes two flaps."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "title": "The tale of Peter Rabbit : a story board book.",
+      "coverUrl": {
+        "small": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780723244325?s=SM",
+        "medium": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780723244325?s=MD",
+        "large": "https://eservice.nlb.gov.sg/bookcoverwrapper/cover/9780723244325?s=LG"
+      },
+      "records": [
+        {
+          "brn": 9579594,
+          "otherAuthors": [
+            "Potter, Beatrix, 1866-1943."
+          ],
+          "isbns": [
+            "9780723244325",
+            "0723244324 "
+          ],
+          "format": {
+            "code": "1",
+            "name": "Book"
+          },
+          "publisher": [
+            "London : Frederick Warne"
+          ],
+          "publishDate": "1998.",
+          "subjects": [
+            "Peter Rabbit (Fictitious character)",
+            "Rabbits Fiction."
+          ],
+          "physicalDescription": [
+            "[14] pages: color illustrations; 16 x 19 cm"
+          ],
+          "notes": [
+            "\"Based on the original tale by Beatrix Potter\"--Cover.",
+            "Cover title.",
+            "On board pages."
+          ],
+          "allowReservation": true,
+          "isRestricted": false,
+          "activeReservationsCount": 0,
+          "language": [
+            "English"
+          ],
+          "serial": false,
+          "availability": false
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "id": "intendedAudience",
+      "name": "Intended Audience",
+      "values": [
+        {
+          "id": "juvenile",
+          "data": "juvenile",
+          "count": 11115
+        },
+        {
+          "id": "preschool",
+          "data": "preschool",
+          "count": 3324
+        },
+        {
+          "id": "adolescent",
+          "data": "adolescent",
+          "count": 410
+        },
+        {
+          "id": "primary",
+          "data": "primary",
+          "count": 383
+        },
+        {
+          "id": "pre-adolescent",
+          "data": "pre-adolescent",
+          "count": 98
+        },
+        {
+          "id": "adult",
+          "data": "adult",
+          "count": 91
+        },
+        {
+          "id": "general",
+          "data": "general",
+          "count": 54
+        },
+        {
+          "id": "specialized",
+          "data": "specialized",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "values": [
+        {
+          "id": "eng",
+          "data": "English",
+          "count": 8444
+        },
+        {
+          "id": "chi",
+          "data": "Chinese",
+          "count": 2302
+        },
+        {
+          "id": "may",
+          "data": "Malay",
+          "count": 151
+        },
+        {
+          "id": "tam",
+          "data": "Tamil",
+          "count": 110
+        },
+        {
+          "id": "ind",
+          "data": "Indonesian",
+          "count": 101
+        },
+        {
+          "id": "tgl",
+          "data": "Tagalog",
+          "count": 14
+        },
+        {
+          "id": "hin",
+          "data": "Hindi",
+          "count": 4
+        },
+        {
+          "id": "ara",
+          "data": "Arabic",
+          "count": 3
+        },
+        {
+          "id": "ceb",
+          "data": "Cebuano",
+          "count": 1
+        },
+        {
+          "id": "fre",
+          "data": "French",
+          "count": 1
+        },
+        {
+          "id": "spa",
+          "data": "Spanish",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "name": "Location",
+      "values": [
+        {
+          "id": "prl",
+          "data": "Punggol Library",
+          "count": 7261
+        },
+        {
+          "id": "cll",
+          "data": "Central Library",
+          "count": 6344
+        },
+        {
+          "id": "hbpl",
+          "data": "Harbourfront Library",
+          "count": 6102
+        },
+        {
+          "id": "jrl",
+          "data": "Jurong Library",
+          "count": 6035
+        },
+        {
+          "id": "jwpl",
+          "data": "Jurong West Library",
+          "count": 5958
+        },
+        {
+          "id": "bipl",
+          "data": "Bishan Library",
+          "count": 5758
+        },
+        {
+          "id": "cckpl",
+          "data": "Choa Chu Kang Library",
+          "count": 5701
+        },
+        {
+          "id": "gepl",
+          "data": "Geylang East Library",
+          "count": 5612
+        },
+        {
+          "id": "yipl",
+          "data": "Yishun Library",
+          "count": 5362
+        },
+        {
+          "id": "bbpl",
+          "data": "Bukit Batok Library",
+          "count": 5326
+        },
+        {
+          "id": "bepl",
+          "data": "Bedok Library",
+          "count": 5262
+        },
+        {
+          "id": "wrl",
+          "data": "Woodlands Library",
+          "count": 5223
+        },
+        {
+          "id": "bppl",
+          "data": "Bukit Panjang Library",
+          "count": 5186
+        },
+        {
+          "id": "skpl",
+          "data": "Sengkang Library",
+          "count": 5173
+        },
+        {
+          "id": "tppl",
+          "data": "Toa Payoh Library",
+          "count": 5065
+        },
+        {
+          "id": "sbpl",
+          "data": "Sembawang Library",
+          "count": 4930
+        },
+        {
+          "id": "srpl",
+          "data": "Serangoon Library",
+          "count": 4847
+        },
+        {
+          "id": "trl",
+          "data": "Tampines Library",
+          "count": 4801
+        },
+        {
+          "id": "cmpl",
+          "data": "Clementi Library",
+          "count": 4665
+        },
+        {
+          "id": "prpl",
+          "data": "Pasir Ris Library",
+          "count": 3948
+        },
+        {
+          "id": "cnpl",
+          "data": "Chinatown Library",
+          "count": 944
+        },
+        {
+          "id": "ld",
+          "data": "PublicationSG",
+          "count": 600
+        },
+        {
+          "id": "09lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 9",
+          "count": 248
+        },
+        {
+          "id": "11lkcrl",
+          "data": "Lee Kong Chian Reference Library Level 11",
+          "count": 72
+        }
+      ]
+    },
+    {
+      "id": "materialType",
+      "name": "Material Type",
+      "values": [
+        {
+          "id": "bks",
+          "data": "Book",
+          "count": 11115
+        },
+        {
+          "id": "ebk",
+          "data": "Ebook",
+          "count": 2411
+        },
+        {
+          "id": "aeb",
+          "data": "Eaudiobook",
+          "count": 215
+        },
+        {
+          "id": "brl",
+          "data": "Braille",
+          "count": 13
+        },
+        {
+          "id": "elr",
+          "data": "Electronic Resources",
+          "count": 8
+        },
+        {
+          "id": "mss",
+          "data": "Manuscript Material",
+          "count": 4
+        },
+        {
+          "id": "abk",
+          "data": "Audio Books",
+          "count": 4
+        },
+        {
+          "id": "dvd",
+          "data": "DVD",
+          "count": 2
+        },
+        {
+          "id": "rec",
+          "data": "Sound Recording",
+          "count": 2
+        },
+        {
+          "id": "abc",
+          "data": "Audio Book on CD",
+          "count": 2
+        },
+        {
+          "id": "bdv",
+          "data": "Blu-ray + DVD",
+          "count": 1
+        },
+        {
+          "id": "abt",
+          "data": "Audio Book on Cassette",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
